@@ -1,0 +1,38 @@
+{
+  "scope": "Local concept at one existing fastener; source bodies cropped. Not a full gun revision or released machining design.",
+  "source_bolt_axis_global_mm": [
+    38.2146818113899,
+    10.239593130374201
+  ],
+  "source_head_counterbore_diameter_mm": 8,
+  "proposed_head_counterbore_diameter_mm": 12,
+  "sleeve_OD_ID_length_mm": [
+    5.6,
+    3.3,
+    22
+  ],
+  "alumina_washer_OD_ID_thickness_mm": [
+    11.6,
+    3.3,
+    2.5
+  ],
+  "metal_washer_OD_ID_thickness_mm": [
+    7,
+    3.3,
+    0.5
+  ],
+  "screw": "Metal M3x35, unchanged nominal length; head moved 1.5mm rearward by proposed bearing stack.",
+  "nominal_thread_entry_y_mm": -41,
+  "screw_tip_y_mm": -36,
+  "nominal_engagement_mm": 5,
+  "check_notes": "5mm entry depth includes source entry chamfer; full-thread effective engagement and strength must be verified. Thread helix omitted. Sleeve ends at grounded-body exit; main PTFE bore provides remaining insulation toward live spacer.",
+  "valid_solids_on_step_reimport": 7,
+  "contacts": [
+    {
+      "a": "Live steel spacer / original tapped bore",
+      "b": "Metal M3x35 screw / live",
+      "volume_mm3": 9.962855995128962
+    }
+  ],
+  "limitations": "Alumina grade, tolerances, seat flatness, ceramic stress, preload, RF clearance, thermal expansion and shielding need engineering verification. Main PTFE seal ring remains loaded; this does not eliminate its creep. All twelve locations require full-assembly checks before implementation. Ceramic tube is not a threaded fastener."
+}

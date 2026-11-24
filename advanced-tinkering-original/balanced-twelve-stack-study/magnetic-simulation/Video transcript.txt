@@ -1,0 +1,20 @@
+0:00 The magnetic circuit, solved in three dimensions
+This is the proposed twelve stack magnetic circuit, solved in three dimensions. The model includes the actual revised steel yoke and its clearance holes. The centre and outer magnets have opposite axial polarity. The coloured curves follow the calculated magnetic field. Moving markers indicate field direction, not plasma particles. The field itself is static. Copper, water and the nonmagnetic target are treated as having approximately unit magnetic permeability.
+
+0:29 A strong annular field above the target
+This map shows the component of magnetic field parallel to the target, a quarter of a millimetre above its front face. The orange contour marks where the normal component crosses zero. It is a candidate magnetic racetrack, not a calculated erosion profile. Along that contour, the parallel field ranges from about eighty nine to one hundred milli tesla, with a mean of ninety five. The contour is continuous around the target.
+
+0:56 The magnetic trap extends above the target
+The section view shows the field arching between the centre and outer poles. Near the racetrack it runs approximately parallel to the target. This is the geometry needed to bend electron trajectories and increase their path length near the cathode. It does not calculate how many electrons are trapped, their residence time, or whether a particular discharge ignites. Those depend on the sheath electric field, gas collisions and operating conditions.
+
+1:23 How uniform is the candidate racetrack?
+The candidate racetrack has a mean radius of about twenty millimetres, leaving approximately five millimetres to the target edge. The field variation around it is about ten point six percent peak to peak relative to its mean. That is not a ten percent coating thickness error. It is a magnetic uniformity metric. Target erosion and deposition uniformity require additional modelling or measurement.
+
+1:47 Quantifying electron magnetization
+At the weakest point on the ring, an electron with ten electron volts of perpendicular energy has a gyroradius of about zero point one two millimetres. At one hundred electron volts it is about zero point three eight millimetres. These are small compared with the millimetre scale magnetic structure, supporting strong local electron magnetization. The height scan shows the field weakening away from the target. A small gyroradius alone does not prevent electron losses along field lines.
+
+2:17 Does the copper and target spacing cause a problem?
+For the modelled two millimetre target, the pole tips are four point five millimetres behind the sputtering surface. The calculated field is not weak at that spacing. Increasing the nonmagnetic target thickness to five millimetres increases the distance to seven point five millimetres, and the predicted mean racetrack field is still about seventy one milli tesla. This sensitivity result does not apply to ferromagnetic targets, which can shunt the field.
+
+2:44 Assessment: sufficient magnetic strength, further validation needed
+The magnetic strength screen is positive: the copper and target spacing does not appear to leave this design underpowered magnetically. Refining the mesh changed the mean ring field by about zero point four percent. An independent free space analytical check differed by about two point three percent overall. Ninety five milli tesla is stronger than the commonly cited twenty to fifty milli tesla range; stronger is not automatically better. The design still needs field mapping, operating tests, and a separate assessment of magnetic balance. This is a magnetostatic simulation, not a self consistent plasma simulation.

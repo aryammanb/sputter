@@ -1,0 +1,69 @@
+ARGON MFC - OWNER SELECTION R03
+24 November 2026
+
+CURRENT SELECTION
+Owner states: "I'm getting a 200 SCCM MFC". Record one200sccm full-scale MFC
+as owner-selected. Exact manufacturer/model, gas calibration, valve type,
+interfaces, price, ordered/received status and calibration certificate remain
+unconfirmed. Require actual Ar calibration or a supplier-validated conversion;
+a200sccm N2 nameplate does not establish200sccm Ar full scale.
+This selection supersedes the0-300sccm recommendation in R02 and0-50sccm
+recommendation in R01. Retain those documents for calculation history.
+
+IGNITION PRESSURE ASSESSMENT
+Owner requested50mTorr ignition, then asked whether approximately42mTorr
+would typically suffice. Engineering assessment:42mTorr (5.60Pa) is a
+reasonable Ar magnetron ignition trial pressure, not a guaranteed strike
+threshold for this custom gun.50mTorr is not a universal minimum.
+Lesker's source-ignition diagnostic guidance recommends Ar pressure>10mTorr;
+UCSB's operating experience on its AJA system gives10 or30mTorr ignition
+examples followed by reduction to3mTorr. These establish plausibility, not
+performance certification of this project's gun or supply.
+Ignition also depends on available voltage/power, RF matching if applicable,
+magnetic field and electrode/shield geometry, target condition and gas purity.
+Do not infer that more pressure will always cure failure to ignite.
+
+CALCULATED PRESSURES FOR THE SELECTED RANGE
+Retain12L gross chamber, EXT70/EXDC80 and INDOVAC HV2-150 project basis.
+Current layout remains unthrottled; no new valve is selected here.
+At200sccm actual Ar, referenced to0degC/1013.25mbar, chamber gas at20degC:
+Q=0.018124*200=3.6248mbar L/s; p=Q/S_eff, neglecting background gas load.
+S_eff20L/s ->135.94mTorr;40L/s ->67.97mTorr;65L/s ->41.83mTorr.
+Thus42mTorr is one illustrative case, not a measured pressure or assured
+maximum.65L/s is based on an N2 rating; actual Ar speed remains unverified.
+For50mTorr at200sccm, S_eff must be about54.4L/s or less under these assumptions.
+Full-scale flow must not be commanded without established pump-load limits.
+The200sccm instrument may reach the50mTorr target directly if installed speed
+is sufficiently low, and may ignite plasma below50mTorr if the source permits.
+If tests show inadequate ignition pressure, assess controlled chamber-side
+throttling before changing MFC range; this would require separate engineering.
+
+LOW-FLOW AND INTERFACE CHECKS
+Verify supplied MFC's stable control and accuracy at intended deposition flow,
+not only200sccm full scale. For illustration, an instrument rated2-100%FS
+and+/-1%FS would provide4-200sccm control and+/-2sccm absolute accuracy.
+Those figures are not established specifications of the owner's unidentified MFC.
+Confirm actual VCR/tube interfaces, flow direction, mounting envelope, electrical
+supply/pinout and control/readback before updating the CAD or control wiring.
+
+COMMISSIONING BASIS
+Establish pressure-versus-flow using a validated Ar-corrected pressure gauge
+or suitable capacitance diaphragm gauge. Verify permissible Ar throughput,
+cooling, foreline pressure, speed and drive load for the actual pump/EXDC80.
+200sccm capacity alone does not establish a permissible operating gas load.
+Validate ignition and subsequent reduction to the chosen deposition pressure
+with pump/cooling permits and source protection active. Do not automatically
+operate at full flow when lower flow already reaches the ignition pressure.
+Ignition setpoint, power, duration and deposition recipe remain to commission.
+
+SOURCES CHECKED24 NOVEMBER2026
+Manufacturer's ignition diagnostic guidance:
+https://www.lesker.com/process-equipment-division/service-and-support/sputter-source-diagnostics-form.cfm
+Facility's first-hand operating recipes (system-specific examples):
+https://wiki.nanofab.ucsb.edu/w/index.php?title=Sputtering_Recipes
+Project derivation and hardware references:
+Argon MFC sizing and specification R01.txt
+Argon MFC sizing and specification R02.txt
+
+Updated engineering selection only. No purchase or receipt is inferred from
+"getting". No CAD, procurement workbook prices or pumping layout changed.

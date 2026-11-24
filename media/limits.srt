@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:13,919
+The repository includes the design decisions, current procurement workbook, individual CAD parts, geometry checks, source scripts, magnetic meshes, field arrays, and numerical verification results
+
+2
+00:00:13,919 --> 00:00:18,961
+The latest native gun export has one hundred and forty one valid solids
+
+3
+00:00:18,961 --> 00:00:27,341
+A known invalid legacy R V three supplier solid remains in the complete context and is identified in the documentation
+
+4
+00:00:27,341 --> 00:00:34,939
+There is no completed thermal, plasma, structural vessel, or deposition simulation in the supplied evidence
+
+5
+00:00:34,939 --> 00:00:49,640
+Before fabrication and operation, complete the qualified drawings, sealing design, pressure and leak tests, thermal and flow measurements, electrical and R F ratings, interlocks, and controlled commissioning
+
+6
+00:00:49,640 --> 00:00:57,238
+This repository documents the current engineering study and the evidence still needed to release a machine.

@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:07,816
+R zero six selects two S M C K Q G two S zero four, M five fittings for four millimetre outside diameter tubing
+
+2
+00:00:07,816 --> 00:00:15,985
+The backplate now has three millimetre flow passages and four point two millimetre tap drills, five millimetres deep
+
+3
+00:00:15,985 --> 00:00:22,745
+The specified M five by zero point eight threads need at least four millimetres of useful thread
+
+4
+00:00:22,745 --> 00:00:26,055
+The native backplate contains real cut features
+
+5
+00:00:26,055 --> 00:00:31,195
+Thread callouts represent machining intent; helical teeth are not modeled
+
+6
+00:00:31,195 --> 00:00:40,632
+Nine millimetre fitting bodies pass through fourteen millimetre yoke holes, giving two point five millimetres nominal radial clearance
+
+7
+00:00:40,632 --> 00:00:45,138
+Use the specified manufacturer gasket and installation procedure
+
+8
+00:00:45,138 --> 00:00:49,293
+Nominal interference checks do not establish leak tightness
+
+9
+00:00:49,293 --> 00:00:58,518
+Coolant in vacuum suitability, pressure testing, hose bend limits, electrical isolation, and thermal performance remain to qualify.

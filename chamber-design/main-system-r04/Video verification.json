@@ -1,0 +1,127 @@
+{
+  "duration_seconds": 1123.2083333333333,
+  "chapters": [
+    [
+      0,
+      "The complete sputtering system"
+    ],
+    [
+      36.875,
+      "Chamber, loading and service layout"
+    ],
+    [
+      84.25,
+      "Two different connections"
+    ],
+    [
+      108.5,
+      "Seat the fitting on the KF flange"
+    ],
+    [
+      126.5,
+      "Close the KF clamp"
+    ],
+    [
+      144.16666666666669,
+      "Feed the tube through the loose fitting"
+    ],
+    [
+      161.5,
+      "Choose the target to substrate distance"
+    ],
+    [
+      180.0,
+      "Thread the cap down to grip the tube"
+    ],
+    [
+      207.58333333333331,
+      "Section view of the compression mechanism"
+    ],
+    [
+      230.08333333333331,
+      "Stage, target travel and bent shutter"
+    ],
+    [
+      280.7083333333333,
+      "Opening the complete sputter gun"
+    ],
+    [
+      319.3333333333333,
+      "Target, cooling head and seals"
+    ],
+    [
+      366.7083333333333,
+      "Why we chose twelve magnet stacks"
+    ],
+    [
+      416.5833333333333,
+      "Magnetic circuit and calculated field"
+    ],
+    [
+      473.4583333333333,
+      "Insulation, coax and grounded shielding"
+    ],
+    [
+      523.7083333333333,
+      "Gas supply: cylinder to mass flow controller"
+    ],
+    [
+      573.3333333333333,
+      "Six-millimetre tube insertion"
+    ],
+    [
+      616.2083333333333,
+      "Gun cooling: independent system number one"
+    ],
+    [
+      658.7083333333333,
+      "Turbo cooling: independent system number two"
+    ],
+    [
+      701.3333333333333,
+      "Power supply and RF matching"
+    ],
+    [
+      749.9583333333333,
+      "ISO63 turbo connection"
+    ],
+    [
+      793.5833333333333,
+      "Simple pumping route and backing pump"
+    ],
+    [
+      843.4583333333333,
+      "Rear gauges and flow control"
+    ],
+    [
+      886.4583333333333,
+      "Viewport: checked view below the shield"
+    ],
+    [
+      938.0833333333333,
+      "How magnetron sputtering works"
+    ],
+    [
+      987.7083333333333,
+      "Shutter closed: conditioning the target"
+    ],
+    [
+      1027.7083333333333,
+      "Shutter open: deposition on the substrate"
+    ],
+    [
+      1068.8333333333333,
+      "Complete system: what is established"
+    ]
+  ],
+  "fps": 12,
+  "resolution": [
+    1600,
+    900
+  ],
+  "integrated_fitting_seconds": 145.83333333333331,
+  "video": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\chamber-design\\main-system-r04\\Complete sputter system R04 - main walkthrough.mp4",
+  "full_audio_video_decode_passed": true,
+  "embedded_chapters": 28,
+  "subtitle_codec": "mov_text"
+}

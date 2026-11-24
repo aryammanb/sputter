@@ -1,0 +1,41 @@
+{
+  "scope": "Local one-fastener mechanical visualization; not integrated into all twelve locations or electrically qualified.",
+  "valid_solids_on_reimport": 9,
+  "source_axis_global_xz_mm": [
+    38.2146818113899,
+    10.239593130374201
+  ],
+  "nominal_thread_contact_intersections": [
+    {
+      "a": "Grounded Boden / stepped threaded pocket",
+      "b": "PTFE non-load-bearing head guard",
+      "volume_mm3": 68.2250946879509
+    },
+    {
+      "a": "Live spacer / original thread",
+      "b": "Metal M3x35 screw / live",
+      "volume_mm3": 9.962855995128962
+    },
+    {
+      "a": "PTFE non-load-bearing head guard",
+      "b": "PTFE vented removable cap",
+      "volume_mm3": 26.703537555513225
+    }
+  ],
+  "metal_screw": "M3x35 retained, underheadY-71, lowest head pointY-74, nominal thread entry5mm including source chamfer.",
+  "bearing_washer": "Alumina OD8.8 ID3.3 thickness2.5; passes10.917 tap-minor bore and clears overlapping guard lip.",
+  "guard": "PTFE OD12, main bore8, upper lip bore9. Y-78 to-69.5. External M12x1 concept engages Boden for3.5mm; helices/reliefs not modeled. Guard is outside main clamping load path.",
+  "cap": "PTFE nominal M9x1 spigot, Y-78 to-76; head OD11.6 x2, Y-80 to-78. Threads not modeled. Blind driver slot.",
+  "head_bottom_to_cap_top_axial_gap_mm": 2,
+  "head_recess_beyond_guard_lip_mm": 4,
+  "guard_lip_beyond_ground_face_mm": 4,
+  "cap_bottom_beyond_ground_face_mm": 6,
+  "radial_guard_wall_mm": 2,
+  "nominal_M9_thread_root_wall_mm": 1.5,
+  "vent": "Two intersecting0.6mm bores form90-degree route atY-79,Z2. No straight-through axial hole to head. Vent is not a seal or a qualified arc barrier.",
+  "limitations": "Guard thread engagement, tight fits and tolerances need redesign/review before manufacture; 0.1mm nominal radial washer gap is not a production tolerance. All twelve locations, shield clearance and pressure boundary wall need checks. Pressure, gas, RF waveform, peak voltage and DC bias are unspecified. No arc-free performance, field simulation or voltage rating claimed. PTFE guard can creep; retention/thermal cycling need qualification. Deposited coatings can bridge insulators. Main PTFE sealing ring remains loaded.",
+  "guard_overlap_around_ceramic_washer_axial_mm": 1,
+  "guard_to_ceramic_washer_radial_gap_mm": 0.1,
+  "guard_top_to_ground_bearing_floor_axial_gap_mm": 1.5,
+  "minimum_nominal_guard_lip_wall_mm": 1.5
+}

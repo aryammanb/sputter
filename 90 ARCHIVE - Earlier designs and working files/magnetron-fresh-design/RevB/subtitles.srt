@@ -1,0 +1,151 @@
+1
+00:00:00,500 --> 00:00:03,538
+This is revision B of our magnetic cooling head.
+
+2
+00:00:03,538 --> 00:00:13,538
+Unlike the earlier two part layout, this assembly includes the actual magnet volumes, their dry wells, a locator, a steel return yoke, and supporting spacers.
+
+3
+00:00:13,538 --> 00:00:16,513
+The exploded view shows how these parts relate.
+
+4
+00:00:16,513 --> 00:00:21,767
+Display colors distinguish components, not necessarily their real surface finishes.
+
+5
+00:00:23,367 --> 00:00:26,263
+The copper body now has seven blind magnet wells.
+
+6
+00:00:26,263 --> 00:00:32,882
+Water occupies the pocket around the solid copper islands; the magnets enter the dry holes inside those islands.
+
+7
+00:00:32,882 --> 00:00:35,128
+The wells stop before the target face.
+
+8
+00:00:35,128 --> 00:00:43,167
+We increased the body diameter to eighty two millimetres to accommodate the wells, seal glands, coolant passages, and fastening pattern.
+
+9
+00:00:44,767 --> 00:00:50,428
+Six eight by twenty millimetre rod magnets surround two stacked twelve by ten millimetre discs.
+
+10
+00:00:50,428 --> 00:00:56,864
+In this proposed orientation, the outer poles face north toward the target and the center stack faces south.
+
+11
+00:00:56,864 --> 00:00:59,307
+The steel plate provides the return path.
+
+12
+00:00:59,307 --> 00:01:01,810
+A plastic locator guides the magnet bases.
+
+13
+00:01:01,810 --> 00:01:07,233
+This arrangement fits mechanically; its field strength and racetrack are not yet validated.
+
+14
+00:01:08,833 --> 00:01:13,342
+Each dry well needs its own face O ring at the body and cover interface.
+
+15
+00:01:13,342 --> 00:01:16,034
+A perimeter ring closes the outer boundary.
+
+16
+00:01:16,034 --> 00:01:23,360
+That makes eight primary face seals: six around the outer wells, one around the center, and one around the perimeter.
+
+17
+00:01:23,360 --> 00:01:25,739
+The green traces mark their locations.
+
+18
+00:01:25,739 --> 00:01:29,433
+They are explanatory graphics, not seal compression models.
+
+19
+00:01:31,033 --> 00:01:34,407
+First the cover approaches and closes the cooling body.
+
+20
+00:01:34,407 --> 00:01:37,473
+Its seven dry passages align with the blind wells.
+
+21
+00:01:37,473 --> 00:01:40,724
+Next, the yoke and magnet pack advance from the rear.
+
+22
+00:01:40,724 --> 00:01:45,324
+The rods and center stack pass through the cover into their matching wells.
+
+23
+00:01:45,324 --> 00:01:47,777
+The yoke seats on three support spacers.
+
+24
+00:01:47,777 --> 00:01:54,033
+This animation shows the nominal assembly geometry; fasteners and seals still require final detailing.
+
+25
+00:01:55,633 --> 00:01:58,013
+This cutaway reveals the fitted magnets.
+
+26
+00:01:58,013 --> 00:02:05,686
+Their tips sit four millimetres behind the target seating face, including a one point five millimetre gap to the blind well ends.
+
+27
+00:02:05,686 --> 00:02:09,672
+Target thickness adds to the distance to the plasma facing surface.
+
+28
+00:02:09,672 --> 00:02:15,442
+The spacers carry the structural clamping load, so the magnets are not used as compression posts.
+
+29
+00:02:15,442 --> 00:02:17,167
+Clearances shown are nominal.
+
+30
+00:02:18,767 --> 00:02:23,401
+With the cover and magnets hidden, the blue floor reveals the coolant pocket.
+
+31
+00:02:23,401 --> 00:02:29,600
+Water enters through one relocated port, divides around the dry islands, and returns through the other.
+
+32
+00:02:29,600 --> 00:02:33,513
+The moving dots show two possible routes, not a fluid simulation.
+
+33
+00:02:33,513 --> 00:02:38,147
+The copper divider discourages a direct shortcut, but bypass must be checked.
+
+34
+00:02:38,147 --> 00:02:42,300
+The ports and rear utility routes lie between outer magnet positions.
+
+35
+00:02:43,900 --> 00:02:48,454
+The assembled head now reserves space for the magnets and utilities together.
+
+36
+00:02:48,454 --> 00:02:55,077
+Fifteen candidate part instances pass nominal collision checks, and a separate fitting volume check also passes.
+
+37
+00:02:55,077 --> 00:02:58,507
+That establishes geometric fit, not operating performance.
+
+38
+00:02:58,507 --> 00:03:09,033
+We still need magnetic field analysis, seal and pressure validation, cooling assessment, and the complete vacuum housing and electrical connection to our selected RF feedthrough.

@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "file": "chamber-design/coolant-fitting-r06/Magnetron R06.step",
+      "sha256": "4bd9a1e671eec788c350df738e378f73f3dcddacec246d5d3dcb2f93b69b34b6",
+      "solid_count": 141,
+      "invalid_indices_zero_based": [],
+      "invalid_count": 0
+    },
+    {
+      "file": "chamber-design/coolant-fitting-r06/Complete sputter system R06.step",
+      "sha256": "971f43bbf35aac5e4eeb17a2b6edb6c5199202011bafa2bf4becddfdcac4720f",
+      "solid_count": 406,
+      "invalid_indices_zero_based": [
+        238
+      ],
+      "invalid_count": 1
+    }
+  ],
+  "known_invalid_reference": [
+    {
+      "name": "Edwards RV3 - imported supplier STEP",
+      "role": "backing_pump",
+      "note": "IdealVac P101919 STEP, representing Edwards RV3. Layout reference, not a confirmed pump purchase. Source has pre-existing topology defects; retained as supplier visual/reference geometry, not a manufacturing solid."
+    }
+  ],
+  "scope": "Independent current STEP reopen, solid counts and validity. Native SolidWorks original checks are preserved separately; native application was not rerun in this packaging task."
+}

@@ -1,0 +1,42 @@
+;FFMETADATA1
+title=Gun compression fitting - assembly and adjustment
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=24250
+title=Two different connections
+[CHAPTER]
+TIMEBASE=1/1000
+START=24250
+END=42250
+title=Seat the fitting on the KF flange
+[CHAPTER]
+TIMEBASE=1/1000
+START=42250
+END=59917
+title=Close the KF clamp
+[CHAPTER]
+TIMEBASE=1/1000
+START=59917
+END=77250
+title=Feed the tube through the loose fitting
+[CHAPTER]
+TIMEBASE=1/1000
+START=77250
+END=95750
+title=Choose the target to substrate distance
+[CHAPTER]
+TIMEBASE=1/1000
+START=95750
+END=123333
+title=Thread the cap down to grip the tube
+[CHAPTER]
+TIMEBASE=1/1000
+START=123333
+END=145833
+title=Section view of the compression mechanism
+[CHAPTER]
+TIMEBASE=1/1000
+START=145833
+END=168000
+title=Loosen, reposition, retighten

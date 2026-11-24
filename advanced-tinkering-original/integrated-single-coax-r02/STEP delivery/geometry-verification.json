@@ -1,0 +1,173 @@
+{
+  "original_solids": 120,
+  "removed_source_components": [
+    "01 Original cathode cooling and magnets-1/AT M4x8 socket-head study-1",
+    "01 Original cathode cooling and magnets-1/AT bare HV wire hook fitted-1",
+    "07 Reference atmospheric utility routes-1/REF HV copper conductor fitted route-1",
+    "07 Reference atmospheric utility routes-1/REF white HV cable fitted insulation-1",
+    "06 Original clamp and reference KF16 tube-1/REF KF16 flanged tube L200-1",
+    "03 Original PTFE isolation and base-1/Boden-1"
+  ],
+  "retained_source_solids": 114,
+  "new_solids": 15,
+  "total_solids": 129,
+  "new_parts": [
+    {
+      "name": "R02 Boden - internal blind ground anchor",
+      "step": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\integrated-single-coax-r02\\generated\\R02 Boden - internal blind ground anchor.step",
+      "net": "ground",
+      "note": "Original Boden with one nominal2.5mm blind M3 pilot,4mm along internal cone normal. No thread helix. Original seals unchanged. Anchor depth/torque require release review.",
+      "volume_mm3": 157023.35554004053,
+      "valid": true
+    },
+    {
+      "name": "R02 KF16 neck to one inch service tube",
+      "step": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\integrated-single-coax-r02\\generated\\R02 KF16 neck to one inch service tube.step",
+      "net": "ground",
+      "note": "D30 KF16 capture retained through D20x16 neck toY-95. Taper to25.4OD22.4ID byY-103; service endY-278. Length reference only; finish smooth for sliding gland. Chamber gland not modeled.",
+      "volume_mm3": 23892.865133084128,
+      "valid": true
+    },
+    {
+      "name": "REF icotek SKL3-6 36202 installed study",
+      "step": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\integrated-single-coax-r02\\generated\\REF icotek SKL3-6 36202 installed study.step",
+      "net": "ground",
+      "note": "Published envelope8x11.8x13.6mm,3-6mm shield range,3.2mm mounting hole. Formed spring shape is representative. Nominal jaw overlap represents spring contact; not a spring simulation or certified vendor model.",
+      "volume_mm3": 170.57996140340518,
+      "valid": true
+    },
+    {
+      "name": "R02 Ground carrier and conformal saddle",
+      "step": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\integrated-single-coax-r02\\generated\\R02 Ground carrier and conformal saddle.step",
+      "net": "ground",
+      "note": "Custom conductive carrier,0.8mm nominal thickness,12.4x9 landing and8mm tab. Saddle follows original Boden inner cone; flat anchor pad and5.8mm head-access relief. Two3.2mm clearance holes. Material and surface preparation to qualify.",
+      "volume_mm3": 219.44176033654378,
+      "valid": true
+    },
+    {
+      "name": "R02 M3x4 clamp mounting screw",
+      "step": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\integrated-single-coax-r02\\generated\\R02 M3x4 clamp mounting screw.step",
+      "net": "ground",
+      "note": "Simplified nominal M3x4 socket-head screw; no hex socket or thread helix.",
+      "volume_mm3": 99.54921721062657,
+      "valid": true
+    },
+    {
+      "name": "R02 M3 clamp nut envelope",
+      "step": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\integrated-single-coax-r02\\generated\\R02 M3 clamp nut envelope.step",
+      "net": "ground",
+      "note": "Round circumscribed packaging envelope forM3 nut; no thread helix.",
+      "volume_mm3": 38.90548342205601,
+      "valid": true
+    },
+    {
+      "name": "R02 M3x6 blind ground anchor screw",
+      "step": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\integrated-single-coax-r02\\generated\\R02 M3x6 blind ground anchor screw.step",
+      "net": "ground",
+      "note": "Nominal6mm under-head length through2.6mm carrier seat into Boden pilot:3.4mm nominal engagement,0.6mm margin to4mm pilot bottom. Intentional nominal shaft/thread-minor overlap. Torque and engagement need release review.",
+      "volume_mm3": 113.68638415178067,
+      "valid": true
+    },
+    {
+      "name": "R02 Copper terminal stand-off D6p5 L12p5",
+      "step": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\integrated-single-coax-r02\\generated\\R02 Copper terminal stand-off D6p5 L12p5.step",
+      "net": "live",
+      "note": "OD6.5 ID4.3x12.5; passes existing yokeD8 terminal passage and contacts copper Backplate atY-22.5. Rear faceY-35.",
+      "volume_mm3": 233.2632545290422,
+      "valid": true
+    },
+    {
+      "name": "R02 M4x20 live terminal screw",
+      "step": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\integrated-single-coax-r02\\generated\\R02 M4x20 live terminal screw.step",
+      "net": "live",
+      "note": "Nominal socket head and major shaft. UnderheadY-35.79, tipY-15.79;6.71mm nominal copper engagement and1.29mm margin to source thread-bore endY-14.5. No thread strength qualification.",
+      "volume_mm3": 405.2654523130833,
+      "valid": true
+    },
+    {
+      "name": "REF TE323086 M4 ring terminal study",
+      "step": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\integrated-single-coax-r02\\generated\\REF TE323086 M4 ring terminal study.step",
+      "net": "live",
+      "note": "Principal dimensions fromTE323086: length16.59,eyeOD8.74,eyeID4.34,tab0.79,barrelID1.55,22-16AWG. Neck/barrel formed details are representative; uncrimped bore is not a contact simulation. Barrel points toward cable entry, avoiding a return loop.",
+      "volume_mm3": 80.54560475660229,
+      "valid": true
+    },
+    {
+      "name": "R02 Continuous coax outer jacket",
+      "step": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\integrated-single-coax-r02\\generated\\R02 Continuous coax outer jacket.step",
+      "net": "jacket",
+      "note": "5mm overall cable study allowance. Smooth S offset after KF16 throat,minimum nominal cable centerline radius25.4mm. No second coax or gun-end SMA.",
+      "volume_mm3": 2281.531911000655,
+      "valid": true
+    },
+    {
+      "name": "R02 Continuous coax shield",
+      "step": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\integrated-single-coax-r02\\generated\\R02 Continuous coax shield.step",
+      "net": "ground",
+      "note": "3.7mm shield OD and3.2mm dielectric allowance. Exposed shield bandY-53.5 to-44.5; spring clamp contact is nominal. Cable shield ends on ground side. Actual cable construction and RF rating pending.",
+      "volume_mm3": 720.3446229604278,
+      "valid": true
+    },
+    {
+      "name": "R02 Continuous center dielectric",
+      "step": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\integrated-single-coax-r02\\generated\\R02 Continuous center dielectric.step",
+      "net": "insulator",
+      "note": "Continuous inner dielectric to1mm outside lug mouth; selected cable and bend suitability pending.",
+      "volume_mm3": 2061.861263914392,
+      "valid": true
+    },
+    {
+      "name": "R02 RF center conductor",
+      "step": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\integrated-single-coax-r02\\generated\\R02 RF center conductor.step",
+      "net": "live",
+      "note": "0.9mm nominal center conductor; terminal insertion shown inside uncrimped lug. Actual crimp and electrical suitability not simulated.",
+      "volume_mm3": 180.60474137049738,
+      "valid": true
+    },
+    {
+      "name": "R02 Additional dielectric guard sleeve",
+      "step": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\integrated-single-coax-r02\\generated\\R02 Additional dielectric guard sleeve.step",
+      "net": "insulator",
+      "note": "Illustrative added dielectric guard beyond shield termination. Material, thickness, voltage rating and retention to qualify.",
+      "volume_mm3": 56.75664223307707,
+      "valid": true
+    }
+  ],
+  "raw_new_interferences": [
+    {
+      "new": "R02 M4x20 live terminal screw",
+      "source_solid_index": 1,
+      "volume_mm3": 25.46790488934384,
+      "source_volume_mm3": 37756.82609409814,
+      "source_center": [
+        8.129773966788592e-16,
+        -15.71289108429339,
+        6.963000851184673e-17
+      ]
+    },
+    {
+      "new": "R02 Boden - internal blind ground anchor",
+      "other_new": "R02 Ground carrier and conformal saddle",
+      "volume_mm3": 0.04152235608485535
+    },
+    {
+      "new": "R02 Boden - internal blind ground anchor",
+      "other_new": "R02 M3x6 blind ground anchor screw",
+      "volume_mm3": 7.3765687295299065
+    },
+    {
+      "new": "REF icotek SKL3-6 36202 installed study",
+      "other_new": "R02 Continuous coax shield",
+      "volume_mm3": 1.2877457940153954
+    }
+  ],
+  "anchor_axis_material_remaining_beyond_4mm_drill_mm": 18.5,
+  "ring_lug_mouth_mm": [
+    0.0,
+    -36.565,
+    1.3300000000000018
+  ],
+  "terminal_thread_engagement_mm": 6.71,
+  "terminal_bore_bottom_margin_mm": 1.29,
+  "status": "Mechanical interference check complete: four intentional nominal-thread, spring and formed-saddle contact representations remain, explained in READ ME. RF and cooling performance unqualified."
+}

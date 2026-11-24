@@ -1,0 +1,39 @@
+{
+  "scope": "Nominal target/clamp/cooling-body interference check in original gun coordinates; target back remains atY0. Does not replace contact, tolerance or clamp preload review.",
+  "clamp_bbox": [
+    -46.8,
+    -2.4997699700684306,
+    -46.8,
+    46.8,
+    5.0,
+    46.8
+  ],
+  "cooler_bbox": [
+    -46.800000100000005,
+    -12.0,
+    -46.800000100000005,
+    46.8000001,
+    1.5000001,
+    46.800000100000005
+  ],
+  "cases": [
+    {
+      "target_thickness_mm": 2,
+      "clamp_overlap_mm3": 0.0,
+      "cooler_overlap_mm3": 0.0
+    },
+    {
+      "target_thickness_mm": 3.175,
+      "clamp_overlap_mm3": 265.9627343759354,
+      "cooler_overlap_mm3": 0.0
+    }
+  ],
+  "target_material": "Aluminium",
+  "diameter_mm": 50.8,
+  "selected_thickness_mm": 3.175,
+  "thickness_increase_mm": 1.175,
+  "magnet_tip_to_target_front_mm": 5.675,
+  "previous_spacing_mm": 4.5,
+  "face_z_with_same_gun_pose_mm": 139.825,
+  "gun_lift_to_restore_original_face_mm": 1.175
+}

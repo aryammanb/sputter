@@ -1,0 +1,52 @@
+;FFMETADATA1
+title=Copper cooling body Rev A - design walkthrough
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=26800
+title=The copper cooling body
+[CHAPTER]
+TIMEBASE=1/1000
+START=26800
+END=53200
+title=Where the target sits
+[CHAPTER]
+TIMEBASE=1/1000
+START=53200
+END=81400
+title=Why the body is wider
+[CHAPTER]
+TIMEBASE=1/1000
+START=81400
+END=112400
+title=The rear water channel
+[CHAPTER]
+TIMEBASE=1/1000
+START=112400
+END=139400
+title=The bridge controls the route
+[CHAPTER]
+TIMEBASE=1/1000
+START=139400
+END=169933
+title=The copper wall beneath the target
+[CHAPTER]
+TIMEBASE=1/1000
+START=169933
+END=206867
+title=Two O-ring grooves
+[CHAPTER]
+TIMEBASE=1/1000
+START=206867
+END=239933
+title=Six holes retain the coolant cover
+[CHAPTER]
+TIMEBASE=1/1000
+START=239933
+END=268600
+title=Three holes retain the target clamp
+[CHAPTER]
+TIMEBASE=1/1000
+START=268600
+END=303000
+title=What this revision establishes

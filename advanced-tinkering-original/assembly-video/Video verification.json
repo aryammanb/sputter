@@ -1,0 +1,17 @@
+{
+  "video": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\assembly-video\\Advanced Tinkering original magnetron - detailed full assembly.mp4",
+  "bytes": 46991311,
+  "runtime_seconds": 537.2,
+  "frames": 8058,
+  "fps": 15.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "chapters": 18,
+  "component_coverage": 120,
+  "audio_rms": 3069.545081146763,
+  "full_video_audio_decode": "passed without errors",
+  "embedded_subtitles": true,
+  "encoded_chapter_frames_extracted": 18
+}

@@ -1,0 +1,287 @@
+1
+00:00:00,300 --> 00:00:05,579
+This is the complete proposed sputter chamber, assembled with the latest twelve stack gun.
+
+2
+00:00:05,579 --> 00:00:07,926
+All views use the exported CAD geometry.
+
+3
+00:00:07,926 --> 00:00:16,549
+The internal space is two hundred millimetres wide, two hundred deep, and three hundred high, giving twelve litres before internal parts and ports.
+
+4
+00:00:16,549 --> 00:00:24,820
+The assembly contains one hundred and ninety six component instances, including all one hundred and forty one components of the existing gun.
+
+5
+00:00:24,820 --> 00:00:27,753
+These are exact nominal dimensions of this design.
+
+6
+00:00:27,753 --> 00:00:33,150
+They are not a claim that purchased hardware or fabricated parts have already been verified.
+
+7
+00:00:34,550 --> 00:00:37,826
+The chamber uses ten millimetre walls, roof and floor.
+
+8
+00:00:37,826 --> 00:00:40,981
+The front sealing frame is sixteen millimetres deep.
+
+9
+00:00:40,981 --> 00:00:46,076
+The roof blank measures two hundred and twenty by two hundred and twenty six by ten.
+
+10
+00:00:46,076 --> 00:00:48,806
+The extra depth accommodates the front frame.
+
+11
+00:00:48,806 --> 00:00:54,691
+The door is two hundred and twenty eight wide, three hundred and sixteen high, and sixteen thick.
+
+12
+00:00:54,691 --> 00:00:58,998
+Its clear doorway is one hundred and eighty by two hundred and seventy.
+
+13
+00:00:58,998 --> 00:01:02,153
+The viewport has a seventy millimetre clear opening.
+
+14
+00:01:02,153 --> 00:01:06,278
+The glass disc is represented as ninety four diameter and six thick.
+
+15
+00:01:06,278 --> 00:01:11,556
+These thicknesses and seal details still require vacuum structural and supplier review.
+
+16
+00:01:11,556 --> 00:01:14,650
+The front door gives access without moving the gun.
+
+17
+00:01:16,050 --> 00:01:21,876
+The upper rear K F twenty five port is the gas connection, centred at height two hundred and ten.
+
+18
+00:01:21,876 --> 00:01:26,982
+The two gauge ports are at height ninety, fifty millimetres to either side of centre.
+
+19
+00:01:26,982 --> 00:01:31,547
+A V C R adapter can connect the mass flow controller line to the upper port.
+
+20
+00:01:31,547 --> 00:01:37,013
+The right wall has two spare ports at heights seventy five and two hundred and twenty five.
+
+21
+00:01:37,013 --> 00:01:39,055
+The left wall is completely blank.
+
+22
+00:01:39,055 --> 00:01:46,023
+The bottom I S O sixty three flange is ninety five millimetres outside diameter, with a sixty three point five bore.
+
+23
+00:01:46,023 --> 00:01:49,327
+Its mating face is forty five below the internal floor.
+
+24
+00:01:49,327 --> 00:01:56,775
+Gauges, the mass flow controller, and the pump itself are not invented supplier models; the connection interfaces are shown.
+
+25
+00:01:58,175 --> 00:02:01,133
+The gun axis passes through the centre of the roof.
+
+26
+00:02:01,133 --> 00:02:05,077
+A welded K F twenty five connection carries the compression adapter.
+
+27
+00:02:05,077 --> 00:02:09,079
+The existing service tube is twenty five point four outside diameter.
+
+28
+00:02:09,079 --> 00:02:18,765
+With the target at the highest operating position, the straight section of tube starts at height two hundred and ninety six, four millimetres below the roof underside.
+
+29
+00:02:18,765 --> 00:02:24,334
+At the lowest position, the tube end still projects twelve point two above the modelled adapter.
+
+30
+00:02:24,334 --> 00:02:26,828
+This confirms the nominal insertion layout.
+
+31
+00:02:26,828 --> 00:02:32,744
+However, a standard K F twenty five weld stub or centering ring can have a bore smaller than the tube.
+
+32
+00:02:32,744 --> 00:02:36,746
+The amber mounting parts identify that unresolved supplier interface.
+
+33
+00:02:36,746 --> 00:02:40,400
+Their full through bore and sealing geometry must be confirmed.
+
+34
+00:02:41,800 --> 00:02:47,026
+The simple substrate stage is a ninety millimetre diameter plate, six millimetres thick.
+
+35
+00:02:47,026 --> 00:02:50,590
+Its underside is at height thirty four and its top at forty.
+
+36
+00:02:50,590 --> 00:02:55,460
+Four six millimetre diameter posts support it outside the central pumping opening.
+
+37
+00:02:55,460 --> 00:02:59,439
+The reference substrate is fifty by fifty and one millimetre thick.
+
+38
+00:02:59,439 --> 00:03:02,468
+Its upper surface is therefore at height forty one.
+
+39
+00:03:02,468 --> 00:03:07,813
+This surface, rather than the bare stage, is the distance datum used throughout the model.
+
+40
+00:03:07,813 --> 00:03:14,049
+A separate one point five millimetre thick, one hundred and four diameter baffle sits at height eighteen.
+
+41
+00:03:14,049 --> 00:03:16,721
+It reduces direct deposition toward the pump.
+
+42
+00:03:16,721 --> 00:03:19,275
+Pumping conductance still needs evaluation.
+
+43
+00:03:20,675 --> 00:03:24,121
+The gun moves vertically while the substrate remains fixed.
+
+44
+00:03:24,121 --> 00:03:31,304
+The minimum target to substrate gap is seventy five millimetres, putting the target face at height one hundred and sixteen.
+
+45
+00:03:31,304 --> 00:03:36,443
+The default is one hundred millimetres, putting the target at one hundred and forty one.
+
+46
+00:03:36,443 --> 00:03:41,524
+The maximum is one hundred and fifty, putting the target at one hundred and ninety one.
+
+47
+00:03:41,524 --> 00:03:44,268
+That is seventy five millimetres of gun travel.
+
+48
+00:03:44,268 --> 00:03:47,831
+The animation moves the actual gun solids through this range.
+
+49
+00:03:47,831 --> 00:03:51,977
+Adjustments are intended with the chamber vented and the gun supported.
+
+50
+00:03:51,977 --> 00:03:57,525
+These are geometric settings; they do not establish the best deposition distance or uniformity.
+
+51
+00:03:58,925 --> 00:04:05,395
+The shutter is a single one millimetre sheet with two ninety degree bends, each with a two millimetre inside radius.
+
+52
+00:04:05,395 --> 00:04:11,252
+Its upper mounting tab lies between heights two hundred and ninety three and two hundred and ninety four.
+
+53
+00:04:11,252 --> 00:04:14,375
+The lower blade lies between fifty three and fifty four.
+
+54
+00:04:14,375 --> 00:04:18,726
+The flat midplanes are separated by exactly two hundred and forty millimetres.
+
+55
+00:04:18,726 --> 00:04:24,415
+The straight vertical portion is two hundred and thirty five long, with the bends completing the drop.
+
+56
+00:04:24,415 --> 00:04:31,834
+The blade underside is at fifty three and the substrate surface at forty one, so the shutter clearance is exactly twelve millimetres.
+
+57
+00:04:31,834 --> 00:04:38,025
+The blade is fifty six square, giving three millimetres of overhang on each side of the fifty square substrate.
+
+58
+00:04:39,425 --> 00:04:43,248
+The shutter pivot is sixty five millimetres left of the gun axis.
+
+59
+00:04:43,248 --> 00:04:46,601
+Turning the top thumb screw rotates the whole bent sheet.
+
+60
+00:04:46,601 --> 00:04:49,248
+Closed, the blade is centred over the sample.
+
+61
+00:04:49,248 --> 00:04:52,071
+Open, it rotates eighty degrees toward the rear.
+
+62
+00:04:52,071 --> 00:04:57,718
+The open blade clears the sample edge by about six point six millimetres in the depth direction.
+
+63
+00:04:57,718 --> 00:05:01,188
+The minimum sampled wall clearance is about two point nine.
+
+64
+00:05:01,188 --> 00:05:11,776
+We checked eighty one shutter positions, at one degree intervals, against the chamber internals and the gun at seventy five, one hundred, and one hundred and fifty millimetre gaps.
+
+65
+00:05:11,776 --> 00:05:15,187
+No positive volume interference was found in those checks.
+
+66
+00:05:15,187 --> 00:05:20,775
+This is nominal CAD clearance; fabrication tolerances and a physical stop still need detailing.
+
+67
+00:05:22,175 --> 00:05:29,784
+The delivered files contain the complete assembly, open and closed views, individual principal parts, and a developed shutter blank.
+
+68
+00:05:29,784 --> 00:05:36,240
+The blank uses a neutral axis K factor of zero point four two; the fabricator must adjust it for actual tooling.
+
+69
+00:05:36,240 --> 00:05:42,293
+The shutter screw is represented as one quarter twenty eight, with a six point eight roof clearance hole.
+
+70
+00:05:42,293 --> 00:05:48,288
+McMaster head details and the rotating O ring seal are reference envelopes, not a qualified feedthrough.
+
+71
+00:05:48,288 --> 00:05:55,955
+The gun mounting bore, door and viewport seals, glass rating, and chamber pressure strength must also be verified before fabrication.
+
+72
+00:05:55,955 --> 00:06:04,025
+The model now establishes the complete arrangement and its nominal dimensions, while keeping those remaining engineering decisions explicit.

@@ -1,0 +1,24 @@
+{
+  "package_id": "CB01",
+  "quantity": 1,
+  "procurement_method": "Custom vendor order",
+  "supplier_user_name": "Alpha Technovac, Mumbai",
+  "supplier_record": "Alfa Technovac LLP",
+  "supplier_url": "https://www.alfavacuum.com/",
+  "budget_allowance_INR": 100000,
+  "budget_basis": "Planning allowance set by assistant, not a supplier quote. GST/delivery and final scope price to confirm in quotation.",
+  "source_geometry": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\chamber-design\\target-clamp-r05\\Complete sputter system R05.step",
+  "layout_changes": 0,
+  "scope": "Complete chamber/door and chamber-side mating hardware; fixed mounting provisions included. Removable stage/shutter and external equipment excluded.",
+  "supplier_layout_solids": 73,
+  "supplier_layout_all_valid": true,
+  "status": "Layout/interfaces frozen; supplier detailing and quotation pending",
+  "downstream_no_duplicate_items": [
+    "Chamber weld-on flanges",
+    "Door/window hardware and seals",
+    "Chamber-side KF clamps/centering seals",
+    "ISO63 inlet clamp/centering set",
+    "Right spare blank caps",
+    "Fixed stage/baffle supports"
+  ]
+}

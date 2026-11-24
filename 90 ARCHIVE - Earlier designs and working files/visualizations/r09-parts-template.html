@@ -1,0 +1,68 @@
+<div id="magnetron-r09">
+  <h2>Complete sputtering gun · R09</h2>
+  <div class="viz-controls">
+    <label class="form-label">Assembly group<select class="form-select" id="r09-group"><option value="all">Complete gun</option><option value="10">Mount and stem</option><option value="11">KF25 vacuum joint</option><option value="20">Power rod and ceramic support</option><option value="21">Coolant plumbing</option><option value="30">Magnet pack</option><option value="31">Cooling head</option><option value="40">Target and clamp</option><option value="50">Grounded shield</option><option value="60">Rear power guard</option></select></label>
+    <label class="form-label">Part<select class="form-select" id="r09-part"><option value="all">All parts in group</option></select></label>
+  </div>
+  <div class="viz-controls">
+    <label class="form-label">Inspection explosion <output id="r09-value">0%</output><input class="form-range" id="r09-explode" type="range" min="0" max="100" value="0"></label>
+    <label class="form-check"><input class="form-check-input" type="checkbox" id="r09-cut"><span class="form-check-label">Half section</span></label>
+    <label class="form-check"><input class="form-check-input" type="checkbox" id="r09-isolate"><span class="form-check-label">Isolate selected part</span></label>
+  </div>
+  <div id="r09-scene" role="img" aria-label="Interactive SolidWorks R09 part geometry. Drag to rotate and scroll to zoom."></div>
+  <div class="viz-row"><button class="btn" id="r09-front">Target view</button><button class="btn" id="r09-side">Side view</button><button class="btn" id="r09-iso">Isometric view</button></div>
+  <p id="r09-detail" aria-live="polite"></p>
+  <p class="text-small text-muted">Current SolidWorks geometry · drag to rotate · scroll to zoom · section faces are uncapped · explosion is for inspection, not disassembly</p>
+  <p class="text-small text-muted">Copper in orange · coolant plumbing in blue · magnets in purple · supplied-component envelopes and sealing details remain provisional</p>
+</div>
+<style>
+#magnetron-r09 {display:grid;gap:calc(var(--font-size-base)*1)}
+#r09-scene {width:100%;height:440px;touch-action:none}
+#r09-scene canvas {display:block;width:100%;height:100%}
+@media(max-width:500px){#r09-scene{height:330px}}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/build/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+<script>
+(()=>{
+const data=__MESH_DATA__;
+const root=document.getElementById('magnetron-r09');
+const $=id=>root.querySelector('#r09-'+id);
+const scene=new THREE.Scene(), camera=new THREE.PerspectiveCamera(35,1,.1,6000);
+const renderer=new THREE.WebGLRenderer({antialias:true,alpha:true});
+renderer.setPixelRatio(Math.min(devicePixelRatio,2));renderer.localClippingEnabled=true;
+$('scene').appendChild(renderer.domElement);
+scene.add(new THREE.HemisphereLight(0xffffff,0x777777,1));
+const lamp=new THREE.DirectionalLight(0xffffff,.7);lamp.position.set(1,2,3);scene.add(lamp);
+const controls=new THREE.OrbitControls(camera,renderer.domElement);controls.enableDamping=false;
+const plane=new THREE.Plane(new THREE.Vector3(0,-1,0),0);
+const objects=[];let fitCenter=new THREE.Vector3(),fitSpan=350, direction=new THREE.Vector3(1.5,2,1.4);
+function unpack(s){const b=atob(s),a=new Uint8Array(b.length);for(let i=0;i<b.length;i++)a[i]=b.charCodeAt(i);return a.buffer}
+for(const p of data){
+ const packed=new Int16Array(unpack(p.v)),xyz=new Float32Array(packed.length);
+ for(let i=0;i<packed.length;i++)xyz[i]=packed[i]/100;
+ const geo=new THREE.BufferGeometry();geo.setAttribute('position',new THREE.BufferAttribute(xyz,3));geo.setIndex(new THREE.BufferAttribute(new Uint16Array(unpack(p.f)),1));geo.computeVertexNormals();geo.computeBoundingBox();
+ const mat=new THREE.MeshStandardMaterial({roughness:.65,metalness:.15,side:THREE.DoubleSide});
+ const mesh=new THREE.Mesh(geo,mat);scene.add(mesh);objects.push({p,mesh,box:geo.boundingBox.clone()});
+}
+function color(token){const e=document.createElement('span');e.style.color='var('+token+')';root.appendChild(e);const c=getComputedStyle(e).color;e.remove();return new THREE.Color(c)}
+function theme(){const base=color('--muted-foreground'),selected=color('--viz-series-1'),copper=color('--orange'),water=color('--blue'),magnet=color('--purple');for(const o of objects){let c=base;if(['305','308'].includes(o.p.code))c=copper;else if(o.p.g==='21')c=water;else if(['302','303'].includes(o.p.code))c=magnet;o.mesh.material.color.copy($('part').value===o.p.id?selected:c);}render()}
+function render(){renderer.render(scene,camera)}
+function fit(){const box=new THREE.Box3();objects.filter(o=>o.mesh.visible).forEach(o=>box.union(o.box.clone().translate(o.mesh.position)));if(box.isEmpty())return;box.getCenter(fitCenter);const s=box.getSize(new THREE.Vector3());fitSpan=Math.max(s.x,s.y,s.z,15);controls.target.copy(fitCenter);const d=fitSpan*1.8/Math.min(camera.aspect,1);camera.position.copy(fitCenter).add(direction.clone().normalize().multiplyScalar(d));camera.up.set(0,0,1);camera.lookAt(fitCenter);controls.update();render()}
+function refill(){const v=$('part').value;$('part').replaceChildren(new Option('All parts in group','all'));for(const o of objects)if($('group').value==='all'||o.p.g===$('group').value)$('part').add(new Option(o.p.label,o.p.id));if([...$('part').options].some(o=>o.value===v))$('part').value=v}
+function save(){window.openai?.setWidgetState({modelContent:{revision:'R09',group:$('group').value,part:$('part').value},privateContent:{explode:$('explode').value,cut:$('cut').checked,isolate:$('isolate').checked}})?.catch(()=>{})}
+function update(refit=true){const g=$('group').value,p=$('part').value,t=+$('explode').value/100;
+ $('value').textContent=Math.round(t*100)+'%';let n=0;
+ for(const o of objects){o.mesh.visible=(g==='all'||o.p.g===g)&&(!$('isolate').checked||p==='all'||p===o.p.id);if(o.mesh.visible)n++;const v=g==='all'?o.p.e:o.p.s;o.mesh.position.set(v[0]*t,v[1]*t,v[2]*t);o.mesh.material.clippingPlanes=$('cut').checked?[plane]:[];}
+ const o=objects.find(o=>o.p.id===p);$('detail').textContent=o?o.p.label+' · '+o.p.note:n+' part instances · design review revision, not a manufacturing release';theme();if(refit)fit();else render();
+}
+$('group').addEventListener('change',()=>{refill();update();save()});$('part').addEventListener('change',()=>{update();save()});
+for(const k of ['explode','cut','isolate'])$(k).addEventListener(k==='explode'?'input':'change',()=>{update();save()});
+for(const [k,v] of [['front',[1,0,0]],['side',[0,-1,0]],['iso',[1.5,2,1.4]]])$(k).addEventListener('click',()=>{direction.set(...v);fit()});
+controls.addEventListener('change',render);
+new ResizeObserver(()=>{const w=$('scene').clientWidth,h=$('scene').clientHeight;renderer.setSize(w,h);camera.aspect=w/h;camera.updateProjectionMatrix();fit()}).observe($('scene'));
+new MutationObserver(theme).observe(document.documentElement,{attributes:true,attributeFilter:['class','style','data-theme']});
+function restore(st){if(!st)return;const m=st.modelContent||{},p=st.privateContent||{};if(m.revision==='R09'){$('group').value=m.group||'all';refill();$('part').value=m.part||'all';$('explode').value=p.explode||0;$('cut').checked=!!p.cut;$('isolate').checked=!!p.isolate;}update()}
+refill();restore(window.openai?.widgetState);update();window.addEventListener('openai:set_globals',e=>restore(e.detail?.globals?.widgetState));
+})();
+</script>

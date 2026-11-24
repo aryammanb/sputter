@@ -1,0 +1,716 @@
+{
+  "baseline_components": 129,
+  "proposed_components": 141,
+  "valid_component_solids": 141,
+  "contacts_involving_changed_components": [
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-6",
+      "b": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "role_a": "backbolts",
+      "role_b": "cooler",
+      "volume_mm3": 12.850690560015202
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-8",
+      "b": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "role_a": "backbolts",
+      "role_b": "cooler",
+      "volume_mm3": 12.850690560015208
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-9",
+      "b": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "role_a": "backbolts",
+      "role_b": "cooler",
+      "volume_mm3": 12.850690560015217
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-4",
+      "b": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "role_a": "backbolts",
+      "role_b": "cooler",
+      "volume_mm3": 12.85069056001519
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-5",
+      "b": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "role_a": "backbolts",
+      "role_b": "cooler",
+      "volume_mm3": 12.85069056001519
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-7",
+      "b": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "role_a": "backbolts",
+      "role_b": "cooler",
+      "volume_mm3": 12.850690560015195
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-10",
+      "b": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "role_a": "backbolts",
+      "role_b": "cooler",
+      "volume_mm3": 12.85069056001522
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-12",
+      "b": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "role_a": "backbolts",
+      "role_b": "cooler",
+      "volume_mm3": 12.850690560015193
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-11",
+      "b": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "role_a": "backbolts",
+      "role_b": "cooler",
+      "volume_mm3": 12.850690560015211
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M4x10 socket-head study-1",
+      "b": "01 Original cathode cooling and magnets-1/Backplate-1",
+      "role_a": "yokebolt",
+      "role_b": "closure",
+      "volume_mm3": 22.837275818921157
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M4x10 socket-head study-1",
+      "b": "01 Original cathode cooling and magnets-1/Magnet Joke-1",
+      "role_a": "yokebolt",
+      "role_b": "yoke",
+      "volume_mm3": 14.699855506944328
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-1",
+      "role_a": "cooler",
+      "role_b": "backbolts",
+      "volume_mm3": 12.850690560016057
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-3",
+      "role_a": "cooler",
+      "role_b": "backbolts",
+      "volume_mm3": 12.850690560016039
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-2",
+      "role_a": "cooler",
+      "role_b": "backbolts",
+      "volume_mm3": 12.850690560016057
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-2",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117882
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-6",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117928
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-9",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117917
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-3",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117917
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-11",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117919
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-12",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117926
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-7",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117919
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-4",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.82803971211788
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-1",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117928
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-5",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117928
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-8",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117906
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-10",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117906
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-12",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.73743632052857
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-1",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.7374363205261645
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-2",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.737436320528584
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-3",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.737436320528562
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-4",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.737436320528564
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-5",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.737436320528584
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-6",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.7374363205261645
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-7",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.73743632052857
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-8",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.7374363205285785
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-9",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.737436320528563
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-10",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.737436320528561
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-11",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.73743632052858
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Backplate-1",
+      "b": "R02 M4x20 live terminal screw",
+      "role_a": "closure",
+      "role_b": "rfhot",
+      "volume_mm3": 25.811385686136703
+    }
+  ],
+  "dimensions_mm": {
+    "center_magnet_diameter": 20,
+    "center_bore_diameter": 21,
+    "outer_magnet_diameter": 6,
+    "outer_bore_diameter": 6.4,
+    "outer_pcd": 58,
+    "coolant_inner_radius": 15.5,
+    "coolant_outer_radius": 20.5,
+    "coolant_depth": 7,
+    "coolant_axes_x": [
+      -18,
+      18
+    ],
+    "inner_seal_free_ID": 23,
+    "outer_seal_free_ID": 43,
+    "seal_cross_section": 2,
+    "gland_width": 2.85,
+    "gland_depth": 1.45
+  },
+  "analytic_lands_mm": {
+    "center_bore_to_inner_gland": 1.0,
+    "inner_gland_to_coolant": 1.1500000000000004,
+    "coolant_to_outer_gland": 1.0,
+    "outer_gland_to_outer_well": 1.4499999999999993,
+    "outer_well_to_backplate_edge": 3.55,
+    "center_bore_to_port_counterbore": 3.5250000000000004,
+    "center_pole_to_yoke_port_clearance": 1
+  },
+  "scope": "Mechanical concept; balance, cooling, pressure, seal reliability and RF performance not established.",
+  "step_reimport_valid_solids": {
+    "old": 129,
+    "new": 141
+  },
+  "contact_classification": [
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-6",
+      "b": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "role_a": "backbolts",
+      "role_b": "cooler",
+      "volume_mm3": 12.850690560015202,
+      "baseline_volume_mm3": 12.850690560014373,
+      "volume_change_mm3": 8.29558643999917e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-8",
+      "b": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "role_a": "backbolts",
+      "role_b": "cooler",
+      "volume_mm3": 12.850690560015208,
+      "baseline_volume_mm3": 12.850690560014367,
+      "volume_change_mm3": 8.402167850363185e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-9",
+      "b": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "role_a": "backbolts",
+      "role_b": "cooler",
+      "volume_mm3": 12.850690560015217,
+      "baseline_volume_mm3": 12.850690560014394,
+      "volume_change_mm3": 8.22453216642316e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-4",
+      "b": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "role_a": "backbolts",
+      "role_b": "cooler",
+      "volume_mm3": 12.85069056001519,
+      "baseline_volume_mm3": 12.85069056001438,
+      "volume_change_mm3": 8.100187187665142e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-5",
+      "b": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "role_a": "backbolts",
+      "role_b": "cooler",
+      "volume_mm3": 12.85069056001519,
+      "baseline_volume_mm3": 12.850690560014362,
+      "volume_change_mm3": 8.277822871605167e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-7",
+      "b": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "role_a": "backbolts",
+      "role_b": "cooler",
+      "volume_mm3": 12.850690560015195,
+      "baseline_volume_mm3": 12.850690560014373,
+      "volume_change_mm3": 8.22453216642316e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-10",
+      "b": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "role_a": "backbolts",
+      "role_b": "cooler",
+      "volume_mm3": 12.85069056001522,
+      "baseline_volume_mm3": 12.850690560014376,
+      "volume_change_mm3": 8.43769498715119e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-12",
+      "b": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "role_a": "backbolts",
+      "role_b": "cooler",
+      "volume_mm3": 12.850690560015193,
+      "baseline_volume_mm3": 12.85069056001437,
+      "volume_change_mm3": 8.242295734817162e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-11",
+      "b": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "role_a": "backbolts",
+      "role_b": "cooler",
+      "volume_mm3": 12.850690560015211,
+      "baseline_volume_mm3": 12.850690560014378,
+      "volume_change_mm3": 8.331113576787175e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M4x10 socket-head study-1",
+      "b": "01 Original cathode cooling and magnets-1/Backplate-1",
+      "role_a": "yokebolt",
+      "role_b": "closure",
+      "volume_mm3": 22.837275818921157,
+      "baseline_volume_mm3": 22.49379502212448,
+      "volume_change_mm3": 0.3434807967966762,
+      "classification": "Nominal screw/thread envelope; source .25mm bore-entry chamfer omitted in replacement study solid"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/AT M4x10 socket-head study-1",
+      "b": "01 Original cathode cooling and magnets-1/Magnet Joke-1",
+      "role_a": "yokebolt",
+      "role_b": "yoke",
+      "volume_mm3": 14.699855506944328,
+      "baseline_volume_mm3": 14.699855506943443,
+      "volume_change_mm3": 8.846257060213247e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-1",
+      "role_a": "cooler",
+      "role_b": "backbolts",
+      "volume_mm3": 12.850690560016057,
+      "baseline_volume_mm3": 12.850690560015478,
+      "volume_change_mm3": 5.790923296444817e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-3",
+      "role_a": "cooler",
+      "role_b": "backbolts",
+      "volume_mm3": 12.850690560016039,
+      "baseline_volume_mm3": 12.85069056001548,
+      "volume_change_mm3": 5.595524044110789e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-2",
+      "role_a": "cooler",
+      "role_b": "backbolts",
+      "volume_mm3": 12.850690560016057,
+      "baseline_volume_mm3": 12.850690560015485,
+      "volume_change_mm3": 5.719869022868806e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-2",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117882,
+      "baseline_volume_mm3": 11.82803971211734,
+      "volume_change_mm3": 5.417888360170764e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-6",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117928,
+      "baseline_volume_mm3": 11.82803971211737,
+      "volume_change_mm3": 5.577760475716786e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-9",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117917,
+      "baseline_volume_mm3": 11.828039712117356,
+      "volume_change_mm3": 5.613287612504791e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-3",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117917,
+      "baseline_volume_mm3": 11.828039712117357,
+      "volume_change_mm3": 5.595524044110789e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-11",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117919,
+      "baseline_volume_mm3": 11.828039712117379,
+      "volume_change_mm3": 5.400124791776761e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-12",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117926,
+      "baseline_volume_mm3": 11.828039712117373,
+      "volume_change_mm3": 5.524469770534779e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-7",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117919,
+      "baseline_volume_mm3": 11.828039712117382,
+      "volume_change_mm3": 5.364597654988756e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-4",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.82803971211788,
+      "baseline_volume_mm3": 11.82803971211734,
+      "volume_change_mm3": 5.400124791776761e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-1",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117928,
+      "baseline_volume_mm3": 11.82803971211738,
+      "volume_change_mm3": 5.471179065352771e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-5",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117928,
+      "baseline_volume_mm3": 11.828039712117382,
+      "volume_change_mm3": 5.453415496958769e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-8",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117906,
+      "baseline_volume_mm3": 11.828039712117354,
+      "volume_change_mm3": 5.524469770534779e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-10",
+      "role_a": "cooler",
+      "role_b": "headbolts",
+      "volume_mm3": 11.828039712117906,
+      "baseline_volume_mm3": 11.828039712117347,
+      "volume_change_mm3": 5.595524044110789e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-12",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.73743632052857,
+      "baseline_volume_mm3": 7.737436320528351,
+      "volume_change_mm3": 2.184918912462308e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-1",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.7374363205261645,
+      "baseline_volume_mm3": 7.737436320528357,
+      "volume_change_mm3": -2.192912518239609e-12,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-2",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.737436320528584,
+      "baseline_volume_mm3": 7.737436320528365,
+      "volume_change_mm3": 2.184918912462308e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-3",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.737436320528562,
+      "baseline_volume_mm3": 7.737436319587081,
+      "volume_change_mm3": 9.414806712015888e-10,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-4",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.737436320528564,
+      "baseline_volume_mm3": 7.737436319586684,
+      "volume_change_mm3": 9.41880351490454e-10,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-5",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.737436320528584,
+      "baseline_volume_mm3": 7.737436320528364,
+      "volume_change_mm3": 2.2026824808563106e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-6",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.7374363205261645,
+      "baseline_volume_mm3": 7.737436320528357,
+      "volume_change_mm3": -2.192912518239609e-12,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-7",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.73743632052857,
+      "baseline_volume_mm3": 7.737436320528351,
+      "volume_change_mm3": 2.184918912462308e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-8",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.7374363205285785,
+      "baseline_volume_mm3": 7.737436320528357,
+      "volume_change_mm3": 2.2115642650533118e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-9",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.737436320528563,
+      "baseline_volume_mm3": 7.7374363205283245,
+      "volume_change_mm3": 2.3803181647963356e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-10",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.737436320528561,
+      "baseline_volume_mm3": 7.737436320528333,
+      "volume_change_mm3": 2.2737367544323206e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+      "b": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-11",
+      "role_a": "cooler",
+      "role_b": "targetbolts",
+      "volume_mm3": 7.73743632052858,
+      "baseline_volume_mm3": 7.737436320528365,
+      "volume_change_mm3": 2.149391775674303e-13,
+      "classification": "Inherited nominal screw/thread envelope"
+    },
+    {
+      "a": "01 Original cathode cooling and magnets-1/Backplate-1",
+      "b": "R02 M4x20 live terminal screw",
+      "role_a": "closure",
+      "role_b": "rfhot",
+      "volume_mm3": 25.811385686136703,
+      "baseline_volume_mm3": 25.467904889340655,
+      "volume_change_mm3": 0.34348079679604737,
+      "classification": "Nominal screw/thread envelope; source .25mm bore-entry chamfer omitted in replacement study solid"
+    }
+  ],
+  "unexplained_changed_component_interferences": 0,
+  "naive_enlargement": {
+    "cooling_body_material_removed_by_D21_bore_mm3": 1494.1054686314287,
+    "backplate_material_removed_by_D21_bore_mm3": 2576.0417418291117
+  },
+  "outer_envelopes_preserved": true,
+  "new_annular_channel_volume_ml": 3.95840674352314,
+  "new_channel_solid_obstruction_mm3": 0.0,
+  "nearest_outer_well_to_backplate_counterbore_land_mm": 2.226685047159416,
+  "retained_component_instances": 104,
+  "changed_component_instances": 37
+}

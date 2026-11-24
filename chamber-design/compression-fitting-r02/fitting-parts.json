@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Adapter body with male thread",
+    "role": "body",
+    "color": [
+      0.56,
+      0.66,
+      0.74
+    ],
+    "note": "Catalogue envelope reference; male helix pitch2, major37 are illustrative, not manufacturer thread specification."
+  },
+  {
+    "name": "Threaded cap - separate moving part",
+    "role": "cap",
+    "color": [
+      0.72,
+      0.77,
+      0.8
+    ],
+    "note": "Female helix matched to illustrative2mm pitch. 4mm lift corresponds to two turns. Cap OD44 and details illustrative."
+  },
+  {
+    "name": "Compression follower",
+    "role": "follower",
+    "color": [
+      0.88,
+      0.66,
+      0.25
+    ],
+    "note": "Illustrative force-transmitting follower; actual supplier cross-section unverified."
+  },
+  {
+    "name": "Tube compression O ring",
+    "role": "tube_seal",
+    "color": [
+      0.13,
+      0.65,
+      0.42
+    ],
+    "note": "O-V120 free nominal25.07ID x2.62 section; installed/compressed geometry is explanatory, not validated seal design."
+  },
+  {
+    "name": "KF face seal / centering space",
+    "role": "kf_seal",
+    "color": [
+      0.16,
+      0.22,
+      0.26
+    ],
+    "note": "KF face seal separate from tube O-ring. Through-bore and actual centering-ring fit remain unresolved."
+  },
+  {
+    "name": "KF clamp left jaw",
+    "role": "clamp_left",
+    "color": [
+      0.4,
+      0.49,
+      0.57
+    ],
+    "note": "Functional split-clamp illustration; purchased clamp profile, hinge and fastener dimensions not qualified."
+  },
+  {
+    "name": "KF clamp right jaw",
+    "role": "clamp_right",
+    "color": [
+      0.4,
+      0.49,
+      0.57
+    ],
+    "note": "Functional split-clamp illustration; purchased clamp profile, hinge and fastener dimensions not qualified."
+  },
+  {
+    "name": "KF clamp wing screw",
+    "role": "clamp_bolt",
+    "color": [
+      0.55,
+      0.6,
+      0.65
+    ],
+    "note": "Illustrative clamp fastener; independent of compression cap."
+  },
+  {
+    "name": "KF clamp wing nut",
+    "role": "clamp_wing",
+    "color": [
+      0.68,
+      0.73,
+      0.77
+    ],
+    "note": "Turns to secure KF flange joint, not to grip gun tube."
+  },
+  {
+    "name": "KF clamp hinge pin",
+    "role": "clamp_pin",
+    "color": [
+      0.55,
+      0.6,
+      0.65
+    ],
+    "note": "Hinge axis for opening clamp jaws."
+  },
+  {
+    "name": "Cap rotation index mark",
+    "role": "cap_mark",
+    "color": [
+      0.98,
+      0.73,
+      0.25
+    ],
+    "note": "Visual index mark only, not an extra purchased component."
+  }
+]

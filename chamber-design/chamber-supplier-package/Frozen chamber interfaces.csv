@@ -1,0 +1,10 @@
+﻿Interface,Connection,X mm,Y mm,Z mm,Outward axis,Scope
+Gun mount,KF25; free passage forOD25.4 gun tube,0,0,330,+Z,Nominal neck bore27; complete centering hardware must permit tube passage
+Turbo inlet,ISO63-K,0,0,-45,-Z,Standard mating seal and4 double-claw clamps included
+Gas inlet,KF25,0,140.132,210,+Y,MFC/VCR adapter separately procured
+Pirani connection,KF25,-50,140.132,90,+Y,Gauge and elbow separate
+Penning connection,KF25,50,140.132,90,+Y,Gauge and elbow separate
+Right lower spare,KF25,140.132,0,75,+X,Blank cap/seal/clamp included
+Right upper spare,KF25,140.132,0,225,+X,Blank cap/seal/clamp included
+Viewport axis,Clear openingD70,0,-132,105,Y axis,"Coordinates use outer door plane, not a purchased viewport flange face"
+Shutter shaft axis,Nominal roof clearanceD6.8,-65,0,310,+Z,Preserve shaft axis and roof sealing land; actuator/seal belongs to subsystem4

@@ -1,0 +1,1034 @@
+[
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-10",
+    "file": "AT outer magnet D8x20 N45.SLDPRT",
+    "net": "outermag",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "outermag"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-6",
+    "file": "AT outer magnet D8x20 N45.SLDPRT",
+    "net": "outermag",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "outermag"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-6",
+    "file": "AT M3x16 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "backbolts"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-8",
+    "file": "AT M3x16 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "backbolts"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-9",
+    "file": "AT M3x16 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "backbolts"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-5",
+    "file": "AT outer magnet D8x20 N45.SLDPRT",
+    "net": "outermag",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "outermag"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-7",
+    "file": "AT outer magnet D8x20 N45.SLDPRT",
+    "net": "outermag",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "outermag"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-4",
+    "file": "AT M3x16 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "backbolts"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-9",
+    "file": "AT outer magnet D8x20 N45.SLDPRT",
+    "net": "outermag",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "outermag"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-5",
+    "file": "AT M3x16 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "backbolts"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-7",
+    "file": "AT M3x16 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "backbolts"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-8",
+    "file": "AT outer magnet D8x20 N45.SLDPRT",
+    "net": "outermag",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "outermag"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-10",
+    "file": "AT M3x16 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "backbolts"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/REF coolant push-in fitting body-2",
+    "file": "REF coolant push-in fitting body.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "fittings"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-12",
+    "file": "AT outer magnet D8x20 N45.SLDPRT",
+    "net": "outermag",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "outermag"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/REF coolant push-in fitting body-1",
+    "file": "REF coolant push-in fitting body.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "fittings"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-11",
+    "file": "AT outer magnet D8x20 N45.SLDPRT",
+    "net": "outermag",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "outermag"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-12",
+    "file": "AT M3x16 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "backbolts"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/REF coolant fitting blue release collar-2",
+    "file": "REF coolant fitting blue release collar.SLDPRT",
+    "net": "insulator",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "fittings"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-11",
+    "file": "AT M3x16 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "backbolts"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/REF coolant fitting blue release collar-1",
+    "file": "REF coolant fitting blue release collar.SLDPRT",
+    "net": "insulator",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "fittings"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT O-ring ID35x2 installed-1",
+    "file": "AT O-ring ID35x2 installed.SLDPRT",
+    "net": "seal",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "waterseal"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-1",
+    "file": "AT outer magnet D8x20 N45.SLDPRT",
+    "net": "outermag",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "outermag"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT M4x10 socket-head study-1",
+    "file": "AT M4x10 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "yokebolt"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT O-ring ID14p5x2 installed-1",
+    "file": "AT O-ring ID14p5x2 installed.SLDPRT",
+    "net": "seal",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "waterseal"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+    "file": "Kuehlkoerper.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "cooler"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/Backplate-1",
+    "file": "Backplate.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "closure"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/Magnet Joke-1",
+    "file": "Magnet Joke.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "yoke"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT center magnet D12x10 N45-1",
+    "file": "AT center magnet D12x10 N45.SLDPRT",
+    "net": "centermag",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "centermag"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-1",
+    "file": "AT M3x16 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "backbolts"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT center magnet D12x10 N45-2",
+    "file": "AT center magnet D12x10 N45.SLDPRT",
+    "net": "centermag",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "centermag"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-3",
+    "file": "AT M3x16 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "backbolts"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-3",
+    "file": "AT outer magnet D8x20 N45.SLDPRT",
+    "net": "outermag",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "outermag"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-4",
+    "file": "AT outer magnet D8x20 N45.SLDPRT",
+    "net": "outermag",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "outermag"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-2",
+    "file": "AT M3x16 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "backbolts"
+  },
+  {
+    "name": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-2",
+    "file": "AT outer magnet D8x20 N45.SLDPRT",
+    "net": "outermag",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "outermag"
+  },
+  {
+    "name": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-2",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "headbolts"
+  },
+  {
+    "name": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-6",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "headbolts"
+  },
+  {
+    "name": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-9",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "headbolts"
+  },
+  {
+    "name": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-3",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "headbolts"
+  },
+  {
+    "name": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-11",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "headbolts"
+  },
+  {
+    "name": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-12",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "headbolts"
+  },
+  {
+    "name": "02 Original spacer and copper attachment-1/AT O-ring ID76x2 installed-1",
+    "file": "AT O-ring ID76x2 installed.SLDPRT",
+    "net": "seal",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "headseal"
+  },
+  {
+    "name": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-7",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "headbolts"
+  },
+  {
+    "name": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-4",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "headbolts"
+  },
+  {
+    "name": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-1",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "headbolts"
+  },
+  {
+    "name": "02 Original spacer and copper attachment-1/Abstandshalter-1",
+    "file": "Abstandshalter.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "spacer"
+  },
+  {
+    "name": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-5",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "headbolts"
+  },
+  {
+    "name": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-8",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "headbolts"
+  },
+  {
+    "name": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-10",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "headbolts"
+  },
+  {
+    "name": "07 Reference atmospheric utility routes-1/REF blue coolant hose right-1",
+    "file": "REF blue coolant hose right.SLDPRT",
+    "net": "water",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "hoses"
+  },
+  {
+    "name": "07 Reference atmospheric utility routes-1/REF blue coolant hose left-1",
+    "file": "REF blue coolant hose left.SLDPRT",
+    "net": "water",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "hoses"
+  },
+  {
+    "name": "06 Original clamp and reference KF16 tube-1/AT original flange clamp half-2",
+    "file": "AT original flange clamp half.SLDPRT",
+    "net": "ground",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "kfclamps"
+  },
+  {
+    "name": "06 Original clamp and reference KF16 tube-1/AT original flange clamp half-1",
+    "file": "AT original flange clamp half.SLDPRT",
+    "net": "ground",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "kfclamps"
+  },
+  {
+    "name": "06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-1",
+    "file": "AT M5x20 socket-head study.SLDPRT",
+    "net": "ground",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "kfbolts"
+  },
+  {
+    "name": "06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-4",
+    "file": "AT M5x20 socket-head study.SLDPRT",
+    "net": "ground",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "kfbolts"
+  },
+  {
+    "name": "06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-5",
+    "file": "AT M5x20 socket-head study.SLDPRT",
+    "net": "ground",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "kfbolts"
+  },
+  {
+    "name": "06 Original clamp and reference KF16 tube-1/REF KF16 centering ring fitted-1",
+    "file": "REF KF16 centering ring fitted.SLDPRT",
+    "net": "ground",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "kfcenter"
+  },
+  {
+    "name": "06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-6",
+    "file": "AT M5x20 socket-head study.SLDPRT",
+    "net": "ground",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "kfbolts"
+  },
+  {
+    "name": "06 Original clamp and reference KF16 tube-1/REF KF16 O-ring installed envelope-1",
+    "file": "REF KF16 O-ring installed envelope.SLDPRT",
+    "net": "seal",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "kfseal"
+  },
+  {
+    "name": "06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-3",
+    "file": "AT M5x20 socket-head study.SLDPRT",
+    "net": "ground",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "kfbolts"
+  },
+  {
+    "name": "06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-2",
+    "file": "AT M5x20 socket-head study.SLDPRT",
+    "net": "ground",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "kfbolts"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-11",
+    "file": "R03 One piece PTFE outward lip cup.STEP",
+    "net": "insulator",
+    "kind": "R03 proposed update",
+    "note": "One-piece PTFE sleeve, shoulder, guard and radial lip; captured by metal screw. No arc-free rating.",
+    "role": "cups"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-11",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "R03 proposed update",
+    "note": "Original M3x35 study screw moved1mm rearward for2.5mm PTFE bearing shoulder. Nominal source entry5.5mm includes chamfer.",
+    "role": "basebolts"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-10",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "R03 proposed update",
+    "note": "Original M3x35 study screw moved1mm rearward for2.5mm PTFE bearing shoulder. Nominal source entry5.5mm includes chamfer.",
+    "role": "basebolts"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-12",
+    "file": "R03 One piece PTFE outward lip cup.STEP",
+    "net": "insulator",
+    "kind": "R03 proposed update",
+    "note": "One-piece PTFE sleeve, shoulder, guard and radial lip; captured by metal screw. No arc-free rating.",
+    "role": "cups"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-12",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "R03 proposed update",
+    "note": "Original M3x35 study screw moved1mm rearward for2.5mm PTFE bearing shoulder. Nominal source entry5.5mm includes chamfer.",
+    "role": "basebolts"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-4",
+    "file": "R03 One piece PTFE outward lip cup.STEP",
+    "net": "insulator",
+    "kind": "R03 proposed update",
+    "note": "One-piece PTFE sleeve, shoulder, guard and radial lip; captured by metal screw. No arc-free rating.",
+    "role": "cups"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-7",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "R03 proposed update",
+    "note": "Original M3x35 study screw moved1mm rearward for2.5mm PTFE bearing shoulder. Nominal source entry5.5mm includes chamfer.",
+    "role": "basebolts"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-5",
+    "file": "R03 One piece PTFE outward lip cup.STEP",
+    "net": "insulator",
+    "kind": "R03 proposed update",
+    "note": "One-piece PTFE sleeve, shoulder, guard and radial lip; captured by metal screw. No arc-free rating.",
+    "role": "cups"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-9",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "R03 proposed update",
+    "note": "Original M3x35 study screw moved1mm rearward for2.5mm PTFE bearing shoulder. Nominal source entry5.5mm includes chamfer.",
+    "role": "basebolts"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-6",
+    "file": "R03 One piece PTFE outward lip cup.STEP",
+    "net": "insulator",
+    "kind": "R03 proposed update",
+    "note": "One-piece PTFE sleeve, shoulder, guard and radial lip; captured by metal screw. No arc-free rating.",
+    "role": "cups"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-10",
+    "file": "R03 One piece PTFE outward lip cup.STEP",
+    "net": "insulator",
+    "kind": "R03 proposed update",
+    "note": "One-piece PTFE sleeve, shoulder, guard and radial lip; captured by metal screw. No arc-free rating.",
+    "role": "cups"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-8",
+    "file": "R03 One piece PTFE outward lip cup.STEP",
+    "net": "insulator",
+    "kind": "R03 proposed update",
+    "note": "One-piece PTFE sleeve, shoulder, guard and radial lip; captured by metal screw. No arc-free rating.",
+    "role": "cups"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-4",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "R03 proposed update",
+    "note": "Original M3x35 study screw moved1mm rearward for2.5mm PTFE bearing shoulder. Nominal source entry5.5mm includes chamfer.",
+    "role": "basebolts"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-3",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "R03 proposed update",
+    "note": "Original M3x35 study screw moved1mm rearward for2.5mm PTFE bearing shoulder. Nominal source entry5.5mm includes chamfer.",
+    "role": "basebolts"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-5",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "R03 proposed update",
+    "note": "Original M3x35 study screw moved1mm rearward for2.5mm PTFE bearing shoulder. Nominal source entry5.5mm includes chamfer.",
+    "role": "basebolts"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-6",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "R03 proposed update",
+    "note": "Original M3x35 study screw moved1mm rearward for2.5mm PTFE bearing shoulder. Nominal source entry5.5mm includes chamfer.",
+    "role": "basebolts"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-7",
+    "file": "R03 One piece PTFE outward lip cup.STEP",
+    "net": "insulator",
+    "kind": "R03 proposed update",
+    "note": "One-piece PTFE sleeve, shoulder, guard and radial lip; captured by metal screw. No arc-free rating.",
+    "role": "cups"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-8",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "R03 proposed update",
+    "note": "Original M3x35 study screw moved1mm rearward for2.5mm PTFE bearing shoulder. Nominal source entry5.5mm includes chamfer.",
+    "role": "basebolts"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-9",
+    "file": "R03 One piece PTFE outward lip cup.STEP",
+    "net": "insulator",
+    "kind": "R03 proposed update",
+    "note": "One-piece PTFE sleeve, shoulder, guard and radial lip; captured by metal screw. No arc-free rating.",
+    "role": "cups"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/Isolator-1",
+    "file": "Isolator.SLDPRT",
+    "net": "insulator",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "isolator"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT O-ring ID62x2 installed-1",
+    "file": "AT O-ring ID62x2 installed.SLDPRT",
+    "net": "seal",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "upper62"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-1",
+    "file": "R03 One piece PTFE outward lip cup.STEP",
+    "net": "insulator",
+    "kind": "R03 proposed update",
+    "note": "One-piece PTFE sleeve, shoulder, guard and radial lip; captured by metal screw. No arc-free rating.",
+    "role": "cups"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-1",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "R03 proposed update",
+    "note": "Original M3x35 study screw moved1mm rearward for2.5mm PTFE bearing shoulder. Nominal source entry5.5mm includes chamfer.",
+    "role": "basebolts"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-2",
+    "file": "R03 One piece PTFE outward lip cup.STEP",
+    "net": "insulator",
+    "kind": "R03 proposed update",
+    "note": "One-piece PTFE sleeve, shoulder, guard and radial lip; captured by metal screw. No arc-free rating.",
+    "role": "cups"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-2",
+    "file": "AT M3x35 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "R03 proposed update",
+    "note": "Original M3x35 study screw moved1mm rearward for2.5mm PTFE bearing shoulder. Nominal source entry5.5mm includes chamfer.",
+    "role": "basebolts"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT O-ring ID62x2 installed-2",
+    "file": "AT O-ring ID62x2 installed.SLDPRT",
+    "net": "seal",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "lower62"
+  },
+  {
+    "name": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-3",
+    "file": "R03 One piece PTFE outward lip cup.STEP",
+    "net": "insulator",
+    "kind": "R03 proposed update",
+    "note": "One-piece PTFE sleeve, shoulder, guard and radial lip; captured by metal screw. No arc-free rating.",
+    "role": "cups"
+  },
+  {
+    "name": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-12",
+    "file": "AT M3x8 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "targetbolts"
+  },
+  {
+    "name": "04 Original target clamp and fitted target-1/Target Klemme-1",
+    "file": "Target Klemme.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "clamp"
+  },
+  {
+    "name": "04 Original target clamp and fitted target-1/AT titanium target D50p8x2 fitted-1",
+    "file": "AT titanium target D50p8x2 fitted.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "target"
+  },
+  {
+    "name": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-1",
+    "file": "AT M3x8 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "targetbolts"
+  },
+  {
+    "name": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-2",
+    "file": "AT M3x8 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "targetbolts"
+  },
+  {
+    "name": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-3",
+    "file": "AT M3x8 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "targetbolts"
+  },
+  {
+    "name": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-4",
+    "file": "AT M3x8 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "targetbolts"
+  },
+  {
+    "name": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-5",
+    "file": "AT M3x8 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "targetbolts"
+  },
+  {
+    "name": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-6",
+    "file": "AT M3x8 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "targetbolts"
+  },
+  {
+    "name": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-7",
+    "file": "AT M3x8 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "targetbolts"
+  },
+  {
+    "name": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-8",
+    "file": "AT M3x8 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "targetbolts"
+  },
+  {
+    "name": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-9",
+    "file": "AT M3x8 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "targetbolts"
+  },
+  {
+    "name": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-10",
+    "file": "AT M3x8 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "targetbolts"
+  },
+  {
+    "name": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-11",
+    "file": "AT M3x8 socket-head study.SLDPRT",
+    "net": "live",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "targetbolts"
+  },
+  {
+    "name": "05 Original grounded shield-1/AT M3x6 socket-head study-5",
+    "file": "AT M3x6 socket-head study.SLDPRT",
+    "net": "ground",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "upperbolts"
+  },
+  {
+    "name": "05 Original grounded shield-1/Dunkelraumabschirmung-1",
+    "file": "Dunkelraumabschirmung.SLDPRT",
+    "net": "ground",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "darkcap"
+  },
+  {
+    "name": "05 Original grounded shield-1/AT M3x6 socket-head study-1",
+    "file": "AT M3x6 socket-head study.SLDPRT",
+    "net": "ground",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "upperbolts"
+  },
+  {
+    "name": "05 Original grounded shield-1/AT M3x6 socket-head study-2",
+    "file": "AT M3x6 socket-head study.SLDPRT",
+    "net": "ground",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "upperbolts"
+  },
+  {
+    "name": "05 Original grounded shield-1/AT M3x6 socket-head study-3",
+    "file": "AT M3x6 socket-head study.SLDPRT",
+    "net": "ground",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "upperbolts"
+  },
+  {
+    "name": "05 Original grounded shield-1/AT M3x6 socket-head study-4",
+    "file": "AT M3x6 socket-head study.SLDPRT",
+    "net": "ground",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "upperbolts"
+  },
+  {
+    "name": "05 Original grounded shield-1/Groundshield Rohr-1",
+    "file": "Groundshield Rohr.SLDPRT",
+    "net": "ground",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "shieldtube"
+  },
+  {
+    "name": "05 Original grounded shield-1/AT M4x8 socket-head study-2",
+    "file": "AT M4x8 socket-head study.SLDPRT",
+    "net": "ground",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "lowerbolts"
+  },
+  {
+    "name": "05 Original grounded shield-1/AT M3x6 socket-head study-6",
+    "file": "AT M3x6 socket-head study.SLDPRT",
+    "net": "ground",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "upperbolts"
+  },
+  {
+    "name": "05 Original grounded shield-1/AT M4x8 socket-head study-1",
+    "file": "AT M4x8 socket-head study.SLDPRT",
+    "net": "ground",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "lowerbolts"
+  },
+  {
+    "name": "05 Original grounded shield-1/AT M4x8 socket-head study-3",
+    "file": "AT M4x8 socket-head study.SLDPRT",
+    "net": "ground",
+    "kind": "source retained",
+    "note": "Source geometry retained; original reconstruction assumptions still apply.",
+    "role": "lowerbolts"
+  },
+  {
+    "name": "R02 Boden - internal blind ground anchor",
+    "file": "R03 Boden - twelve D12 cup pockets.STEP",
+    "net": "ground",
+    "kind": "R03 proposed update",
+    "note": "R02 base and blind RF ground anchor retained; twelve screw head pockets enlarged to12mm, original seating floors retained.",
+    "role": "base"
+  },
+  {
+    "name": "R02 KF16 neck to one inch service tube",
+    "file": "R02 KF16 neck to one inch service tube.SLDPRT",
+    "net": "ground",
+    "kind": "R02 new / modified",
+    "note": "D30 KF16 capture retained through D20x16 neck toY-95. Taper to25.4OD22.4ID byY-103; service endY-278. Length reference only; finish smooth for sliding gland. Chamber gland not modeled.",
+    "role": "kftube"
+  },
+  {
+    "name": "REF icotek SKL3-6 36202 installed study",
+    "file": "REF icotek SKL3-6 36202 installed study.SLDPRT",
+    "net": "ground",
+    "kind": "R02 new / modified",
+    "note": "Published envelope8x11.8x13.6mm,3-6mm shield range,3.2mm mounting hole. Formed spring shape is representative. Nominal jaw overlap represents spring contact; not a spring simulation or certified vendor model.",
+    "role": "rfground"
+  },
+  {
+    "name": "R02 Ground carrier and conformal saddle",
+    "file": "R02 Ground carrier and conformal saddle.SLDPRT",
+    "net": "ground",
+    "kind": "R02 new / modified",
+    "note": "Custom conductive carrier,0.8mm nominal thickness,12.4x9 landing and8mm tab. Saddle follows original Boden inner cone; flat anchor pad and5.8mm head-access relief. Two3.2mm clearance holes. Material and surface preparation to qualify.",
+    "role": "rfground"
+  },
+  {
+    "name": "R02 M3x4 clamp mounting screw",
+    "file": "R02 M3x4 clamp mounting screw.SLDPRT",
+    "net": "ground",
+    "kind": "R02 new / modified",
+    "note": "Simplified nominal M3x4 socket-head screw; no hex socket or thread helix.",
+    "role": "rfground"
+  },
+  {
+    "name": "R02 M3 clamp nut envelope",
+    "file": "R02 M3 clamp nut envelope.SLDPRT",
+    "net": "ground",
+    "kind": "R02 new / modified",
+    "note": "Round circumscribed packaging envelope forM3 nut; no thread helix.",
+    "role": "rfground"
+  },
+  {
+    "name": "R02 M3x6 blind ground anchor screw",
+    "file": "R02 M3x6 blind ground anchor screw.SLDPRT",
+    "net": "ground",
+    "kind": "R02 new / modified",
+    "note": "Nominal6mm under-head length through2.6mm carrier seat into Boden pilot:3.4mm nominal engagement,0.6mm margin to4mm pilot bottom. Intentional nominal shaft/thread-minor overlap. Torque and engagement need release review.",
+    "role": "rfground"
+  },
+  {
+    "name": "R02 Copper terminal stand-off D6p5 L12p5",
+    "file": "R02 Copper terminal stand-off D6p5 L12p5.SLDPRT",
+    "net": "live",
+    "kind": "R02 new / modified",
+    "note": "OD6.5 ID4.3x12.5; passes existing yokeD8 terminal passage and contacts copper Backplate atY-22.5. Rear faceY-35.",
+    "role": "rfhot"
+  },
+  {
+    "name": "R02 M4x20 live terminal screw",
+    "file": "R02 M4x20 live terminal screw.SLDPRT",
+    "net": "live",
+    "kind": "R02 new / modified",
+    "note": "Nominal socket head and major shaft. UnderheadY-35.79, tipY-15.79;6.71mm nominal copper engagement and1.29mm margin to source thread-bore endY-14.5. No thread strength qualification.",
+    "role": "rfhot"
+  },
+  {
+    "name": "REF TE323086 M4 ring terminal study",
+    "file": "REF TE323086 M4 ring terminal study.SLDPRT",
+    "net": "live",
+    "kind": "R02 new / modified",
+    "note": "Principal dimensions fromTE323086: length16.59,eyeOD8.74,eyeID4.34,tab0.79,barrelID1.55,22-16AWG. Neck/barrel formed details are representative; uncrimped bore is not a contact simulation. Barrel points toward cable entry, avoiding a return loop.",
+    "role": "rfhot"
+  },
+  {
+    "name": "R02 Continuous coax outer jacket",
+    "file": "R02 Continuous coax outer jacket.SLDPRT",
+    "net": "jacket",
+    "kind": "R02 new / modified",
+    "note": "5mm overall cable study allowance. Smooth S offset after KF16 throat,minimum nominal cable centerline radius25.4mm. No second coax or gun-end SMA.",
+    "role": "coax"
+  },
+  {
+    "name": "R02 Continuous coax shield",
+    "file": "R02 Continuous coax shield.SLDPRT",
+    "net": "ground",
+    "kind": "R02 new / modified",
+    "note": "3.7mm shield OD and3.2mm dielectric allowance. Exposed shield bandY-53.5 to-44.5; spring clamp contact is nominal. Cable shield ends on ground side. Actual cable construction and RF rating pending.",
+    "role": "coax"
+  },
+  {
+    "name": "R02 Continuous center dielectric",
+    "file": "R02 Continuous center dielectric.SLDPRT",
+    "net": "insulator",
+    "kind": "R02 new / modified",
+    "note": "Continuous inner dielectric to1mm outside lug mouth; selected cable and bend suitability pending.",
+    "role": "coax"
+  },
+  {
+    "name": "R02 RF center conductor",
+    "file": "R02 RF center conductor.SLDPRT",
+    "net": "live",
+    "kind": "R02 new / modified",
+    "note": "0.9mm nominal center conductor; terminal insertion shown inside uncrimped lug. Actual crimp and electrical suitability not simulated.",
+    "role": "coax"
+  },
+  {
+    "name": "R02 Additional dielectric guard sleeve",
+    "file": "R02 Additional dielectric guard sleeve.SLDPRT",
+    "net": "insulator",
+    "kind": "R02 new / modified",
+    "note": "Illustrative added dielectric guard beyond shield termination. Material, thickness, voltage rating and retention to qualify.",
+    "role": "coax"
+  }
+]

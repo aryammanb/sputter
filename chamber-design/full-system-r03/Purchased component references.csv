@@ -1,0 +1,17 @@
+Component,Quantity,Reference or interface,Selection status,Geometry status
+Turbo pump,1,Edwards EXT70 ISO63,User selected,Exterior reconstructed from Edwards dimension drawing
+Mechanical backing pump,1,Edwards RV3 IdealVac P101919,Model reference only; not a purchase selection,Supplier STEP imported; pre-existing topology defect documented
+Turbo inlet seal,1,ISO63 centering seal,Interface selected,Nominal envelope
+Turbo inlet clamps,4,ISO63 double claw clamps,Interface selected; exact hardware pending,Nominal envelope; rated fixing not qualified
+Foreline adapter,1,KF16 to KF25,Required for standard EXT70 KF16 outlet; omit for confirmed KF25 variant,Reference envelope
+Flexible backing hose,1,KF25 ends; routed centreline640.298 mm,User requested KF25 hose; commercial length and bend rating pending,Nominal routing with64 visual corrugations
+Pirani gauge,1,KF25 gauge,Make/model not specified,Generic envelope
+Penning gauge,1,KF25 cold-cathode gauge,Make/model not specified,Generic envelope
+Gauge elbows,2,KF25 90 degree R25 reference,Layout choice; purchased dimensions pending,Nominal envelope
+MFC,1,HORIBA SEC-E440J style; male1/4 VCR both ends,User assumption on ports; model not a confirmed purchase,124 face-to-face /38 width /115 height reference
+Chamber to MFC adapter,1,KF25 to female1/4 VCR,Interface selected,Nominal envelope
+MFC inlet adapter,1,Female1/4 VCR assembly to1/4 female NPT,Prior chat reference SS-4-WVCR-7-4 body plus mating nut/gland,Functional assembly envelope
+VCR gaskets,2,Compatible1/4 VCR metal gasket,Exact gasket specification pending,Nominal envelope
+Push fitting,1,1/4 male NPT x6mm OD tube; Amazon B09H4RL894,Selected in prior chat; ratings unverified,Reference envelope; no tubing beyond collet
+Gun compression adapter,1,Lesker QF25XVC100 reference; eBay198508082866 purchase,User selected procurement direction,Refined separate illustrative body cap follower and O-ring
+Spare-port blank caps,2,KF25,Layout choice,Nominal envelope

@@ -1,0 +1,11 @@
+F01-001 Copper cooling body RevB | volume_mm3=28452.576188446 | box_m=0,-0.041,-0.041,0.00700000000000001,0.041,0.041
+F01-002 Coolant cover RevB | volume_mm3=15770.952200653 | box_m=-0.011,-0.041,-0.041,0,0.041,0.041
+F01-003 Outer magnet D8x20 candidate | volume_mm3=1005.309649149 | box_m=-0.017,-0.004,-0.004,0.003,0.004,0.004
+F01-004 Center magnet D12x10 candidate | volume_mm3=1130.973355292 | box_m=-0.017,-0.006,-0.006,-0.007,0.006,0.006
+F01-005 Steel return yoke RevB | volume_mm3=24112.556138355 | box_m=-0.022,-0.041,-0.041,-0.017,0.041,0.041
+F01-006 Dry magnet locator RevB | volume_mm3=7115.258142468 | box_m=-0.017,-0.032,-0.032,-0.014,0.032,0.032
+F01-007 Yoke spacer L14 RevB | volume_mm3=268.731835588 | box_m=-0.017,-0.003,-0.003,-0.003,0.003,0.003
+REF Fitting route D16x30 | volume_mm3=6031.857894892 | box_m=-0.041,-0.008,-0.008,-0.011,0.008,0.008
+F01 Magnetic cooling head RevB | components=15 | volumetric_interferences=0 (coincidences ignored)
+F01 RevB utility clearance check | components=17 | volumetric_interferences=0 (coincidences ignored)
+F01 RevB exploded inspection | components=15 | volumetric_interferences=0 (coincidences ignored)

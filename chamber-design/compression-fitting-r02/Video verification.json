@@ -1,0 +1,56 @@
+{
+  "duration_seconds": 167.99999999999997,
+  "chapters": [
+    [
+      0,
+      "Two different connections"
+    ],
+    [
+      24.25,
+      "Seat the fitting on the KF flange"
+    ],
+    [
+      42.25,
+      "Close the KF clamp"
+    ],
+    [
+      59.91666666666667,
+      "Feed the tube through the loose fitting"
+    ],
+    [
+      77.25,
+      "Choose the target to substrate distance"
+    ],
+    [
+      95.75,
+      "Thread the cap down to grip the tube"
+    ],
+    [
+      123.33333333333333,
+      "Section view of the compression mechanism"
+    ],
+    [
+      145.83333333333331,
+      "Loosen, reposition, retighten"
+    ]
+  ],
+  "fps": 12,
+  "resolution": [
+    1600,
+    900
+  ],
+  "video": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\chamber-design\\compression-fitting-r02\\Gun compression fitting - assembly and adjustment.mp4",
+  "full_audio_video_decode_passed": true,
+  "embedded_chapters": 8,
+  "subtitle_codec": "mov_text",
+  "narration_rms": [
+    3020.8750013871286,
+    3102.8030881405343,
+    2971.612413385769,
+    3078.0641512905127,
+    3089.812100429902,
+    3102.11005590066,
+    3137.31102100137,
+    2972.9389254258285
+  ]
+}

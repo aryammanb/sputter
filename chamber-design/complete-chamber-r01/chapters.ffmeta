@@ -1,0 +1,47 @@
+;FFMETADATA1
+title=Sputter chamber R01 - dimensioned CAD walkthrough
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=34250
+title=Complete chamber and design basis
+[CHAPTER]
+TIMEBASE=1/1000
+START=34250
+END=75750
+title=Box, front door and viewport
+[CHAPTER]
+TIMEBASE=1/1000
+START=75750
+END=117875
+title=Ports and the ISO63 pump connection
+[CHAPTER]
+TIMEBASE=1/1000
+START=117875
+END=161500
+title=Gun mount and actual insertion geometry
+[CHAPTER]
+TIMEBASE=1/1000
+START=161500
+END=200375
+title=Substrate stage and pump shield
+[CHAPTER]
+TIMEBASE=1/1000
+START=200375
+END=238625
+title=Target to substrate adjustment
+[CHAPTER]
+TIMEBASE=1/1000
+START=238625
+END=279125
+title=Bent shutter and exact drop
+[CHAPTER]
+TIMEBASE=1/1000
+START=279125
+END=321875
+title=Shutter rotation and clearance checks
+[CHAPTER]
+TIMEBASE=1/1000
+START=321875
+END=365125
+title=What is fixed and what needs verification

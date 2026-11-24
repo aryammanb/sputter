@@ -1,0 +1,16 @@
+{
+  "step_reimport": {
+    "Complete chamber - door closed shutter closed.step": {
+      "valid_solids": 198,
+      "all_valid": true
+    },
+    "Complete chamber - door open shutter parked.step": {
+      "valid_solids": 198,
+      "all_valid": true
+    }
+  },
+  "source_target_face_y": [
+    2.0
+  ],
+  "bent_shutter_single_valid_solid": true
+}

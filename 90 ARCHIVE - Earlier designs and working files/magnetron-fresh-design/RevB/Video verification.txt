@@ -1,0 +1,6 @@
+Full video/audio decode: PASS
+Actual RevB CAD tessellation:15 instances
+Video:1600x900 at15fps
+Narration, optional subtitles and8 chapters present
+Runtime:190.133 seconds
+File bytes:20174561

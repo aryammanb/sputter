@@ -1,0 +1,15 @@
+{
+  "name": "fine",
+  "near_size_mm": 1.2,
+  "outer_boundary_halfwidth_mm": 80.0,
+  "vertices": 114336,
+  "tetrahedra": 708128,
+  "material_tetrahedra": {
+    "1": 576801,
+    "2": 96538,
+    "3": 14524,
+    "4": 20265
+  },
+  "seconds": 31.041008700150996,
+  "geometry": "Exact proposed yoke STEP;13 contiguous magnet cylinders representing26 stacked discs; nonmagnetic target D50.8x2. CAD Y -> simulation Z. Nonmagnetic copper/water/insulation have mu_r=1 and are magnetostatically part of surrounding domain."
+}

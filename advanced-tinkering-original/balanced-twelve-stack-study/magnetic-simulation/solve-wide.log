@@ -1,0 +1,8 @@
+Transforming over 1000 vertices to C_CONTIGUOUS.
+Transforming over 1000 elements to C_CONTIGUOUS.
+wide nominal {"iteration": 1, "linear_iterations": 23, "linear_residual": 1.119815856847548e-09, "nonlinear_residual_before": 1.0, "nonlinear_residual_after": 0.10448632789799052, "line_search_alpha": 1.0}
+wide nominal {"iteration": 2, "linear_iterations": 22, "linear_residual": 8.099731722023118e-10, "nonlinear_residual_before": 0.10448632789799052, "nonlinear_residual_after": 0.018216787416309915, "line_search_alpha": 1.0}
+wide nominal {"iteration": 3, "linear_iterations": 22, "linear_residual": 6.071271172544414e-10, "nonlinear_residual_before": 0.018216787416309915, "nonlinear_residual_after": 0.0008812100089544849, "line_search_alpha": 1.0}
+wide nominal {"iteration": 4, "linear_iterations": 21, "linear_residual": 1.7485597898621695e-09, "nonlinear_residual_before": 0.0008812100089544849, "nonlinear_residual_after": 3.7345781845191654e-06, "line_search_alpha": 1.0}
+wide nominal {"iteration": 5, "linear_iterations": 21, "linear_residual": 8.838998215179036e-10, "nonlinear_residual_before": 3.7345781845191654e-06, "nonlinear_residual_after": 1.502106529829769e-11, "line_search_alpha": 1.0}
+SAVED wide_nominal

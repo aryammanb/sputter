@@ -1,0 +1,12 @@
+ARCHIVE - EARLIER DESIGNS AND WORKING FILES
+
+These files were grouped here on 24 November 2026.
+The main project is the updated Advanced Tinkering twelve-stack design.
+Start at the sputter folder's "00 START HERE - Main design.txt".
+
+The old root-level layout is preserved inside this archive, including the
+separate fresh-design branch, KF25/R02-R09 iterations and old working BOM.
+These are historical references, not the current design or current BOM.
+Legacy scripts may contain absolute references to their former locations.
+Use the organization manifest in the main-design folder to map those paths.
+No archived files were deleted or overwritten.

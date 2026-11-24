@@ -1,0 +1,42 @@
+;FFMETADATA1
+title=Cooling body and cover - assembly walkthrough
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=18133
+title=Two parts, one cooling enclosure
+[CHAPTER]
+TIMEBASE=1/1000
+START=18133
+END=37533
+title=Inspect the mating faces
+[CHAPTER]
+TIMEBASE=1/1000
+START=37533
+END=57800
+title=Position the seals
+[CHAPTER]
+TIMEBASE=1/1000
+START=57800
+END=80267
+title=Align the cover
+[CHAPTER]
+TIMEBASE=1/1000
+START=80267
+END=102267
+title=Close the mating faces
+[CHAPTER]
+TIMEBASE=1/1000
+START=102267
+END=123467
+title=Connect with six screws
+[CHAPTER]
+TIMEBASE=1/1000
+START=123467
+END=146400
+title=Follow the internal water route
+[CHAPTER]
+TIMEBASE=1/1000
+START=146400
+END=172467
+title=The assembled pair

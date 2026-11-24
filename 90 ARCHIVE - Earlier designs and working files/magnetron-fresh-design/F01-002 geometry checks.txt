@@ -1,0 +1,12 @@
+Single solid: PASS
+Analytic volume: PASS
+Volume mm3: 12832.683817
+Expected mm3: 12832.683817
+Bounding box m: -0.011, -0.035, -0.035, 0, 0.035, 0.035
+Cover hole centers match Part01 PCD64: PASS by identical coordinate definitions
+Port axes match C-channel cap centers: PASS by identical coordinate definitions
+Minimum bridge-to-slot side ligament mm:0.7
+Slot end to circular gland boundary mm:0.7
+Boss outside separation mm:4
+Hole edge to outer gland radius mm:1.0
+These are nominal geometry checks; no pressure, leak, bypass, thermal or electrical qualification.

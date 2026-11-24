@@ -1,0 +1,27 @@
+,,,,,,,,,
+09 Turbo water cooling,,,,,,,,,
+,,,,,,,,,
+Local procurement; compressor-based CW-5000 class chiller with pump/tank included. All prices below areplanning allowances; vendor GST/delivery toconfirm.,,,,,,,,,
+,,,,,Cooling loop budget(INR),,,41500,
+Two independent cooling loops retained. Listed maximum pump head andfree/rated flow do not specifyactual flow through components.,,,,,,,,,
+Choose exact chiller model against manufacturer datasheet; supplier page mixes CW-5000 and CW-5200 data. No additional circulation pump charged.,,,,,,,,,
+,,,,,,,,,
+ID,Component,Specification,Qty,Procurement method,Supplier/reference,Status,Unit allowance(INR),Line budget(INR),Scope / qualification
+TC01,Refrigerated turbo chiller,"TEYU S&A CW-5000TGTY or vendor-confirmed equivalent; 220-240 V, 50 Hz",1,Local purchase,"Quicksoftpro, Mira Road/Thane; https://www.quicksoftpro.in/cw5000-water-chiller.html",Planning allowance; quote/fit pending,32000,32000,"Planning allowance based onlocaladvertisedapprox32000; notvendorquote/GSTconfirmation. ManufacturerTGTY750Wnominal,1barmaxhead. Require>=150W capacity at 15 C andactual ambient; 150W is sizingallowance, notmeasuredpumpheat."
+TC02,Turbo supply/return hose,Reinforced 6 mm ID coolant hose; 4 m total,4,Local purchase,Mumbai industrial hose supplier,Planning allowance; quote/fit pending,150,600,Connectexistingpumpcooler hoseconnections; checkactualusedpump includesusablewatercooler. Chillerconnectors requireadaptation; noassumedthread conversion onpumpstub.
+TC03,Turbo hose adapters/clamps,Chiller port to 6 mm ID hose adapter/clamp kit,1,Local purchase,Mumbai instrumentation supplier,Planning allowance; quote/fit pending,1200,1200,Includesbarbreducers andhoseclamps forbothends. Usedcoolingblock inspection required; replacementblock is notincluded allowance.
+TC04,Turbo return flow monitor,"Adjustable low flow switch +visualindicator,0.1-1L/min class",1,Local purchase,Mumbai instrumentation supplier,Planning allowance; quote/fit pending,3500,3500,"Target0.5L/min at 15 C; configurepermittedflow aboveEdwards minimum0.25L/min withsensor uncertainty margin. Provisionaltrip0.3L/min. Actualpumpbranch sensing, notbypassflow. Interlocklogic/controlledshutdown in electricalsubsystem."
+TC05,Turbo bypass/pressure indication,Adjustable bypass  + 0-2 bar pressure gauge; kit,1,Local purchase,Mumbai instrumentation supplier,Planning allowance; quote/fit pending,1500,1500,"Maintainstablepumpbranchflow withoutdeadheadingchiller. Edwards maximumwaterpressure5barg; selectedchiller1barmaxhead isbelowthis, verifyactualunit."
+TC06,Turbo inlet temperature indicator,Temperature probe andindicator,1,Local purchase,Mumbai instrumentation supplier,Planning allowance; quote/fit pending,1000,1000,Commissionat 15 C; requirewater within10-20C manufacturer range. Maintaincooling throughrun-down peroperatingsequence.
+TC07,Initial turbo coolant,Mechanically clean water meeting Edwards Table 7; 8 L initial fill,1,Local purchase,Local labwater/chiller supplier,Planning allowance; quote/fit pending,500,500,"pH6-8,CaCO3<=75ppm,chloride<=100ppm,oxygen<=4ppm peractualIssueK manual. Do notsubstituteuntreatedDIwater andassumecompliance. Avoiddeposits/turbidity."
+TC08,Condensation protection,Vapour-sealed closed-cell hose insulation and drip management kit,1,Local purchase,Mumbai HVACsupplier,Planning allowance; quote/fit pending,1200,1200,"15Cloopmay bebelowMumbaidewpoint. Insulatecoldhoses/coolingblock wherepermitted,keepconnectorsdry,verifydewpointatinstallation. Cannotclaimhoseinsulationaloneprotectsallpumpsurfaces."
+,,,,,,,,,
+,,,,,,,,,
+EXT70IssueK Table 7:10-20C water;minimum 15 L/h=0.25L/min at 15 C;maximum 5 bar gauge. Commission target15C/0.5L/min.,,,,,,,,,
+Separate loop from gun permits different temperature and coolant/electrical conditions. One chiller per loop; no other pump chiller charged in VP.,,,,,,,,,
+Manufacturer750Wnominal rating does not establish capacityat 15 C/actual room temperature; local vendor confirms performance before order.,,,,,,,,,
+Operating permissives include healthy flow/temperature; loss stops deposition and triggers manufacturer-compatible turbo shutdown. Electrical controller hardware budgeted later.,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Manufacturerchillerreference,,,,,https://www.teyuchiller.com/industrial-water-chiller-cw5000-for-co2-laser-tube-p2.html,,,,
+Edwardswaterrequirements,,,,,https://mmrc.caltech.edu/Vacuum/Edwards/EXPT%20Pumping%20Station/EXT70%20EXT250%20-%20B72201880%20-%20Instruction%20manual.pdf,,,,

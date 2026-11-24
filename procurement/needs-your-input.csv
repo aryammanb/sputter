@@ -1,0 +1,14 @@
+,,,,,
+Your procurement answers recorded,,,,,
+,,,,,
+Your three answers are recorded. R05 clamp redesign is complete; remaining ratings/tolerances and magnetic reassessment are my work.,,,,,
+,,,,,
+No.,Input needed,What I need from you,Why it changes the design,Affected items,Your answer
+1,First target(s),First material(s); diameter/thickness if already purchased.,R05 clamp revised for3.175mm target: nominal interference cleared. Magnetic face spacing changes4.5 to5.675mm and needs reassessment.,G17 target; G08 clamp; source selection,"Al, 2"" dia, 0.125"" thick"
+2,Actual power equipment,"DC or RF for the first build? Supply model, rated power and RF matching network, if chosen or owned.","RF300W selected. Generator/network frequency, ratings and connectors remain to select; then specify coax, termination and guards.",G25 cable; G26 guard; G27 clamp; G28 lug; subsystem10,"RF - 300W, matching network from ebay"
+3,Existing purchases,"Which gun parts, magnets, coolant fittings or compression gland are already bought? Share exact part numbers/links if available.","Original answer covered gun items. Later stock confirmation: shutter hand screw, O-ring and two nuts are already available. All other planned purchases remain as listed.",G01/G02 coolant ports; G11 tube; subsystem3 gland; purchase quantities,nothing
+,,,,,
+,,,,,
+"Already settled: Mumbai sourcing, US purchasing route, two coolant O-rings, twelve Ø6×20 outer stacks and Ø20×20 centre stack.",,,,,
+,,,,,
+No further personal input requested now. Technical procurement choices will proceed from aluminium50.8 x3.175mm and RF300W.,,,,,

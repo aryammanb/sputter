@@ -1,0 +1,23 @@
+0:00 Two different connections
+There are two different connections here. The K F clamp joins the compression fitting to the welded chamber flange. The threaded cap at the top has a different job: it compresses an O ring around the gun tube. I have replaced the single solid placeholder with a separate body, threaded cap, follower and tube seal. The detailed thread and seal seat are illustrative, pending the actual purchased fitting drawing.
+
+0:24 Seat the fitting on the KF flange
+First, the fitting body sits on the chamber K F flange, with the face seal between them. This face seal is separate from the O ring around the tube. The body is lowered into place, while the compression cap remains loose. We are showing the mechanical assembly with the chamber vented.
+
+0:42 Close the KF clamp
+The two clamp jaws close around the mating flange rims. Tightening the wing nut secures this joint. From now on, the body stays fixed to the chamber. You do not loosen this K F clamp to adjust the gun height. Height adjustment happens at the separate threaded compression cap.
+
+0:59 Feed the tube through the loose fitting
+With the upper cap loose, feed the gun service tube upward from inside the chamber. The gun head stays inside. The twenty five point four millimetre tube slides through the fitting. This animation follows the existing gun geometry; the roof and body remain stationary.
+
+1:17 Choose the target to substrate distance
+Now move the complete gun up or down to choose the target to substrate distance. In our chamber model, the working range is seventy five to one hundred and fifty millimetres. Here we return to one hundred. The body and K F clamp stay still. Support the gun while the cap is loose.
+
+1:35 Thread the cap down to grip the tube
+Hold the tube at the selected position and turn the cap clockwise, viewed from above. The cap advances down the body thread. Its shoulder pushes the follower onto the O ring, squeezing the seal against the tube. The tube does not rotate with the cap. The model uses an illustrative two millimetre thread pitch, so two turns produce four millimetres of cap travel. That is an animation dimension, not a tightening instruction for the purchased part.
+
+2:03 Section view of the compression mechanism
+The section view shows the load path. The moving cap shoulder presses the follower, which compresses the tube O ring. The lower face seal and K F clamp remain undisturbed. O ring deformation is shown schematically to explain the mechanism; it is not a seal stress calculation. The actual mating flange and centering ring must also have enough clear bore for the tube.
+
+2:25 Loosen, reposition, retighten
+For a later adjustment, vent the chamber and support the gun. Loosen only the compression cap, slide the tube to the new position, and retighten the cap. The K F joint stays assembled. This is the standalone mechanism animation for review. The revised CAD includes the separate fitting parts; I have left the previous full walkthrough unchanged.

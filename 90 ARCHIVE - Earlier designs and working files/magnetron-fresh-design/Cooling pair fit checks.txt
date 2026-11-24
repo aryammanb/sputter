@@ -1,0 +1,7 @@
+Native two-part subassembly: PASS
+Both component origins at zero: PASS
+Referenced files exist: PASS
+Volumetric interference (coincidence ignored): ZERO
+F01-002 Coolant cover RevA.SLDPRT: one solid
+F01-001 Copper cooling body RevA.SLDPRT: one solid
+O-rings, strip, fittings and fasteners are not modeled. No seal or pressure qualification performed.

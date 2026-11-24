@@ -1,0 +1,116 @@
+ADVANCED TINKERING ORIGINAL MAGNETRON — STUDY RECONSTRUCTION
+21 November2026
+
+OPENING THE ASSEMBLY
+Open “Advanced Tinkering magnetron - full reconstruction.SLDASM”. The delivery
+folder was created with SolidWorks Pack and Go so native references travel
+together. The STEP assembly is an exchange copy; use the SLDASM for the tree.
+The seven subassemblies separate cooling/magnets, spacer, base/insulation,
+target, ground shield, KF16 mounting, and reference utility routing.
+
+SCOPE
+This reconstructs the supplied original design and the bench unit in:
+https://www.youtube.com/watch?v=MslftqA7LYw
+It does not include the separate custom RevA/RevB gun designed in this chat,
+and does not substitute our previously selected RF feedthrough into his gun.
+
+WHAT IS SOURCE-BACKED
+The nine single-part STEP files retain their exact imported solid geometry
+and original global coordinates. Flanschklemme.step supplies one complete
+clamp half plus a1.45e-9 mm3 fragment. The complete half is copied unchanged
+and used twice, with the second rotated180degrees about the shared Y axis.
+The original ten STEP files and their SHA256 hashes are preserved separately.
+
+There are12 outer D8x20 N45 rods on a50mm pitch circle and two stacked
+D12x10 N45 center discs. The yoke rear support plane isY-22.5; magnet tips
+areY-2.5, with0.5mm to their blind-well ends. Center target-facing pole isN;
+outer poles areS as stated/shown around11:05 in the source video.
+
+THE ACTUAL WATER AND VACUUM SEALS
+The source water passage is a full annulus R11.05…16.05, Y-9…-2, about2.98mL
+before including port passages. Ports enter atX±13.55. Flow can take both
+semicircular paths. There is no C-channel divider in the original geometry.
+ID14.5x2 and35x2 FKM rings isolate water from the central and outer magnet
+regions. A76x2 ring seals the spacer/copper interface. Two62x2 rings seal the
+PTFE ring to the spacer and bottom body. These are five author-specified
+face seals. The62mm supplier link repeats the76mm item and remains unresolved.
+
+The face glands are1.45mm deep, giving27.5% nominal axial squeeze on2mm
+cross-section rings. Installed models use volume-preserving elliptical
+envelopes that fit the measured glands. They do not predict real elastomer
+deformation or validate seal performance. The nominal circular free-state
+ring parts are included separately for dimension reference.
+
+The main seals close the atmospheric interior against chamber vacuum. The
+ground-shield tube itself is not that pressure boundary. Hoses and the wire
+pass down the central flanged tube on the atmospheric side. The separate
+chamber-side adjustable/compression feedthrough mentioned in the video is
+not supplied as STEP or identified by a part number and is not invented here.
+
+WHAT IS RECONSTRUCTED OR REPRESENTATIVE
+* Screw nominal diameters follow source receiving/clearance holes. Their
+  standard lengths are chosen to fit the measured stack, not claimed as an
+  original author BOM.65 screws are modeled with simplified heads/sockets
+  and nominal major-diameter shafts; thread helices are not modeled.
+*12 PTFE shoulder sleeves fit the measured base bores and counterbores.
+  OD5.6/ID3.3 shank22mm, OD7.8 flange1.5mm is a compatible inferred shape.
+  Exact author sleeve drawings were not supplied.
+* The titanium study target isD50.8x2. The2mm thickness follows the clamp
+  contact plane; it is not a supplied target measurement.
+* KF16 tube length is200mm for display. Flange/centering/seal geometry follows
+  a compatible standard-form reference with a4mm mating gap, not the exact
+  purchased manufacturer's model. The source clamp and base are unchanged.
+* The black/blue coolant fittings have no confirmed model number or thread.
+  They are clearance-fitted reference bodies. Do not order or machine from
+  those interface envelopes.
+* Blue hoses and white cable show a compatible illustrative route through
+  the central tube. Their lengths, cross sections and the thin bare-wire
+  hook/lead are visual representations, not electrical/hydraulic selections.
+The user confirmed no extra tube/fitting identification was available.
+
+ASSEMBLY METHOD
+The originals are already exported in shared assembly coordinates. Fixed
+rigid placements preserve these coordinates; this is not a motion model
+with editable mechanical mates. Added hardware follows measured bore axes.
+Native generated sketches/sweeps represent missing components. Imported
+source geometry remains an imported solid rather than rebuilt machining
+features. Source cosmetic threads and actual elastomer deformation are not
+reverse-engineered.
+
+VERIFICATION
+All120 component solid instances return1 (valid) from IBody2.Check. Each
+component resolves to one solid. All original-part volumes are preserved;
+source file hashes match the user-supplied files. Five paired hole patterns
+were checked independently within0.001mm. Free and installed face-ring
+envelopes match nominal free torus volumes within0.06% in native CAD (0.1%
+acceptance tolerance for this illustration).
+
+The full interference test reports66 regions, all between nominal screw
+shafts and source thread-minor-sized bores. No unexplained solid collision
+remains. One M4 screw enters a minor-sized yoke bore as well as its copper
+receiving hole. This is a source fastening ambiguity, preserved and flagged,
+not evidence that the real yoke should be tapped or that the thread phases
+would clamp correctly. A raw zero-interference claim would be misleading.
+
+This verifies a geometric study reconstruction. It does not establish
+pressure rating, vacuum leak performance, insulation adequacy, magnetic
+field strength, coolant suitability or build readiness. The video describes
+arcing/corrosion concerns; faithfully reproducing its geometry does not
+resolve those source-design issues.
+
+REFERENCES
+Source video and time-indexed evidence: “Evidence and interface map.csv”.
+SolidWorks body-check convention:
+https://help.solidworks.com/2023/english/api/sldworksapi/Check_Bodies_for_Faults_Example_VB.htm
+Pfeiffer ISO-KF dimensional reference, source manufacturer catalogue:
+https://www.idealvac.com/files/manuals/Pfeiffer_Vacuum_Technology_Chambers_and_Components.pdf
+KF16 metric O-ring variant reference:
+https://de.lesker.com/newweb/flanges/hardware_kf_centeringrings.cfm?pgid=outerring-oring
+
+FILES
+Assembly BOM.csv — quantities, material/evidence classifications, limitations.
+verification-summary.json — independent source-preservation and fit checks.
+native-assembly-audit.json — per-component body checks and raw interference data.
+assembly-manifest.json — construction placements and evidence classifications.
+The downloaded video is retained only in the local analysis workspace and
+is not redistributed in the CAD delivery archive.

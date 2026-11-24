@@ -1,0 +1,105 @@
+FULL SPUTTER SYSTEM R03 - CAD AND INTEGRATED WALKTHROUGH
+24 November 2026
+
+OPEN FIRST
+Full sputter system R03 - closed.step
+Full sputter system R03 - loading.step
+Full sputter system R03 - integrated walkthrough.mp4
+
+This revision incorporates the refined gun compression fitting and the
+selected simple pumping layout: chamber -> EXT70 -> one mechanical pump.
+No high-vacuum isolation valve or separate roughing bypass is selected.
+Full assemblies are named/color-coded STEP exchange files, not native
+SolidWorks assemblies with mates. Component instances include compounds.
+
+INCLUDED
+- Existing complete latest141-component twelve-stack sputter gun.
+- 200 x200 x300 internal chamber, front door with70 clear viewport.
+- Refined compression body/cap, actual illustrative helical threads,
+  follower, O-ring and separate KF clamp components.
+- Existing simpleD90 x6 stage,50 x50 x1 reference substrate and bent shutter.
+- EXT70 reference exterior, ISO63 flange seal and four double-claw clamps.
+- KF16 to KF25 transition, KF25 corrugated backing hose and end connections.
+- Imported supplier Edwards RV3 reference mechanical pump.
+- Rear Pirani and Penning reference bodies on protective KF25 elbows.
+- Rear male-VCR MFC reference on its own support shelf.
+- Chamber KF25 -> female1/4VCR -> MFC male outlet.
+- MFC male inlet -> gasket + femaleVCR/FNPT adapter assembly ->1/4MNPT x6mm
+  push fitting. Gas line stops at the push collet; nothing upstream modeled.
+- Two capped right-side spare KF25 ports. Left wall remains blank.
+- Independent stand/base supports chamber, rather than loading the turbo.
+
+IMPORTANT INTERFACE CORRECTION
+The standard EXT70 manual specifies DN16NW at the backing outlet, not KF25.
+The requested KF25 hose is therefore connected with a KF16/KF25 adapter.
+If the actual owned pump has a confirmed KF25 variant, omit that adapter and
+adjust the termination. Mechanical-pump hose goes to SUCTION, not exhaust.
+
+EXACT NOMINAL LAYOUT DIMENSIONS
+Floor innerz0; roof innerz300. Reference substrate topz41.
+Target/substrate75..150; default100. Gun axial travel75.
+Shutter blade undersidez53, so12 clearance above substrate;1 thick sheet;
+240 flat-midplane drop;56 square blade;80 degree opening rotation.
+EXT70 inlet facez-48, body height157.05, bottomz-205.05.
+Native outlet axisz-172.45, pointing right. ISO63 flange OD95.
+RV3 is translated from source CAD by(430,377.5,-212).
+RV3 inlet reference centre(393,325,-83.6).
+Hose reference centreline640.298 mm; nominal coreOD27/bore22.225 and64 ribs.
+The model route is not a selected commercial length/bend-radius approval.
+MFC gas axisz210. Face-to-face124, width38, reference height115.
+Output VCR facey178.436; inlet facey302.436; push socket facey360.196.
+Pirani/Penning chamber ports x-50/+50,z90. Protective elbow centrelineR25.
+Reference gauge bodies D44 x74 and D58 x94 respectively; actual models unknown.
+Base layout800 x740 x6, topz-314. Chamber risers25 square x304 high.
+Dimensions are nominal CAD, not measurements of owned hardware.
+
+GEOMETRY SOURCES
+RV3 actual supplier STEP downloaded from:
+https://www.idealvac.com/files/cad/P101919.step
+Product listing:
+https://www.idealvac.com/en-us/Edwards-3-RV3-Rotary-Vane-Dual-Stage-Mechanical-Vacuum-Pump-/pp/p101919
+The downloaded RV3 solid has pre-existing topology defects. Basic healing
+did not produce a valid manufacturing solid. It is retained for visual/layout
+reference. Do not machine parts or derive certified mass properties from it.
+All new parametric system parts are checked separately from that source.
+
+EXT70 reconstructed from figure4 of Edwards B722-01-880 IssueK:
+https://mmrc.caltech.edu/Vacuum/Edwards/EXPT%20Pumping%20Station/EXT70%20EXT250%20-%20B72201880%20-%20Instruction%20manual.pdf
+It is an exterior envelope; rotor/stator and internal pumping passages omitted.
+
+MFC reference HORIBA SEC-E440J-style envelope,1/4VCR124 face-to-face:
+https://static.horiba.com/fileadmin/Horiba/Semiconductor/Resources/Manual_Downloads/others/I030106200.pdf
+Male-VCR inlet AND outlet are the user's stated assumption. Actual model and
+ports still need verification. Signal and flow-body details simplified.
+
+Prior-chat inlet adapter reference:
+https://products.swagelok.com/en/c/straights/p/SS-4-WVCR-7-4
+This is a cited adapter-body reference; a complete compatible swivel nut/gland
+and gasket are required. The model shows the complete female mating function,
+not an assertion that the body alone contains every required component.
+Selected6mm push-fitting listing from the other chat:
+https://www.amazon.in/dp/B09H4RL894
+Parker W68LF-6M-4 was the earlier interface reference. Gas/pressure ratings
+of the selected fitting and eventual plastic tubing remain unverified.
+
+Tube compression adapter: Lesker QF25XVC100 reference, eBay planned purchase.
+Detailed threads, cap, seat, follower, clamp and O-ring deformation remain
+illustrative fromR02. Standard KF25 mating flange/centering ring through-bore
+compatibility with25.4 tube remains unresolved, as previously documented.
+
+VIDEO
+The new system walkthrough integrates the first seven chapters of the prior
+standalone fitting animation, omitting its standalone-review closing chapter.
+It also shows front loading, stage/shutter dimensions and motion, pump
+connection, hose gas path, gauges, MFC mating and exploded inlet adapter chain.
+Blue moving markers illustrate routing only; they are not flow calculations.
+Scene3 reuses the unchanged internal mechanism and nominal geometry.
+
+REMAINING ENGINEERING
+Not a fabrication release. Existing gun RF/cooling/seal limitations and
+chamber pressure-strength/viewport/gasket qualifications remain.
+Exact purchased gauges, gauge orientation/stray-field limits, hose bend
+radius, rated ISO claw clamps, fasteners and mounting loads need checking.
+Cooling plumbing, electrical cables/controllers/interlocks, chamber venting,
+oil-mist exhaust handling, regulator/cylinder and line beyond push fitting
+are outside this mechanical-layout revision. The RV3 is not a purchase choice.

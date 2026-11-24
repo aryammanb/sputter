@@ -1,0 +1,13 @@
+Single solid: PASS
+Analytic volume comparison: PASS
+Volume mm3: 21474.788553
+Expected mm3: 21474.788553
+Bounding box m: 0, -0.035, -0.035, 0.007, 0.035, 0.035
+Water passage volume mm3: 4420.220864
+Front wall mm: 4
+Channel-to-gland radial ligament mm: 1.7
+Outer gland to rear hole edge mm: 1.45
+Rear hole to OD edge mm: 1.75
+Nominal O-ring squeeze: 25 percent
+Nominal gland fill: 80.554 percent
+Not checked: pressure/thermal/magnetic/electrical performance, seal and fastener qualification.

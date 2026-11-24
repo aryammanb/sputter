@@ -1,0 +1,112 @@
+{
+  "duration_seconds": 977.375,
+  "chapters": [
+    [
+      0,
+      "The complete sputtering system"
+    ],
+    [
+      36.875,
+      "Chamber, loading and service layout"
+    ],
+    [
+      84.25,
+      "Stage, target travel and bent shutter"
+    ],
+    [
+      134.875,
+      "Opening the complete sputter gun"
+    ],
+    [
+      173.5,
+      "Target, cooling head and seals"
+    ],
+    [
+      220.875,
+      "Why we chose twelve magnet stacks"
+    ],
+    [
+      270.75,
+      "Magnetic circuit and calculated field"
+    ],
+    [
+      327.625,
+      "Insulation, coax and grounded shielding"
+    ],
+    [
+      377.875,
+      "Gas supply: cylinder to mass flow controller"
+    ],
+    [
+      427.5,
+      "Six-millimetre tube insertion"
+    ],
+    [
+      470.375,
+      "Gun cooling: independent system number one"
+    ],
+    [
+      512.875,
+      "Turbo cooling: independent system number two"
+    ],
+    [
+      555.5,
+      "Power supply and RF matching"
+    ],
+    [
+      604.125,
+      "ISO63 turbo connection"
+    ],
+    [
+      647.75,
+      "Simple pumping route and backing pump"
+    ],
+    [
+      697.625,
+      "Rear gauges and flow control"
+    ],
+    [
+      740.625,
+      "Viewport: checked view below the shield"
+    ],
+    [
+      792.25,
+      "How magnetron sputtering works"
+    ],
+    [
+      841.875,
+      "Shutter closed: conditioning the target"
+    ],
+    [
+      881.875,
+      "Shutter open: deposition on the substrate"
+    ],
+    [
+      923.0,
+      "Complete system: what is established"
+    ]
+  ],
+  "durations": [
+    36.875,
+    47.375,
+    50.625,
+    38.625,
+    47.375,
+    49.875,
+    56.875,
+    50.25,
+    49.625,
+    42.875,
+    42.5,
+    42.625,
+    48.625,
+    43.625,
+    49.875,
+    43.0,
+    51.625,
+    49.625,
+    40.0,
+    41.125,
+    54.375
+  ]
+}

@@ -1,0 +1,24 @@
+# Sources, attribution and rights
+
+The project builds on a reconstruction and subsequent changes to an Advanced Tinkering magnetron concept. The historical source workspace, design notes, change registers and authoring scripts preserve that lineage. This snapshot does not assert ownership of the original design or assign an open-source license.
+
+Supplier CAD, manuals, catalogs and drawings remain third-party reference materials. Their inclusion in this private engineering record does not grant redistribution rights. Review permissions and replace restricted references with links before making the repository public. The original downloaded source video, browser profiles and cached third-party media are not included.
+
+## Reference locations
+
+| Topic | Local evidence |
+|---|---|
+| R06 fitting selection | `chamber-design/coolant-fitting-selection/` catalog and selection record |
+| Current backplate/native CAD | `chamber-design/coolant-fitting-r06/` checks and notes |
+| Selected target/clamp | `chamber-design/target-clamp-r05/` notes and dimensional checks |
+| Chamber vendor scope | `chamber-design/chamber-supplier-package/` CB01 scope, interface schedule and source references |
+| Turbo/controller | Saved manual and procurement records; full-system supplier reference directory |
+| MFC dimensional reference | Saved HORIBA drawing and R03 selection note |
+| Magnetic formulation/materials | Original `Simulation assessment.txt`, solver B-H data and requirements |
+| Procurement selections/quotes | Unchanged workbook, readable cell/CSV exports and selected support records |
+
+URLs in the original notes and workbook are recorded sourcing references as of the project work. This repository preparation does not reverify current seller availability, quotations, exchange rates or published specifications. Prices in the documentation are dated planning records.
+
+## Newly generated explanations
+
+Current screenshots are rendered from the R06 system STEP. Field plots are generated from the retained FEM solution at the current target plane. Narration uses Windows Microsoft David Desktop and is synthetic. No generated image is presented as a photograph of physical hardware, and no video is presented as a record of a working machine.

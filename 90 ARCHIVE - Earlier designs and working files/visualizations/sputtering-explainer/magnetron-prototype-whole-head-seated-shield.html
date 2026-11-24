@@ -1,0 +1,145 @@
+<div id="magnetron-whole-head">
+  <style>
+    #magnetron-whole-head { display:grid; gap:calc(var(--font-size-base) * .5); }
+    #magnetron-whole-head svg { display:block; width:100%; height:510px; }
+    #magnetron-whole-head .keys { display:flex; flex-wrap:wrap; gap: .5em 1.25em; }
+    #magnetron-whole-head .keys span { display:inline-flex; align-items:center; gap:.45em; }
+    #magnetron-whole-head .keys i { width:.8em; height:.8em; border-radius:50%; background:var(--part); }
+    #magnetron-whole-head .ring { --part:var(--viz-series-1); }
+    #magnetron-whole-head .target { --part:var(--viz-series-2); }
+    #magnetron-whole-head .cathode { --part:var(--viz-series-3); }
+    #magnetron-whole-head .plate { --part:var(--viz-series-4); }
+    #magnetron-whole-head .shield { --part:var(--viz-series-5); }
+    #magnetron-whole-head .magnet { --part:var(--viz-series-6); }
+    #magnetron-whole-head .yoke, #magnetron-whole-head .flange { --part:var(--muted-foreground); }
+    #magnetron-whole-head .isolation { --part:var(--viz-series-4); }
+    #magnetron-whole-head [hidden] { display:none !important; }
+  </style>
+  <div class="viz-controls">
+    <label class="form-label">Target assembly
+      <select class="form-select">
+        <option value="al">Solid 2″ aluminum</option>
+        <option value="ceramic">Ceramic bonded to backing plate</option>
+      </select>
+    </label>
+    <label class="form-label">Exploded view
+      <input class="form-range" type="range" min="0" max="100" value="0" aria-valuetext="Assembled">
+    </label>
+  </div>
+  <svg role="img" aria-label="Exploded 3D view of the target stack, copper cooling body, dry magnet pack, ceramic isolation and grounded flange"></svg>
+  <div class="keys">
+    <span class="shield"><i aria-hidden="true"></i>Grounded shield and inward lip · Ø72.8 mm side bore</span>
+    <span class="ring"><i aria-hidden="true"></i>Retaining ring · Ø68.8 mm</span>
+    <span class="target"><i aria-hidden="true"></i><span class="target-name">Al disc · Ø50.8 mm</span></span>
+    <span class="plate" hidden><i aria-hidden="true"></i>Backing plate</span>
+    <span class="cathode"><i aria-hidden="true"></i>Water-cooled cathode · Ø68.8 mm</span>
+    <span class="magnet"><i aria-hidden="true"></i>Center and outer magnets</span>
+    <span class="yoke"><i aria-hidden="true"></i>Steel yoke and grounded flange</span>
+    <span class="isolation"><i aria-hidden="true"></i>Ceramic isolation</span>
+  </div>
+  <div class="text-small joint" aria-live="polite"></div>
+  <div class="text-small text-muted">Rear layout schematic · coolant connections and power feedthrough pending</div>
+  <div class="text-small text-muted">2.0 mm side gap · Ø46.8 mm shield opening · 2.0 mm clamp lip · 3.0 mm axial clearance (Al)</div>
+  <script>
+    (() => {
+      const root = document.getElementById('magnetron-whole-head');
+      const svg = root.querySelector('svg');
+      const select = root.querySelector('select');
+      const spread = root.querySelector('input');
+      const targetName = root.querySelector('.target-name');
+      const joint = root.querySelector('.joint');
+      const plateKey = root.querySelector('.keys .plate');
+      const edge = 'color-mix(in srgb,var(--foreground) 46%,var(--background))';
+      const top = 'color-mix(in srgb,var(--part) 36%,var(--background))';
+      const wall = 'color-mix(in srgb,var(--part) 66%,var(--background))';
+      const circle = (r, y) => {
+        const h = r * .40;
+        return `M${-r} ${y}a${r} ${h} 0 1 0 ${2*r} 0a${r} ${h} 0 1 0 ${-2*r} 0Z`;
+      };
+      function cylinder(part, r, y, depth, hole = 0) {
+        const h = r * .40;
+        const inner = hole * .40;
+        const face = circle(r, y) + (hole ? circle(hole, y) : '');
+        return `<g class="${part}" stroke="${edge}" stroke-width="1" stroke-linejoin="round">
+          <path d="M${-r} ${y} A${r} ${h} 0 0 0 ${r} ${y} v${depth} A${r} ${h} 0 0 1 ${-r} ${y+depth}Z" fill="${wall}"/>
+          ${hole ? `<path d="M${-hole} ${y} A${hole} ${inner} 0 0 1 ${hole} ${y} v${depth} A${hole} ${inner} 0 0 0 ${-hole} ${y+depth}Z" fill="${wall}"/>` : ''}
+          <path d="${face}" fill="${top}" fill-rule="evenodd"/>
+        </g>`;
+      }
+      function shieldHalf(y, depth, front) {
+        const sweep = front ? 0 : 1;
+        const reverse = 1 - sweep;
+        const lipRadius = 70.2;
+        const lipHeight = lipRadius * .40;
+        const rim = `M-119 ${y} A119 47.6 0 0 ${sweep} 119 ${y} H${lipRadius} A${lipRadius} ${lipHeight} 0 0 ${reverse} ${-lipRadius} ${y}Z`;
+        const wallRadius = front ? 119 : 109.2;
+        const wallHeight = wallRadius * .40;
+        const side = `M${-wallRadius} ${y} A${wallRadius} ${wallHeight} 0 0 ${sweep} ${wallRadius} ${y} v${depth} A${wallRadius} ${wallHeight} 0 0 ${reverse} ${-wallRadius} ${y + depth}Z`;
+        return `<g class="shield" data-half="${front ? 'front' : 'back'}" stroke="${edge}" stroke-width="1">
+          <path d="${side}" fill="${wall}"/>
+          ${front ? `<path data-seat d="M-119 ${y+depth} A119 47.6 0 0 0 119 ${y+depth}" fill="none" stroke="var(--foreground)" stroke-width="1.5"/>` : ''}
+          ${front ? '' : `<path d="M${-lipRadius} ${y} A${lipRadius} ${lipHeight} 0 0 1 ${lipRadius} ${y} v6 A${lipRadius} ${lipHeight} 0 0 0 ${-lipRadius} ${y+6}Z" fill="${wall}"/>`}
+          <path data-lip="${front ? 'front' : 'back'}" d="${rim}" fill="${top}"/>
+        </g>`;
+      }
+      function screws(y) {
+        return [90, 210, 330].map(angle => {
+          const radians = angle * Math.PI / 180;
+          const x = 88.2 * Math.cos(radians);
+          const headY = y + 35.28 * Math.sin(radians);
+          return `<g transform="translate(${x} ${headY})" stroke="${edge}">
+            <ellipse rx="9" ry="3.6" fill="var(--background)"/>
+            <path d="M-2 0h4" fill="none"/>
+          </g>`;
+        }).join('');
+      }
+      function draw() {
+        const width = svg.clientWidth;
+        if (!width) return;
+        const s = Math.min(.85, (width - 20) / 485);
+        const gap = Number(spread.value) / 100;
+        const ceramic = select.value === 'ceramic';
+        // Radial dimensions use three drawing units per millimetre.
+        const lift = Math.min(1, gap / .20);
+        const slide = Math.max(0, Math.min(1, (gap - .20) / .30));
+        const separate = Math.max(0, (gap - .50) / .50);
+        const bodyY = 244;
+        const targetY = bodyY - 8 - separate * 88;
+        const ringY = targetY - 6 - separate * 68;
+        const shieldY = bodyY - 29;
+        const shieldOffset = slide * 240;
+        const magnetY = bodyY + 24 + separate * 72;
+        const yokeY = magnetY + 16 + separate * 24;
+        const isolationY = yokeY + 9 + separate * 42;
+        const seatedFlangeY = bodyY + 24 + 16 + 9 + 14;
+        const flangeY = seatedFlangeY + separate * (72 + 24 + 42 + 36);
+        const shieldDepth = seatedFlangeY - shieldY;
+        const shieldLayer = front => `<g transform="translate(${shieldOffset} ${-lift * 108})">${shieldHalf(shieldY, shieldDepth, front)}</g>`;
+        const clamp = cylinder('ring', 103.2, ringY, 6, 72) + screws(ringY);
+        svg.setAttribute('viewBox', `0 0 ${width} 510`);
+        svg.innerHTML = `<g transform="translate(${width/2 - shieldOffset * .5 * s} ${(1-s)*150}) scale(${s})">
+          ${cylinder('flange', 124, flangeY, 17, 57)}
+          ${cylinder('isolation', 78, isolationY, 14, 56)}
+          ${cylinder('yoke', 87, yokeY, 9)}
+          ${cylinder('magnet', 82, magnetY, 16, 62)}
+          ${cylinder('magnet', 27, magnetY, 16)}
+          ${shieldLayer(false)}
+          ${cylinder('cathode', 103.2, bodyY, 24)}
+          ${cylinder(ceramic ? 'plate' : 'target', 76.2, targetY, 8)}
+          ${ceramic && separate <= .18 ? clamp : ''}
+          ${ceramic ? cylinder('target', 65, targetY - 10, 10) : ''}
+          ${!ceramic || separate > .18 ? clamp : ''}
+          ${shieldLayer(true)}
+        </g>`;
+        joint.textContent = gap === 0 ? 'Shield rear rim seated directly on grounded flange' : 'Shield lifted off its flange seat';
+        targetName.textContent = ceramic ? 'Ceramic disc' : 'Al disc · Ø50.8 mm';
+        plateKey.hidden = !ceramic;
+        spread.setAttribute('aria-valuetext', gap === 0 ? 'Assembled' : gap === 1 ? 'Fully exploded' : `${spread.value}% exploded`);
+      }
+      select.addEventListener('change', draw);
+      spread.addEventListener('input', draw);
+      new ResizeObserver(draw).observe(svg);
+      draw();
+    })();
+  </script>
+</div>

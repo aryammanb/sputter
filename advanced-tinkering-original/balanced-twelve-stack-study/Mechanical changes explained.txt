@@ -1,0 +1,130 @@
+TWELVE-STACK MAGNETRON: MECHANICAL ACCOMMODATION STUDY
+23 November 2026
+
+RESULT
+The proposed magnet pack can be accommodated within the current external gun
+envelope. It requires a coordinated local revision of THREE machined parts:
+the copper cooling body, copper backplate and steel yoke. It is more than a
+hole-size change, but does not require a new target clamp, spacer, main
+insulator, base, external shields, service tube or RF connection in this study.
+The two water seals and the upper coolant routing change too.
+
+This is one workable nominal mechanical arrangement, not the only possible
+layout or a fabrication release. Magnetic balance and thermal performance
+have not been simulated. In particular, the revised outer pole radius must
+be evaluated magnetically before it is frozen.
+
+BASELINE
+Latest combined R03 assembly, retaining the original Advanced Tinkering head.
+129 solid component instances. Outer magnets: twelve D8x20 N45 rods on PCD50.
+Centre: two stacked D12x10 N45 discs. Original source files remain unchanged.
+
+PROPOSED PACK
+Outer: 24 standard D6x10 N42 discs, paired into twelve D6x20 stacks.
+Centre: two standard D20x10 N42 discs, giving a D20x20 stack.
+Axial magnetization. Centre N toward target, outer S toward target.
+Both discs in each stack point in the same magnetization direction.
+All pole tips remain Y=-2.5, with the yoke support face at Y=-22.5.
+Outer positions move from PCD50 to PCD58, retaining 30-degree spacing.
+The area ratio is 12*6^2/20^2 = 1.08; this is NOT the operating flux ratio.
+141 component instances result because twelve rods become 24 discs.
+
+WHY THE EXISTING CENTRE REGION IS TOO SMALL
+A D20 magnet is represented in a D21 clearance bore, radius10.5.
+The existing coolant channel starts at radius11.05. Simply enlarging the bore
+leaves only 0.55mm nominal copper between the bore and water channel.
+The old inner gland occupies radii7.25..10.10: the D21 bore removes it.
+The existing port counterbores have radius3.975 on axes X=+/-13.55; their
+inner radial edge is9.575, so they also overlap the enlarged centre bore.
+These are geometric conflicts, independent of whether the field is balanced.
+
+PART-BY-PART CHANGES
+
+1. COPPER COOLING BODY / KUEHLKOERPER
+   - Centre blind well: D13 -> D21.
+   - Twelve outer blind wells: D9 -> D6.4, PCD50 -> PCD58.
+   - Coolant annulus: radii11.05..16.05 -> radii15.5..20.5.
+   - Channel width5 and depth7 retained; volume increases with circumference.
+   - Blind-well roof remains Y=-2; magnet tips remain0.5mm below it.
+   - Outer profile, target seat and original fixing interfaces retained.
+   - No overall head diameter or length increase.
+
+2. COPPER BACKPLATE
+   - Centre through well D21; twelve D6.4 through wells on PCD58.
+   - Inner seal nominal free size: ID14.5x2 -> ID23x2.
+   - Outer seal nominal free size: ID35x2 -> ID43x2.
+   - Gland radial ranges:11.5..14.35 and21.5..24.35.
+   - Existing nominal gland width2.85 and depth1.45 retained.
+   - Coolant axes X=+/-13.55 -> +/-18, displacement4.45 per side.
+   - D5 through passages and nominal D7.95 port counterbores retained.
+   - OD71.5, thickness13.5, twelve fixing holes and yoke/live-terminal
+     attachment locations retained.
+   - Port and screw threads are represented by nominal bore envelopes.
+     Exact fitting thread and engagement remain to be specified.
+   - Two source0.25mm threaded-bore entry chamfers are omitted in this study
+     solid. This accounts for a small increase in the nominal screw overlap;
+     it is a modelling simplification, not a required functional change.
+
+3. STEEL RETURN YOKE
+   - Two D14 fitting-clearance holes move from X=+/-13.55 to +/-18.
+   - OD71.5, thickness10 and attachment positions retained.
+   - New holes leave1mm nominal steel between the centre pole footprint
+     and fitting-clearance edge. Magnetic saturation/return flux need analysis.
+
+4. MAGNETS AND WATER SEALS
+   - Replace both magnet sizes and grades as listed above.
+   - Replace the two water seals. Main head seal and main insulation seals
+     retain their baseline geometry and positions.
+   - Displayed water seals use illustrative compressed elliptical sections;
+     material, gland fill, tolerances and seal reliability are not qualified.
+
+5. COOLANT CONNECTIONS AND FLEXIBLE ROUTES
+   - Existing reference fitting envelopes move4.45mm outward on each side.
+   - Upper hose bends follow the moved fittings.
+   - Lower routes remain X=+/-3 within the existing tube.
+   - No change to hose nominal OD4/ID2.5 in the illustration.
+   - Actual purchased fittings, hose specification and minimum bend radius
+     remain unconfirmed. The geometry verifies these reference envelopes.
+
+6. RETAINED PART GROUPS
+   - Target and target retaining clamp; target mounting screws.
+   - Grounded dark-space shield and shield tube.
+   - Live spacer and main head seal.
+   - Main PTFE insulator and its two seals.
+   - R03 base, twelve one-piece PTFE cups and base fasteners.
+   - KF16-style clamp, seal and centering components; service tube.
+   - R02 RF shield clamp, ground carrier, live lug, screw, coax and guards.
+   - Existing screw sizes and mounting patterns.
+
+NOMINAL ROOM IN THE REVISED RADIAL STACK
+Centre bore edge -> inner gland:1.00mm.
+Inner gland -> water channel:1.15mm.
+Water channel -> outer gland:1.00mm.
+Outer gland -> nearest outer magnet well:1.45mm.
+Outer magnet well -> backplate outside edge:3.55mm.
+Centre bore -> coolant counterbore:3.525mm.
+These are geometrical lands, not approved pressure-wall or seal-land minima.
+
+VERIFICATION AND LIMITS
+Read Geometry verification.json for STEP reimport validity, exact boolean
+contact checks, channel obstruction and the baseline comparison of screw
+contacts. Part change register.csv lists every proposed component instance.
+All unchanged-component relationships are inherited from the existing R03
+study; the new work checks interactions involving changed components.
+
+The required next steps are magnetic field modelling, thermal/contact and
+coolant analysis, actual fitting selection, seal/tolerance review and prototype
+measurement. A successful mechanical fit does not establish a balanced field.
+
+DELIVERABLES
+Twelve stack magnetron - mechanical comparison.mp4: narrated comparison.
+Proposed twelve stack mechanical study.step: complete proposed assembly.
+Original R03 comparison.step: matching baseline assembly.
+Proposed cooler.step / Proposed closure.step / Proposed yoke.step: changed parts.
+The STEP assembly contains named/color-coded solids, not native SolidWorks mates.
+
+STANDARD-PART REFERENCES
+https://www.magnetladen.de/en/Rod-Magnet-6x10-mm-N42-Nickel/St-06x10-Nd-Ni/
+https://www.magnetladen.de/en/Disc-Magnet-20x10-mm-N42-Nickel/S-20x10-Nd-Ni/
+Ordinary N42 catalogue parts have temperature limits that require checking
+against the eventual measured magnet operating temperature.

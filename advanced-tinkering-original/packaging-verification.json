@@ -1,0 +1,43 @@
+{
+  "tube_OD_mm": 25.4,
+  "tube_wall_mm": 1.5,
+  "tube_bore_mm": 22.4,
+  "end_plate_OD_mm": 25.2,
+  "end_plate_thickness_mm": 2,
+  "SMA_center_X_Z_mm": [
+    0,
+    4.5
+  ],
+  "hose_centers_X_Z_mm": [
+    [
+      -5.4,
+      -3.6
+    ],
+    [
+      5.4,
+      -3.6
+    ]
+  ],
+  "SMA_pilot_diameter_mm": 6.5,
+  "hose_guide_holes_mm": 7.2,
+  "vent_diameter_mm": 2,
+  "SMA_washer_nominal_OD_mm": 10.2,
+  "hose_guide_flange_OD_mm": 8,
+  "maximum_hose_OD_mm": 6,
+  "hose_guide_bore_mm": 6.3,
+  "nominal_SMA_to_guide_gap_mm": 0.6349884437527713,
+  "nominal_guide_to_bore_gap_mm": 0.7100077041648181,
+  "nominal_plate_web_between_SMA_and_hose_holes_mm": 2.884988443752771,
+  "worst_case_assumptions": {
+    "minimum_bore_mm": 22.2,
+    "maximum_washer_OD_mm": 10.6,
+    "maximum_guide_OD_mm": 8.1,
+    "center_position_tolerance_each_axis_mm": 0.05
+  },
+  "conservative_worst_case_SMA_to_guide_gap_mm": 0.24356708751546177,
+  "conservative_worst_case_guide_to_bore_gap_mm": 0.4892970260461638,
+  "maximum_fixed_radial_envelope_nominal_mm": 12.7,
+  "qualification": "Mechanical packaging only. Actual eBay gland bore, weld finish, coax electrical rating, cooling performance and upper tube transition remain unverified.",
+  "native_solid_checks": "8 unique native solids valid; 10 assembly instances",
+  "native_interferences": 0
+}

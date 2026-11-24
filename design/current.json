@@ -1,0 +1,38 @@
+{
+  "snapshot_date": "2026-11-24",
+  "design_status": "Nominal mechanical and procurement study; not a fabrication/operation release",
+  "gun_revision": "R06",
+  "target_clamp_revision": "R05",
+  "system_layout_revision": "R04 with R05/R06 gun integration",
+  "selected_target": {
+    "material": "Al 99.99%",
+    "diameter_mm": 50.8,
+    "thickness_mm": 3.175
+  },
+  "current_files": {
+    "gun_step": "chamber-design/coolant-fitting-r06/Magnetron R06.step",
+    "system_step": "chamber-design/coolant-fitting-r06/Complete sputter system R06.step",
+    "native_gun": "chamber-design/coolant-fitting-r06/SolidWorks R06/Magnetron R06 - M5 coolant fittings.SLDASM",
+    "native_package": "chamber-design/coolant-fitting-r06/Coolant fittings R06 - SolidWorks CAD package.zip",
+    "procurement": "procurement/Sputter system procurement.xlsx",
+    "chamber_supplier_scope": "chamber-design/chamber-supplier-package/CB01 frozen layout and supplier scope.txt",
+    "field_assessment": "simulations/current-target-r06/assessment.json",
+    "media_provenance": "media/provenance.json"
+  },
+  "current_media": [
+    "media/01-current-system.mp4",
+    "media/02-current-gun.mp4",
+    "media/03-current-field-and-evidence.mp4"
+  ],
+  "known_mismatches": [
+    "Legacy RV3 context geometry is not selected INDOVAC HV2-150 backing pump",
+    "MFC envelope does not establish exact 200 sccm model/Ar calibration",
+    "Chiller and power cabinet envelopes do not establish selected vendor dimensions",
+    "Saved original magnetic results used 2 mm target; current assessment resamples at 3.175 mm target"
+  ],
+  "superseded": [
+    "Root Windows shortcut guides are historical navigation, not current repository authority",
+    "R04 videos and prior magnetron videos predate current target/fittings",
+    "Argon MFC R01/R02 range recommendations superseded by owner-selected 200 sccm R03"
+  ]
+}

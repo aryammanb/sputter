@@ -1,0 +1,9 @@
+﻿Item,Qty,Description,Status
+01,1,"25.4 OD x1.5 wall tube,100mm service-end segment",New geometry; length illustrative
+02,1,25.2 OD x2mm stainless terminal plate; SMA and hose holes plus atmospheric vent,Designed native part; flush attachment requires fabrication review
+03,1,Amphenol132118 rear-mount crimp SMA jack,Simplified drawing-based envelope; electrical suitability pending
+04,1,10.2 OD SMA washer,Packaging envelope; final hardware per purchased connector
+05,1,8AF x1.6 SMA nut,Circumscribed packaging envelope
+06,2,"8OD double-flanged hose guide,6.3 bore",Custom flexible guide; non-sealing
+07,2,6OD hose allowance,Maximum packaging model; not selected pressure-rated hose
+08,1,5OD coax allowance,Compatible rated cable still to select

@@ -1,0 +1,13 @@
+ADVANCED TINKERING SOURCE WORKSPACE
+
+This historical folder name covers the original reconstruction AND later updates.
+
+Latest main assembly:
+balanced-twelve-stack-study/Proposed twelve stack mechanical study.step
+
+Previous combined baseline:
+latest-full-walkthrough/Current magnetron R03 - complete study assembly.step
+
+Use the sputter root's "01 MAIN DESIGN - Updated Advanced Tinkering" folder
+for labeled shortcuts to the current design, notes, videos and simulation.
+Existing source paths and CAD filenames are preserved.

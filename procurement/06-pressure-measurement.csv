@@ -1,0 +1,11 @@
+,,,,,,,,,
+06 Pressure measurement - local procurement,,,,,,,,,
+,,,,,,,,,
+"Supplier selected by user: Alpha Technovac / Alfa Technovac, Mumbai. Prices supplied by user on24Nov2026.",,,,,,,,,
+,,,,,Recorded gauge subtotal (INR),,,60000,
+Recorded gauge prices totalINR60000. GST inclusion and controller/readout/cable scope are unconfirmed.,,,,,,,,,
+Chamber-sideKF25 clamps and centering seals are already inCB01; no duplicate charge here.,,,,,,,,,
+"Gauge models, native fittings and any elbows/adapters remain to confirm with supplier; no chamber layout change.",,,,,,,,,
+ID,Component,Specification,Qty,Procurement method,Supplier,Price / scope status,Unit price (INR),Line price (INR),Scope and price basis
+PG01,Pirani gauge,Model and native vacuum fitting to confirm,1,Local purchase,"Alfa Technovac, Mumbai",User-supplied price; package scope pending,20000,20000,"INR20000 per user. Whether controller/readout, cable andGST are included is unconfirmed. Budget is not an all-inclusive system quotation."
+PG02,Penning gauge,Model and native vacuum fitting to confirm,1,Local purchase,"Alfa Technovac, Mumbai",User-supplied price; package scope pending,40000,40000,"INR40000 per user. Whether controller/readout, cable andGST are included is unconfirmed. Rear dedicatedKF25 port retained; supplier to confirm needed adapter/elbow."

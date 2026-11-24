@@ -1,0 +1,27 @@
+,,,,,,,,,
+08 Gun water cooling,,,,,,,,,
+,,,,,,,,,
+Local procurement; compressor-based CW-5000 class chiller with pump/tank included. All prices below areplanning allowances; vendor GST/delivery toconfirm.,,,,,,,,,
+,,,,,Cooling loop budget(INR),,,45600,
+Two independent cooling loops retained. Listed maximum pump head andfree/rated flow do not specifyactual flow through components.,,,,,,,,,
+Choose exact chiller model against manufacturer datasheet; supplier page mixes CW-5000 and CW-5200 data. No additional circulation pump charged.,,,,,,,,,
+,,,,,,,,,
+ID,Component,Specification,Qty,Procurement method,Supplier/reference,Status,Unit allowance(INR),Line budget(INR),Scope / qualification
+GC01,Refrigerated gun chiller,"TEYU S&A CW-5000TITY or vendor-confirmed equivalent; 220-240 V, 50 Hz",1,Local purchase,"Quicksoftpro, Mira Road/Thane; https://www.quicksoftpro.in/cw5000-water-chiller.html",Planning allowance; quote/fit pending,35000,35000,"Planning allowance, not quotation. Local supplier advertisesCW5000 family approx32000 but mixesCW5200 specs; exactunit/brand/pump option must be confirmed. ManufacturerTITY:750W nominal,2.5bar maximum head; nominalflow is not installed gunflow. Require>=500W cooling at actualsetpoint/ambient."
+GC02,External supply/return hoses,"Nonconductive hose, nominal 6 mm ID; 4 m total",4,Local purchase,Mumbai industrial hose supplier,Planning allowance; quote/fit pending,150,600,Externalruns only; retain existinggunOD4/ID2.5 hoses and internalfittings in gunBOM. Reduceclose tostem; finalhose lengths andpressure ratings toverify. Nonconductivehose alone does not establish RF/DC isolation.
+GC03,Reducers and service fittings,Chiller outlet to 6 mm ID hose to gun 4 mm OD tube interfaces; kit,1,Local purchase,Mumbai pneumatics/instrumentation supplier,Planning allowance; quote/fit pending,1500,1500,"Kit includes requiredreducers, disconnects andhoseclamps; actualchillerport may be10mmODbarb orfastconnector. No duplicateinternalgunpushfittings."
+GC04,Actual gun-return flow monitor,"Adjustable low flow switch +visual flow indication, 0.1-1L/min class",1,Local purchase,Mumbai instrumentation supplier,Planning allowance; quote/fit pending,3500,3500,"Install in actualgunreturn beforebypass merges. Normal target0.5L/min; provisionaltrip0.3L/min, finalthreshold fromthermaltest. Built-inchilleralarm can be satisfied bybypass and is notproof ofgunflow. Sensorhardware only; interlocklogic in electricalsubsystem."
+GC05,Pump bypass and pressure indication,Adjustable return bypass/relief +0-4 bar gauge; kit,1,Local purchase,Mumbai instrumentation supplier,Planning allowance; quote/fit pending,2000,2000,Set minimumpressure deliveringqualifiedgunflow. Pump2.5barmax is notgungaugepressure rating; qualifygun/O-ringjoint andtubing pressurebefore release. Bypass maintainschiller circulation.
+GC06,Gun temperature sensors,Inlet/return temperature probes and local indicator; pair kit,1,Local purchase,Mumbai instrumentation supplier,Planning allowance; quote/fit pending,1500,1500,"Monitor inlet/returntemperature; alarm thresholds established bygunthermaltest. 300W is planninginput, notvalidatedcontinuousgunrating."
+GC07,Initial gun coolant and fill consumables,Chiller-compatible low conductivity coolant; initial 8 L fill,1,Local purchase,Local labwater / chiller supplier,Planning allowance; quote/fit pending,700,700,Keep gunloopseparate fromgroundedturbo loop. Lowconductivitywater quality andelectricalleakage must be checked foractualpoweredcopperhead; initial fill is notproof ofRF isolation.
+GC08,Gun coolant strainer,"Serviceable fine particle strainer, low pressure loss",1,Local purchase,Mumbai instrumentation supplier,Planning allowance; quote/fit pending,800,800,"Protectsmallbore passages; choosemesh andwettedmaterials compatiblewith coolant, verifyinstalledflow withstrainer."
+,,,,,,,,,
+,,,,,,,,,
+300W conservativewater heat basis; target flow0.5L/min givesdeltaT=300/(0.5/60*4180)=8.6C.,,,,,,,,,
+"Initial gun setpoint 25 C, adjustedabove measured dewpoint+margin andwithinqualified gun thermal range; chillerperformance at actual ambient toconfirm.",,,,,,,,,
+"ExistingOD4/ID2.5 gun hoses and channel pressure loss may limit flow; require pump curve / installed flow test. High-head option is procurement basis, not validated flow.",,,,,,,,,
+"RF/DC electrical isolation, coolant conductivity/leakage,gun pressure leak test and 300 W thermal qualification remain required. No CAD port/bore changes made.",,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Manufacturerchillerreference,,,,,https://www.teyuchiller.com/industrial-water-chiller-cw5000-for-co2-laser-tube-p2.html,,,,
+Edwardswaterrequirements,,,,,https://mmrc.caltech.edu/Vacuum/Edwards/EXPT%20Pumping%20Station/EXT70%20EXT250%20-%20B72201880%20-%20Instruction%20manual.pdf,,,,

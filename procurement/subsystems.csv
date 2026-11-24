@@ -1,0 +1,70 @@
+,,,,
+System procurement register,,,,
+,,,,
+Initial-build procurement planning complete: every subsystem has a budget and sourcing route. Allowances and reserves are not quotations; fabrication and commissioning checks remain.,,,,
+,,,,
+No.,Subsystem,Review status,Component estimate (₹),Notes
+1,Sputter gun,Answers recorded,50650,R05 Altarget/clamp retained. R06 native SolidWorks M5 coolant fitting/backplate update saved; seal/thermal qualification pending.
+2,Chamber and loading door - complete package,Layout frozen,100000,"Alfa Technovac, Mumbai. One custom vendor order; supplier procures all included components. Allowance only; quote/GST/delivery pending."
+3,Gun mounting and height adjustment,Source chosen; fit pending,18000,"Selected eBay gland; actual price/contents unverified. INR18,000 allowance from Lesker USD200 reference. Alfa to confirm full tube passage."
+4,Substrate stage and shutter,Local fabrication + stock,2500,SS304 stage and bent shutter fabrication only. Hand screw/O-ring/nuts already in stock; supports inCB01. No separate actuator.
+5,Vacuum pumping,80V bundle and supply selected,167208,USD799 EXT70/EXDC80 two-pump lot; one installed/one spare. Toolworld OWON SPM8205 selected; HV2-150 + local plumbing. Import costs excluded.
+6,Pressure measurement,Local supplier selected,60000,"Alfa Technovac: PiraniINR20000; PenningINR40000, per user. GST/controller/cable scope unconfirmed; chamber-sideKF25 hardware inCB01."
+7,Argon supply and flow control,Sources selected; qualification pending,81934.4,Local cylinder/regulator; userAr200sccmHORIBA+KF25/VCR adapter; PE-D20 selected; priorNPT/push chain restored. Local allowances added.50mTorr ignition/range qualification pending.
+8,Gun water cooling,Local sourcing; checks pending,45600,"CW-5000 higher-head gun loop; 300 W heat basis, 0.5 L/min target. Flow, pressure, electrical isolation and thermal qualification pending."
+9,Turbo water cooling,Local sourcing; checks pending,41500,"Independent CW-5000 turbo loop; 15 C, 0.5 L/min commissioning target. Manufacturer minimum: 0.25 L/min at 15 C. Local allowances."
+10,Electrical power and controls,"Supply, controls and wiring budgeted",301500,"Omicron 200 W supply + matching network INR235000 provisional; controls/wiring/RF connections INR66500 allowance. Elecmec Controls, Mumbai, sourcing candidate. See tab 10 for contact and scope."
+11,Frame and equipment supports,Local fabrication budgeted,45000,"Welded steel frame, shelves, supports, feet and guards. Unity Fabricators, Thane, sourcing candidate. Final drawings/load checks pending. Contact and cost breakdown in tab 11."
+12,"Installation, commissioning and spares",Allowances with sourcing routes,30500,"Vent/gas shutoff, gun leak service, RF commissioning, spares and tools. See tab 12."
+Equipment and installation subtotal,,,944392.4,
+Initial-build scope budgeted. Equipment prices include allowances; freight/tax reserves and contingency are shown below.,,,,
+"Freight, tax and clearance reserves",,,70000,Replace with actual freight/taxes; avoid overlap with tax-inclusive component prices.
+Contingency on equipment / installation,,0.1,94439.24,For quote variation and incidental omissions. Separate from freight/tax reserves.
+Total planning budget,,,1108831.6400000001,
+,Online purchase,Exact product buying link and applicable order quantity,,
+,Local purchase,"Mumbai supplier / type of shop, then quote or receipt",,
+,Custom vendor order,"CAD/drawing reference, material, quantity and release status",,
+,,,,
+Review order within gun: machined parts → magnets/target → seals/fittings → electrical parts → fasteners.,,,,
+,,,,
+Custom parts: CAD available does not yet mean drawings are released for fabrication.,,,,
+,,,,
+US procurement available through the owner. Use US/eBay for suitable standard parts when Indian sourcing is difficult.,,,,
+Mumbai remains the local sourcing area. Custom machined parts remain custom vendor orders.,,,,
+,,,,
+Previously selected compression gland,,,,
+Subsystem 3: gun mounting and height adjustment. Quantity1 complete fitting; online purchase via the US route.,,,,
+Buying link: https://www.ebay.com/itm/198508082866,,,,
+Engineering reference: Lesker QF25XVC100 — KF25 flange to1-inch /25.4mm tube coupling.,,,,
+Reference link: https://www.lesker.com/flanges/adapters-fittings-quickconnects/part/qf25xvc100,,,,
+Selected seller link recovered from project records. Current eBay price and availability could not be verified.,,,,
+The eBay manufacturer/model is unconfirmed. Verify tube clearance and mating seal; do not assume Lesker internals.,,,,
+"Mount allowanceINR18,000 uses LeskerUSD200 x planningINR90/USD; actual eBay price/US charges remain unverified.",,,,
+,,,,
+,,,,
+Chamber package - sourcing settled,,,,
+ID,Package,Quantity / method,Allowance (INR),Supplier / status
+CB01,Complete chamber and loading door,1 / Custom vendor order,100000,"Alfa Technovac LLP, Mumbai. User-selected supplier. https://www.alfavacuum.com/"
+,,,,
+"INR100,000 is my provisional planning allowance, not an Alfa quote. Supplier quotation must confirm GST/delivery and complete scope.",,,,
+"Package covers shell, welded ports, door, viewport, seals, hinges/latches/handle, chamber mating hardware, fixed supports and acceptance tests.",,,,
+Scope/CAD handoff: C:\Users\Aryamman\Documents\ChatGPT\sputter\chamber-design\chamber-supplier-package\CB01 supplier handoff.zip,,,,
+"Existing R05 layout/interfaces are frozen. Supplier owns final material, weld/seal/window details and manufacturing release within these interfaces.",,,,
+"No individual purchases for CB01 inclusions. Keep pumps, gauges, MFC, gland body, removable stage/shutter and main stand in their separate subsystems.",,,,
+,,,,
+Gun mounting - one purchased gland assembly,,,,
+ID,Component,Quantity / method,Allowance (INR),Buying source / status
+GM01,"KF25 to1-inch compression gland, complete",1 / Online purchase,18000,"Previously selected:https://www.ebay.com/itm/198508082866 . Current seller price, condition and contents unverified."
+,,,,
+"Required contents: body, cap, tube seal and internal compression hardware. Confirm seller contents; do not assume the cap/O-ring is included.",,,,
+"KF flange, clamp and clear-through centering/seal hardware are included inCB01. The service tube is already costed in gun itemG11.",,,,
+"Reference only: LeskerQF25XVC100, nominal tubeOD25.4, DimA25.9, DimB50.8, listUSD200. Actual eBay part remains unidentified.",,,,
+"Modeled body/cap/follower/face reference clears the tube at75,100,150mm target gaps. Actual purchased-stack compatibility is still pending.",,,,
+Alfa must confirm free25.4mm passage through the entire flange/centering stack before manufacturing release; no new user sourcing choice.,,,,
+,,,,
+,,,,
+,,,,
+,Sourcing method,Required record,,
+,Online purchase,Exact product buying link and applicable order quantity,,
+,Local purchase,"Supplier or established procurement channel, with quote/receipt when ordered",,
+,Custom vendor order,"CAD/drawing reference, material, quantity and release status",,

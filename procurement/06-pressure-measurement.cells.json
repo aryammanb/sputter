@@ -1,0 +1,57 @@
+{
+  "sheet": "06 Pressure measurement",
+  "values": {
+    "A2": "06 Pressure measurement - local procurement",
+    "A4": "Supplier selected by user: Alpha Technovac / Alfa Technovac, Mumbai. Prices supplied by user on24Nov2026.",
+    "F5": "Recorded gauge subtotal (INR)",
+    "I5": "60000",
+    "A6": "Recorded gauge prices totalINR60000. GST inclusion and controller/readout/cable scope are unconfirmed.",
+    "A7": "Chamber-sideKF25 clamps and centering seals are already inCB01; no duplicate charge here.",
+    "A8": "Gauge models, native fittings and any elbows/adapters remain to confirm with supplier; no chamber layout change.",
+    "A9": "ID",
+    "B9": "Component",
+    "C9": "Specification",
+    "D9": "Qty",
+    "E9": "Procurement method",
+    "F9": "Supplier",
+    "G9": "Price / scope status",
+    "H9": "Unit price (INR)",
+    "I9": "Line price (INR)",
+    "J9": "Scope and price basis",
+    "A10": "PG01",
+    "B10": "Pirani gauge",
+    "C10": "Model and native vacuum fitting to confirm",
+    "D10": "1",
+    "E10": "Local purchase",
+    "F10": "Alfa Technovac, Mumbai",
+    "G10": "User-supplied price; package scope pending",
+    "H10": "20000",
+    "I10": "20000",
+    "J10": "INR20000 per user. Whether controller/readout, cable andGST are included is unconfirmed. Budget is not an all-inclusive system quotation.",
+    "A11": "PG02",
+    "B11": "Penning gauge",
+    "C11": "Model and native vacuum fitting to confirm",
+    "D11": "1",
+    "E11": "Local purchase",
+    "F11": "Alfa Technovac, Mumbai",
+    "G11": "User-supplied price; package scope pending",
+    "H11": "40000",
+    "I11": "40000",
+    "J11": "INR40000 per user. Whether controller/readout, cable andGST are included is unconfirmed. Rear dedicatedKF25 port retained; supplier to confirm needed adapter/elbow."
+  },
+  "formulas": {
+    "I5": {
+      "formula": "SUM(I10:I11)",
+      "cached_value": "60000"
+    },
+    "I10": {
+      "formula": "D10*H10",
+      "cached_value": "20000"
+    },
+    "I11": {
+      "formula": "D11*H11",
+      "cached_value": "40000"
+    }
+  },
+  "cached_errors": []
+}

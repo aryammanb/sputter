@@ -1,0 +1,13 @@
+{
+  "Full sputter system R03 - closed.step": {
+    "solids": 362,
+    "valid_solids": 361,
+    "known_supplier_RV3_invalid_solids": 1
+  },
+  "Full sputter system R03 - loading.step": {
+    "solids": 362,
+    "valid_solids": 361,
+    "known_supplier_RV3_invalid_solids": 1
+  },
+  "scope": "Internal stage/shutter/gun geometry unchanged from checked R01/R02. New exterior layout not a full tolerance/structural/flow verification."
+}

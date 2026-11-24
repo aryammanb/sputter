@@ -1,0 +1,19 @@
+,,,,,,,,,
+11 Frame and supports,,,,,,,,,
+,,,,,,,,,
+"Allowances as at 24 Nov 2026. Contacts are sourcing candidates, not quotations or confirmed orders. Vendor supplies the listed components as one coordinated package where practical.",,,,,,,,,
+,,,,,Budget (INR),,,45000,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+ID,Component / service,Scope,Qty,Procurement method,Contact / sourcing route,Status,Unit INR,Line INR,Price basis / exclusions
+FR01,Fabricated equipment frame,"Braced welded mild-steel frame, powder coated; material/cut/weld/finish included",1,Custom vendor order,"Unity Fabricators, Thane. +91 9920566939; unityengrs1@gmail.com. https://unityfabricators.com/contact-us/",Planning allowance,22000,22000,"Budget concept, final layout/drawing/load checks pending. Includes chamber support and top access. No raw steel charged separately."
+FR02,Equipment shelves and trays,"Formed shelves for RF supply/matcher, controller and mechanical pump",1,Custom vendor order,"Unity Fabricators, Thane. +91 9920566939; unityengrs1@gmail.com. https://unityfabricators.com/contact-us/",Planning allowance,8000,8000,Allow service access and manufacturer ventilation. Chillers preferably on floor; no enclosure of their airflow.
+FR03,Levelling and vibration pads,"Levelling feet and pump isolation pads, complete set",1,Local purchase,"Unity Fabricators, Thane. +91 9920566939; unityengrs1@gmail.com. https://unityfabricators.com/contact-us/",Planning allowance,3000,3000,Stationary frame basis. Castors not required for current plan.
+FR04,Equipment mounting brackets,"Turbo restraint, gauge supports and chiller-hose support brackets",1,Custom vendor order,"Unity Fabricators, Thane. +91 9920566939; unityengrs1@gmail.com. https://unityfabricators.com/contact-us/",Planning allowance,6000,6000,Support the turbo per its manufacturer instructions. Mechanical pump is not supported through hose. No duplicate chamber flange clamps. The existing MFC bracket remains solely in the gas BOM.
+FR05,Cable and hose management,"Rear cable tray, clips, strain relief and hose supports",1,Local purchase,"Unity Fabricators, Thane. +91 9920566939; unityengrs1@gmail.com. https://unityfabricators.com/contact-us/",Planning allowance,2000,2000,Keep lines clear of door motion and adjustable gun. No duplicate hose or electrical cable purchase.
+FR06,Guards and drip trays,Removable drip trays and shields around service connections,1,Custom vendor order,"Unity Fabricators, Thane. +91 9920566939; unityengrs1@gmail.com. https://unityfabricators.com/contact-us/",Planning allowance,4000,4000,Frame accessories only; chamber door/viewport remain in CB01.
+,,,,,,,,,
+,,,,,,,,,
+"Frame vendor must approve loading, stiffness, stability, anchoring and access against final equipment dimensions. This is a costed procurement scope, not released structural drawings.",,,,,,,,,
+"Keep turbo attached to ISO63 chamber connection with manufacturer-required restraint/support. Preserve gun height adjustment, viewport access, door swing and rear service clearance.",,,,,,,,,

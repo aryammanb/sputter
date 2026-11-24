@@ -1,0 +1,30 @@
+﻿Dimension,Nominal value,Units / scope
+chamber_internal,"[200, 200, 300]",mm unless specified; reference/provisional status in parts list
+stage_D_thickness,"[90, 6]",mm unless specified; reference/provisional status in parts list
+substrate,"[50, 50, 1]",mm unless specified; reference/provisional status in parts list
+target_substrate_gap,"[75, 150]",mm unless specified; reference/provisional status in parts list
+shutter_substrate_gap,12,mm unless specified; reference/provisional status in parts list
+EXT70_reference_height,157.05,mm unless specified; reference/provisional status in parts list
+EXT70_inlet_face_z,-48.0,mm unless specified; reference/provisional status in parts list
+EXT70_bottom_z,-205.05,mm unless specified; reference/provisional status in parts list
+EXT70_native_outlet,"""KF16, adapted to KF25""",mm unless specified; reference/provisional status in parts list
+turbo_outlet_centre_z,-172.45,mm unless specified; reference/provisional status in parts list
+RV3_import_bbox_mm,"[342.97571437149253, 49.735182962354045, -314.11727340042574, 517.8153018446063, 481.3140426430149, -83.11038789524964]",mm unless specified; reference/provisional status in parts list
+RV3_inlet_centre,"[393, 325, -83.6]",mm unless specified; reference/provisional status in parts list
+RV3_placement_translation,"[430, 377.5, -212]",mm unless specified; reference/provisional status in parts list
+hose_centreline_length,640.2983964902556,mm unless specified; reference/provisional status in parts list
+MFC_VCR_face_to_face,124,mm unless specified; reference/provisional status in parts list
+MFC_body_width,38,mm unless specified; reference/provisional status in parts list
+MFC_reference_height,115,mm unless specified; reference/provisional status in parts list
+MFC_output_face_y,178.436,mm unless specified; reference/provisional status in parts list
+MFC_inlet_face_y,302.43600000000004,mm unless specified; reference/provisional status in parts list
+push_socket_face_y,360.196,mm unless specified; reference/provisional status in parts list
+MFC_gas_axis_z,210,mm unless specified; reference/provisional status in parts list
+gauge_centres_x,"[-50, 50]",mm unless specified; reference/provisional status in parts list
+gauge_elbow_radius,25,mm unless specified; reference/provisional status in parts list
+viewport_centre_z,105,mm unless specified; reference/provisional status in parts list
+viewport_clear_diameter,70,mm unless specified; reference/provisional status in parts list
+gas_tube_OD,6,mm unless specified; reference/provisional status in parts list
+gas_tube_ID,4,mm unless specified; reference/provisional status in parts list
+gas_tube_illustrative_insertion,16,mm unless specified; reference/provisional status in parts list
+Viewport retainer bores,"[4.2, 10, 6]","diameter, blind depth, remaining solid backing; mm"

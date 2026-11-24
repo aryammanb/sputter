@@ -1,0 +1,84 @@
+INTEGRATED SINGLE COAX MAGNETRON R02
+Mechanical integration study | 22 November 2026 | dimensions in millimetres
+
+Open 'Integrated single coax magnetron R02.step' as an assembly in SolidWorks.
+It contains 129 named component instances: 114 retained reconstruction parts
+and 15 new or modified parts. Separate STEP files for those 15 parts and a
+component BOM are included. Original source files have not been overwritten.
+Native SLDASM conversion was not completed because the running SolidWorks
+instances were unresponsive; this package is a STEP delivery.
+
+CONNECTION LOGIC
+One continuous coax enters the atmospheric service tube. A short exposed braid
+band contacts a shield clamp on a conductive carrier anchored to the grounded
+Boden. The protected center continues to an M4 ring terminal on the live copper
+Backplate. A copper stand-off brings that connection behind the magnet yoke.
+The original PTFE body isolation and the two reference coolant hose routes are
+retained. No additional gun-end SMA connector or vacuum RF feedthrough is used.
+The grounded body still needs a verified chamber/protective-ground bond; the
+O-ring tube gland is not assumed to provide that bond.
+
+WHAT CHANGED
+Replaced the original Boden with the same source geometry plus one internal
+blind ground-anchor pilot. Replaced the original illustrative HV hook/wire and
+M4x8 terminal screw with the coax termination and M4x20 screw. Replaced the
+reference 20 mm service tube with a 25.4 OD / 22.4 ID tube, retaining the source
+KF16 flange capture and 20 OD / 16 ID neck at the head. The taper occurs beyond
+the original clamp. Original yoke, magnets and water-seal grooves are unchanged.
+The chamber compression adapter is not modeled; its actual bore, tube finish,
+seal and insertion travel must be checked against the purchased adapter.
+
+MODELED DIMENSIONS
+- Intact coax: 5 OD study envelope; braid 3.7 OD, dielectric 3.2 OD,
+  center conductor 0.9 OD. These do not specify an approved cable.
+- Smooth intact-cable offset: minimum centerline radius 25.403 mm.
+- Exposed shield band: 9 mm. Protected center tail quarter-turn radius: 7.5 mm.
+  Cable selection must permit both preparation and bending arrangements.
+- Shield clamp study: icotek SKL3-6 / 36202 catalogue envelope
+  8 x 11.8 x 13.6, 3-6 mm shield range, 3.2 mounting hole.
+- Ring terminal study: TE 323086 principal catalogue dimensions, M4 eye,
+  8.74 outside eye diameter, 4.34 bore, 16.59 overall, 0.79 flat thickness.
+  Formed barrel/neck and spring details are representative, NOT supplier CAD.
+  Confirm actual purchased geometry, crimp specification and ratings.
+- Copper stand-off: 6.5 OD / 4.3 ID x 12.5 long through existing 8 mm passage.
+- M4x20 terminal screw: modeled copper engagement 6.71; bore-end margin 1.29.
+- Ground anchor: 2.5 nominal pilot, 4 deep, normal to internal cone.
+  M3x6 screw nominal engagement 3.4; drill-bottom margin 0.6.
+  Remaining material along that axis beyond the drill is 18.5; this is not
+  a global minimum-wall or strength calculation. Anchor torque is unspecified.
+- Custom carrier: nominal 0.8 conductive sheet, 12.4 x 9 clamp landing,
+  8-wide tab and conformal saddle with a local flat anchor pad.
+
+GEOMETRY CHECKS AND CONTACT INTERPRETATION
+All 15 new/modified parts are valid single solids. New parts were checked for
+volume interference against the 114 retained source solids and each other.
+Four remaining modeled contacts are intentional representations:
+1. M4 screw versus source copper thread-minor bore: 25.4679 cubic mm.
+2. M3 anchor versus nominal tapped pilot: 7.37657 cubic mm.
+3. Spring jaw versus braid: 1.28775 cubic mm, representing installed pressure.
+4. Conformal saddle versus Boden: 0.04152 cubic mm, a formed-contact allowance.
+No other new volume intersections were found at the recorded checking tolerance.
+These allowances are not a thread, spring or forming simulation. Fabrication
+drawings must resolve actual thread standards, tolerances and seated contact.
+The two original coolant-hose reference solids clear the new parts.
+STEP reimport and volume checks are recorded separately in STEP-verification.json.
+Retained source reconstruction assumptions and nominal-thread contacts remain.
+
+RELEASE LIMITS
+This is a mechanical integration model, not a released RF gun. Frequency,
+maximum RF voltage/current, DC self-bias and power remain unspecified. Cable,
+lug, clamp and guard insulation are not electrically approved by this model.
+Short exposed termination length, bonding impedance, heating and insulation
+under the actual waveform need engineering checks and prototype verification.
+Geometric metal separation does not establish a voltage or air-clearance rating.
+Provide external cable/hose strain relief; the shield contact is not assumed
+to be a complete cable-retention system. Actual crimp deformation is not modeled.
+Original reference hose and service lengths, utility fittings and target
+details retain the uncertainties of the initial video-based reconstruction.
+Cooling flow, leak-tightness and thermal capability have not been validated.
+
+PRODUCT REFERENCES
+https://www.icotek.com/en/products/emc-cable-shield-clamps/skl-mskl
+https://www.te.com/en/product-323086.html
+Reference shapes reserve principal catalogue dimensions; obtain vendor drawings
+or measure purchased parts before issuing machining or assembly instructions.

@@ -1,0 +1,131 @@
+{
+  "status": "Nominal mechanical concept; not a fabrication release",
+  "components": 196,
+  "gun_components": 141,
+  "valid_solids": 198,
+  "dimensions_mm": {
+    "internal_chamber": [
+      200,
+      200,
+      300
+    ],
+    "internal_volume_litres": 12,
+    "wall_roof_floor_thickness": 10,
+    "roof_blank": [
+      220,
+      226,
+      10
+    ],
+    "front_frame_thickness": 16,
+    "door": [
+      228,
+      316,
+      16
+    ],
+    "door_clear_opening": [
+      180,
+      270
+    ],
+    "viewport_clear_diameter": 70,
+    "viewport_glass_envelope": [
+      94,
+      6
+    ],
+    "stage_diameter": 90,
+    "stage_thickness": 6,
+    "stage_top_z": 40,
+    "reference_substrate": [
+      50,
+      50,
+      1
+    ],
+    "substrate_top_z": 41,
+    "default_target_face_z": 141,
+    "target_substrate_gap_range": [
+      75,
+      150
+    ],
+    "gun_vertical_travel": 75,
+    "shutter_pivot": [
+      -65,
+      0
+    ],
+    "shutter_sheet_thickness": 1,
+    "shutter_inside_bend_radius": 2,
+    "shutter_blade": [
+      56,
+      56
+    ],
+    "shutter_blade_bottom_z": 53,
+    "shutter_blade_top_z": 54,
+    "shutter_substrate_clearance": 12,
+    "shutter_flat_midplane_drop": 240,
+    "shutter_straight_vertical_length": 235,
+    "shutter_open_rotation_deg": 80,
+    "shutter_sample_cover_margin_per_side": 3,
+    "shutter_sample_open_clearance_y": 6.575737886777652,
+    "shutter_min_wall_clearance_sampled_1deg": 2.8772499632010806,
+    "shutter_developed_length_K0p42": 381.6026542216873,
+    "shutter_developed_max_width": 56,
+    "shutter_flat_bend_allowance_each_K0p42": 3.8013271108436495,
+    "shutter_bend_tangent_stations": [
+      27,
+      30.80132711084365,
+      265.80132711084366,
+      269.6026542216873
+    ],
+    "iso63_flange_OD": 95,
+    "iso63_port_bore": 63.5,
+    "iso63_mating_face_z": -45,
+    "kf25_service_flange_OD": 39.88,
+    "gun_tube_projection_above_adapter_at_min_gap": 12.199999999999989,
+    "gun_straight_tube_start_at_max_gap_z": 296,
+    "rear_ports": [
+      {
+        "name": "Rear upper gas inlet",
+        "centre": [
+          0,
+          100,
+          210
+        ]
+      },
+      {
+        "name": "Rear lower left Pirani",
+        "centre": [
+          -50,
+          100,
+          90
+        ]
+      },
+      {
+        "name": "Rear lower right Penning",
+        "centre": [
+          50,
+          100,
+          90
+        ]
+      }
+    ],
+    "right_spare_port_heights": [
+      75,
+      225
+    ]
+  },
+  "checks": {
+    "all_shapes_valid": true,
+    "shutter_sweep_interferences": [],
+    "gun_at_75_100_150_gap_interferences": [],
+    "source_target_top_face_y": 2.0,
+    "new_structural_pressure_design_checked": false,
+    "purchased_fittings_are_controlled_supplier_CAD": false
+  },
+  "unresolved": [
+    "Roof KF25 centering seal and mating flange must pass25.4 tube; standard parts can block it.",
+    "Thumb screw journal/collar and O-ring gland must be checked; threaded rotating surface not qualified as a vacuum seal.",
+    "10mm chamber panels, door, glass and welds require vacuum structural/sealing review.",
+    "Pirani, Penning and MFC hardware not supplied; connection ports modeled only.",
+    "No claimed deposition uniformity, pump-down time or pumping conductance validation.",
+    "Latest gun internal inherited contacts and prior RF/cooling limitations retained.",
+    "Blank development uses K0.42; supplier bend tooling must set production allowances."
+  ]
+}

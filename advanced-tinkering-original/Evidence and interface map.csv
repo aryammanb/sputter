@@ -1,0 +1,13 @@
+﻿Feature,Geometry evidence,Video time,Interpretation or limit
+Layered face-seal assembly,All source parts share global Y-axis coordinates,02:45–03:08,No source part geometry moved or redesigned
+Target interface,SeatY0; clamp lipY2; recessD51.8,03:08–04:08,D50.8x2 Ti study target; exact target thickness not supplied
+Atmospheric service region,"Main rings atY-12,-41,-46; centralKF16 receiverD17.2",04:15–05:28,Tube length/fitting models not specified
+PTFE screw sleeves,BaseD5.8 bores/D8 counterbores;12 copies,05:33–06:20;18:34,Compatible sleeve shape inferred; not an author drawing
+KF16 clamp,One source half; second by180deg aboutY; sixD5.4 holes matchM5-sized pilot locations,06:22–06:49,Captions misread screw size; geometry supportsM5; tube/centering components representative
+Main isolator face seals,"R31…33.85 glands,depth1.45; ID62x2 rings",08:34–09:18,Two ring locations; supplied link incorrectly describes76mm
+Spacer/copper outer seal,"R38…40.85 gland,depth1.45;ID76x2",10:24–10:32,Separates dry interior from vacuum-facing periphery
+Magnet positions/polarity,12D9 outer bores onPCD50;D13 center; tipsY-2.5,11:00–11:57,OuterD8x20 S towardtarget; center2D12x10 N towardtarget
+Annular water channel,R11.05…16.05;floorY-2; closureY-9; opposite portsX±13.55,12:09–13:10,Continuous annulus; no C-channel divider modeled or inferred
+Two water O-rings,ID14.5x2 and35x2;source gland floorsY-10.45,12:40–13:10,Installedellipses illustrate occupied volume; free-state rings also supplied
+Yoke-retaining screw,Minor-sizedD3.332 bore in yoke and backplate atZ-13.55,10:35–10:57,Source models thread-sized holes in both members; preserve and flag fastening ambiguity
+Materials,"User-supplied C110,316L,A36,PTFE,N45 specifications",17:50–18:48,Materialspecifications recorded; simulation material data not certified

@@ -1,0 +1,155 @@
+1
+00:00:00,300 --> 00:00:02,606
+There are two different connections here.
+
+2
+00:00:02,606 --> 00:00:06,712
+The K F clamp joins the compression fitting to the welded chamber flange.
+
+3
+00:00:06,712 --> 00:00:11,944
+The threaded cap at the top has a different job: it compresses an O ring around the gun tube.
+
+4
+00:00:11,944 --> 00:00:17,794
+I have replaced the single solid placeholder with a separate body, threaded cap, follower and tube seal.
+
+5
+00:00:17,794 --> 00:00:23,250
+The detailed thread and seal seat are illustrative, pending the actual purchased fitting drawing.
+
+6
+00:00:24,550 --> 00:00:29,761
+First, the fitting body sits on the chamber K F flange, with the face seal between them.
+
+7
+00:00:29,761 --> 00:00:33,255
+This face seal is separate from the O ring around the tube.
+
+8
+00:00:33,255 --> 00:00:37,519
+The body is lowered into place, while the compression cap remains loose.
+
+9
+00:00:37,519 --> 00:00:41,250
+We are showing the mechanical assembly with the chamber vented.
+
+10
+00:00:42,550 --> 00:00:45,859
+The two clamp jaws close around the mating flange rims.
+
+11
+00:00:45,859 --> 00:00:48,447
+Tightening the wing nut secures this joint.
+
+12
+00:00:48,447 --> 00:00:51,395
+From now on, the body stays fixed to the chamber.
+
+13
+00:00:51,395 --> 00:00:54,885
+You do not loosen this K F clamp to adjust the gun height.
+
+14
+00:00:54,885 --> 00:00:58,917
+Height adjustment happens at the separate threaded compression cap.
+
+15
+00:01:00,217 --> 00:01:05,238
+With the upper cap loose, feed the gun service tube upward from inside the chamber.
+
+16
+00:01:05,238 --> 00:01:06,812
+The gun head stays inside.
+
+17
+00:01:06,812 --> 00:01:11,047
+The twenty five point four millimetre tube slides through the fitting.
+
+18
+00:01:11,047 --> 00:01:16,250
+This animation follows the existing gun geometry; the roof and body remain stationary.
+
+19
+00:01:17,550 --> 00:01:22,536
+Now move the complete gun up or down to choose the target to substrate distance.
+
+20
+00:01:22,536 --> 00:01:28,331
+In our chamber model, the working range is seventy five to one hundred and fifty millimetres.
+
+21
+00:01:28,331 --> 00:01:30,201
+Here we return to one hundred.
+
+22
+00:01:30,201 --> 00:01:32,320
+The body and K F clamp stay still.
+
+23
+00:01:32,320 --> 00:01:34,750
+Support the gun while the cap is loose.
+
+24
+00:01:36,050 --> 00:01:41,093
+Hold the tube at the selected position and turn the cap clockwise, viewed from above.
+
+25
+00:01:41,093 --> 00:01:43,348
+The cap advances down the body thread.
+
+26
+00:01:43,348 --> 00:01:48,450
+Its shoulder pushes the follower onto the O ring, squeezing the seal against the tube.
+
+27
+00:01:48,450 --> 00:01:50,705
+The tube does not rotate with the cap.
+
+28
+00:01:50,705 --> 00:01:57,350
+The model uses an illustrative two millimetre thread pitch, so two turns produce four millimetres of cap travel.
+
+29
+00:01:57,350 --> 00:02:02,333
+That is an animation dimension, not a tightening instruction for the purchased part.
+
+30
+00:02:03,633 --> 00:02:05,794
+The section view shows the load path.
+
+31
+00:02:05,794 --> 00:02:10,408
+The moving cap shoulder presses the follower, which compresses the tube O ring.
+
+32
+00:02:10,408 --> 00:02:13,503
+The lower face seal and K F clamp remain undisturbed.
+
+33
+00:02:13,503 --> 00:02:19,577
+O ring deformation is shown schematically to explain the mechanism; it is not a seal stress calculation.
+
+34
+00:02:19,577 --> 00:02:24,833
+The actual mating flange and centering ring must also have enough clear bore for the tube.
+
+35
+00:02:26,133 --> 00:02:29,866
+For a later adjustment, vent the chamber and support the gun.
+
+36
+00:02:29,866 --> 00:02:35,435
+Loosen only the compression cap, slide the tube to the new position, and retighten the cap.
+
+37
+00:02:35,435 --> 00:02:37,270
+The K F joint stays assembled.
+
+38
+00:02:37,270 --> 00:02:40,575
+This is the standalone mechanism animation for review.
+
+39
+00:02:40,575 --> 00:02:47,000
+The revised CAD includes the separate fitting parts; I have left the previous full walkthrough unchanged.

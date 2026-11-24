@@ -1,0 +1,51 @@
+Reimport validated old 129
+Reimport validated new 141
+{
+  "baseline_components": 129,
+  "proposed_components": 141,
+  "valid_component_solids": 141,
+  "dimensions_mm": {
+    "center_magnet_diameter": 20,
+    "center_bore_diameter": 21,
+    "outer_magnet_diameter": 6,
+    "outer_bore_diameter": 6.4,
+    "outer_pcd": 58,
+    "coolant_inner_radius": 15.5,
+    "coolant_outer_radius": 20.5,
+    "coolant_depth": 7,
+    "coolant_axes_x": [
+      -18,
+      18
+    ],
+    "inner_seal_free_ID": 23,
+    "outer_seal_free_ID": 43,
+    "seal_cross_section": 2,
+    "gland_width": 2.85,
+    "gland_depth": 1.45
+  },
+  "analytic_lands_mm": {
+    "center_bore_to_inner_gland": 1.0,
+    "inner_gland_to_coolant": 1.1500000000000004,
+    "coolant_to_outer_gland": 1.0,
+    "outer_gland_to_outer_well": 1.4499999999999993,
+    "outer_well_to_backplate_edge": 3.55,
+    "center_bore_to_port_counterbore": 3.5250000000000004,
+    "center_pole_to_yoke_port_clearance": 1
+  },
+  "scope": "Mechanical concept; balance, cooling, pressure, seal reliability and RF performance not established.",
+  "step_reimport_valid_solids": {
+    "old": 129,
+    "new": 141
+  },
+  "unexplained_changed_component_interferences": 0,
+  "naive_enlargement": {
+    "cooling_body_material_removed_by_D21_bore_mm3": 1494.1054686314287,
+    "backplate_material_removed_by_D21_bore_mm3": 2576.0417418291117
+  },
+  "outer_envelopes_preserved": true,
+  "new_annular_channel_volume_ml": 3.95840674352314,
+  "new_channel_solid_obstruction_mm3": 0.0,
+  "nearest_outer_well_to_backplate_counterbore_land_mm": 2.226685047159416,
+  "retained_component_instances": 104,
+  "changed_component_instances": 37
+}

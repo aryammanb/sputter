@@ -1,0 +1,92 @@
+;FFMETADATA1
+title=Advanced Tinkering original magnetron - detailed full assembly
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=30600
+title=The original magnetron
+[CHAPTER]
+TIMEBASE=1/1000
+START=30600
+END=58533
+title=Read the layered construction
+[CHAPTER]
+TIMEBASE=1/1000
+START=58533
+END=85200
+title=Inspect the two copper faces
+[CHAPTER]
+TIMEBASE=1/1000
+START=85200
+END=114533
+title=Fit the two water seals
+[CHAPTER]
+TIMEBASE=1/1000
+START=114533
+END=143267
+title=Secure the cooling enclosure
+[CHAPTER]
+TIMEBASE=1/1000
+START=143267
+END=173200
+title=Install the complete magnet pack
+[CHAPTER]
+TIMEBASE=1/1000
+START=173200
+END=203467
+title=Yoke, fittings and electrical contact
+[CHAPTER]
+TIMEBASE=1/1000
+START=203467
+END=230333
+title=Add the spacer and outer seal
+[CHAPTER]
+TIMEBASE=1/1000
+START=230333
+END=256200
+title=Attach the spacer to the copper
+[CHAPTER]
+TIMEBASE=1/1000
+START=256200
+END=284600
+title=Seat the main PTFE ring
+[CHAPTER]
+TIMEBASE=1/1000
+START=284600
+END=312667
+title=Prepare the twelve screw sleeves
+[CHAPTER]
+TIMEBASE=1/1000
+START=312667
+END=342533
+title=Close the bottom-body joint
+[CHAPTER]
+TIMEBASE=1/1000
+START=342533
+END=374867
+title=Assemble the KF16 connection
+[CHAPTER]
+TIMEBASE=1/1000
+START=374867
+END=405067
+title=Follow the annular cooling circuit
+[CHAPTER]
+TIMEBASE=1/1000
+START=405067
+END=436800
+title=Separate water, air and vacuum
+[CHAPTER]
+TIMEBASE=1/1000
+START=436800
+END=468600
+title=Fit the target and retaining ring
+[CHAPTER]
+TIMEBASE=1/1000
+START=468600
+END=498533
+title=Complete the grounded shield
+[CHAPTER]
+TIMEBASE=1/1000
+START=498533
+END=537200
+title=The complete reconstructed assembly

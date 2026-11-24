@@ -1,0 +1,6197 @@
+[
+  {
+    "name": "Gun 001 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-10 / stack disc 1",
+    "group": "gun",
+    "bbox_mm": [
+      -17.50924809880062,
+      22.105488610948377,
+      155.4907519011994,
+      -11.490751901199381,
+      28.12398480854962,
+      165.5092480988006
+    ],
+    "volume_mm3": 282.74333882308144,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 002 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-10 / stack disc 2",
+    "group": "gun",
+    "bbox_mm": [
+      -17.50924809880062,
+      22.10548861094838,
+      145.4907519011994,
+      -11.490751901199381,
+      28.12398480854962,
+      155.5092480988006
+    ],
+    "volume_mm3": 282.74333882308144,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 003 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-6 / stack disc 1",
+    "group": "gun",
+    "bbox_mm": [
+      25.99075190119938,
+      -3.0092480988006245,
+      155.4907519011994,
+      32.00924809880062,
+      3.0092480988006174,
+      165.5092480988006
+    ],
+    "volume_mm3": 282.74333882308144,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 004 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-6 / stack disc 2",
+    "group": "gun",
+    "bbox_mm": [
+      25.99075190119938,
+      -3.009248098800623,
+      145.4907519011994,
+      32.00924809880062,
+      3.0092480988006183,
+      155.5092480988006
+    ],
+    "volume_mm3": 282.74333882308144,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 005 backbolts",
+    "role": "gun_backbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-6",
+    "group": "gun",
+    "bbox_mm": [
+      27.66533682534897,
+      -10.914126623477033,
+      145.49104535666172,
+      33.187990230862724,
+      -5.391473217971971,
+      164.51132670275703
+    ],
+    "volume_mm3": 175.73591510679483,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 006 backbolts",
+    "role": "gun_backbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-8",
+    "group": "gun",
+    "bbox_mm": [
+      19.51253690462244,
+      19.512536904622436,
+      145.49104535666172,
+      25.035190310129238,
+      25.035190310129558,
+      164.51132670275356
+    ],
+    "volume_mm3": 175.73591510679472,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 007 backbolts",
+    "role": "gun_backbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-9",
+    "group": "gun",
+    "bbox_mm": [
+      5.391473217975441,
+      27.665336825352437,
+      145.49104535666172,
+      10.91412662348224,
+      33.187990230859555,
+      164.51132670275356
+    ],
+    "volume_mm3": 175.73591510679475,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 008 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-5 / stack disc 1",
+    "group": "gun",
+    "bbox_mm": [
+      22.10548861094838,
+      -17.50924809880062,
+      155.4907519011994,
+      28.12398480854962,
+      -11.490751901199383,
+      165.5092480988006
+    ],
+    "volume_mm3": 282.7433388230814,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 009 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-5 / stack disc 2",
+    "group": "gun",
+    "bbox_mm": [
+      22.10548861094838,
+      -17.50924809880062,
+      145.4907519011994,
+      28.12398480854962,
+      -11.490751901199381,
+      155.5092480988006
+    ],
+    "volume_mm3": 282.7433388230814,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 010 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-7 / stack disc 1",
+    "group": "gun",
+    "bbox_mm": [
+      22.10548861094838,
+      11.49075190119938,
+      155.4907519011994,
+      28.12398480854962,
+      17.50924809880062,
+      165.5092480988006
+    ],
+    "volume_mm3": 282.7433388230815,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 011 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-7 / stack disc 2",
+    "group": "gun",
+    "bbox_mm": [
+      22.10548861094838,
+      11.49075190119938,
+      145.4907519011994,
+      28.12398480854962,
+      17.50924809880062,
+      155.5092480988006
+    ],
+    "volume_mm3": 282.74333882308144,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 012 backbolts",
+    "role": "gun_backbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-4",
+    "group": "gun",
+    "bbox_mm": [
+      5.391473217975438,
+      -33.187990230853565,
+      145.49104535666172,
+      10.914126623482243,
+      -27.665336825346444,
+      164.51132670275356
+    ],
+    "volume_mm3": 175.73591510679475,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 013 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-9 / stack disc 1",
+    "group": "gun",
+    "bbox_mm": [
+      -3.009248098800616,
+      25.990751901199378,
+      155.4907519011994,
+      3.0092480988006223,
+      32.00924809880062,
+      165.5092480988006
+    ],
+    "volume_mm3": 282.74333882308144,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 014 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-9 / stack disc 2",
+    "group": "gun",
+    "bbox_mm": [
+      -3.0092480988006156,
+      25.99075190119938,
+      145.4907519011994,
+      3.009248098800622,
+      32.00924809880062,
+      155.5092480988006
+    ],
+    "volume_mm3": 282.74333882308144,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 015 backbolts",
+    "role": "gun_backbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-5",
+    "group": "gun",
+    "bbox_mm": [
+      19.51253690462244,
+      -25.035190310123564,
+      145.49104535666172,
+      25.03519031012924,
+      -19.512536904616443,
+      164.51132670275356
+    ],
+    "volume_mm3": 175.73591510679472,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 016 backbolts",
+    "role": "gun_backbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-7",
+    "group": "gun",
+    "bbox_mm": [
+      27.66533682535244,
+      5.391473217975438,
+      145.49104535666172,
+      33.18799023085924,
+      10.914126623482558,
+      164.51132670275356
+    ],
+    "volume_mm3": 175.73591510679475,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 017 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-8 / stack disc 1",
+    "group": "gun",
+    "bbox_mm": [
+      11.49075190119938,
+      22.105488610948377,
+      155.4907519011994,
+      17.50924809880062,
+      28.12398480854962,
+      165.5092480988006
+    ],
+    "volume_mm3": 282.74333882308144,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 018 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-8 / stack disc 2",
+    "group": "gun",
+    "bbox_mm": [
+      11.490751901199381,
+      22.10548861094838,
+      145.4907519011994,
+      17.50924809880062,
+      28.12398480854962,
+      155.5092480988006
+    ],
+    "volume_mm3": 282.74333882308144,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 019 backbolts",
+    "role": "gun_backbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-10",
+    "group": "gun",
+    "bbox_mm": [
+      -10.914126623482561,
+      27.665336825352437,
+      145.49104535666172,
+      -5.391473217975764,
+      33.187990230859555,
+      164.51132670275356
+    ],
+    "volume_mm3": 175.73591510679475,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 020 fittings",
+    "role": "gun_fittings",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "01 Original cathode cooling and magnets-1/REF coolant push-in fitting body-2",
+    "group": "gun",
+    "bbox_mm": [
+      11.47996256926533,
+      -6.520037430734673,
+      158.48859403481256,
+      24.520037430734668,
+      6.520037430734667,
+      178.5123307650675
+    ],
+    "volume_mm3": 1584.5565026176894,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 021 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-12 / stack disc 1",
+    "group": "gun",
+    "bbox_mm": [
+      -32.00924809880062,
+      -3.0092480988006183,
+      155.4907519011994,
+      -25.99075190119938,
+      3.0092480988006174,
+      165.5092480988006
+    ],
+    "volume_mm3": 282.74333882308144,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 022 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-12 / stack disc 2",
+    "group": "gun",
+    "bbox_mm": [
+      -32.00924809880062,
+      -3.009248098800617,
+      145.4907519011994,
+      -25.99075190119938,
+      3.0092480988006183,
+      155.5092480988006
+    ],
+    "volume_mm3": 282.74333882308144,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 023 fittings",
+    "role": "gun_fittings",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "01 Original cathode cooling and magnets-1/REF coolant push-in fitting body-1",
+    "group": "gun",
+    "bbox_mm": [
+      -24.52003743073467,
+      -6.520037430734675,
+      158.48859403481256,
+      -11.47996256926533,
+      6.520037430734669,
+      178.5123307650675
+    ],
+    "volume_mm3": 1584.5565026176896,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 024 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-11 / stack disc 1",
+    "group": "gun",
+    "bbox_mm": [
+      -28.12398480854062,
+      11.490751901199378,
+      155.4907519011994,
+      -22.105488610939382,
+      17.50924809880062,
+      165.5092480988006
+    ],
+    "volume_mm3": 282.74333882308156,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 025 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-11 / stack disc 2",
+    "group": "gun",
+    "bbox_mm": [
+      -28.12398480854062,
+      11.49075190119938,
+      145.4907519011994,
+      -22.105488610939382,
+      17.50924809880062,
+      155.5092480988006
+    ],
+    "volume_mm3": 282.7433388230815,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 026 backbolts",
+    "role": "gun_backbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-12",
+    "group": "gun",
+    "bbox_mm": [
+      -33.18799023085356,
+      5.391473217975438,
+      145.49104535666172,
+      -27.665336825346763,
+      10.914126623482558,
+      164.51132670275356
+    ],
+    "volume_mm3": 175.7359151067779,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 027 fittings",
+    "role": "gun_fittings",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "01 Original cathode cooling and magnets-1/REF coolant fitting blue release collar-2",
+    "group": "gun",
+    "bbox_mm": [
+      12.73381590209892,
+      -5.266184097901084,
+      176.4838159020989,
+      23.266184097901082,
+      5.2661840979010766,
+      178.5161840979011
+    ],
+    "volume_mm3": 72.64933011426716,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 028 backbolts",
+    "role": "gun_backbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-11",
+    "group": "gun",
+    "bbox_mm": [
+      -25.03519031012356,
+      19.512536904622436,
+      145.49104535666172,
+      -19.512536904616763,
+      25.035190310129558,
+      164.51132670275356
+    ],
+    "volume_mm3": 175.7359151067779,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 029 fittings",
+    "role": "gun_fittings",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "01 Original cathode cooling and magnets-1/REF coolant fitting blue release collar-1",
+    "group": "gun",
+    "bbox_mm": [
+      -23.26618409790108,
+      -5.266184097901084,
+      176.4838159020989,
+      -12.733815902098922,
+      5.2661840979010766,
+      178.5161840979011
+    ],
+    "volume_mm3": 72.64933011426716,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 030 waterseal",
+    "role": "gun_waterseal",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT O-ring ID35x2 installed-1",
+    "group": "gun",
+    "bbox_mm": [
+      -24.462436390834927,
+      -24.462436390834927,
+      151.8439826358423,
+      24.462436390834927,
+      24.462436390834927,
+      153.6079368902545
+    ],
+    "volume_mm3": 452.5213617900835,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 031 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-1 / stack disc 1",
+    "group": "gun",
+    "bbox_mm": [
+      -28.12398480854062,
+      -17.50924809880062,
+      155.4907519011994,
+      -22.105488610939382,
+      -11.490751901199381,
+      165.5092480988006
+    ],
+    "volume_mm3": 282.74333882308144,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 032 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-1 / stack disc 2",
+    "group": "gun",
+    "bbox_mm": [
+      -28.12398480854062,
+      -17.50924809880062,
+      145.4907519011994,
+      -22.105488610939382,
+      -11.490751901199381,
+      155.5092480988006
+    ],
+    "volume_mm3": 282.74333882308144,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 033 yokebolt",
+    "role": "gun_yokebolt",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT M4x10 socket-head study-1",
+    "group": "gun",
+    "bbox_mm": [
+      -3.5130925034090095,
+      -17.063092503409013,
+      159.49020890832074,
+      3.5130925034086538,
+      -10.036907496590995,
+      173.513092503409
+    ],
+    "volume_mm3": 263.33889367842045,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 034 waterseal",
+    "role": "gun_waterseal",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT O-ring ID14p5x2 installed-1",
+    "group": "gun",
+    "bbox_mm": [
+      -14.442740013817538,
+      -14.44274001381754,
+      151.86367901285968,
+      14.442740013817538,
+      14.442740013817536,
+      153.58824051323714
+    ],
+    "volume_mm3": 255.12927376823703,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 035 cooler",
+    "role": "gun_cooler",
+    "color": [
+      0.85,
+      0.45,
+      0.23
+    ],
+    "note": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1",
+    "group": "gun",
+    "bbox_mm": [
+      -47.15922581134645,
+      -47.15922581134645,
+      141.39002258430054,
+      47.159225811346445,
+      47.159225811346445,
+      155.1442174063452
+    ],
+    "volume_mm3": 53057.725874466465,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 036 closure",
+    "role": "gun_closure",
+    "color": [
+      0.85,
+      0.45,
+      0.23
+    ],
+    "note": "01 Original cathode cooling and magnets-1/Backplate-1",
+    "group": "gun",
+    "bbox_mm": [
+      -35.86025713656006,
+      -35.86025713656006,
+      151.88974286344063,
+      35.86025713656006,
+      35.86025713656006,
+      165.61025713656005
+    ],
+    "volume_mm3": 39902.66819212974,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 037 yoke",
+    "role": "gun_yoke",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "01 Original cathode cooling and magnets-1/Magnet Joke-1",
+    "group": "gun",
+    "bbox_mm": [
+      -35.86025713656061,
+      -35.86025713656062,
+      165.38974286343938,
+      35.86025713656061,
+      35.86025713656061,
+      175.61025713656062
+    ],
+    "volume_mm3": 36216.53191237467,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 038 centermag",
+    "role": "gun_centermag",
+    "color": [
+      0.82,
+      0.23,
+      0.22
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT center magnet D12x10 N45-1",
+    "group": "gun",
+    "bbox_mm": [
+      -10.030826762668722,
+      -10.030826762668724,
+      155.4691732373313,
+      10.030826762668722,
+      10.03082676266872,
+      165.5308267626687
+    ],
+    "volume_mm3": 3141.5926535897934,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 039 backbolts",
+    "role": "gun_backbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-1",
+    "group": "gun",
+    "bbox_mm": [
+      -33.18799023085703,
+      -10.914126623477035,
+      145.49104535666172,
+      -27.665336825344532,
+      -5.391473217971968,
+      164.51132670275703
+    ],
+    "volume_mm3": 175.73591510677787,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 040 centermag",
+    "role": "gun_centermag",
+    "color": [
+      0.82,
+      0.23,
+      0.22
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT center magnet D12x10 N45-2",
+    "group": "gun",
+    "bbox_mm": [
+      -10.030826762668722,
+      -10.030826762668724,
+      145.4691732373313,
+      10.030826762668722,
+      10.030826762668722,
+      155.5308267626687
+    ],
+    "volume_mm3": 3141.5926535897934,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 041 backbolts",
+    "role": "gun_backbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-3",
+    "group": "gun",
+    "bbox_mm": [
+      -10.914126623482563,
+      -33.187990230853565,
+      145.49104535666172,
+      -5.391473217975764,
+      -27.66533682534644,
+      164.51132670275356
+    ],
+    "volume_mm3": 175.73591510679472,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 042 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-3 / stack disc 1",
+    "group": "gun",
+    "bbox_mm": [
+      -3.0092480988006187,
+      -32.00924809880062,
+      155.4907519011994,
+      3.0092480988006196,
+      -25.99075190119938,
+      165.5092480988006
+    ],
+    "volume_mm3": 282.74333882308144,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 043 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-3 / stack disc 2",
+    "group": "gun",
+    "bbox_mm": [
+      -3.0092480988006183,
+      -32.00924809880062,
+      145.4907519011994,
+      3.009248098800619,
+      -25.99075190119938,
+      155.5092480988006
+    ],
+    "volume_mm3": 282.74333882308144,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 044 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-4 / stack disc 1",
+    "group": "gun",
+    "bbox_mm": [
+      11.49075190119938,
+      -28.123984808540623,
+      155.4907519011994,
+      17.50924809880062,
+      -22.105488610939382,
+      165.5092480988006
+    ],
+    "volume_mm3": 282.74333882308144,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 045 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-4 / stack disc 2",
+    "group": "gun",
+    "bbox_mm": [
+      11.490751901199381,
+      -28.12398480854062,
+      145.4907519011994,
+      17.50924809880062,
+      -22.105488610939382,
+      155.5092480988006
+    ],
+    "volume_mm3": 282.74333882308144,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 046 backbolts",
+    "role": "gun_backbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-2",
+    "group": "gun",
+    "bbox_mm": [
+      -25.03519031012356,
+      -25.035190310123564,
+      145.49104535666172,
+      -19.512536904616763,
+      -19.512536904616443,
+      164.51132670275356
+    ],
+    "volume_mm3": 175.7359151067779,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 047 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-2 / stack disc 1",
+    "group": "gun",
+    "bbox_mm": [
+      -17.50924809880062,
+      -28.123984808540623,
+      155.4907519011994,
+      -11.490751901199381,
+      -22.105488610939382,
+      165.5092480988006
+    ],
+    "volume_mm3": 282.74333882308144,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 048 outermag",
+    "role": "gun_outermag",
+    "color": [
+      0.14,
+      0.38,
+      0.78
+    ],
+    "note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-2 / stack disc 2",
+    "group": "gun",
+    "bbox_mm": [
+      -17.50924809880062,
+      -28.12398480854062,
+      145.4907519011994,
+      -11.490751901199381,
+      -22.105488610939382,
+      155.5092480988006
+    ],
+    "volume_mm3": 282.74333882308144,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 049 headbolts",
+    "role": "gun_headbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-2",
+    "group": "gun",
+    "bbox_mm": [
+      -24.89882670275356,
+      -41.10460145530357,
+      148.99104535666166,
+      -19.376173297246762,
+      -35.581948049796445,
+      187.01132670275356
+    ],
+    "volume_mm3": 310.03900104776284,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 050 headbolts",
+    "role": "gun_headbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-6",
+    "group": "gun",
+    "bbox_mm": [
+      41.513673297246434,
+      -2.761326702753566,
+      148.99104535666163,
+      47.03632670275324,
+      2.761326702753556,
+      187.01132670275356
+    ],
+    "volume_mm3": 310.0390010477568,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 051 headbolts",
+    "role": "gun_headbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-9",
+    "group": "gun",
+    "bbox_mm": [
+      -2.761326702753552,
+      41.513673297246434,
+      148.99104535666163,
+      2.7613267027532458,
+      47.03632670275355,
+      187.01132670275356
+    ],
+    "volume_mm3": 310.0390010477563,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 052 headbolts",
+    "role": "gun_headbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-3",
+    "group": "gun",
+    "bbox_mm": [
+      -2.7613267027535575,
+      -47.03632670275356,
+      148.99104535666163,
+      2.7613267027532404,
+      -41.51367329724645,
+      187.01132670275356
+    ],
+    "volume_mm3": 310.0390010477563,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 053 headbolts",
+    "role": "gun_headbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-11",
+    "group": "gun",
+    "bbox_mm": [
+      -41.10460145530356,
+      19.376173297246435,
+      148.99104535666166,
+      -35.581948049796765,
+      24.898826702753556,
+      187.01132670275356
+    ],
+    "volume_mm3": 310.0390010477399,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 054 headbolts",
+    "role": "gun_headbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-12",
+    "group": "gun",
+    "bbox_mm": [
+      -47.03632670275356,
+      -2.7613267027535686,
+      148.99104535666163,
+      -41.51367329724676,
+      2.761326702753559,
+      187.01132670275356
+    ],
+    "volume_mm3": 310.03900104776324,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 055 headseal",
+    "role": "gun_headseal",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "02 Original spacer and copper attachment-1/AT O-ring ID76x2 installed-1",
+    "group": "gun",
+    "bbox_mm": [
+      -40.91420346371879,
+      -40.914203463727794,
+      154.87865890996292,
+      40.914203463727794,
+      40.914065516081244,
+      156.57476203193866
+    ],
+    "volume_mm3": 769.8293103310697,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 056 headbolts",
+    "role": "gun_headbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-7",
+    "group": "gun",
+    "bbox_mm": [
+      35.58194804980244,
+      19.376173297246435,
+      148.99104535666166,
+      41.104601455309236,
+      24.898826702753556,
+      187.01132670275356
+    ],
+    "volume_mm3": 310.03900104775676,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 057 headbolts",
+    "role": "gun_headbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-4",
+    "group": "gun",
+    "bbox_mm": [
+      19.37617329724644,
+      -41.10460145530357,
+      148.99104535666166,
+      24.898826702753237,
+      -35.581948049796445,
+      187.01132670275356
+    ],
+    "volume_mm3": 310.03900104775636,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 058 headbolts",
+    "role": "gun_headbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-1",
+    "group": "gun",
+    "bbox_mm": [
+      -41.10460145530356,
+      -24.898826702753563,
+      148.99104535666166,
+      -35.581948049796765,
+      -19.376173297246442,
+      187.01132670275356
+    ],
+    "volume_mm3": 310.03900104774004,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 059 spacer",
+    "role": "gun_spacer",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "02 Original spacer and copper attachment-1/Abstandshalter-1",
+    "group": "gun",
+    "bbox_mm": [
+      -47.1125160385032,
+      -47.11215724830686,
+      154.8557825936542,
+      47.1125160146032,
+      47.11253287376304,
+      184.1442174063458
+    ],
+    "volume_mm3": 87824.45281909074,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 060 headbolts",
+    "role": "gun_headbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-5",
+    "group": "gun",
+    "bbox_mm": [
+      35.58194804980244,
+      -24.898826702753563,
+      148.99104535666166,
+      41.104601455309236,
+      -19.376173297246442,
+      187.01132670275356
+    ],
+    "volume_mm3": 310.03900104775676,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 061 headbolts",
+    "role": "gun_headbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-8",
+    "group": "gun",
+    "bbox_mm": [
+      19.37617329724644,
+      35.58194804980243,
+      148.99104535666166,
+      24.898826702753237,
+      41.104601455309556,
+      187.01132670275356
+    ],
+    "volume_mm3": 310.0390010477563,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 062 headbolts",
+    "role": "gun_headbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-10",
+    "group": "gun",
+    "bbox_mm": [
+      -24.89882670275356,
+      35.58194804980243,
+      148.99104535666166,
+      -19.376173297246762,
+      41.104601455309556,
+      187.01132670275356
+    ],
+    "volume_mm3": 310.0390010477629,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 063 hoses",
+    "role": "gun_hoses",
+    "color": [
+      0.13,
+      0.43,
+      0.82
+    ],
+    "note": "07 Reference atmospheric utility routes-1/REF blue coolant hose right-1",
+    "group": "gun",
+    "bbox_mm": [
+      0.47564540772431385,
+      -2.524354592276206,
+      172.49383456746625,
+      20.5243545922762,
+      2.5243545922761976,
+      443.0047930311977
+    ],
+    "volume_mm3": 2111.9997170297293,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 064 hoses",
+    "role": "gun_hoses",
+    "color": [
+      0.13,
+      0.43,
+      0.82
+    ],
+    "note": "07 Reference atmospheric utility routes-1/REF blue coolant hose left-1",
+    "group": "gun",
+    "bbox_mm": [
+      -20.243664767780746,
+      -2.2436647677807495,
+      172.49383456746625,
+      -0.7563352322192548,
+      2.243664767780741,
+      443.0047930311977
+    ],
+    "volume_mm3": 2111.9983063701975,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 065 kfclamps",
+    "role": "gun_kfclamps",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "06 Original clamp and reference KF16 tube-1/AT original flange clamp half-2",
+    "group": "gun",
+    "bbox_mm": [
+      -30.53614914430831,
+      0.39214417574167815,
+      216.6421441757417,
+      30.52890270693231,
+      30.545208484432315,
+      231.4243391663183
+    ],
+    "volume_mm3": 15059.332796476529,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 066 kfclamps",
+    "role": "gun_kfclamps",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "06 Original clamp and reference KF16 tube-1/AT original flange clamp half-1",
+    "group": "gun",
+    "bbox_mm": [
+      -30.528902706923887,
+      -30.545208484427903,
+      216.64214417574613,
+      30.536149144312887,
+      -0.3921441757461231,
+      231.42433916631387
+    ],
+    "volume_mm3": 15059.332796474993,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 067 kfbolts",
+    "role": "gun_kfbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-1",
+    "group": "gun",
+    "bbox_mm": [
+      -21.585515534186367,
+      -14.265007458506377,
+      211.30571590234675,
+      -13.055500617174012,
+      -5.734992541493645,
+      236.3315074585064
+    ],
+    "volume_mm3": 640.9516772191436,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 068 kfbolts",
+    "role": "gun_kfbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-4",
+    "group": "gun",
+    "bbox_mm": [
+      -4.26500745850636,
+      15.734992541493623,
+      211.30571590234675,
+      4.265007458505993,
+      24.265007458506357,
+      236.3315074585064
+    ],
+    "volume_mm3": 640.9516772190674,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 069 kfbolts",
+    "role": "gun_kfbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-5",
+    "group": "gun",
+    "bbox_mm": [
+      13.055500617182632,
+      -14.265007458506377,
+      211.30571590234675,
+      21.585515534194986,
+      -5.734992541493646,
+      236.3315074585064
+    ],
+    "volume_mm3": 640.9516772190674,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 070 kfcenter",
+    "role": "gun_kfcenter",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "06 Original clamp and reference KF16 tube-1/REF KF16 centering ring fitted-1",
+    "group": "gun",
+    "bbox_mm": [
+      -9.027744096401848,
+      -9.02774409640186,
+      214.9737972367316,
+      9.02774409640185,
+      9.027744096401841,
+      223.0262027632684
+    ],
+    "volume_mm3": 317.300858012583,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 071 kfbolts",
+    "role": "gun_kfbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-6",
+    "group": "gun",
+    "bbox_mm": [
+      -21.585515534186367,
+      5.7349925414936225,
+      211.30571590234675,
+      -13.055500617174012,
+      14.265007458506355,
+      236.3315074585064
+    ],
+    "volume_mm3": 640.9516772191436,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 072 kfseal",
+    "role": "gun_kfseal",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "06 Original clamp and reference KF16 tube-1/REF KF16 O-ring installed envelope-1",
+    "group": "gun",
+    "bbox_mm": [
+      -15.188831385354145,
+      -15.188831385361132,
+      216.8457748339573,
+      15.188831385361146,
+      15.188831385361137,
+      221.19403971869372
+    ],
+    "volume_mm3": 1418.75594051493,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 073 kfbolts",
+    "role": "gun_kfbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-3",
+    "group": "gun",
+    "bbox_mm": [
+      -4.265007458506372,
+      -24.26500745850638,
+      211.30571590234675,
+      4.2650074585059805,
+      -15.734992541493645,
+      236.3315074585064
+    ],
+    "volume_mm3": 640.9516772190673,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 074 kfbolts",
+    "role": "gun_kfbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-2",
+    "group": "gun",
+    "bbox_mm": [
+      13.055500617182632,
+      5.734992541493624,
+      211.30571590234675,
+      21.585515534194986,
+      14.265007458506355,
+      236.3315074585064
+    ],
+    "volume_mm3": 640.9516772190673,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 075 cups",
+    "role": "gun_cups",
+    "color": [
+      0.92,
+      0.88,
+      0.73
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-11",
+    "group": "gun",
+    "bbox_mm": [
+      -36.80221624415848,
+      19.147961117867514,
+      188.99136843445277,
+      -19.14796111786152,
+      36.80221624416447,
+      221.02712756314847
+    ],
+    "volume_mm3": 1287.3579105972228,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 076 basebolts",
+    "role": "gun_basebolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-11",
+    "group": "gun",
+    "bbox_mm": [
+      -30.73641538376356,
+      25.213761978262433,
+      178.49104535666166,
+      -25.213761978256763,
+      30.736415383769554,
+      216.51132670275356
+    ],
+    "volume_mm3": 310.03900104773993,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 077 basebolts",
+    "role": "gun_basebolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-10",
+    "group": "gun",
+    "bbox_mm": [
+      -13.000919833123557,
+      35.45335510863644,
+      178.49104535666166,
+      -7.478266427616762,
+      40.97600851414355,
+      216.51132670275356
+    ],
+    "volume_mm3": 310.03900104777006,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 078 cups",
+    "role": "gun_cups",
+    "color": [
+      0.92,
+      0.88,
+      0.73
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-12",
+    "group": "gun",
+    "bbox_mm": [
+      -47.04180937453848,
+      1.4124655672255122,
+      188.99136843445274,
+      -29.38755424824152,
+      19.066720693522473,
+      221.02712756314847
+    ],
+    "volume_mm3": 1287.3579105972224,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 079 basebolts",
+    "role": "gun_basebolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-12",
+    "group": "gun",
+    "bbox_mm": [
+      -40.976008514143565,
+      7.47826642762043,
+      178.49104535666163,
+      -35.453355108636764,
+      13.000919833127552,
+      216.51132670275356
+    ],
+    "volume_mm3": 310.0390010477636,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 080 cups",
+    "role": "gun_cups",
+    "color": [
+      0.92,
+      0.88,
+      0.73
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-4",
+    "group": "gun",
+    "bbox_mm": [
+      1.4124655672255184,
+      -47.04180937453849,
+      188.99136843445274,
+      19.066720693522484,
+      -29.387554248241525,
+      221.02712756314847
+    ],
+    "volume_mm3": 1287.357910597222,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 081 basebolts",
+    "role": "gun_basebolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-7",
+    "group": "gun",
+    "bbox_mm": [
+      35.45335510863644,
+      7.47826642762043,
+      178.49104535666163,
+      40.97600851414324,
+      13.000919833127552,
+      216.51132670275356
+    ],
+    "volume_mm3": 310.039001047757,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 082 cups",
+    "role": "gun_cups",
+    "color": [
+      0.92,
+      0.88,
+      0.73
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-5",
+    "group": "gun",
+    "bbox_mm": [
+      19.147961117867517,
+      -36.80221624415849,
+      188.99136843445277,
+      36.802216244164484,
+      -19.147961117861524,
+      221.02712756314847
+    ],
+    "volume_mm3": 1287.3579105972224,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 083 basebolts",
+    "role": "gun_basebolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-9",
+    "group": "gun",
+    "bbox_mm": [
+      7.478266427620443,
+      35.45335510863644,
+      178.49104535666166,
+      13.000919833127238,
+      40.97600851414355,
+      216.51132670275356
+    ],
+    "volume_mm3": 310.0390010477564,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 084 cups",
+    "role": "gun_cups",
+    "color": [
+      0.92,
+      0.88,
+      0.73
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-6",
+    "group": "gun",
+    "bbox_mm": [
+      29.38755424823953,
+      -19.066720693520477,
+      188.99136843445078,
+      47.04180937454047,
+      -1.4124655672235402,
+      221.02712756315046
+    ],
+    "volume_mm3": 1287.3579105972221,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 085 cups",
+    "role": "gun_cups",
+    "color": [
+      0.92,
+      0.88,
+      0.73
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-10",
+    "group": "gun",
+    "bbox_mm": [
+      -19.06672069351848,
+      29.387554248241514,
+      188.99136843445274,
+      -1.4124655672215196,
+      47.041809374538474,
+      221.02712756314847
+    ],
+    "volume_mm3": 1287.3579105972217,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 086 cups",
+    "role": "gun_cups",
+    "color": [
+      0.92,
+      0.88,
+      0.73
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-8",
+    "group": "gun",
+    "bbox_mm": [
+      19.14796111786752,
+      19.147961117867514,
+      188.99136843445277,
+      36.80221624416448,
+      36.80221624416447,
+      221.02712756314847
+    ],
+    "volume_mm3": 1287.3579105972228,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 087 basebolts",
+    "role": "gun_basebolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-4",
+    "group": "gun",
+    "bbox_mm": [
+      7.478266427620443,
+      -40.976008514143565,
+      178.49104535666166,
+      13.000919833127238,
+      -35.45335510863645,
+      216.51132670275356
+    ],
+    "volume_mm3": 310.0390010477564,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 088 basebolts",
+    "role": "gun_basebolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-3",
+    "group": "gun",
+    "bbox_mm": [
+      -13.000919833123557,
+      -40.976008514143565,
+      178.49104535666166,
+      -7.478266427616762,
+      -35.45335510863645,
+      216.51132670275356
+    ],
+    "volume_mm3": 310.03900104777,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 089 basebolts",
+    "role": "gun_basebolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-5",
+    "group": "gun",
+    "bbox_mm": [
+      25.21376197826244,
+      -30.736415383763568,
+      178.49104535666166,
+      30.736415383769238,
+      -25.213761978256446,
+      216.51132670275356
+    ],
+    "volume_mm3": 310.0390010477569,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 090 basebolts",
+    "role": "gun_basebolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-6",
+    "group": "gun",
+    "bbox_mm": [
+      35.453355108635115,
+      -13.000919833124899,
+      178.49104535666055,
+      40.97600851414434,
+      -7.478266427619118,
+      216.5113267027549
+    ],
+    "volume_mm3": 310.0390010477571,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 091 cups",
+    "role": "gun_cups",
+    "color": [
+      0.92,
+      0.88,
+      0.73
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-7",
+    "group": "gun",
+    "bbox_mm": [
+      29.38755424824152,
+      1.4124655672255122,
+      188.99136843445274,
+      47.04180937453848,
+      19.066720693522473,
+      221.02712756314847
+    ],
+    "volume_mm3": 1287.3579105972224,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 092 basebolts",
+    "role": "gun_basebolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-8",
+    "group": "gun",
+    "bbox_mm": [
+      25.21376197826244,
+      25.213761978262433,
+      178.49104535666166,
+      30.736415383769238,
+      30.736415383769554,
+      216.51132670275356
+    ],
+    "volume_mm3": 310.0390010477568,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 093 cups",
+    "role": "gun_cups",
+    "color": [
+      0.92,
+      0.88,
+      0.73
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-9",
+    "group": "gun",
+    "bbox_mm": [
+      1.41246556722552,
+      29.387554248241514,
+      188.99136843445274,
+      19.06672069352248,
+      47.041809374538474,
+      221.02712756314847
+    ],
+    "volume_mm3": 1287.3579105972217,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 094 isolator",
+    "role": "gun_isolator",
+    "color": [
+      0.92,
+      0.88,
+      0.73
+    ],
+    "note": "03 Original PTFE isolation and base-1/Isolator-1",
+    "group": "gun",
+    "bbox_mm": [
+      -48.69966354725664,
+      -48.69966354725665,
+      179.91427836556014,
+      48.69966354725664,
+      48.699663547256634,
+      193.08572163443986
+    ],
+    "volume_mm3": 28747.647540497026,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 095 upper62",
+    "role": "gun_upper62",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT O-ring ID62x2 installed-1",
+    "group": "gun",
+    "bbox_mm": [
+      -33.90624239181819,
+      -33.906242391821195,
+      182.42998909729198,
+      33.90624239182119,
+      33.90624239182107,
+      184.12001090270795
+    ],
+    "volume_mm3": 631.6548187340197,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 096 cups",
+    "role": "gun_cups",
+    "color": [
+      0.92,
+      0.88,
+      0.73
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-1",
+    "group": "gun",
+    "bbox_mm": [
+      -47.04180937454047,
+      -19.066720693520477,
+      188.99136843445078,
+      -29.38755424823953,
+      -1.4124655672235402,
+      221.02712756315046
+    ],
+    "volume_mm3": 1287.3579105972221,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 097 basebolts",
+    "role": "gun_basebolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-1",
+    "group": "gun",
+    "bbox_mm": [
+      -40.97600851414489,
+      -13.000919833124899,
+      178.49104535666055,
+      -35.45335510863566,
+      -7.478266427619118,
+      216.5113267027549
+    ],
+    "volume_mm3": 310.03900104776363,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 098 cups",
+    "role": "gun_cups",
+    "color": [
+      0.92,
+      0.88,
+      0.73
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-2",
+    "group": "gun",
+    "bbox_mm": [
+      -36.80221624415849,
+      -36.80221624415849,
+      188.99136843445277,
+      -19.147961117861517,
+      -19.147961117861524,
+      221.02712756314847
+    ],
+    "volume_mm3": 1287.3579105972228,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 099 basebolts",
+    "role": "gun_basebolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-2",
+    "group": "gun",
+    "bbox_mm": [
+      -30.73641538376356,
+      -30.736415383763568,
+      178.49104535666166,
+      -25.21376197825676,
+      -25.213761978256446,
+      216.51132670275356
+    ],
+    "volume_mm3": 310.03900104774004,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 100 lower62",
+    "role": "gun_lower62",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT O-ring ID62x2 installed-2",
+    "group": "gun",
+    "bbox_mm": [
+      -33.90624239181819,
+      -33.906242391821195,
+      188.879989097292,
+      33.90624239182119,
+      33.906242391821145,
+      190.57001090270802
+    ],
+    "volume_mm3": 631.6548187340115,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 101 cups",
+    "role": "gun_cups",
+    "color": [
+      0.92,
+      0.88,
+      0.73
+    ],
+    "note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-3",
+    "group": "gun",
+    "bbox_mm": [
+      -19.066720693518484,
+      -47.04180937453849,
+      188.99136843445274,
+      -1.412465567221518,
+      -29.387554248241525,
+      221.02712756314847
+    ],
+    "volume_mm3": 1287.3579105972217,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 102 targetbolts",
+    "role": "gun_targetbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-12",
+    "group": "gun",
+    "bbox_mm": [
+      -41.39835975431357,
+      7.5914351013474395,
+      138.98867329724644,
+      -35.875706348806766,
+      13.11408850685456,
+      150.00895464333828
+    ],
+    "volume_mm3": 119.18724734215611,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 103 clamp",
+    "role": "gun_clamp",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "04 Original target clamp and fitted target-1/Target Klemme-1",
+    "group": "gun",
+    "bbox_mm": [
+      -46.94426888128962,
+      -46.94426888128962,
+      137.8557825936542,
+      46.94426888128962,
+      46.94426888128962,
+      145.6439873764138
+    ],
+    "volume_mm3": 26717.95661511411,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 104 target",
+    "role": "gun_target",
+    "color": [
+      0.76,
+      0.78,
+      0.79
+    ],
+    "note": "04 Original target clamp and fitted target-1/AT titanium target D50p8x2 fitted-1",
+    "group": "gun",
+    "bbox_mm": [
+      -25.478299823178553,
+      -25.478299823178553,
+      140.92170017682145,
+      25.478299823178553,
+      25.478299823178553,
+      143.07829982317855
+    ],
+    "volume_mm3": 4053.6598327801594,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 105 targetbolts",
+    "role": "gun_targetbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-1",
+    "group": "gun",
+    "bbox_mm": [
+      -41.398359754313944,
+      -13.11408850685394,
+      138.98867329724607,
+      -35.875706348806375,
+      -7.591435101347059,
+      150.00895464333857
+    ],
+    "volume_mm3": 119.18724734216124,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 106 targetbolts",
+    "role": "gun_targetbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-2",
+    "group": "gun",
+    "bbox_mm": [
+      -31.045597950213562,
+      -31.045597950213562,
+      138.98867329724644,
+      -25.522944544706764,
+      -25.52294454470644,
+      150.00895464333828
+    ],
+    "volume_mm3": 119.18724734217962,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 107 targetbolts",
+    "role": "gun_targetbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-3",
+    "group": "gun",
+    "bbox_mm": [
+      -13.11408850685356,
+      -41.39835975431357,
+      138.98867329724644,
+      -7.591435101346761,
+      -35.87570634880644,
+      150.00895464333828
+    ],
+    "volume_mm3": 119.18724734219862,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 108 targetbolts",
+    "role": "gun_targetbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-4",
+    "group": "gun",
+    "bbox_mm": [
+      7.591435101347439,
+      -41.39835975431357,
+      138.98867329724644,
+      13.114088506854243,
+      -35.87570634880644,
+      150.00895464333828
+    ],
+    "volume_mm3": 119.18724734217285,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 109 targetbolts",
+    "role": "gun_targetbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-5",
+    "group": "gun",
+    "bbox_mm": [
+      25.52294454470844,
+      -31.045597950213562,
+      138.98867329724644,
+      31.04559795021524,
+      -25.52294454470644,
+      150.00895464333828
+    ],
+    "volume_mm3": 119.18724734217302,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 110 targetbolts",
+    "role": "gun_targetbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-6",
+    "group": "gun",
+    "bbox_mm": [
+      35.87570634880906,
+      -13.11408850685394,
+      138.98867329724607,
+      41.39835975431663,
+      -7.591435101347059,
+      150.00895464333857
+    ],
+    "volume_mm3": 119.18724734217811,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 111 targetbolts",
+    "role": "gun_targetbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-7",
+    "group": "gun",
+    "bbox_mm": [
+      35.87570634880944,
+      7.5914351013474395,
+      138.98867329724644,
+      41.39835975431624,
+      13.11408850685456,
+      150.00895464333828
+    ],
+    "volume_mm3": 119.187247342173,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 112 targetbolts",
+    "role": "gun_targetbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-8",
+    "group": "gun",
+    "bbox_mm": [
+      25.52294454470844,
+      25.52294454470844,
+      138.98867329724644,
+      31.045597950215242,
+      31.045597950215562,
+      150.00895464333828
+    ],
+    "volume_mm3": 119.18724734217307,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 113 targetbolts",
+    "role": "gun_targetbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-9",
+    "group": "gun",
+    "bbox_mm": [
+      7.591435101347439,
+      35.87570634880944,
+      138.98867329724644,
+      13.114088506854243,
+      41.398359754316566,
+      150.00895464333828
+    ],
+    "volume_mm3": 119.18724734217287,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 114 targetbolts",
+    "role": "gun_targetbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-10",
+    "group": "gun",
+    "bbox_mm": [
+      -13.11408850685356,
+      35.87570634880944,
+      138.98867329724644,
+      -7.591435101346761,
+      41.398359754316566,
+      150.00895464333828
+    ],
+    "volume_mm3": 119.18724734219865,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 115 targetbolts",
+    "role": "gun_targetbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "04 Original target clamp and fitted target-1/AT M3x8 socket-head study-11",
+    "group": "gun",
+    "bbox_mm": [
+      -31.045597950213562,
+      25.52294454470844,
+      138.98867329724644,
+      -25.522944544706764,
+      31.045597950215562,
+      150.00895464333828
+    ],
+    "volume_mm3": 119.18724734217963,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 116 upperbolts",
+    "role": "gun_upperbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "05 Original grounded shield-1/AT M3x6 socket-head study-5",
+    "group": "gun",
+    "bbox_mm": [
+      -2.7613267027536055,
+      -53.81132670275359,
+      131.2386732972464,
+      2.761326702753237,
+      -44.79104535666171,
+      136.7613267027536
+    ],
+    "volume_mm3": 105.0500804010178,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 117 darkcap",
+    "role": "gun_darkcap",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "05 Original grounded shield-1/Dunkelraumabschirmung-1",
+    "group": "gun",
+    "bbox_mm": [
+      -50.956599546357104,
+      -50.956599546357104,
+      127.27025923019453,
+      50.956599546357104,
+      50.956599546357104,
+      137.14960003365942
+    ],
+    "volume_mm3": 41044.76627300665,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 118 upperbolts",
+    "role": "gun_upperbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "05 Original grounded shield-1/AT M3x6 socket-head study-1",
+    "group": "gun",
+    "bbox_mm": [
+      38.13898344620444,
+      21.192007250985203,
+      131.23867329724638,
+      47.87849342635709,
+      29.192896563160097,
+      136.76132670275362
+    ],
+    "volume_mm3": 105.05008040102558,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 119 upperbolts",
+    "role": "gun_upperbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "05 Original grounded shield-1/AT M3x6 socket-head study-2",
+    "group": "gun",
+    "bbox_mm": [
+      -2.7613267027532435,
+      44.79104535666171,
+      131.2386732972464,
+      2.761326702753599,
+      53.81132670275359,
+      136.7613267027536
+    ],
+    "volume_mm3": 105.05008040101778,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 120 upperbolts",
+    "role": "gun_upperbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "05 Original grounded shield-1/AT M3x6 socket-head study-3",
+    "group": "gun",
+    "bbox_mm": [
+      -47.878493426353806,
+      21.192007250984453,
+      131.23867329724595,
+      -38.138983446200825,
+      29.192896563160957,
+      136.76132670275405
+    ],
+    "volume_mm3": 105.05008040112604,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 121 upperbolts",
+    "role": "gun_upperbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "05 Original grounded shield-1/AT M3x6 socket-head study-4",
+    "group": "gun",
+    "bbox_mm": [
+      -47.87849342635484,
+      -29.19289656316055,
+      131.23867329724564,
+      -38.13898344620089,
+      -21.19200725098446,
+      136.76132670275436
+    ],
+    "volume_mm3": 105.05008040113856,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 122 shieldtube",
+    "role": "gun_shieldtube",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "05 Original grounded shield-1/Groundshield Rohr-1",
+    "group": "gun",
+    "bbox_mm": [
+      -51.09095698611828,
+      -51.09099251431828,
+      130.8434782274977,
+      51.09095698611828,
+      51.01560204344702,
+      217.1404225569449
+    ],
+    "volume_mm3": 53160.32449044946,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 123 lowerbolts",
+    "role": "gun_lowerbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "05 Original grounded shield-1/AT M4x8 socket-head study-2",
+    "group": "gun",
+    "bbox_mm": [
+      -49.12128463079056,
+      -30.344181416655502,
+      199.74890749658965,
+      -36.15609619028994,
+      -19.758158100751327,
+      206.77509250341035
+    ],
+    "volume_mm3": 238.20615244977967,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 124 upperbolts",
+    "role": "gun_upperbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "05 Original grounded shield-1/AT M3x6 socket-head study-6",
+    "group": "gun",
+    "bbox_mm": [
+      38.13898344620445,
+      -29.192896563160495,
+      131.2386732972464,
+      47.878493426356734,
+      -21.192007250985203,
+      136.7613267027536
+    ],
+    "volume_mm3": 105.05008040104089,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 125 lowerbolts",
+    "role": "gun_lowerbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "05 Original grounded shield-1/AT M4x8 socket-head study-1",
+    "group": "gun",
+    "bbox_mm": [
+      -3.5130925034086613,
+      42.790208908320736,
+      199.74890749659096,
+      3.5130925034090326,
+      54.81309250340902,
+      206.77509250340904
+    ],
+    "volume_mm3": 238.20615244970057,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 126 lowerbolts",
+    "role": "gun_lowerbolts",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "05 Original grounded shield-1/AT M4x8 socket-head study-3",
+    "group": "gun",
+    "bbox_mm": [
+      36.156096190294406,
+      -30.344181416654212,
+      199.74890749659096,
+      49.12128463079633,
+      -19.758158100752066,
+      206.77509250340904
+    ],
+    "volume_mm3": 238.2061524497433,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 127 base",
+    "role": "gun_base",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "R02 Boden - internal blind ground anchor",
+    "group": "gun",
+    "bbox_mm": [
+      -48.917945260099756,
+      -48.91794526009976,
+      188.85039996634026,
+      48.917945260099756,
+      48.91794526009975,
+      217.14960003365974
+    ],
+    "volume_mm3": 152509.06653466454,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 128 kftube",
+    "role": "gun_kftube",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "R02 KF16 neck to one inch service tube",
+    "group": "gun",
+    "bbox_mm": [
+      -15.153895842561083,
+      -15.153895842561091,
+      220.95375990599692,
+      15.153895842561083,
+      15.153895842561074,
+      421.03914996158926
+    ],
+    "volume_mm3": 23892.865133085117,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 129 rfground",
+    "role": "gun_rfground",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "REF icotek SKL3-6 36202 installed study",
+    "group": "gun",
+    "bbox_mm": [
+      -5.9000001000016,
+      -13.504932366027019,
+      187.4999998999984,
+      5.9000001000016,
+      0.10000010000159519,
+      195.5000001000016
+    ],
+    "volume_mm3": 170.57996140322496,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 130 rfground",
+    "role": "gun_rfground",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "R02 Ground carrier and conformal saddle",
+    "group": "gun",
+    "bbox_mm": [
+      -6.200000100000029,
+      -26.047769826321645,
+      186.99999989999998,
+      6.200000100000029,
+      -13.495067633972992,
+      205.0866362377289
+    ],
+    "volume_mm3": 219.44175957438082,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 131 rfground",
+    "role": "gun_rfground",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "R02 M3x4 clamp mounting screw",
+    "group": "gun",
+    "bbox_mm": [
+      -2.7584774322339083,
+      -17.308477432233918,
+      188.74152256776608,
+      2.7584774322339083,
+      -10.295375900599682,
+      194.25847743223392
+    ],
+    "volume_mm3": 99.5492172106268,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 132 rfground",
+    "role": "gun_rfground",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "R02 M3 clamp nut envelope",
+    "group": "gun",
+    "bbox_mm": [
+      -2.7584774322339083,
+      -13.008477432233914,
+      188.74152256776608,
+      2.7584774322339083,
+      -10.591522567766097,
+      194.25847743223392
+    ],
+    "volume_mm3": 38.90548342205685,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 133 rfground",
+    "role": "gun_rfground",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "R02 M3x6 blind ground anchor screw",
+    "group": "gun",
+    "bbox_mm": [
+      -2.758477432236011,
+      -25.469447327210148,
+      195.08718094485099,
+      2.758477432236011,
+      -16.087180944853998,
+      204.4694473272103
+    ],
+    "volume_mm3": 113.68638415179976,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 134 rfhot",
+    "role": "gun_rfhot",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "R02 Copper terminal stand-off D6p5 L12p5",
+    "group": "gun",
+    "bbox_mm": [
+      -3.2600187653673376,
+      10.28998123463266,
+      165.48998123463267,
+      3.2600187653673376,
+      16.810018765367335,
+      178.01001876536733
+    ],
+    "volume_mm3": 233.26325452904726,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 135 rfhot",
+    "role": "gun_rfhot",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "R02 M4x20 live terminal screw",
+    "group": "gun",
+    "bbox_mm": [
+      -3.5107894319340534,
+      10.039210568065943,
+      158.78383456746624,
+      3.5107894319340534,
+      17.06078943193405,
+      182.80078943193405
+    ],
+    "volume_mm3": 405.26545231308063,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 136 rfhot",
+    "role": "gun_rfhot",
+    "color": [
+      0.48,
+      0.57,
+      0.64
+    ],
+    "note": "REF TE323086 M4 ring terminal study",
+    "group": "gun",
+    "bbox_mm": [
+      -4.383416850074949,
+      1.3218726300589334,
+      177.98657025797743,
+      4.383416850074949,
+      17.933429742022554,
+      181.13812736994106
+    ],
+    "volume_mm3": 80.54560475660296,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 137 coax",
+    "role": "gun_coax",
+    "color": [
+      0.18,
+      0.23,
+      0.29
+    ],
+    "note": "R02 Continuous coax outer jacket",
+    "group": "gun",
+    "bbox_mm": [
+      -2.5538802408095456,
+      -10.05388024080766,
+      196.4922932343328,
+      2.5538802408095456,
+      -1.9461197591904624,
+      453.0077067656672
+    ],
+    "volume_mm3": 2281.5319110006326,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 138 coax",
+    "role": "gun_coax",
+    "color": [
+      0.18,
+      0.23,
+      0.29
+    ],
+    "note": "R02 Continuous coax shield",
+    "group": "gun",
+    "bbox_mm": [
+      -1.9008083419300805,
+      -9.40080834192816,
+      187.49429696740629,
+      1.9008083419300805,
+      -2.5991916580699272,
+      453.0057030325937
+    ],
+    "volume_mm3": 720.3446229604222,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 139 coax",
+    "role": "gun_coax",
+    "color": [
+      0.18,
+      0.23,
+      0.29
+    ],
+    "note": "R02 Continuous center dielectric",
+    "group": "gun",
+    "bbox_mm": [
+      -1.6496271119248644,
+      -9.149627111923,
+      177.93204960157055,
+      1.6496271119248644,
+      0.3349323660270096,
+      453.004932366027
+    ],
+    "volume_mm3": 2061.8612639144008,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 140 coax",
+    "role": "gun_coax",
+    "color": [
+      0.18,
+      0.23,
+      0.29
+    ],
+    "note": "R02 RF center conductor",
+    "group": "gun",
+    "bbox_mm": [
+      -0.4941958054956357,
+      -7.994195805493755,
+      179.08911717761168,
+      0.4941958054956357,
+      5.8313872998201,
+      453.00138729982007
+    ],
+    "volume_mm3": 180.60474137049795,
+    "solid_count": 1
+  },
+  {
+    "name": "Gun 141 coax",
+    "role": "gun_coax",
+    "color": [
+      0.18,
+      0.23,
+      0.29
+    ],
+    "note": "R02 Additional dielectric guard sleeve",
+    "group": "gun",
+    "bbox_mm": [
+      -2.0354102868479975,
+      -9.535410286848004,
+      177.529589713152,
+      2.0354102868479975,
+      0.33616543253376086,
+      187.50616543253375
+    ],
+    "volume_mm3": 56.75664223308019,
+    "solid_count": 1
+  },
+  {
+    "name": "Rear upper gas inlet KF25 weld nipple",
+    "role": "service_port",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "QF25-100-LF nominal envelope: OD39.88, bore22.225, length40.132. No attached gauge/MFC models.",
+    "group": "chamber",
+    "bbox_mm": [
+      -20.14092638148736,
+      99.9608500384107,
+      189.85907361851264,
+      20.14092638148736,
+      140.19346846536146,
+      230.14092638148736
+    ],
+    "volume_mm3": 8567.604225986935,
+    "solid_count": 1
+  },
+  {
+    "name": "Rear lower left Pirani KF25 weld nipple",
+    "role": "service_port",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "QF25-100-LF nominal envelope: OD39.88, bore22.225, length40.132. No attached gauge/MFC models.",
+    "group": "chamber",
+    "bbox_mm": [
+      -70.14092638148736,
+      99.96085003841073,
+      69.85907361851264,
+      -29.859073618512642,
+      140.19346846536143,
+      110.14092638148736
+    ],
+    "volume_mm3": 8567.604225986943,
+    "solid_count": 1
+  },
+  {
+    "name": "Rear lower right Penning KF25 weld nipple",
+    "role": "service_port",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "QF25-100-LF nominal envelope: OD39.88, bore22.225, length40.132. No attached gauge/MFC models.",
+    "group": "chamber",
+    "bbox_mm": [
+      29.859073618512642,
+      99.96085003841073,
+      69.85907361851264,
+      70.14092638148736,
+      140.19346846536143,
+      110.14092638148736
+    ],
+    "volume_mm3": 8567.604225986943,
+    "solid_count": 1
+  },
+  {
+    "name": "Right lower spare KF25 weld nipple",
+    "role": "service_port",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "QF25-100-LF nominal envelope: OD39.88, bore22.225, length40.132. No attached gauge/MFC models.",
+    "group": "chamber",
+    "bbox_mm": [
+      99.96085003841073,
+      -20.140926381487358,
+      54.859073618512646,
+      140.19346846536143,
+      20.140926381487358,
+      95.14092638148736
+    ],
+    "volume_mm3": 8567.604225986946,
+    "solid_count": 1
+  },
+  {
+    "name": "Right upper spare KF25 weld nipple",
+    "role": "service_port",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "QF25-100-LF nominal envelope: OD39.88, bore22.225, length40.132. No attached gauge/MFC models.",
+    "group": "chamber",
+    "bbox_mm": [
+      99.9608500384107,
+      -20.14092638148736,
+      204.85907361851264,
+      140.19346846536146,
+      20.14092638148736,
+      245.14092638148736
+    ],
+    "volume_mm3": 8567.604225986917,
+    "solid_count": 1
+  },
+  {
+    "name": "Rear wall",
+    "role": "structure",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.",
+    "group": "chamber",
+    "bbox_mm": [
+      -110.00000010000005,
+      99.9608500384107,
+      -1.0000005728578676e-07,
+      110.00000010000005,
+      110.0391499615893,
+      300.0000001000001
+    ],
+    "volume_mm3": 644798.7756270751,
+    "solid_count": 1
+  },
+  {
+    "name": "Right wall",
+    "role": "structure",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.",
+    "group": "chamber",
+    "bbox_mm": [
+      99.9608500384107,
+      -100.00000010000005,
+      -1.0000005728578676e-07,
+      110.0391499615893,
+      100.00000010000005,
+      300.0000001000001
+    ],
+    "volume_mm3": 589865.8504180501,
+    "solid_count": 1
+  },
+  {
+    "name": "Left wall - reserved blank",
+    "role": "structure",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.",
+    "group": "chamber",
+    "bbox_mm": [
+      -110.00000010000001,
+      -100.00000010000001,
+      -1.0000000710542735e-07,
+      -99.99999989999999,
+      100.00000010000001,
+      300.0000001
+    ],
+    "volume_mm3": 600000.0,
+    "solid_count": 1
+  },
+  {
+    "name": "Roof plate",
+    "role": "structure",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.",
+    "group": "chamber",
+    "bbox_mm": [
+      -110.00000010000002,
+      -116.00000010000002,
+      299.9491359065966,
+      110.00000010000002,
+      110.00000010000002,
+      310.0508640934034
+    ],
+    "volume_mm3": 488283.8458898468,
+    "solid_count": 1
+  },
+  {
+    "name": "Floor plate",
+    "role": "structure",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.",
+    "group": "chamber",
+    "bbox_mm": [
+      -110.00000010000002,
+      -116.00000010000002,
+      -10.107893419340527,
+      110.00000010000002,
+      110.00000010000002,
+      0.10789341934052817
+    ],
+    "volume_mm3": 458715.48999352497,
+    "solid_count": 1
+  },
+  {
+    "name": "Front welded door frame",
+    "role": "structure",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.",
+    "group": "chamber",
+    "bbox_mm": [
+      -110.00000010000004,
+      -116.03699209520249,
+      -1.0000004263256414e-07,
+      110.00000010000004,
+      -99.97533856986497,
+      300.0000001
+    ],
+    "volume_mm3": 270000.12466094847,
+    "solid_count": 1
+  },
+  {
+    "name": "Front door compressed gasket envelope",
+    "role": "door_seal",
+    "color": [
+      0.12,
+      0.18,
+      0.18
+    ],
+    "note": "Rectangular compressed-cord envelope in 4.5 x 2.2 groove; final seal specification unqualified.",
+    "group": "chamber",
+    "bbox_mm": [
+      -98.78622142863578,
+      -116.03622142863578,
+      6.213778571364244,
+      98.78622142863578,
+      -113.76377857136421,
+      293.78622142863577
+    ],
+    "volume_mm3": 8247.897299356027,
+    "solid_count": 1
+  },
+  {
+    "name": "Front door plate with viewport cutout",
+    "role": "door_plate",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "228 x 316 x 16, viewport clear70; closed inner face y-116.",
+    "group": "door",
+    "bbox_mm": [
+      -114.00000010000005,
+      -132.10789341934054,
+      -8.000000100000056,
+      114.00000010000005,
+      -115.89210658065947,
+      308.0000001000001
+    ],
+    "volume_mm3": 1090361.5185734998,
+    "solid_count": 1
+  },
+  {
+    "name": "Viewport gasket envelope",
+    "role": "viewport_seal",
+    "color": [
+      0.12,
+      0.18,
+      0.18
+    ],
+    "note": "Reference gasket envelope; mounting/seal design pending.",
+    "group": "door",
+    "bbox_mm": [
+      -43.13255474947552,
+      -134.13255474947553,
+      131.86744525052447,
+      43.13255474947552,
+      -131.86744525052447,
+      218.13255474947553
+    ],
+    "volume_mm3": 2544.6900494077336,
+    "solid_count": 1
+  },
+  {
+    "name": "Viewport glass disc",
+    "role": "glass",
+    "color": [
+      0.36,
+      0.72,
+      0.83
+    ],
+    "note": "D94 x6 nominal envelope; 70 clear aperture. Glass pressure/thermal rating NOT established.",
+    "group": "door",
+    "bbox_mm": [
+      -47.144885414543005,
+      -140.144885414543,
+      127.85511458545699,
+      47.144885414543005,
+      -133.855114585457,
+      222.144885414543
+    ],
+    "volume_mm3": 41638.66903067912,
+    "solid_count": 1
+  },
+  {
+    "name": "Viewport retainer screw 1",
+    "role": "door_screw",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "Nominal M5 envelope; threads/preload not modeled.",
+    "group": "door",
+    "bbox_mm": [
+      47.48612790179906,
+      -150.01387209820095,
+      170.48612790179905,
+      56.51387209820094,
+      -131.9922932343328,
+      179.51387209820095
+    ],
+    "volume_mm3": 529.3583621298801,
+    "solid_count": 1
+  },
+  {
+    "name": "Viewport retainer screw 2",
+    "role": "door_screw",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "Nominal M5 envelope; threads/preload not modeled.",
+    "group": "door",
+    "bbox_mm": [
+      21.486127901799062,
+      -150.01387209820095,
+      215.51944889858984,
+      30.513872098200952,
+      -131.9922932343328,
+      224.54719309499174
+    ],
+    "volume_mm3": 529.3583621298801,
+    "solid_count": 1
+  },
+  {
+    "name": "Viewport retainer screw 3",
+    "role": "door_screw",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "Nominal M5 envelope; threads/preload not modeled.",
+    "group": "door",
+    "bbox_mm": [
+      -30.513872098200927,
+      -150.01387209820095,
+      215.51944889858987,
+      -21.48612790179905,
+      -131.99229323433278,
+      224.54719309499177
+    ],
+    "volume_mm3": 529.3583621298801,
+    "solid_count": 1
+  },
+  {
+    "name": "Viewport retainer screw 4",
+    "role": "door_screw",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "Nominal M5 envelope; threads/preload not modeled.",
+    "group": "door",
+    "bbox_mm": [
+      -56.51387209820094,
+      -150.01387209820095,
+      170.48612790179905,
+      -47.48612790179906,
+      -131.9922932343328,
+      179.51387209820095
+    ],
+    "volume_mm3": 529.3583621298801,
+    "solid_count": 1
+  },
+  {
+    "name": "Viewport retainer screw 5",
+    "role": "door_screw",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "Nominal M5 envelope; threads/preload not modeled.",
+    "group": "door",
+    "bbox_mm": [
+      -30.513872098200967,
+      -150.01387209820095,
+      125.45280690500826,
+      -21.486127901799076,
+      -131.9922932343328,
+      134.48055110141016
+    ],
+    "volume_mm3": 529.35836212988,
+    "solid_count": 1
+  },
+  {
+    "name": "Viewport retainer screw 6",
+    "role": "door_screw",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "Nominal M5 envelope; threads/preload not modeled.",
+    "group": "door",
+    "bbox_mm": [
+      21.486127901799062,
+      -150.01387209820095,
+      125.45280690500826,
+      30.513872098200952,
+      -131.9922932343328,
+      134.48055110141016
+    ],
+    "volume_mm3": 529.3583621298799,
+    "solid_count": 1
+  },
+  {
+    "name": "Viewport retaining bezel",
+    "role": "viewport_bezel",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "",
+    "group": "door",
+    "bbox_mm": [
+      -57.17571207721173,
+      -146.17571207721173,
+      117.82428792278827,
+      57.17571207721173,
+      -139.82428792278827,
+      232.17571207721173
+    ],
+    "volume_mm3": 37296.20258525466,
+    "solid_count": 1
+  },
+  {
+    "name": "Door pull handle",
+    "role": "door_handle",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "",
+    "group": "door",
+    "bbox_mm": [
+      77.99999989999998,
+      -161.00000010000002,
+      129.99999989999998,
+      86.00000010000002,
+      -131.9999999,
+      210.00000010000002
+    ],
+    "volume_mm3": 7808.0,
+    "solid_count": 1
+  },
+  {
+    "name": "Hinge fixed barrel 65",
+    "role": "hinge_fixed",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "",
+    "group": "chamber",
+    "bbox_mm": [
+      -124.01849609760124,
+      -122.01849609760124,
+      44.981503902398764,
+      -109.99999989999999,
+      -99.99999989999999,
+      85.01849609760124
+    ],
+    "volume_mm3": 4151.302541481804,
+    "solid_count": 2
+  },
+  {
+    "name": "Hinge pin 65",
+    "role": "hinge_pin",
+    "color": [
+      0.24,
+      0.3,
+      0.36
+    ],
+    "note": "",
+    "group": "chamber",
+    "bbox_mm": [
+      -121.00924809880063,
+      -119.00924809880063,
+      44.990751901199374,
+      -114.99075190119937,
+      -112.99075190119937,
+      85.00924809880063
+    ],
+    "volume_mm3": 1130.9733552923256,
+    "solid_count": 1
+  },
+  {
+    "name": "Hinge door leaf 65",
+    "role": "hinge_moving",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "",
+    "group": "door",
+    "bbox_mm": [
+      -124.01849609760124,
+      -124.00000010000001,
+      56.981503902398764,
+      -107.99999989999999,
+      -109.98150390239876,
+      73.01849609760124
+    ],
+    "volume_mm3": 2251.1291210776767,
+    "solid_count": 1
+  },
+  {
+    "name": "Hinge fixed barrel 235",
+    "role": "hinge_fixed",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "",
+    "group": "chamber",
+    "bbox_mm": [
+      -124.01849609760124,
+      -122.01849609760124,
+      214.98150390239877,
+      -109.99999989999999,
+      -99.99999989999999,
+      255.01849609760123
+    ],
+    "volume_mm3": 4151.302541481804,
+    "solid_count": 2
+  },
+  {
+    "name": "Hinge pin 235",
+    "role": "hinge_pin",
+    "color": [
+      0.24,
+      0.3,
+      0.36
+    ],
+    "note": "",
+    "group": "chamber",
+    "bbox_mm": [
+      -121.00924809880063,
+      -119.00924809880063,
+      214.9907519011994,
+      -114.99075190119937,
+      -112.99075190119937,
+      255.0092480988006
+    ],
+    "volume_mm3": 1130.9733552923256,
+    "solid_count": 1
+  },
+  {
+    "name": "Hinge door leaf 235",
+    "role": "hinge_moving",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "",
+    "group": "door",
+    "bbox_mm": [
+      -124.01849609760124,
+      -124.00000010000001,
+      226.98150390239877,
+      -107.99999989999999,
+      -109.98150390239876,
+      243.01849609760123
+    ],
+    "volume_mm3": 2251.1291210776767,
+    "solid_count": 1
+  },
+  {
+    "name": "Latch body envelope",
+    "role": "latch",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "Concept latch; exact procurement and mounting pending.",
+    "group": "door",
+    "bbox_mm": [
+      109.9999999,
+      -128.0000001,
+      141.9999999,
+      124.0000001,
+      -115.9999999,
+      158.0000001
+    ],
+    "volume_mm3": 2688.0,
+    "solid_count": 1
+  },
+  {
+    "name": "Latch catch envelope",
+    "role": "latch_catch",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "",
+    "group": "chamber",
+    "bbox_mm": [
+      109.9999999,
+      -116.0000001,
+      143.9999999,
+      122.0000001,
+      -103.9999999,
+      156.0000001
+    ],
+    "volume_mm3": 1728.0,
+    "solid_count": 1
+  },
+  {
+    "name": "Bottom ISO63-K weld neck and flange",
+    "role": "turbo_flange",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "OD95 / bore63.5 / flange12, face z-45; nominal envelope. Clamp profile and backing groove simplified; purchased drawing pending.",
+    "group": "chamber",
+    "bbox_mm": [
+      -47.64642674767643,
+      -47.64642674767643,
+      -45.14642674767643,
+      47.64642674767643,
+      47.64642674767643,
+      0.10789341934052817
+    ],
+    "volume_mm3": 69546.0256211398,
+    "solid_count": 1
+  },
+  {
+    "name": "Roof KF25 gun weld flange - bore to verify",
+    "role": "gun_mount",
+    "color": [
+      0.83,
+      0.58,
+      0.26
+    ],
+    "note": "Nominal KF25 OD39.88 with proposed27 through bore. Not a verified off-the-shelf mating flange; standard weld stub/ring can block25.4 tube.",
+    "group": "chamber",
+    "bbox_mm": [
+      -20.08617139095035,
+      -20.08617139095035,
+      299.9491359065966,
+      20.08617139095035,
+      20.08617139095035,
+      330.06146846536143
+    ],
+    "volume_mm3": 10528.116191564653,
+    "solid_count": 1
+  },
+  {
+    "name": "Removable substrate stage D90 x6",
+    "role": "stage",
+    "color": [
+      0.55,
+      0.62,
+      0.68
+    ],
+    "note": "Top z40, undersidez34. Four supports at (+/-29,+/-29), fully below plate and outside central turbo opening.",
+    "group": "chamber",
+    "bbox_mm": [
+      -45.13872008200925,
+      -45.13872008200925,
+      33.86127991799075,
+      45.13872008200925,
+      45.13872008200925,
+      40.13872008200925
+    ],
+    "volume_mm3": 38170.35074111598,
+    "solid_count": 1
+  },
+  {
+    "name": "Stage support -29 -29",
+    "role": "stage_support",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "",
+    "group": "chamber",
+    "bbox_mm": [
+      -32.00924809880062,
+      -32.00924809880062,
+      -0.00924809880061878,
+      -25.99075190119938,
+      -25.99075190119938,
+      34.00924809880062
+    ],
+    "volume_mm3": 961.3273519984766,
+    "solid_count": 1
+  },
+  {
+    "name": "Stage support -29 29",
+    "role": "stage_support",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "",
+    "group": "chamber",
+    "bbox_mm": [
+      -32.00924809880062,
+      25.99075190119938,
+      -0.00924809880061878,
+      -25.99075190119938,
+      32.00924809880062,
+      34.00924809880062
+    ],
+    "volume_mm3": 961.3273519984766,
+    "solid_count": 1
+  },
+  {
+    "name": "Stage support 29 -29",
+    "role": "stage_support",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "",
+    "group": "chamber",
+    "bbox_mm": [
+      25.99075190119938,
+      -32.00924809880062,
+      -0.00924809880061878,
+      32.00924809880062,
+      -25.99075190119938,
+      34.00924809880062
+    ],
+    "volume_mm3": 961.3273519984766,
+    "solid_count": 1
+  },
+  {
+    "name": "Stage support 29 29",
+    "role": "stage_support",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "",
+    "group": "chamber",
+    "bbox_mm": [
+      25.99075190119938,
+      25.99075190119938,
+      -0.00924809880061878,
+      32.00924809880062,
+      32.00924809880062,
+      34.00924809880062
+    ],
+    "volume_mm3": 961.3273519984766,
+    "solid_count": 1
+  },
+  {
+    "name": "Reference substrate 50 x50 x1",
+    "role": "substrate",
+    "color": [
+      0.25,
+      0.48,
+      0.73
+    ],
+    "note": "Sample design assumption; top surface z41 is deposition-distance datum.",
+    "group": "chamber",
+    "bbox_mm": [
+      -25.0000001,
+      -25.0000001,
+      39.9999999,
+      25.0000001,
+      25.0000001,
+      41.0000001
+    ],
+    "volume_mm3": 2500.0,
+    "solid_count": 1
+  },
+  {
+    "name": "Removable pump deposition baffle D104 x1.5",
+    "role": "pump_baffle",
+    "color": [
+      0.37,
+      0.44,
+      0.5
+    ],
+    "note": "Baffle topz19.5; four7 clearance bores. Reduces direct line of sight; conductance and full interception not validated.",
+    "group": "chamber",
+    "bbox_mm": [
+      -52.160298745877355,
+      -52.160298745877355,
+      17.839701254122648,
+      52.160298745877355,
+      52.160298745877355,
+      19.660298745877352
+    ],
+    "volume_mm3": 12511.392742921347,
+    "solid_count": 1
+  },
+  {
+    "name": "Baffle spacer -44",
+    "role": "baffle_support",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "",
+    "group": "chamber",
+    "bbox_mm": [
+      -46.50770676566719,
+      -2.507706765667185,
+      -0.007706765667184973,
+      -41.49229323433281,
+      2.507706765667185,
+      18.007706765667184
+    ],
+    "volume_mm3": 353.4291735288518,
+    "solid_count": 1
+  },
+  {
+    "name": "Baffle spacer 44",
+    "role": "baffle_support",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "",
+    "group": "chamber",
+    "bbox_mm": [
+      41.49229323433281,
+      -2.507706765667185,
+      -0.007706765667184973,
+      46.50770676566719,
+      2.507706765667185,
+      18.007706765667184
+    ],
+    "volume_mm3": 353.4291735288518,
+    "solid_count": 1
+  },
+  {
+    "name": "One piece bent shutter - CLOSED",
+    "role": "shutter",
+    "color": [
+      0.2,
+      0.65,
+      0.61
+    ],
+    "note": "t1; inside bendsR2; upper flatz293..294; bladez53..54; pivot(-65,0); blade56square; closed centre(0,0).",
+    "group": "shutter",
+    "bbox_mm": [
+      -87.0092480988013,
+      -28.000000100000015,
+      52.99075190119872,
+      28.000000100000015,
+      28.000000100000015,
+      294.0101728986807
+    ],
+    "volume_mm3": 8315.451762149185,
+    "solid_count": 1
+  },
+  {
+    "name": "99607A246 thumb screw nominal envelope",
+    "role": "shutter_screw",
+    "color": [
+      0.38,
+      0.44,
+      0.5
+    ],
+    "note": "1/4-28 x1.25in under-head assumption; collar/head geometry illustrative, threads not modeled. Verify McMaster drawing.",
+    "group": "shutter",
+    "bbox_mm": [
+      -73.02466143013498,
+      -8.024661430134984,
+      280.64021243460263,
+      -56.975338569865016,
+      8.024661430134984,
+      324.41957503079465
+    ],
+    "volume_mm3": 2748.7752712927067,
+    "solid_count": 1
+  },
+  {
+    "name": "Shutter aluminum nut 287.5",
+    "role": "shutter_nut",
+    "color": [
+      0.64,
+      0.7,
+      0.75
+    ],
+    "note": "1/4-28 nominal nut envelope; not supplier CAD.",
+    "group": "shutter",
+    "bbox_mm": [
+      -71.41500010000007,
+      -5.555553065277236,
+      287.4902124346026,
+      -58.58499989999994,
+      5.555553065277233,
+      293.0097875653973
+    ],
+    "volume_mm3": 413.8606965524109,
+    "solid_count": 1
+  },
+  {
+    "name": "Shutter aluminum nut 294",
+    "role": "shutter_nut",
+    "color": [
+      0.64,
+      0.7,
+      0.75
+    ],
+    "note": "1/4-28 nominal nut envelope; not supplier CAD.",
+    "group": "shutter",
+    "bbox_mm": [
+      -71.41500010000001,
+      -5.555553065277191,
+      293.99021243460265,
+      -58.584999899999985,
+      5.555553065277189,
+      299.50978756539735
+    ],
+    "volume_mm3": 413.8606965524109,
+    "solid_count": 1
+  },
+  {
+    "name": "Shutter underside thrust washer",
+    "role": "shutter_washer",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "",
+    "group": "shutter",
+    "bbox_mm": [
+      -73.02466143013498,
+      -8.024661430134984,
+      299.475338569865,
+      -56.975338569865016,
+      8.024661430134984,
+      300.024661430135
+    ],
+    "volume_mm3": 83.42499291607696,
+    "solid_count": 1
+  },
+  {
+    "name": "6540K248 shutter face seal envelope",
+    "role": "shutter_seal",
+    "color": [
+      0.11,
+      0.17,
+      0.17
+    ],
+    "note": "Nominal1/4ID x1/2OD x1/8 free section from supplied text; compressed axial envelope2.4. No qualified rotating seal gland.",
+    "group": "chamber",
+    "bbox_mm": [
+      -71.36957503079465,
+      -6.369575030794651,
+      309.98042496920533,
+      -58.63042496920535,
+      6.369575030794651,
+      312.41957503079465
+    ],
+    "volume_mm3": 228.01836559387328,
+    "solid_count": 1
+  },
+  {
+    "name": "Adapter body with male thread",
+    "role": "fit_body",
+    "color": [
+      0.56,
+      0.66,
+      0.74
+    ],
+    "note": "Catalogue envelope reference; male helix pitch2, major37 are illustrative, not manufacturer thread specification.",
+    "group": "fitting",
+    "bbox_mm": [
+      -20.00146846536143,
+      -20.00146846536143,
+      332.93853153463857,
+      20.00146846536143,
+      20.00146846536143,
+      376.0567220099882
+    ],
+    "volume_mm3": 23538.77132428989,
+    "solid_count": 1
+  },
+  {
+    "name": "Threaded cap - separate moving part",
+    "role": "fit_cap",
+    "color": [
+      0.72,
+      0.77,
+      0.8
+    ],
+    "note": "Female helix matched to illustrative2mm pitch. 4mm lift corresponds to two turns. Cap OD44 and details illustrative.",
+    "group": "fitting",
+    "bbox_mm": [
+      -22.04822145404635,
+      -22.04822145404635,
+      364.94451190719633,
+      22.04822145404635,
+      22.04822145404635,
+      383.8482214540464
+    ],
+    "volume_mm3": 12773.460609790929,
+    "solid_count": 1
+  },
+  {
+    "name": "Compression follower",
+    "role": "fit_follower",
+    "color": [
+      0.88,
+      0.66,
+      0.25
+    ],
+    "note": "Illustrative force-transmitting follower; actual supplier cross-section unverified.",
+    "group": "fitting",
+    "bbox_mm": [
+      -16.049322760269956,
+      -16.049322760269956,
+      374.85067723973003,
+      16.049322760269956,
+      16.049322760269956,
+      376.74932276026993
+    ],
+    "volume_mm3": 506.6195145032116,
+    "solid_count": 1
+  },
+  {
+    "name": "Tube compression O ring",
+    "role": "fit_tube_seal",
+    "color": [
+      0.13,
+      0.65,
+      0.42
+    ],
+    "note": "O-V120 free nominal25.07ID x2.62 section; installed/compressed geometry is explanatory, not validated seal design.",
+    "group": "fitting",
+    "bbox_mm": [
+      -16.111197910585872,
+      -16.111197910585872,
+      372.6589500314649,
+      16.111197910585872,
+      16.111197910585872,
+      375.04226026496247
+    ],
+    "volume_mm3": 485.5693600899232,
+    "solid_count": 1
+  },
+  {
+    "name": "KF face seal / centering space",
+    "role": "fit_kf_seal",
+    "color": [
+      0.16,
+      0.22,
+      0.26
+    ],
+    "note": "KF face seal separate from tube O-ring. Through-bore and actual centering-ring fit remain unresolved.",
+    "group": "fitting",
+    "bbox_mm": [
+      -16.049322760269956,
+      -16.049322760269956,
+      329.95067723973006,
+      16.049322760269956,
+      16.049322760269956,
+      333.04932276026994
+    ],
+    "volume_mm3": 819.9556825869536,
+    "solid_count": 1
+  },
+  {
+    "name": "KF clamp left jaw",
+    "role": "fit_clamp_left",
+    "color": [
+      0.4,
+      0.49,
+      0.57
+    ],
+    "note": "Functional split-clamp illustration; purchased clamp profile, hinge and fastener dimensions not qualified.",
+    "group": "fitting",
+    "bbox_mm": [
+      -25.577046663296308,
+      -34.000000100002225,
+      325.9229533367037,
+      -0.32295333670369053,
+      30.000000100000147,
+      338.0770466632963
+    ],
+    "volume_mm3": 4955.821606994471,
+    "solid_count": 1
+  },
+  {
+    "name": "KF clamp right jaw",
+    "role": "fit_clamp_right",
+    "color": [
+      0.4,
+      0.49,
+      0.57
+    ],
+    "note": "Functional split-clamp illustration; purchased clamp profile, hinge and fastener dimensions not qualified.",
+    "group": "fitting",
+    "bbox_mm": [
+      0.3229533367036886,
+      -34.000000100002225,
+      325.9229533367037,
+      25.57704666329631,
+      30.000000100000104,
+      338.0770466632963
+    ],
+    "volume_mm3": 4955.821606994931,
+    "solid_count": 1
+  },
+  {
+    "name": "KF clamp wing screw",
+    "role": "fit_clamp_bolt",
+    "color": [
+      0.55,
+      0.6,
+      0.65
+    ],
+    "note": "Illustrative clamp fastener; independent of compression cap.",
+    "group": "fitting",
+    "bbox_mm": [
+      -16.006165432533795,
+      -31.006165432533795,
+      329.9938345674662,
+      16.006165432533795,
+      -26.993834567466205,
+      334.0061654325338
+    ],
+    "volume_mm3": 402.1238596594943,
+    "solid_count": 1
+  },
+  {
+    "name": "KF clamp wing nut",
+    "role": "fit_clamp_wing",
+    "color": [
+      0.68,
+      0.73,
+      0.77
+    ],
+    "note": "Turns to secure KF flange joint, not to grip gun tube.",
+    "group": "fitting",
+    "bbox_mm": [
+      11.986139086791953,
+      -35.000000100002474,
+      327.986139086792,
+      16.013860913208045,
+      -22.999999899999292,
+      336.013860913208
+    ],
+    "volume_mm3": 180.4725035860515,
+    "solid_count": 1
+  },
+  {
+    "name": "KF clamp hinge pin",
+    "role": "fit_clamp_pin",
+    "color": [
+      0.55,
+      0.6,
+      0.65
+    ],
+    "note": "Hinge axis for opening clamp jaws.",
+    "group": "fitting",
+    "bbox_mm": [
+      -1.8055488992803712,
+      23.19445110071963,
+      324.99445110071963,
+      1.8055488992803712,
+      26.80554889928037,
+      339.00554889928037
+    ],
+    "volume_mm3": 142.50264276683302,
+    "solid_count": 1
+  },
+  {
+    "name": "Cap rotation index mark",
+    "role": "fit_cap_mark",
+    "color": [
+      0.98,
+      0.73,
+      0.25
+    ],
+    "note": "Visual index mark only, not an extra purchased component.",
+    "group": "fitting",
+    "bbox_mm": [
+      20.899999899999997,
+      -0.7000001,
+      378.9999999,
+      22.2000001,
+      0.7000001,
+      383.0000001
+    ],
+    "volume_mm3": 7.280000000000003,
+    "solid_count": 1
+  },
+  {
+    "name": "System base plate",
+    "role": "base_plate",
+    "color": [
+      0.26,
+      0.32,
+      0.37
+    ],
+    "note": "Layout/support concept only; structural sizing not verified.",
+    "group": "system",
+    "bbox_mm": [
+      -150.00000010000005,
+      -220.00000010000005,
+      -320.0000001000001,
+      650.0000001000001,
+      520.0000001000001,
+      -313.9999998999999
+    ],
+    "volume_mm3": 3552000.0,
+    "solid_count": 1
+  },
+  {
+    "name": "Chamber riser -85 -75",
+    "role": "frame",
+    "color": [
+      0.31,
+      0.38,
+      0.43
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -97.50000010000002,
+      -87.50000010000002,
+      -314.0000001,
+      -72.49999989999998,
+      -62.49999989999997,
+      -9.999999899999972
+    ],
+    "volume_mm3": 190000.0,
+    "solid_count": 1
+  },
+  {
+    "name": "Chamber riser -85 75",
+    "role": "frame",
+    "color": [
+      0.31,
+      0.38,
+      0.43
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -97.50000010000002,
+      62.49999989999997,
+      -314.0000001,
+      -72.49999989999998,
+      87.50000010000002,
+      -9.999999899999972
+    ],
+    "volume_mm3": 190000.0,
+    "solid_count": 1
+  },
+  {
+    "name": "Chamber riser 85 -75",
+    "role": "frame",
+    "color": [
+      0.31,
+      0.38,
+      0.43
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      72.49999989999998,
+      -87.50000010000002,
+      -314.0000001,
+      97.50000010000002,
+      -62.49999989999997,
+      -9.999999899999972
+    ],
+    "volume_mm3": 190000.0,
+    "solid_count": 1
+  },
+  {
+    "name": "Chamber riser 85 75",
+    "role": "frame",
+    "color": [
+      0.31,
+      0.38,
+      0.43
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      72.49999989999998,
+      62.49999989999997,
+      -314.0000001,
+      97.50000010000002,
+      87.50000010000002,
+      -9.999999899999972
+    ],
+    "volume_mm3": 190000.0,
+    "solid_count": 1
+  },
+  {
+    "name": "Chamber support lower tie -75",
+    "role": "frame",
+    "color": [
+      0.31,
+      0.38,
+      0.43
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -97.5000001,
+      -87.5000001,
+      -314.0000001,
+      97.5000001,
+      -62.4999999,
+      -288.9999999
+    ],
+    "volume_mm3": 121875.0,
+    "solid_count": 1
+  },
+  {
+    "name": "Chamber support lower tie 75",
+    "role": "frame",
+    "color": [
+      0.31,
+      0.38,
+      0.43
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -97.5000001,
+      62.4999999,
+      -314.0000001,
+      97.5000001,
+      87.5000001,
+      -288.9999999
+    ],
+    "volume_mm3": 121875.0,
+    "solid_count": 1
+  },
+  {
+    "name": "EXT70 reference pump housing and ISO63 inlet",
+    "role": "turbo_body",
+    "color": [
+      0.57,
+      0.64,
+      0.69
+    ],
+    "note": "Reconstructed external envelope: D95 inlet, D94 body, 157.05 overall incl base. Internal pump geometry omitted.",
+    "group": "system",
+    "bbox_mm": [
+      -47.64642674767643,
+      -47.64642674767643,
+      -172.61025630782066,
+      47.64642674767643,
+      47.64642674767643,
+      -47.85357325232357
+    ],
+    "volume_mm3": 503929.80291420413,
+    "solid_count": 1
+  },
+  {
+    "name": "EXT70 lower motor core",
+    "role": "turbo_core",
+    "color": [
+      0.32,
+      0.39,
+      0.44
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -40.624848083808324,
+      -40.624848083808324,
+      -205.17484808380834,
+      40.624848083808324,
+      40.624848083808324,
+      -172.3251519161917
+    ],
+    "volume_mm3": 167987.71361165144,
+    "solid_count": 1
+  },
+  {
+    "name": "EXT70 cooling fin -153.5",
+    "role": "turbo_fin",
+    "color": [
+      0.58,
+      0.64,
+      0.67
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -47.14488541454299,
+      -47.14488541454299,
+      -201.64488541454298,
+      47.14488541454299,
+      47.14488541454299,
+      -197.85511458545702
+    ],
+    "volume_mm3": 6253.732876052183,
+    "solid_count": 1
+  },
+  {
+    "name": "EXT70 cooling fin -146",
+    "role": "turbo_fin",
+    "color": [
+      0.58,
+      0.64,
+      0.67
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -47.14488541454299,
+      -47.14488541454299,
+      -194.14488541454298,
+      47.14488541454299,
+      47.14488541454299,
+      -190.35511458545702
+    ],
+    "volume_mm3": 6253.732876052183,
+    "solid_count": 1
+  },
+  {
+    "name": "EXT70 cooling fin -138.5",
+    "role": "turbo_fin",
+    "color": [
+      0.58,
+      0.64,
+      0.67
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -47.14488541454299,
+      -47.14488541454299,
+      -186.64488541454298,
+      47.14488541454299,
+      47.14488541454299,
+      -182.85511458545702
+    ],
+    "volume_mm3": 6253.732876052183,
+    "solid_count": 1
+  },
+  {
+    "name": "EXT70 cooling fin -131",
+    "role": "turbo_fin",
+    "color": [
+      0.58,
+      0.64,
+      0.67
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -47.14488541454299,
+      -47.14488541454299,
+      -179.14488541454298,
+      47.14488541454299,
+      47.14488541454299,
+      -175.35511458545702
+    ],
+    "volume_mm3": 6253.732876052183,
+    "solid_count": 1
+  },
+  {
+    "name": "EXT70 native KF16 backing outlet",
+    "role": "turbo_outlet",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "Standard EXT70 manual specifies DN16NW. KF25 hose is attached through a reducer adapter.",
+    "group": "system",
+    "bbox_mm": [
+      39.97063750380803,
+      -15.046240094003098,
+      -187.4962400940031,
+      63.046240094003096,
+      15.046240094003098,
+      -157.40375990599688
+    ],
+    "volume_mm3": 3753.4325098220606,
+    "solid_count": 1
+  },
+  {
+    "name": "EXT70 vent valve exterior",
+    "role": "turbo_vent",
+    "color": [
+      0.31,
+      0.37,
+      0.42
+    ],
+    "note": "Reference exterior detail; actual vent valve not selected.",
+    "group": "system",
+    "bbox_mm": [
+      -10.03082676266874,
+      -62.03082676266874,
+      -132.03082676266874,
+      10.03082676266874,
+      -46.978421236131865,
+      -111.96917323733126
+    ],
+    "volume_mm3": 3270.3979523869757,
+    "solid_count": 1
+  },
+  {
+    "name": "EXT70 electrical connector exterior",
+    "role": "turbo_connector",
+    "color": [
+      0.25,
+      0.29,
+      0.34
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -11.033909428935608,
+      -56.03390942893561,
+      -167.0339094289356,
+      11.033909428935608,
+      -46.96609057106439,
+      -144.9660905710644
+    ],
+    "volume_mm3": 3421.1943997592844,
+    "solid_count": 1
+  },
+  {
+    "name": "EXT70 cooling stub -1",
+    "role": "turbo_cooling",
+    "color": [
+      0.66,
+      0.57,
+      0.35
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -54.01078943193408,
+      -38.51078943193408,
+      -184.51078943193409,
+      -31.989210568065925,
+      -31.489210568065925,
+      -177.48921056806591
+    ],
+    "volume_mm3": 846.6592201424495,
+    "solid_count": 1
+  },
+  {
+    "name": "EXT70 cooling stub 1",
+    "role": "turbo_cooling",
+    "color": [
+      0.66,
+      0.57,
+      0.35
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      31.989210568065925,
+      -38.51078943193408,
+      -184.51078943193409,
+      54.01078943193408,
+      -31.489210568065925,
+      -177.48921056806591
+    ],
+    "volume_mm3": 846.6592201424495,
+    "solid_count": 1
+  },
+  {
+    "name": "ISO63 chamber to turbo face seal",
+    "role": "iso_seal",
+    "color": [
+      0.12,
+      0.19,
+      0.18
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -37.114058751874275,
+      -37.114058751874275,
+      -48.114058751874275,
+      37.114058751874275,
+      37.114058751874275,
+      -44.885941248125725
+    ],
+    "volume_mm3": 3251.5483964654377,
+    "solid_count": 1
+  },
+  {
+    "name": "ISO63 double claw clamp 1",
+    "role": "iso_clamp",
+    "color": [
+      0.38,
+      0.46,
+      0.51
+    ],
+    "note": "Four clamp positions. Geometry envelope only; rated fixing and rotor-failure torque requirements not verified.",
+    "group": "system",
+    "bbox_mm": [
+      28.991377928648415,
+      28.991377928648415,
+      -66.0162596298037,
+      48.79036800187179,
+      48.79036800187179,
+      -26.983740370196305
+    ],
+    "volume_mm3": 2112.722187544944,
+    "solid_count": 1
+  },
+  {
+    "name": "ISO63 clamp screw 1",
+    "role": "iso_screw",
+    "color": [
+      0.58,
+      0.63,
+      0.67
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      37.820921507789514,
+      37.820921507789514,
+      -70.00000010000001,
+      48.44610579696929,
+      48.44610579696929,
+      -26.99075190119938
+    ],
+    "volume_mm3": 1417.0662429837698,
+    "solid_count": 1
+  },
+  {
+    "name": "ISO63 double claw clamp 2",
+    "role": "iso_clamp",
+    "color": [
+      0.38,
+      0.46,
+      0.51
+    ],
+    "note": "Four clamp positions. Geometry envelope only; rated fixing and rotor-failure torque requirements not verified.",
+    "group": "system",
+    "bbox_mm": [
+      -48.79036800187179,
+      28.99137792864841,
+      -66.0162596298037,
+      -28.991377928648408,
+      48.7903680018718,
+      -26.983740370196305
+    ],
+    "volume_mm3": 2112.7221875449445,
+    "solid_count": 1
+  },
+  {
+    "name": "ISO63 clamp screw 2",
+    "role": "iso_screw",
+    "color": [
+      0.58,
+      0.63,
+      0.67
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -48.446105796969285,
+      37.820921507789514,
+      -70.00000010000001,
+      -37.82092150778951,
+      48.44610579696929,
+      -26.99075190119938
+    ],
+    "volume_mm3": 1417.0662429837694,
+    "solid_count": 1
+  },
+  {
+    "name": "ISO63 double claw clamp 3",
+    "role": "iso_clamp",
+    "color": [
+      0.38,
+      0.46,
+      0.51
+    ],
+    "note": "Four clamp positions. Geometry envelope only; rated fixing and rotor-failure torque requirements not verified.",
+    "group": "system",
+    "bbox_mm": [
+      -48.7903680018718,
+      -48.790368001871784,
+      -66.0162596298037,
+      -28.99137792864842,
+      -28.991377928648408,
+      -26.98374037019631
+    ],
+    "volume_mm3": 2112.722187544944,
+    "solid_count": 1
+  },
+  {
+    "name": "ISO63 clamp screw 3",
+    "role": "iso_screw",
+    "color": [
+      0.58,
+      0.63,
+      0.67
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -48.4461057969693,
+      -48.446105796969285,
+      -70.00000010000001,
+      -37.820921507789514,
+      -37.82092150778951,
+      -26.990751901199378
+    ],
+    "volume_mm3": 1417.0662429837698,
+    "solid_count": 1
+  },
+  {
+    "name": "ISO63 double claw clamp 4",
+    "role": "iso_clamp",
+    "color": [
+      0.38,
+      0.46,
+      0.51
+    ],
+    "note": "Four clamp positions. Geometry envelope only; rated fixing and rotor-failure torque requirements not verified.",
+    "group": "system",
+    "bbox_mm": [
+      28.991377928648408,
+      -48.7903680018718,
+      -66.01625962980368,
+      48.79036800187178,
+      -28.99137792864843,
+      -26.98374037019631
+    ],
+    "volume_mm3": 2112.722187544943,
+    "solid_count": 1
+  },
+  {
+    "name": "ISO63 clamp screw 4",
+    "role": "iso_screw",
+    "color": [
+      0.58,
+      0.63,
+      0.67
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      37.82092150778951,
+      -48.44610579696929,
+      -70.00000010000001,
+      48.44610579696927,
+      -37.82092150778952,
+      -26.99075190119938
+    ],
+    "volume_mm3": 1417.0662429837685,
+    "solid_count": 1
+  },
+  {
+    "name": "Turbo KF16 outlet joint face seal",
+    "role": "connection_seal",
+    "color": [
+      0.13,
+      0.19,
+      0.19
+    ],
+    "note": "Nominal FKM/centering envelope, not supplier seal CAD.",
+    "group": "system",
+    "bbox_mm": [
+      62.96300790479752,
+      -12.036992095202477,
+      -184.48699209520245,
+      66.03699209520248,
+      12.036992095202477,
+      -160.41300790479752
+    ],
+    "volume_mm3": 895.3539062730911,
+    "solid_count": 1
+  },
+  {
+    "name": "Turbo KF16 outlet joint clamp left",
+    "role": "kf_clamp",
+    "color": [
+      0.43,
+      0.52,
+      0.58
+    ],
+    "note": "Split KF clamp outline; detailed purchased hardware/actuator simplified.",
+    "group": "system",
+    "bbox_mm": [
+      58.93817089504195,
+      -20.558841082317095,
+      -172.16182910495806,
+      70.06182910495805,
+      20.558841082317095,
+      -151.88817089504192
+    ],
+    "volume_mm3": 3280.0860015410058,
+    "solid_count": 1
+  },
+  {
+    "name": "Turbo KF16 outlet joint clamp right",
+    "role": "kf_clamp",
+    "color": [
+      0.43,
+      0.52,
+      0.58
+    ],
+    "note": "Split KF clamp outline; detailed purchased hardware/actuator simplified.",
+    "group": "system",
+    "bbox_mm": [
+      58.93817089504194,
+      -20.5588410823171,
+      -193.01182910495805,
+      70.06182910495806,
+      20.558841082317095,
+      -172.73817089504192
+    ],
+    "volume_mm3": 3280.0860015410067,
+    "solid_count": 1
+  },
+  {
+    "name": "KF16 to KF25 foreline adapter",
+    "role": "foreline_adapter",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "Reference 38mm face-to-face transition; supplier dimensions to confirm. Omit if actual EXT70 has a confirmed KF25 outlet.",
+    "group": "system",
+    "bbox_mm": [
+      65.9537599059969,
+      -20.001468465361455,
+      -192.45146846536144,
+      104.06146846536146,
+      20.001468465361455,
+      -152.44853153463853
+    ],
+    "volume_mm3": 9610.997992169136,
+    "solid_count": 2
+  },
+  {
+    "name": "KF25 turbo hose joint face seal",
+    "role": "connection_seal",
+    "color": [
+      0.13,
+      0.19,
+      0.19
+    ],
+    "note": "Nominal FKM/centering envelope, not supplier seal CAD.",
+    "group": "system",
+    "bbox_mm": [
+      103.94777953343916,
+      -16.992220466560834,
+      -189.44222046656083,
+      107.05222046656084,
+      16.992220466560834,
+      -155.45777953343915
+    ],
+    "volume_mm3": 1360.9379375350984,
+    "solid_count": 1
+  },
+  {
+    "name": "KF25 turbo hose joint clamp left",
+    "role": "kf_clamp",
+    "color": [
+      0.43,
+      0.52,
+      0.58
+    ],
+    "note": "Split KF clamp outline; detailed purchased hardware/actuator simplified.",
+    "group": "system",
+    "bbox_mm": [
+      99.92294394666767,
+      -25.51464831360728,
+      -172.17705605333234,
+      111.07705605333233,
+      25.51464831360728,
+      -146.93294394666765
+    ],
+    "volume_mm3": 4201.943461054465,
+    "solid_count": 1
+  },
+  {
+    "name": "KF25 turbo hose joint clamp right",
+    "role": "kf_clamp",
+    "color": [
+      0.43,
+      0.52,
+      0.58
+    ],
+    "note": "Split KF clamp outline; detailed purchased hardware/actuator simplified.",
+    "group": "system",
+    "bbox_mm": [
+      99.92294394666766,
+      -25.514648313607275,
+      -197.96705605333233,
+      111.07705605333234,
+      25.51464831360729,
+      -172.72294394666764
+    ],
+    "volume_mm3": 4201.943461054469,
+    "solid_count": 1
+  },
+  {
+    "name": "KF25 hose turbo-end termination",
+    "role": "hose_end",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      106.93853153463854,
+      -20.001468465361455,
+      -192.45146846536144,
+      117.0391499615893,
+      20.001468465361455,
+      -152.44853153463853
+    ],
+    "volume_mm3": 4394.768275253257,
+    "solid_count": 1
+  },
+  {
+    "name": "Edwards RV3 - imported supplier STEP",
+    "role": "backing_pump",
+    "color": [
+      0.22,
+      0.43,
+      0.57
+    ],
+    "note": "IdealVac P101919 STEP, representing Edwards RV3. Layout reference, not a confirmed pump purchase. Source has pre-existing topology defects; retained as supplier visual/reference geometry, not a manufacturing solid.",
+    "group": "system",
+    "bbox_mm": [
+      342.97571437149253,
+      49.735182962354045,
+      -314.11727340042574,
+      517.8153018446063,
+      481.3140426430149,
+      -83.11038789524964
+    ],
+    "volume_mm3": 12249207.53023752,
+    "solid_count": 1
+  },
+  {
+    "name": "RV3 inlet KF25 hose joint face seal",
+    "role": "connection_seal",
+    "color": [
+      0.13,
+      0.19,
+      0.19
+    ],
+    "note": "Nominal FKM/centering envelope, not supplier seal CAD.",
+    "group": "system",
+    "bbox_mm": [
+      376.00777953343913,
+      308.00777953343913,
+      -83.65222046656088,
+      409.99222046656087,
+      341.99222046656087,
+      -80.54777953343911
+    ],
+    "volume_mm3": 1360.9379375350975,
+    "solid_count": 1
+  },
+  {
+    "name": "RV3 inlet KF25 hose joint clamp left",
+    "role": "kf_clamp",
+    "color": [
+      0.43,
+      0.52,
+      0.58
+    ],
+    "note": "Split KF clamp outline; detailed purchased hardware/actuator simplified.",
+    "group": "system",
+    "bbox_mm": [
+      367.48294394666766,
+      299.48535168639273,
+      -87.67705605333236,
+      392.7270560533323,
+      350.51464831360727,
+      -76.52294394666762
+    ],
+    "volume_mm3": 4201.943461054463,
+    "solid_count": 1
+  },
+  {
+    "name": "RV3 inlet KF25 hose joint clamp right",
+    "role": "kf_clamp",
+    "color": [
+      0.43,
+      0.52,
+      0.58
+    ],
+    "note": "Split KF clamp outline; detailed purchased hardware/actuator simplified.",
+    "group": "system",
+    "bbox_mm": [
+      393.2729439466676,
+      299.48535168639273,
+      -87.67705605333236,
+      418.51705605333234,
+      350.51464831360727,
+      -76.52294394666762
+    ],
+    "volume_mm3": 4201.9434610544595,
+    "solid_count": 1
+  },
+  {
+    "name": "KF25 hose RV3-end termination",
+    "role": "hose_end",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      372.9985315346386,
+      304.9985315346386,
+      -80.66146846536145,
+      413.0014684653614,
+      345.0014684653614,
+      -65.96085003841068
+    ],
+    "volume_mm3": 4941.062276155244,
+    "solid_count": 1
+  },
+  {
+    "name": "KF25 flexible backing hose - routed core",
+    "role": "hose",
+    "color": [
+      0.53,
+      0.59,
+      0.62
+    ],
+    "note": "Nominal bore22.225 / coreOD27. Routing and bend radius are layout assumptions; select actual hose after checking minimum bend radius.",
+    "group": "system",
+    "bbox_mm": [
+      116.25148271355836,
+      -14.248517286441528,
+      -186.69851379432936,
+      407.75958233964246,
+      339.75964380784126,
+      68.84198670771214
+    ],
+    "volume_mm3": 118203.7895914095,
+    "solid_count": 1
+  },
+  {
+    "name": "KF25 backing hose corrugations",
+    "role": "hose_ribs",
+    "color": [
+      0.69,
+      0.73,
+      0.75
+    ],
+    "note": "64 nominal corrugation ribs for visual/reference routing only.",
+    "group": "system",
+    "bbox_mm": [
+      124.55870170648038,
+      -16.04505680270826,
+      -188.19721554005622,
+      409.02069766195046,
+      340.7393402583681,
+      70.5827038432015
+    ],
+    "volume_mm3": 28630.816683896464,
+    "solid_count": 64
+  },
+  {
+    "name": "Pirani protective KF25 elbow",
+    "role": "gauge_elbow",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "Reference R25 centreline elbow. Protects sensor from direct target line of sight; actual orientation per selected gauge manual.",
+    "group": "system",
+    "bbox_mm": [
+      -70.00146846536146,
+      143.07053153463858,
+      54.93853153463855,
+      -29.998531534638545,
+      205.00146846536146,
+      110.00146846536144
+    ],
+    "volume_mm3": 14268.854463528225,
+    "solid_count": 1
+  },
+  {
+    "name": "Pirani rear port joint face seal",
+    "role": "connection_seal",
+    "color": [
+      0.13,
+      0.19,
+      0.19
+    ],
+    "note": "Nominal FKM/centering envelope, not supplier seal CAD.",
+    "group": "system",
+    "bbox_mm": [
+      -66.99222046656082,
+      140.0797795334392,
+      73.00777953343918,
+      -33.00777953343918,
+      143.18422046656082,
+      106.99222046656082
+    ],
+    "volume_mm3": 1360.9379375350989,
+    "solid_count": 1
+  },
+  {
+    "name": "Pirani rear port joint clamp left",
+    "role": "kf_clamp",
+    "color": [
+      0.43,
+      0.52,
+      0.58
+    ],
+    "note": "Split KF clamp outline; detailed purchased hardware/actuator simplified.",
+    "group": "system",
+    "bbox_mm": [
+      -75.51705605333233,
+      136.05494394666766,
+      64.48535168639272,
+      -50.272943946667674,
+      147.20905605333235,
+      115.51464831360728
+    ],
+    "volume_mm3": 4201.943461054467,
+    "solid_count": 1
+  },
+  {
+    "name": "Pirani rear port joint clamp right",
+    "role": "kf_clamp",
+    "color": [
+      0.43,
+      0.52,
+      0.58
+    ],
+    "note": "Split KF clamp outline; detailed purchased hardware/actuator simplified.",
+    "group": "system",
+    "bbox_mm": [
+      -49.72705605333235,
+      136.0549439466677,
+      64.48535168639272,
+      -24.48294394666767,
+      147.20905605333232,
+      115.51464831360728
+    ],
+    "volume_mm3": 4201.943461054467,
+    "solid_count": 1
+  },
+  {
+    "name": "Pirani gauge joint face seal",
+    "role": "connection_seal",
+    "color": [
+      0.13,
+      0.19,
+      0.19
+    ],
+    "note": "Nominal FKM/centering envelope, not supplier seal CAD.",
+    "group": "system",
+    "bbox_mm": [
+      -66.99222046656082,
+      168.00777953343916,
+      51.94777953343917,
+      -33.00777953343917,
+      201.99222046656084,
+      55.05222046656083
+    ],
+    "volume_mm3": 1360.9379375350989,
+    "solid_count": 1
+  },
+  {
+    "name": "Pirani gauge joint clamp left",
+    "role": "kf_clamp",
+    "color": [
+      0.43,
+      0.52,
+      0.58
+    ],
+    "note": "Split KF clamp outline; detailed purchased hardware/actuator simplified.",
+    "group": "system",
+    "bbox_mm": [
+      -75.51705605333233,
+      159.4853516863927,
+      47.92294394666767,
+      -50.272943946667674,
+      210.5146483136073,
+      59.07705605333233
+    ],
+    "volume_mm3": 4201.943461054465,
+    "solid_count": 1
+  },
+  {
+    "name": "Pirani gauge joint clamp right",
+    "role": "kf_clamp",
+    "color": [
+      0.43,
+      0.52,
+      0.58
+    ],
+    "note": "Split KF clamp outline; detailed purchased hardware/actuator simplified.",
+    "group": "system",
+    "bbox_mm": [
+      -49.72705605333235,
+      159.4853516863927,
+      47.92294394666767,
+      -24.48294394666767,
+      210.5146483136073,
+      59.07705605333233
+    ],
+    "volume_mm3": 4201.943461054469,
+    "solid_count": 1
+  },
+  {
+    "name": "Pirani KF25 sensor stem",
+    "role": "gauge_stem",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -70.00146846536146,
+      164.99853153463854,
+      39.9608500384107,
+      -29.998531534638545,
+      205.00146846536146,
+      52.06146846536145
+    ],
+    "volume_mm3": 4632.287406080216,
+    "solid_count": 1
+  },
+  {
+    "name": "Pirani gauge reference housing",
+    "role": "gauge_pirani",
+    "color": [
+      0.24,
+      0.49,
+      0.64
+    ],
+    "note": "Generic Pirani sensor envelope, D44 x74; exact make/model not supplied. Not a metrology or magnetic-clearance qualification.",
+    "group": "system",
+    "bbox_mm": [
+      -72.0678187578712,
+      162.9321812421288,
+      -34.067818757871194,
+      -27.932181242128802,
+      207.0678187578712,
+      40.067818757871194
+    ],
+    "volume_mm3": 112519.282480972,
+    "solid_count": 1
+  },
+  {
+    "name": "Pirani housing band -30",
+    "role": "gauge_band",
+    "color": [
+      0.65,
+      0.69,
+      0.72
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -73.57244275727152,
+      161.42755724272848,
+      -30.072442757271524,
+      -26.427557242728472,
+      208.57244275727152,
+      -26.927557242728476
+    ],
+    "volume_mm3": 643.24109582251,
+    "solid_count": 1
+  },
+  {
+    "name": "Pirani housing band 36",
+    "role": "gauge_band",
+    "color": [
+      0.65,
+      0.69,
+      0.72
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -73.57244275727152,
+      161.42755724272848,
+      35.927557242728476,
+      -26.427557242728472,
+      208.57244275727152,
+      39.072442757271524
+    ],
+    "volume_mm3": 643.24109582251,
+    "solid_count": 1
+  },
+  {
+    "name": "Pirani electrical connector",
+    "role": "gauge_connector",
+    "color": [
+      0.16,
+      0.2,
+      0.24
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -56.01849609760125,
+      178.98150390239874,
+      -45.01849609760125,
+      -43.98150390239875,
+      191.01849609760126,
+      -33.98150390239875
+    ],
+    "volume_mm3": 1244.0706908215584,
+    "solid_count": 1
+  },
+  {
+    "name": "Penning protective KF25 elbow",
+    "role": "gauge_elbow",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "Reference R25 centreline elbow. Protects sensor from direct target line of sight; actual orientation per selected gauge manual.",
+    "group": "system",
+    "bbox_mm": [
+      29.998531534638545,
+      143.07053153463858,
+      54.93853153463855,
+      70.00146846536146,
+      205.00146846536146,
+      110.00146846536144
+    ],
+    "volume_mm3": 14268.854463528225,
+    "solid_count": 1
+  },
+  {
+    "name": "Penning rear port joint face seal",
+    "role": "connection_seal",
+    "color": [
+      0.13,
+      0.19,
+      0.19
+    ],
+    "note": "Nominal FKM/centering envelope, not supplier seal CAD.",
+    "group": "system",
+    "bbox_mm": [
+      33.00777953343918,
+      140.0797795334392,
+      73.00777953343918,
+      66.99222046656082,
+      143.18422046656082,
+      106.99222046656082
+    ],
+    "volume_mm3": 1360.9379375350986,
+    "solid_count": 1
+  },
+  {
+    "name": "Penning rear port joint clamp left",
+    "role": "kf_clamp",
+    "color": [
+      0.43,
+      0.52,
+      0.58
+    ],
+    "note": "Split KF clamp outline; detailed purchased hardware/actuator simplified.",
+    "group": "system",
+    "bbox_mm": [
+      24.482943946667667,
+      136.05494394666766,
+      64.48535168639272,
+      49.727056053332326,
+      147.20905605333235,
+      115.51464831360728
+    ],
+    "volume_mm3": 4201.943461054465,
+    "solid_count": 1
+  },
+  {
+    "name": "Penning rear port joint clamp right",
+    "role": "kf_clamp",
+    "color": [
+      0.43,
+      0.52,
+      0.58
+    ],
+    "note": "Split KF clamp outline; detailed purchased hardware/actuator simplified.",
+    "group": "system",
+    "bbox_mm": [
+      50.27294394666765,
+      136.0549439466677,
+      64.48535168639272,
+      75.51705605333233,
+      147.20905605333232,
+      115.51464831360728
+    ],
+    "volume_mm3": 4201.943461054463,
+    "solid_count": 1
+  },
+  {
+    "name": "Penning gauge joint face seal",
+    "role": "connection_seal",
+    "color": [
+      0.13,
+      0.19,
+      0.19
+    ],
+    "note": "Nominal FKM/centering envelope, not supplier seal CAD.",
+    "group": "system",
+    "bbox_mm": [
+      33.00777953343917,
+      168.00777953343916,
+      51.94777953343917,
+      66.99222046656082,
+      201.99222046656084,
+      55.05222046656083
+    ],
+    "volume_mm3": 1360.9379375350982,
+    "solid_count": 1
+  },
+  {
+    "name": "Penning gauge joint clamp left",
+    "role": "kf_clamp",
+    "color": [
+      0.43,
+      0.52,
+      0.58
+    ],
+    "note": "Split KF clamp outline; detailed purchased hardware/actuator simplified.",
+    "group": "system",
+    "bbox_mm": [
+      24.48294394666767,
+      159.4853516863927,
+      47.92294394666767,
+      49.727056053332326,
+      210.5146483136073,
+      59.07705605333233
+    ],
+    "volume_mm3": 4201.943461054463,
+    "solid_count": 1
+  },
+  {
+    "name": "Penning gauge joint clamp right",
+    "role": "kf_clamp",
+    "color": [
+      0.43,
+      0.52,
+      0.58
+    ],
+    "note": "Split KF clamp outline; detailed purchased hardware/actuator simplified.",
+    "group": "system",
+    "bbox_mm": [
+      50.27294394666765,
+      159.4853516863927,
+      47.92294394666767,
+      75.51705605333233,
+      210.5146483136073,
+      59.07705605333233
+    ],
+    "volume_mm3": 4201.943461054466,
+    "solid_count": 1
+  },
+  {
+    "name": "Penning KF25 sensor stem",
+    "role": "gauge_stem",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      29.998531534638545,
+      164.99853153463854,
+      39.9608500384107,
+      70.00146846536146,
+      205.00146846536146,
+      52.06146846536145
+    ],
+    "volume_mm3": 4632.287406080215,
+    "solid_count": 1
+  },
+  {
+    "name": "Penning gauge reference housing",
+    "role": "gauge_penning",
+    "color": [
+      0.39,
+      0.42,
+      0.57
+    ],
+    "note": "Generic Penning sensor envelope, D58 x94; exact make/model not supplied. Not a metrology or magnetic-clearance qualification.",
+    "group": "system",
+    "bbox_mm": [
+      20.910602578260686,
+      155.9106025782607,
+      -54.089397421739314,
+      79.08939742173932,
+      214.0893974217393,
+      40.089397421739314
+    ],
+    "volume_mm3": 248355.4656368875,
+    "solid_count": 1
+  },
+  {
+    "name": "Penning housing band -50",
+    "role": "gauge_band",
+    "color": [
+      0.65,
+      0.69,
+      0.72
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      19.405978578860385,
+      154.40597857886038,
+      -50.094021421139615,
+      80.59402142113962,
+      215.59402142113962,
+      -46.905978578860385
+    ],
+    "volume_mm3": 841.1614329986669,
+    "solid_count": 1
+  },
+  {
+    "name": "Penning housing band 36",
+    "role": "gauge_band",
+    "color": [
+      0.65,
+      0.69,
+      0.72
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      19.405978578860385,
+      154.40597857886038,
+      35.905978578860385,
+      80.59402142113962,
+      215.59402142113962,
+      39.094021421139615
+    ],
+    "volume_mm3": 841.1614329986669,
+    "solid_count": 1
+  },
+  {
+    "name": "Penning electrical connector",
+    "role": "gauge_connector",
+    "color": [
+      0.16,
+      0.2,
+      0.24
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      43.98150390239875,
+      178.98150390239874,
+      -65.01849609760124,
+      56.01849609760125,
+      191.01849609760126,
+      -53.98150390239875
+    ],
+    "volume_mm3": 1244.0706908215584,
+    "solid_count": 1
+  },
+  {
+    "name": "MFC chamber KF25 joint face seal",
+    "role": "connection_seal",
+    "color": [
+      0.13,
+      0.19,
+      0.19
+    ],
+    "note": "Nominal FKM/centering envelope, not supplier seal CAD.",
+    "group": "system",
+    "bbox_mm": [
+      -16.992220466560834,
+      140.07977953343917,
+      193.00777953343916,
+      16.992220466560834,
+      143.18422046656084,
+      226.99222046656084
+    ],
+    "volume_mm3": 1360.9379375350977,
+    "solid_count": 1
+  },
+  {
+    "name": "MFC chamber KF25 joint clamp left",
+    "role": "kf_clamp",
+    "color": [
+      0.43,
+      0.52,
+      0.58
+    ],
+    "note": "Split KF clamp outline; detailed purchased hardware/actuator simplified.",
+    "group": "system",
+    "bbox_mm": [
+      -25.51705605333233,
+      136.05494394666766,
+      184.4853516863927,
+      -0.27294394666767163,
+      147.20905605333235,
+      235.5146483136073
+    ],
+    "volume_mm3": 4201.943461054463,
+    "solid_count": 1
+  },
+  {
+    "name": "MFC chamber KF25 joint clamp right",
+    "role": "kf_clamp",
+    "color": [
+      0.43,
+      0.52,
+      0.58
+    ],
+    "note": "Split KF clamp outline; detailed purchased hardware/actuator simplified.",
+    "group": "system",
+    "bbox_mm": [
+      0.27294394666765187,
+      136.05494394666766,
+      184.4853516863927,
+      25.51705605333233,
+      147.20905605333235,
+      235.5146483136073
+    ],
+    "volume_mm3": 4201.943461054466,
+    "solid_count": 1
+  },
+  {
+    "name": "KF25 to quarter-inch female VCR adapter body",
+    "role": "mfc_out_adapter",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "Functional reference envelope; nominal total face-to-face34.544 per ANCORP1.36in configuration, supplier selection pending.",
+    "group": "system",
+    "bbox_mm": [
+      -20.001468465361455,
+      143.07053153463855,
+      189.99853153463854,
+      20.001468465361455,
+      177.69557503079469,
+      230.00146846536146
+    ],
+    "volume_mm3": 7113.431455574132,
+    "solid_count": 2
+  },
+  {
+    "name": "MFC outlet female VCR swivel nut",
+    "role": "vcr_out_nut",
+    "color": [
+      0.68,
+      0.72,
+      0.75
+    ],
+    "note": "Female mating connection around MFC male face seal; external thread detail simplified.",
+    "group": "system",
+    "bbox_mm": [
+      -10.50000010000004,
+      164.6559625692653,
+      200.90673316026334,
+      10.50000010000004,
+      179.69603743073466,
+      219.09326683973666
+    ],
+    "volume_mm3": 2305.584190313015,
+    "solid_count": 1
+  },
+  {
+    "name": "MFC outlet VCR metal gasket",
+    "role": "vcr_gasket",
+    "color": [
+      0.75,
+      0.7,
+      0.48
+    ],
+    "note": "Nominal visual gasket envelope; actual gasket specification per fittings.",
+    "group": "system",
+    "bbox_mm": [
+      -5.516954764467803,
+      177.65904523553218,
+      204.4830452355322,
+      5.516954764467803,
+      178.4529547644678,
+      215.5169547644678
+    ],
+    "volume_mm3": 59.59475600153666,
+    "solid_count": 1
+  },
+  {
+    "name": "MFC stainless flow body",
+    "role": "mfc_body",
+    "color": [
+      0.61,
+      0.66,
+      0.69
+    ],
+    "note": "HORIBA SEC-E440J-style reference: VCR face-to-face124, body76.2, width38, nominal height115. Ports male VCR on both ends as instructed.",
+    "group": "system",
+    "bbox_mm": [
+      -19.000000100000065,
+      202.33599989999996,
+      197.29491350065965,
+      19.000000100000065,
+      278.5360001000001,
+      222.70000010000004
+    ],
+    "volume_mm3": 73462.710140006,
+    "solid_count": 1
+  },
+  {
+    "name": "MFC electronics housing",
+    "role": "mfc_electronics",
+    "color": [
+      0.4,
+      0.47,
+      0.52
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -19.000000100000058,
+      202.33599989999996,
+      222.69999989999994,
+      19.000000100000058,
+      278.5360001000001,
+      300.30000010000003
+    ],
+    "volume_mm3": 224698.55999999988,
+    "solid_count": 1
+  },
+  {
+    "name": "MFC male VCR outlet",
+    "role": "mfc_male_vcr",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "Nominal quarter-inch male VCR port; supplier face/bead/thread tolerances not modeled.",
+    "group": "system",
+    "bbox_mm": [
+      -5.567108897781158,
+      178.41889110221885,
+      204.43289110221883,
+      5.567108897781158,
+      202.35310889778117,
+      215.56710889778117
+    ],
+    "volume_mm3": 1915.5821935355589,
+    "solid_count": 1
+  },
+  {
+    "name": "MFC male VCR inlet",
+    "role": "mfc_male_vcr",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "Nominal quarter-inch male VCR port; supplier face/bead/thread tolerances not modeled.",
+    "group": "system",
+    "bbox_mm": [
+      -5.567108897781158,
+      278.5188911022189,
+      204.43289110221883,
+      5.567108897781158,
+      302.4531088977812,
+      215.56710889778117
+    ],
+    "volume_mm3": 1915.582193535558,
+    "solid_count": 1
+  },
+  {
+    "name": "MFC top signal connector",
+    "role": "mfc_signal",
+    "color": [
+      0.18,
+      0.23,
+      0.29
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -14.000000100000001,
+      224.33599990000002,
+      300.2999999,
+      14.000000100000001,
+      238.3360001,
+      312.30000010000003
+    ],
+    "volume_mm3": 4704.000000000001,
+    "solid_count": 1
+  },
+  {
+    "name": "Rear MFC support shelf",
+    "role": "mfc_bracket",
+    "color": [
+      0.35,
+      0.43,
+      0.48
+    ],
+    "note": "Mounting layout only; bracket load/weld/fasteners not validated.",
+    "group": "system",
+    "bbox_mm": [
+      -30.000000100000065,
+      109.99999989999993,
+      194.7930639008995,
+      30.000000100000065,
+      287.0000001000001,
+      197.3069360991005
+    ],
+    "volume_mm3": 17120.478435956007,
+    "solid_count": 1
+  },
+  {
+    "name": "MFC shelf gusset -30",
+    "role": "mfc_bracket",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -30.00000010000003,
+      109.99999989999998,
+      164.99999989999998,
+      -27.49999989999997,
+      175.00000010000002,
+      194.80000010000003
+    ],
+    "volume_mm3": 2421.250000000001,
+    "solid_count": 1
+  },
+  {
+    "name": "MFC shelf gusset 27.5",
+    "role": "mfc_bracket",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      27.49999989999997,
+      109.99999989999998,
+      164.99999989999998,
+      30.00000010000003,
+      175.00000010000002,
+      194.80000010000003
+    ],
+    "volume_mm3": 2421.250000000001,
+    "solid_count": 1
+  },
+  {
+    "name": "MFC mount screw 221.38600000000002",
+    "role": "mfc_mount_screw",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "Nominal M4 envelope.",
+    "group": "system",
+    "bbox_mm": [
+      -3.5107894319340756,
+      217.87521056806594,
+      189.28921056806593,
+      3.5107894319340756,
+      224.8967894319341,
+      198.30616543253376
+    ],
+    "volume_mm3": 164.9336143134641,
+    "solid_count": 1
+  },
+  {
+    "name": "MFC mount screw 259.486",
+    "role": "mfc_mount_screw",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "Nominal M4 envelope.",
+    "group": "system",
+    "bbox_mm": [
+      -3.5107894319340813,
+      255.9752105680659,
+      189.28921056806593,
+      3.5107894319340813,
+      262.9967894319341,
+      198.30616543253382
+    ],
+    "volume_mm3": 164.93361431346443,
+    "solid_count": 1
+  },
+  {
+    "name": "MFC inlet VCR metal gasket",
+    "role": "vcr_gasket",
+    "color": [
+      0.75,
+      0.7,
+      0.48
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -5.516954764467803,
+      302.4190452355322,
+      204.4830452355322,
+      5.516954764467803,
+      303.21295476446784,
+      215.5169547644678
+    ],
+    "volume_mm3": 59.59475600153666,
+    "solid_count": 1
+  },
+  {
+    "name": "MFC inlet female VCR swivel nut",
+    "role": "vcr_in_nut",
+    "color": [
+      0.68,
+      0.72,
+      0.75
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      -10.500000100000028,
+      300.4185828355922,
+      200.90673316026337,
+      10.500000100000028,
+      316.4534171644079,
+      219.09326683973663
+    ],
+    "volume_mm3": 2978.4065730797265,
+    "solid_count": 1
+  },
+  {
+    "name": "Female VCR to quarter-inch female NPT adapter",
+    "role": "vcr_npt_adapter",
+    "color": [
+      0.62,
+      0.68,
+      0.73
+    ],
+    "note": "Adapter-assembly reference from prior chat; SS-4-WVCR-7-4 cited body requires compatible swivel nut/gland. End geometry illustrative.",
+    "group": "system",
+    "bbox_mm": [
+      -9.80000010000003,
+      305.1768873691454,
+      201.51295094291248,
+      9.80000010000003,
+      339.2141878309746,
+      218.48704905708752
+    ],
+    "volume_mm3": 5457.284772597966,
+    "solid_count": 1
+  },
+  {
+    "name": "Quarter-inch male NPT to6mm push fitting body",
+    "role": "push_body",
+    "color": [
+      0.72,
+      0.61,
+      0.34
+    ],
+    "note": "6mm OD tube x1/4 male NPT interface; Amazon B09H4RL894 selected in prior chat. Parker W68LF-6M-4 was reference. Pressure/gas compatibility not verified.",
+    "group": "system",
+    "bbox_mm": [
+      -9.250000100000063,
+      331.17565430263863,
+      201.9892649149939,
+      9.250000100000063,
+      357.21912009700156,
+      218.0107350850061
+    ],
+    "volume_mm3": 3905.178561298562,
+    "solid_count": 1
+  },
+  {
+    "name": "6mm push fitting release collet",
+    "role": "push_collet",
+    "color": [
+      0.16,
+      0.43,
+      0.72
+    ],
+    "note": "Gas-supply boundary of this model. No tube beyond push fitting.",
+    "group": "system",
+    "bbox_mm": [
+      -6.720653963988055,
+      357.17534603601194,
+      203.27934603601196,
+      6.720653963988055,
+      360.2166539639881,
+      216.72065396398804
+    ],
+    "volume_mm3": 338.25528101201326,
+    "solid_count": 1
+  },
+  {
+    "name": "Right spare 75 face seal",
+    "role": "connection_seal",
+    "color": [
+      0.13,
+      0.19,
+      0.19
+    ],
+    "note": "Nominal FKM/centering envelope, not supplier seal CAD.",
+    "group": "system",
+    "bbox_mm": [
+      140.0797795334392,
+      -16.992220466560827,
+      58.00777953343918,
+      143.18422046656082,
+      16.992220466560827,
+      91.99222046656082
+    ],
+    "volume_mm3": 1360.9379375350986,
+    "solid_count": 1
+  },
+  {
+    "name": "Right spare 75 clamp left",
+    "role": "kf_clamp",
+    "color": [
+      0.43,
+      0.52,
+      0.58
+    ],
+    "note": "Split KF clamp outline; detailed purchased hardware/actuator simplified.",
+    "group": "system",
+    "bbox_mm": [
+      136.0549439466677,
+      -25.514648313607278,
+      75.27294394666767,
+      147.20905605333232,
+      25.514648313607278,
+      100.51705605333233
+    ],
+    "volume_mm3": 4201.943461054465,
+    "solid_count": 1
+  },
+  {
+    "name": "Right spare 75 clamp right",
+    "role": "kf_clamp",
+    "color": [
+      0.43,
+      0.52,
+      0.58
+    ],
+    "note": "Split KF clamp outline; detailed purchased hardware/actuator simplified.",
+    "group": "system",
+    "bbox_mm": [
+      136.0549439466677,
+      -25.51464831360727,
+      49.48294394666768,
+      147.20905605333232,
+      25.51464831360727,
+      74.72705605333233
+    ],
+    "volume_mm3": 4201.943461054464,
+    "solid_count": 1
+  },
+  {
+    "name": "Right spare KF25 blank cap 75",
+    "role": "blank_cap",
+    "color": [
+      0.62,
+      0.68,
+      0.72
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      143.07053153463858,
+      -20.001468465361437,
+      54.998531534638566,
+      147.51346846536143,
+      20.001468465361437,
+      95.00146846536144
+    ],
+    "volume_mm3": 5396.14893081969,
+    "solid_count": 1
+  },
+  {
+    "name": "Right spare 225 face seal",
+    "role": "connection_seal",
+    "color": [
+      0.13,
+      0.19,
+      0.19
+    ],
+    "note": "Nominal FKM/centering envelope, not supplier seal CAD.",
+    "group": "system",
+    "bbox_mm": [
+      140.07977953343917,
+      -16.992220466560834,
+      208.00777953343916,
+      143.18422046656084,
+      16.992220466560834,
+      241.99222046656084
+    ],
+    "volume_mm3": 1360.937937535098,
+    "solid_count": 1
+  },
+  {
+    "name": "Right spare 225 clamp left",
+    "role": "kf_clamp",
+    "color": [
+      0.43,
+      0.52,
+      0.58
+    ],
+    "note": "Split KF clamp outline; detailed purchased hardware/actuator simplified.",
+    "group": "system",
+    "bbox_mm": [
+      136.05494394666766,
+      -25.51464831360728,
+      225.27294394666765,
+      147.20905605333235,
+      25.51464831360728,
+      250.51705605333234
+    ],
+    "volume_mm3": 4201.943461054464,
+    "solid_count": 1
+  },
+  {
+    "name": "Right spare 225 clamp right",
+    "role": "kf_clamp",
+    "color": [
+      0.43,
+      0.52,
+      0.58
+    ],
+    "note": "Split KF clamp outline; detailed purchased hardware/actuator simplified.",
+    "group": "system",
+    "bbox_mm": [
+      136.05494394666766,
+      -25.514648313607275,
+      199.48294394666766,
+      147.20905605333235,
+      25.51464831360729,
+      224.72705605333235
+    ],
+    "volume_mm3": 4201.9434610544695,
+    "solid_count": 1
+  },
+  {
+    "name": "Right spare KF25 blank cap 225",
+    "role": "blank_cap",
+    "color": [
+      0.62,
+      0.68,
+      0.72
+    ],
+    "note": "",
+    "group": "system",
+    "bbox_mm": [
+      143.07053153463855,
+      -20.001468465361455,
+      204.99853153463854,
+      147.51346846536146,
+      20.001468465361455,
+      245.00146846536146
+    ],
+    "volume_mm3": 5396.14893081969,
+    "solid_count": 1
+  }
+]

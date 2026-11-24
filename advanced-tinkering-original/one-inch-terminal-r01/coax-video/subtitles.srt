@@ -1,0 +1,175 @@
+1
+00:00:00,500 --> 00:00:04,428
+This is the proposed compact coax connection for our magnetron.
+
+2
+00:00:04,428 --> 00:00:07,609
+The cable on the right comes from the matching box.
+
+3
+00:00:07,609 --> 00:00:12,410
+It plugs into a bulkhead S M A socket on the outside end of the service tube.
+
+4
+00:00:12,410 --> 00:00:15,341
+A second coax cable continues inside that tube.
+
+5
+00:00:15,341 --> 00:00:18,645
+The two coolant hoses use separate passages below it.
+
+6
+00:00:18,645 --> 00:00:27,500
+The terminal plate is actual C A D geometry; the connector internals shown here are explanatory geometry, not a manufacturer's detailed model.
+
+7
+00:00:29,300 --> 00:00:32,172
+Watch the external plug approach the fixed socket.
+
+8
+00:00:32,172 --> 00:00:35,217
+The male center pin enters the female center contact.
+
+9
+00:00:35,217 --> 00:00:38,607
+The outer metal contacts meet around the insulating region.
+
+10
+00:00:38,607 --> 00:00:43,088
+The coupling nut then threads onto the socket body and retains the connection.
+
+11
+00:00:43,088 --> 00:00:46,305
+We turn the coupling nut rather than twisting the cable.
+
+12
+00:00:46,305 --> 00:00:52,567
+This animation separates alignment and tightening for clarity; the contact and thread details are simplified.
+
+13
+00:00:54,367 --> 00:00:56,924
+The orange parts show the live center path.
+
+14
+00:00:56,924 --> 00:01:04,596
+The external cable center connects to the male pin, then to the female contact, and onward to the internal coax center conductor.
+
+15
+00:01:04,596 --> 00:01:06,618
+These are intentionally connected.
+
+16
+00:01:06,618 --> 00:01:12,089
+There is no voltage isolation between the external coax center and the internal coax center.
+
+17
+00:01:12,089 --> 00:01:14,112
+They form one R F electrical node.
+
+18
+00:01:14,112 --> 00:01:19,167
+The isolation we need is between that center path and the surrounding grounded metal.
+
+19
+00:01:20,967 --> 00:01:23,634
+The cream colored material is the dielectric.
+
+20
+00:01:23,634 --> 00:01:30,510
+Inside the S M A connector, an insulating support such as P T F E separates the center contact from the outer shell.
+
+21
+00:01:30,510 --> 00:01:36,319
+Inside each coax cable, its dielectric separates the center conductor from the surrounding shield.
+
+22
+00:01:36,319 --> 00:01:39,698
+The outer cable jacket is an additional protective layer.
+
+23
+00:01:39,698 --> 00:01:44,677
+The metal retaining nut and washer are mounting hardware, not electrical insulators.
+
+24
+00:01:44,677 --> 00:01:48,767
+The socket shell is intentionally bonded to the metal terminal plate.
+
+25
+00:01:50,567 --> 00:01:55,464
+At the rear of the bulkhead socket, the internal cable is terminated as a coax assembly.
+
+26
+00:01:55,464 --> 00:02:01,807
+Its center conductor connects to the center contact, using the connector manufacturer's specified assembly method.
+
+27
+00:02:01,807 --> 00:02:06,760
+Its shield connects to the connector body through the rear termination and crimp ferrule.
+
+28
+00:02:06,760 --> 00:02:14,606
+A correctly assembled commercial pigtail provides this connection; we do not need a loose bare wire hanging off the back of the S M A socket.
+
+29
+00:02:14,606 --> 00:02:17,500
+The outer jacket ends behind the shield termination.
+
+30
+00:02:19,300 --> 00:02:21,165
+Now move to the magnetron head.
+
+31
+00:02:21,165 --> 00:02:25,016
+These sectioned bodies come from the reconstructed source C A D.
+
+32
+00:02:25,016 --> 00:02:30,552
+The copper head and attached spacer are live; the bottom body and service tube are grounded.
+
+33
+00:02:30,552 --> 00:02:32,778
+The main P T F E ring separates them.
+
+34
+00:02:32,778 --> 00:02:36,328
+The proposed coax shield bond is on the grounded structure.
+
+35
+00:02:36,328 --> 00:02:41,503
+The center conductor continues with dielectric protection to a separate live terminal.
+
+36
+00:02:41,503 --> 00:02:44,271
+Only the short terminal connection is exposed.
+
+37
+00:02:44,271 --> 00:02:47,159
+The shield must not connect to the live cathode.
+
+38
+00:02:47,159 --> 00:02:54,500
+This head termination is a concept overlay; its clamp, insulation length and clearances still require detailed R F design.
+
+39
+00:02:56,300 --> 00:02:57,518
+Follow the two paths.
+
+40
+00:02:57,518 --> 00:03:02,563
+The orange center path carries the R F connection from the matching box to the cathode.
+
+41
+00:03:02,563 --> 00:03:09,116
+The blue gray outer path joins the cable shields, connector shells and grounded structure as the intended return.
+
+42
+00:03:09,116 --> 00:03:16,191
+Solid dielectric separates the coax conductors, and the head insulator separates the live mechanical assembly from ground.
+
+43
+00:03:16,191 --> 00:03:21,758
+This is an explanation of connectivity, not a calculated electric field or an electrical rating.
+
+44
+00:03:21,758 --> 00:03:28,833
+We still need to verify the actual connector, cable, bias voltage and ignition conditions against the matching box output.

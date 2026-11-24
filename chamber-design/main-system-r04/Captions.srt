@@ -1,0 +1,807 @@
+1
+00:00:00,300 --> 00:00:06,761
+This is the complete system layout, with the latest twelve-stack magnetron inside the top-mounted sputter gun.
+
+2
+00:00:06,761 --> 00:00:16,452
+We will work from the complete apparatus into the gun, open it to explain the mechanical and magnetic design, then follow gas, cooling, power and vacuum connections.
+
+3
+00:00:16,452 --> 00:00:20,563
+Finally we will illustrate ignition, shutter operation and deposition.
+
+4
+00:00:20,563 --> 00:00:24,381
+The chamber and custom parts use explicit nominal CAD dimensions.
+
+5
+00:00:24,381 --> 00:00:30,195
+The cylinder, chillers, power equipment and selected other purchased parts are reference envelopes.
+
+6
+00:00:30,195 --> 00:00:35,775
+This is a dimensioned design study, not a fabrication release or a validated operating machine.
+
+7
+00:00:37,175 --> 00:00:44,751
+The rectangular chamber has two hundred millimetres of internal width and depth, with three hundred millimetres of internal height.
+
+8
+00:00:44,751 --> 00:00:48,163
+That is twelve litres before subtracting internal hardware.
+
+9
+00:00:48,163 --> 00:00:50,649
+The shell plates are ten millimetres thick.
+
+10
+00:00:50,649 --> 00:00:57,531
+The front door is two hundred and twenty eight by three hundred and sixteen millimetres, and sixteen millimetres thick.
+
+11
+00:00:57,531 --> 00:01:04,876
+It opens around the left hinge, giving access through the one hundred and eighty by two hundred and seventy millimetre opening.
+
+12
+00:01:04,876 --> 00:01:07,767
+The left side stays blank for future modification.
+
+13
+00:01:07,767 --> 00:01:11,468
+Two capped KF25 ports remain on the right, one high and one low.
+
+14
+00:01:11,468 --> 00:01:16,962
+The gas inlet and both gauges are behind the chamber, keeping the sides free of routine wiring.
+
+15
+00:01:16,962 --> 00:01:23,150
+Plate and window thicknesses here remain nominal choices requiring vacuum structural and seal verification.
+
+16
+00:01:24,550 --> 00:01:26,856
+There are two different connections here.
+
+17
+00:01:26,856 --> 00:01:30,962
+The K F clamp joins the compression fitting to the welded chamber flange.
+
+18
+00:01:30,962 --> 00:01:36,194
+The threaded cap at the top has a different job: it compresses an O ring around the gun tube.
+
+19
+00:01:36,194 --> 00:01:42,044
+I have replaced the single solid placeholder with a separate body, threaded cap, follower and tube seal.
+
+20
+00:01:42,044 --> 00:01:47,500
+The detailed thread and seal seat are illustrative, pending the actual purchased fitting drawing.
+
+21
+00:01:48,800 --> 00:01:54,011
+First, the fitting body sits on the chamber K F flange, with the face seal between them.
+
+22
+00:01:54,011 --> 00:01:57,505
+This face seal is separate from the O ring around the tube.
+
+23
+00:01:57,505 --> 00:02:01,769
+The body is lowered into place, while the compression cap remains loose.
+
+24
+00:02:01,769 --> 00:02:05,500
+We are showing the mechanical assembly with the chamber vented.
+
+25
+00:02:06,800 --> 00:02:10,109
+The two clamp jaws close around the mating flange rims.
+
+26
+00:02:10,109 --> 00:02:12,697
+Tightening the wing nut secures this joint.
+
+27
+00:02:12,697 --> 00:02:15,645
+From now on, the body stays fixed to the chamber.
+
+28
+00:02:15,645 --> 00:02:19,135
+You do not loosen this K F clamp to adjust the gun height.
+
+29
+00:02:19,135 --> 00:02:23,167
+Height adjustment happens at the separate threaded compression cap.
+
+30
+00:02:24,467 --> 00:02:29,488
+With the upper cap loose, feed the gun service tube upward from inside the chamber.
+
+31
+00:02:29,488 --> 00:02:31,062
+The gun head stays inside.
+
+32
+00:02:31,062 --> 00:02:35,297
+The twenty five point four millimetre tube slides through the fitting.
+
+33
+00:02:35,297 --> 00:02:40,500
+This animation follows the existing gun geometry; the roof and body remain stationary.
+
+34
+00:02:41,800 --> 00:02:46,786
+Now move the complete gun up or down to choose the target to substrate distance.
+
+35
+00:02:46,786 --> 00:02:52,581
+In our chamber model, the working range is seventy five to one hundred and fifty millimetres.
+
+36
+00:02:52,581 --> 00:02:54,451
+Here we return to one hundred.
+
+37
+00:02:54,451 --> 00:02:56,570
+The body and K F clamp stay still.
+
+38
+00:02:56,570 --> 00:02:59,000
+Support the gun while the cap is loose.
+
+39
+00:03:00,300 --> 00:03:05,343
+Hold the tube at the selected position and turn the cap clockwise, viewed from above.
+
+40
+00:03:05,343 --> 00:03:07,598
+The cap advances down the body thread.
+
+41
+00:03:07,598 --> 00:03:12,700
+Its shoulder pushes the follower onto the O ring, squeezing the seal against the tube.
+
+42
+00:03:12,700 --> 00:03:14,955
+The tube does not rotate with the cap.
+
+43
+00:03:14,955 --> 00:03:21,600
+The model uses an illustrative two millimetre thread pitch, so two turns produce four millimetres of cap travel.
+
+44
+00:03:21,600 --> 00:03:26,583
+That is an animation dimension, not a tightening instruction for the purchased part.
+
+45
+00:03:27,883 --> 00:03:30,044
+The section view shows the load path.
+
+46
+00:03:30,044 --> 00:03:34,658
+The moving cap shoulder presses the follower, which compresses the tube O ring.
+
+47
+00:03:34,658 --> 00:03:37,753
+The lower face seal and K F clamp remain undisturbed.
+
+48
+00:03:37,753 --> 00:03:43,827
+O ring deformation is shown schematically to explain the mechanism; it is not a seal stress calculation.
+
+49
+00:03:43,827 --> 00:03:49,083
+The actual mating flange and centering ring must also have enough clear bore for the tube.
+
+50
+00:03:50,383 --> 00:03:55,283
+The simple substrate stage is ninety millimetres in diameter and six millimetres thick.
+
+51
+00:03:55,283 --> 00:03:58,155
+Its top is at height forty above the chamber floor.
+
+52
+00:03:58,155 --> 00:04:04,351
+The reference substrate is fifty millimetres square and one millimetre thick, making its top height forty one.
+
+53
+00:04:04,351 --> 00:04:12,292
+At the default setting the target face is at height one hundred and forty one, leaving a one hundred millimetre target to substrate distance.
+
+54
+00:04:12,292 --> 00:04:17,474
+Moving the gun gives a modeled range from seventy five to one hundred and fifty millimetres.
+
+55
+00:04:17,474 --> 00:04:21,022
+The shutter is one millimetre sheet with two right angle bends.
+
+56
+00:04:21,022 --> 00:04:25,809
+Its blade underside is at height fifty three, twelve millimetres above the substrate.
+
+57
+00:04:25,809 --> 00:04:30,597
+Its upper flat and lower blade midplanes differ by two hundred and forty millimetres.
+
+58
+00:04:30,597 --> 00:04:33,244
+Turning the top actuator swings the blade away.
+
+59
+00:04:33,244 --> 00:04:39,608
+These shutter clearances are geometrical, while its small rotary seal still needs a practical leak and wear test.
+
+60
+00:04:41,008 --> 00:04:43,271
+Now we open the actual latest gun model.
+
+61
+00:04:43,271 --> 00:04:53,058
+The protective outer shield and dark-space cap move aside so the target, target clamp, copper cooling head, magnet pack, rear closure, insulation and support become visible.
+
+62
+00:04:53,058 --> 00:04:56,509
+Exploded distances are deliberately enlarged for explanation.
+
+63
+00:04:56,509 --> 00:05:00,299
+They are not machining dimensions or an approved disassembly order.
+
+64
+00:05:00,299 --> 00:05:05,561
+The stem carries the water hoses and a single coaxial electrical connection down to the head.
+
+65
+00:05:05,561 --> 00:05:10,709
+The outer chamber envelope has not been enlarged to accommodate the new magnet arrangement.
+
+66
+00:05:10,709 --> 00:05:18,233
+The complete CAD retains the fasteners, seals and small parts even where we hide them in a close-up to keep the explanation readable.
+
+67
+00:05:19,633 --> 00:05:24,944
+At the front is the fifty point eight millimetre diameter target, modeled two millimetres thick.
+
+68
+00:05:24,944 --> 00:05:28,983
+It is held against the copper head by the target clamp and its fasteners.
+
+69
+00:05:28,983 --> 00:05:33,243
+The copper spreads heat away from the target into the water-cooled structure.
+
+70
+00:05:33,243 --> 00:05:41,597
+In the revised head the coolant channel is an annulus between radii fifteen point five and twenty point five millimetres, with seven millimetres depth.
+
+71
+00:05:41,597 --> 00:05:48,845
+The revised water seals have nominal inside diameters twenty three and forty three millimetres, each with a two millimetre section.
+
+72
+00:05:48,845 --> 00:05:53,492
+The two water axes move to plus and minus eighteen millimetres to suit this channel.
+
+73
+00:05:53,492 --> 00:05:58,250
+The section view exposes these features, rather than making a second physical opening.
+
+74
+00:05:58,250 --> 00:06:05,608
+Seal squeeze, electrical isolation, corrosion and pressure testing still need to be checked against the final materials and hardware.
+
+75
+00:06:07,008 --> 00:06:10,764
+The selected arrangement uses readily available N42 disc magnets.
+
+76
+00:06:10,764 --> 00:06:18,390
+Each of the twelve outer positions holds two six millimetre diameter, ten millimetre long magnets, giving a twenty millimetre stack.
+
+77
+00:06:18,390 --> 00:06:25,439
+The centre contains two twenty millimetre diameter by ten millimetre magnets, also giving twenty millimetres total length.
+
+78
+00:06:25,439 --> 00:06:29,021
+The outer stacks sit on a fifty eight millimetre pitch circle.
+
+79
+00:06:29,021 --> 00:06:33,701
+The centre presents north toward the target and the outside stacks present south.
+
+80
+00:06:33,701 --> 00:06:41,790
+Compared with the earlier outer-dominant arrangement, the larger centre and smaller outer poles move the design toward a balanced magnetron.
+
+81
+00:06:41,790 --> 00:06:46,816
+Twelve positions give a more evenly distributed ring than the six-position alternative.
+
+82
+00:06:46,816 --> 00:06:50,283
+The outer to centre pole-area proxy is one point zero eight.
+
+83
+00:06:50,283 --> 00:06:55,483
+That is a useful selection aid, not a measured flux ratio or proof of a balanced topology.
+
+84
+00:06:56,883 --> 00:07:08,001
+The copper and steel pieces were revised around this pack: a twenty one millimetre centre bore, six point four millimetre outer wells, and a seventy one point five millimetre outer diameter.
+
+85
+00:07:08,001 --> 00:07:11,337
+The steel return path guides flux between opposing poles.
+
+86
+00:07:11,337 --> 00:07:19,764
+A separate three dimensional nonlinear magnetostatic study evaluated this candidate using N42 remanence and an assumed AISI ten ten steel curve.
+
+87
+00:07:19,764 --> 00:07:30,531
+At a quarter millimetre above the modeled nonmagnetic target, the calculated parallel field averaged ninety five point one millitesla around a racetrack near twenty millimetres radius.
+
+88
+00:07:30,531 --> 00:07:35,446
+It ranged approximately eighty nine point five to ninety nine point five millitesla.
+
+89
+00:07:35,446 --> 00:07:39,835
+These are field calculations under stated material and spacing assumptions.
+
+90
+00:07:39,835 --> 00:07:48,671
+They do not predict ignition, deposition rate, erosion profile or plasma confinement time, and they do not by themselves certify the balanced topology.
+
+91
+00:07:48,671 --> 00:07:52,358
+Copper changes the spacing; it is not a static magnetic shield.
+
+92
+00:07:53,758 --> 00:07:58,968
+The live target assembly is separated from the grounded support by the insulating components.
+
+93
+00:07:58,968 --> 00:08:01,601
+The single coaxial cable runs through the stem.
+
+94
+00:08:01,601 --> 00:08:07,483
+Its centre conductor continues to the live terminal; its outer shield connects to the grounded structure.
+
+95
+00:08:07,483 --> 00:08:11,741
+This arrangement avoids treating the coolant lines as electrical conductors.
+
+96
+00:08:11,741 --> 00:08:18,575
+The model includes the shield contact, centre dielectric, added guard sleeve and terminal geometry from the latest design.
+
+97
+00:08:18,575 --> 00:08:24,793
+The shield tube and front dark-space cap surround the source and protect the adjacent hardware from deposition.
+
+98
+00:08:24,793 --> 00:08:30,620
+They also restrict what can be seen from the front window, which is why we checked the viewing geometry.
+
+99
+00:08:30,620 --> 00:08:33,757
+The five millimetre cable diameter is a study allowance.
+
+100
+00:08:33,757 --> 00:08:42,608
+Cable construction, RF current path, insulation creepage, voltage rating and the sealed atmosphere-to-vacuum boundary still require engineering qualification.
+
+101
+00:08:44,008 --> 00:08:47,942
+The argon cylinder and regulator are intentionally representative.
+
+102
+00:08:47,942 --> 00:08:53,367
+From the regulator a six millimetre outside diameter tube runs to the mass flow controller.
+
+103
+00:08:53,367 --> 00:09:00,580
+The CAD tube is modeled with a four millimetre internal bore, a chosen value rather than a tubing purchase specification.
+
+104
+00:09:00,580 --> 00:09:04,097
+At the MFC inlet it enters the six millimetre push fitting.
+
+105
+00:09:04,097 --> 00:09:10,833
+That fitting connects through the quarter inch NPT and female VCR adapter assembly to the assumed male VCR inlet.
+
+106
+00:09:10,833 --> 00:09:17,807
+The MFC outlet is also assumed male VCR and connects through the female VCR to KF25 adapter at the rear chamber port.
+
+107
+00:09:17,807 --> 00:09:22,278
+The metal VCR gaskets and the independent MFC support bracket are retained.
+
+108
+00:09:22,278 --> 00:09:32,233
+The regulator and all gas-contact components must ultimately suit the selected gas and operating pressure; no cylinder pressure is intended to reach the MFC unchecked.
+
+109
+00:09:33,633 --> 00:09:37,802
+This close-up shows the tube being pushed straight into the existing collet.
+
+110
+00:09:37,802 --> 00:09:44,002
+The modeled tube outside diameter is exactly six millimetres and the fitting has a nominal six millimetre socket.
+
+111
+00:09:44,002 --> 00:09:48,994
+Its mouth is at coordinate three hundred and sixty point one nine six on the rearward axis.
+
+112
+00:09:48,994 --> 00:09:56,236
+In this illustration the tube end reaches three hundred and forty four point one nine six, giving sixteen millimetres of engagement.
+
+113
+00:09:56,236 --> 00:10:00,680
+That sixteen millimetres is deliberately recorded as a provisional visual choice.
+
+114
+00:10:00,680 --> 00:10:07,702
+We still need the actual fitting specification to set the final insertion depth and confirm tube material and gas compatibility.
+
+115
+00:10:07,702 --> 00:10:15,108
+The animation shows the physical insertion direction; it does not simulate the hidden gripper teeth or an actual leak-tight connection.
+
+116
+00:10:16,508 --> 00:10:19,241
+Cooling system number one serves the sputter gun.
+
+117
+00:10:19,241 --> 00:10:22,531
+The blue line is the supply and the red line is the return.
+
+118
+00:10:22,531 --> 00:10:27,159
+Both continue from the two existing gun water hoses at the top of the service tube.
+
+119
+00:10:27,159 --> 00:10:34,799
+These external extensions keep the current four millimetre outside diameter and two point five millimetre internal bore of the gun hoses.
+
+120
+00:10:34,799 --> 00:10:39,595
+The large upper service loops represent the slack needed when changing the gun height.
+
+121
+00:10:39,595 --> 00:10:47,012
+Their shape is a routing study: it does not establish a permissible minimum bend radius or demonstrate adequate flow through the gun.
+
+122
+00:10:47,012 --> 00:10:49,131
+The chiller cabinet is representative.
+
+123
+00:10:49,131 --> 00:10:54,652
+We have not selected its heat-removal capacity, water pump, temperature setpoint or flow interlock.
+
+124
+00:10:54,652 --> 00:10:57,608
+The final gun heat load must determine those choices.
+
+125
+00:10:59,008 --> 00:11:03,729
+Cooling system number two is separate and connects only to the turbo water cooler.
+
+126
+00:11:03,729 --> 00:11:08,393
+This keeps the turbo loop identifiable instead of mixing it with the gun circuit.
+
+127
+00:11:08,393 --> 00:11:11,387
+The external cabinet and routing are representative.
+
+128
+00:11:11,387 --> 00:11:22,614
+The Edwards manual specifies approximately six millimetre internal diameter reinforced hose over the cooler barbs, secured with clips, or direct connections to its one eighth BSP female fittings.
+
+129
+00:11:22,614 --> 00:11:25,781
+The final tube and adapters must follow that interface.
+
+130
+00:11:25,781 --> 00:11:28,602
+Either cooler barb can serve as supply or return.
+
+131
+00:11:28,602 --> 00:11:35,742
+The cooling controller must coordinate water flow with pump operation, including avoiding condensation when the pump is off.
+
+132
+00:11:35,742 --> 00:11:40,233
+No cooling flow rate, pressure or duty is being claimed by this routing model.
+
+133
+00:11:41,633 --> 00:11:45,932
+The representative power supply feeds the gun through the external cable.
+
+134
+00:11:45,932 --> 00:11:51,584
+We show an RF configuration, including a separate matching network between generator and source.
+
+135
+00:11:51,584 --> 00:11:56,531
+RF sputtering uses the matching network to couple power into a changing plasma load.
+
+136
+00:11:56,531 --> 00:12:04,068
+If the final system uses DC, the DC supply connects through the appropriate cable arrangement and bypasses this RF matching box.
+
+137
+00:12:04,068 --> 00:12:08,190
+The two options are alternatives, not two supplies operating together.
+
+138
+00:12:08,190 --> 00:12:14,196
+Conventional DC is suited to electrically conductive targets, while RF can support insulating targets.
+
+139
+00:12:14,196 --> 00:12:18,200
+The green bonding lead is a visual reminder of protective grounding.
+
+140
+00:12:18,200 --> 00:12:20,909
+It is not a completed grounding specification.
+
+141
+00:12:20,909 --> 00:12:28,858
+Cooling flow, chamber pressure, enclosure access and supply enable need coordinated interlocks before this becomes an operating system.
+
+142
+00:12:30,258 --> 00:12:34,678
+The EXT70 reference mounts below the chamber through the ISO63 connection.
+
+143
+00:12:34,678 --> 00:12:39,694
+Four representative double-claw clamps hold the mating flanges around the face seal.
+
+144
+00:12:39,694 --> 00:12:45,906
+The turbo body is reconstructed from the manufacturer drawing rather than an exact supplier solid model.
+
+145
+00:12:45,906 --> 00:12:52,475
+The reference version has a KF16 backing outlet, so the model includes a KF16 to KF25 adapter before the hose.
+
+146
+00:12:52,475 --> 00:12:57,074
+If the actual purchased variant already has a KF25 outlet, omit that adapter.
+
+147
+00:12:57,074 --> 00:13:04,361
+The chamber stand carries the chamber independently; the turbo is not being used as the structural support for the vessel.
+
+148
+00:13:04,361 --> 00:13:12,483
+The inlet baffle above it helps interrupt a direct deposition path, although its conductance and effectiveness still require assessment.
+
+149
+00:13:13,883 --> 00:13:17,020
+We retained the simpler plumbing option you selected.
+
+150
+00:13:17,020 --> 00:13:23,235
+There is one route from chamber through turbo, then through the backing hose to a single mechanical pump.
+
+151
+00:13:23,235 --> 00:13:25,839
+There is no separate roughing bypass branch.
+
+152
+00:13:25,839 --> 00:13:32,942
+The backing pump model is supplier CAD for an Edwards RV3, used as a reference envelope rather than a purchase decision.
+
+153
+00:13:32,942 --> 00:13:36,079
+The KF25 hose connects to its inlet, not its exhaust.
+
+154
+00:13:36,079 --> 00:13:40,281
+Its modeled centreline is about six hundred and forty millimetres long.
+
+155
+00:13:40,281 --> 00:13:44,898
+Flow markers illustrate the evacuation direction, not a pump-down calculation.
+
+156
+00:13:44,898 --> 00:13:49,751
+Pump startup and venting must follow the controller and manufacturer instructions.
+
+157
+00:13:49,751 --> 00:13:55,966
+This arrangement does not imply the turbo can stay at operating speed while the chamber is freely opened.
+
+158
+00:13:55,966 --> 00:14:02,358
+Backing pump exhaust treatment, oil mist handling and the turbo controller are further equipment to specify.
+
+159
+00:14:03,758 --> 00:14:09,057
+The Pirani and Penning gauge connections occupy the two lower rear KF25 ports, through elbows.
+
+160
+00:14:09,057 --> 00:14:15,426
+These break the direct line of sight from the target toward the sensor bodies and reduce direct coating exposure.
+
+161
+00:14:15,426 --> 00:14:18,188
+Their housings here are generic reference shapes.
+
+162
+00:14:18,188 --> 00:14:27,827
+We have not yet selected the gauge models or controllers, so final mounting orientation, sensitivity and allowable stray magnetic field must be checked from their manuals.
+
+163
+00:14:27,827 --> 00:14:30,477
+The upper rear port receives the MFC gas inlet.
+
+164
+00:14:30,477 --> 00:14:36,621
+Keeping these services at the rear gives the system a cleaner working side and preserves the blank left wall.
+
+165
+00:14:36,621 --> 00:14:45,358
+Gauge readings, MFC control and pressure interlocks belong in the eventual control system, even though the current CAD is focused on the mechanical layout.
+
+166
+00:14:46,758 --> 00:14:53,965
+The original window centre was at height one hundred and seventy five, above the default target face at one hundred and forty one.
+
+167
+00:14:53,965 --> 00:14:58,566
+The shield blocked all sampled rays toward a ring five millimetres below that face.
+
+168
+00:14:58,566 --> 00:15:04,220
+We therefore lowered the same seventy millimetre clear aperture to centre height one hundred and five.
+
+169
+00:15:04,220 --> 00:15:15,197
+At an observer position four hundred millimetres in front and height twenty above the floor datum, forty seven of seventy two sampled rays now reach that geometric ring without intersecting the gun.
+
+170
+00:15:15,197 --> 00:15:18,135
+A still lower viewing angle exposes more of the ring.
+
+171
+00:15:18,135 --> 00:15:23,346
+This is a direct triangle-intersection sightline check, not a prediction of plasma brightness.
+
+172
+00:15:23,346 --> 00:15:28,612
+The screen shows the opaque door and shield, with illustrative glow behind the actual aperture.
+
+173
+00:15:28,612 --> 00:15:31,661
+It establishes useful access at the default gun height.
+
+174
+00:15:31,661 --> 00:15:36,983
+It does not guarantee an equally clear view at every gun position or after the window is coated.
+
+175
+00:15:38,383 --> 00:15:43,483
+Here the glow and particles are an illustration of the process, not a simulated discharge.
+
+176
+00:15:43,483 --> 00:15:48,923
+After evacuation and controlled argon admission, electrical power creates and sustains a plasma.
+
+177
+00:15:48,923 --> 00:15:54,647
+Argon ions accelerate through the sheath toward the target and knock target atoms out of its surface.
+
+178
+00:15:54,647 --> 00:16:03,601
+The magnetic field curves electron motion and helps keep electrons near the target, increasing ionization locally and producing the familiar racetrack region.
+
+179
+00:16:03,601 --> 00:16:08,474
+The magnetic field does not simply pull all of the sputtered atoms onto the substrate.
+
+180
+00:16:08,474 --> 00:16:16,011
+Many ejected target atoms are neutral and travel through the gas toward the substrate and chamber surfaces, with possible collisions.
+
+181
+00:16:16,011 --> 00:16:18,788
+The coloured moving dots are explanatory symbols.
+
+182
+00:16:18,788 --> 00:16:26,608
+Their sizes, speeds, numbers and paths are exaggerated and do not represent pressure, deposition rate or a calculated energy distribution.
+
+183
+00:16:28,008 --> 00:16:33,587
+With the shutter closed, the source can be conditioned before intentionally exposing the substrate.
+
+184
+00:16:33,587 --> 00:16:37,080
+The blade intercepts the direct deposition path to the sample.
+
+185
+00:16:37,080 --> 00:16:42,772
+It does not stop the plasma, seal off the substrate or prevent every scattered atom from reaching it.
+
+186
+00:16:42,772 --> 00:16:46,942
+The illustrated atom paths terminate at the blade in this simplified view.
+
+187
+00:16:46,942 --> 00:16:50,210
+Opening the shutter then exposes the sample to the source.
+
+188
+00:16:50,210 --> 00:17:02,100
+This is a conceptual sequence, not an operating recipe: actual base pressure, argon flow, working pressure, power, warm-up time and conditioning duration need experimental development within the hardware limits.
+
+189
+00:17:02,100 --> 00:17:06,608
+Cooling and pressure permissives must be established before enabling the source.
+
+190
+00:17:08,008 --> 00:17:13,352
+The shutter rotates eighty degrees away and the illustrated target atoms now reach the substrate.
+
+191
+00:17:13,352 --> 00:17:18,036
+The sample is one hundred millimetres below the target in this default configuration.
+
+192
+00:17:18,036 --> 00:17:21,176
+A coloured layer appears on it to explain film formation.
+
+193
+00:17:21,176 --> 00:17:26,190
+Its displayed thickness is exaggerated for visibility and must not be read as a prediction.
+
+194
+00:17:26,190 --> 00:17:35,391
+Changing the source distance changes the geometry, but the present model does not calculate thickness uniformity, deposition rate, gas scattering or substrate heating.
+
+195
+00:17:35,391 --> 00:17:40,736
+Those depend on the operating conditions and require measurement or an appropriate process model.
+
+196
+00:17:40,736 --> 00:17:47,733
+This demonstration explains the sequence while preserving the actual chamber, stage, source and shutter geometry underneath it.
+
+197
+00:17:49,133 --> 00:18:06,438
+This brings the full mechanical system and the operating idea into one walkthrough: the twelve-stack source, adjustable compression mount, loading door and window, substrate stage and shutter, ISO63 turbo, single backing pump, gauges, MFC, argon supply, two cooling systems and power equipment.
+
+198
+00:18:06,438 --> 00:18:12,383
+The CAD package records the actual modeled dimensions and the reference status of purchased hardware.
+
+199
+00:18:12,383 --> 00:18:27,687
+The main remaining work is to confirm purchased interfaces and material ratings, resolve the source sealing details, check the vessel and window for vacuum loading, and specify the electrical controls, cooling interlocks, turbo controller and exhaust handling.
+
+200
+00:18:27,687 --> 00:18:32,514
+The imported backing-pump reference also retains a known supplier geometry defect.
+
+201
+00:18:32,514 --> 00:18:36,104
+None of these are hidden by the illustrative plasma sequence.
+
+202
+00:18:36,104 --> 00:18:42,108
+The result is a complete system layout and explanation, with its engineering limits stated explicitly.

@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-24",
+  "method": "Resample saved fine_nominal FEM field at new nonmagnetic target plane. No new solve/remesh.",
+  "field_sha256": "169ab93bcdde9af201c4776c08418ccacdab1c710e12d7f527c65e7d60986e36",
+  "applicability": "R05/R06 retains magnets and yoke; target/copper/fittings treated as mu_r=1. Ferromagnetic purchased parts, actual material properties, plasma and thermal effects omitted.",
+  "baseline_reproduction": {
+    "resampled_mean_mT": 95.06390776852372,
+    "saved_mean_mT": 95.06391041531468,
+    "absolute_difference_mT": 2.646790960625367e-06
+  },
+  "current": {
+    "target_thickness_mm": 3.175,
+    "pole_to_front_mm": 5.675,
+    "sampling_height_above_target_mm": 0.25,
+    "simulation_z_mm": 3.425,
+    "angles_with_crossing": 360,
+    "radius_mean_mm": 20.193972774476883,
+    "radius_min_mm": 19.88606800376136,
+    "radius_max_mm": 20.453785798917732,
+    "Bparallel_mean_mT": 86.42910425333983,
+    "Bparallel_min_mT": 82.95512378881294,
+    "Bparallel_max_mT": 89.53490924559684,
+    "target_edge_margin_min_mm": 4.946214201082267,
+    "peak_to_peak_over_mean_percent": 7.61292797562418
+  },
+  "limits": "Prior mesh/domain/analytical checks were for the baseline sampling region. They do not establish a new uncertainty bound at this plane or validate real hardware. No discharge, deposition, balance, thermal, seal or power rating is certified."
+}

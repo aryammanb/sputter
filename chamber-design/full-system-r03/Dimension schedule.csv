@@ -1,0 +1,24 @@
+﻿Dimension,Nominal model value,Note
+chamber_internal,"[200, 200, 300]",mm unless text specifies otherwise
+stage_D_thickness,"[90, 6]",mm unless text specifies otherwise
+substrate,"[50, 50, 1]",mm unless text specifies otherwise
+target_substrate_gap,"[75, 150]",mm unless text specifies otherwise
+shutter_substrate_gap,12,mm unless text specifies otherwise
+EXT70_reference_height,157.05,mm unless text specifies otherwise
+EXT70_inlet_face_z,-48.0,mm unless text specifies otherwise
+EXT70_bottom_z,-205.05,mm unless text specifies otherwise
+EXT70_native_outlet,"""KF16, adapted to KF25""",mm unless text specifies otherwise
+turbo_outlet_centre_z,-172.45,mm unless text specifies otherwise
+RV3_import_bbox_mm,"[342.97571437149253, 49.735182962354045, -314.11727340042574, 517.8153018446063, 481.3140426430149, -83.11038789524964]",mm unless text specifies otherwise
+RV3_inlet_centre,"[393, 325, -83.6]",mm unless text specifies otherwise
+RV3_placement_translation,"[430, 377.5, -212]",mm unless text specifies otherwise
+hose_centreline_length,640.2983964902556,mm unless text specifies otherwise
+MFC_VCR_face_to_face,124,mm unless text specifies otherwise
+MFC_body_width,38,mm unless text specifies otherwise
+MFC_reference_height,115,mm unless text specifies otherwise
+MFC_output_face_y,178.436,mm unless text specifies otherwise
+MFC_inlet_face_y,302.43600000000004,mm unless text specifies otherwise
+push_socket_face_y,360.196,mm unless text specifies otherwise
+MFC_gas_axis_z,210,mm unless text specifies otherwise
+gauge_centres_x,"[-50, 50]",mm unless text specifies otherwise
+gauge_elbow_radius,25,mm unless text specifies otherwise

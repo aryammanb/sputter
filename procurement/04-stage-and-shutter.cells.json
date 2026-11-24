@@ -1,0 +1,205 @@
+{
+  "sheet": "04 Stage and shutter",
+  "values": {
+    "A2": "04 Substrate stage and manual shutter",
+    "A4": "Two new fabrication jobs only. Existing hand screw, O-ring and two nuts are in stock; no separate actuator purchase.",
+    "I5": "New fabrication budget (INR)",
+    "K5": "2500",
+    "A6": "Planning allowances, not quotations. Supplier GST/delivery to confirm. Fixed supports are already included inCB01.",
+    "A7": "Stock quantities below are allocations for this build, not a count of the entire stockroom.",
+    "A8": "Folded shutter STEP controls geometry. Reference flat DXF/K0.42 may be adjusted by fabricator for actual bend tooling.",
+    "A9": "ID",
+    "B9": "Component",
+    "C9": "Specification",
+    "D9": "Required qty",
+    "E9": "Stock allocated",
+    "F9": "New order qty",
+    "G9": "Unit",
+    "H9": "Procurement method",
+    "I9": "Inventory / scope status",
+    "J9": "Unit allowance (₹)",
+    "K9": "New spend (₹)",
+    "L9": "Supplier / reference",
+    "M9": "Notes",
+    "N9": "CAD / fabrication file",
+    "A10": "SS01",
+    "B10": "Substrate stage plate",
+    "C10": "SS304 disc, D90 x6mm; simple passive removable stage as current CAD",
+    "D10": "1",
+    "E10": "0",
+    "F10": "1",
+    "G10": "piece",
+    "H10": "Custom vendor order",
+    "I10": "Local fabrication",
+    "J10": "1500",
+    "K10": "1500",
+    "L10": "Mumbai precision turning/machining shop; vendor quote pending",
+    "M10": "Keep existing stage geometry. Stage supports are included inCB01. Stage topZ40; reference1mm specimen topZ41.",
+    "N10": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\chamber-design\\stage-shutter-procurement\\Substrate stage.step",
+    "A11": "SS02",
+    "B11": "One-piece bent sheet-metal shutter",
+    "C11": "SS304 sheet1mm; two90deg bends, innerR2;56x56 blade; existing folded CAD controls",
+    "D11": "1",
+    "E11": "0",
+    "F11": "1",
+    "G11": "piece",
+    "H11": "Custom vendor order",
+    "I11": "Local fabrication",
+    "J11": "1000",
+    "K11": "1000",
+    "L11": "Mumbai laser-cutting and press-brake vendor; quote pending",
+    "M11": "Finished geometry controls. K0.42 DXF is a reference; fabricator adjusts blank/bend allowance to actual tooling. Include small thrust-washer detail in same job.",
+    "N11": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\chamber-design\\stage-shutter-procurement\\Bent shutter.step",
+    "A12": "SS03",
+    "B12": "Shutter hand screw",
+    "C12": "1/4-28 x1.25in flared-collar thumb screw; previous reference99607A246",
+    "D12": "1",
+    "E12": "1",
+    "F12": "0",
+    "G12": "piece",
+    "H12": "No purchase",
+    "I12": "Already in stock",
+    "J12": "0",
+    "K12": "0",
+    "L12": "Existing stock; reference only:https://www.mcmaster.com/99607A246/",
+    "M12": "User confirmed stock. Manual operation; no separate actuator.",
+    "A13": "SS04",
+    "B13": "Shutter FKM O-ring",
+    "C13": "Previous reference6540K248;1/4in ID x1/2in OD x1/8in cross-section",
+    "D13": "1",
+    "E13": "1",
+    "F13": "0",
+    "G13": "piece",
+    "H13": "No purchase",
+    "I13": "Already in stock",
+    "J13": "0",
+    "K13": "0",
+    "L13": "Existing stock; reference only:https://www.mcmaster.com/6540K248/",
+    "M13": "One seal allocated from user stock; do not buy another pack. Actual rotary seal stack still needs installed leak/wear checking.",
+    "A14": "SS05",
+    "B14": "Shutter nuts",
+    "C14": "1/4-28 aluminium nuts; previous reference90670A155",
+    "D14": "2",
+    "E14": "2",
+    "F14": "0",
+    "G14": "piece",
+    "H14": "No purchase",
+    "I14": "Already in stock",
+    "J14": "0",
+    "K14": "0",
+    "L14": "Existing stock; reference only:https://www.mcmaster.com/90670A155/",
+    "M14": "Two installed nuts allocated; no new pack to procure.",
+    "A15": "SS06",
+    "B15": "Small shutter thrust washer",
+    "C15": "Existing CAD reference: ID6.6 OD16 x0.5mm",
+    "D15": "1",
+    "E15": "0",
+    "F15": "0",
+    "G15": "piece",
+    "H15": "Included in SS02",
+    "I15": "Included in fabrication",
+    "J15": "0",
+    "K15": "0",
+    "L15": "Supplied/finished with the sheet-metal job",
+    "M15": "Retain as part of existing assembly detail if required; included inSS02 allowance, not a separate shopping item or an assumed stock holding.",
+    "A16": "SS07",
+    "B16": "Fixed stage supports",
+    "C16": "4 posts D6 x34 atX/Y +/-29mm",
+    "D16": "4",
+    "E16": "0",
+    "F16": "0",
+    "G16": "piece",
+    "H16": "Included in CB01",
+    "I16": "Included in chamber package",
+    "J16": "0",
+    "K16": "0",
+    "L16": "Alfa Technovac chamber package",
+    "M16": "Already inCB01 supplier scope and allowance; do not buy or charge twice.",
+    "A17": "SS08",
+    "B17": "Reference specimen",
+    "C17": "50x50x1mm reference only",
+    "D17": "1",
+    "E17": "0",
+    "F17": "0",
+    "G17": "piece",
+    "H17": "Reference only",
+    "I17": "Not a hardware purchase",
+    "J17": "0",
+    "K17": "0",
+    "L17": "Process specimen, not a stage fabrication item",
+    "M17": "Shown only to define stage/shutter/target distances; actual process substrates are outside this hardware purchase list.",
+    "A20": "Stage topZ40; reference specimen topZ41; shutter undersideZ53 gives12mm clearance. Blade56square; manual rotation80deg.",
+    "A22": "Stock seal hardware is retained. Verify final assembly fit and vacuum leak performance; CAD does not qualify a dynamic rotary seal."
+  },
+  "formulas": {
+    "K5": {
+      "formula": "SUM(K10:K17)",
+      "cached_value": "2500"
+    },
+    "F10": {
+      "formula": "IF(OR(I10=\"Included in fabrication\",I10=\"Included in chamber package\",I10=\"Not a hardware purchase\"),0,MAX(0,D10-E10))",
+      "cached_value": "1"
+    },
+    "K10": {
+      "formula": "F10*J10",
+      "cached_value": "1500"
+    },
+    "F11": {
+      "formula": "IF(OR(I11=\"Included in fabrication\",I11=\"Included in chamber package\",I11=\"Not a hardware purchase\"),0,MAX(0,D11-E11))",
+      "cached_value": "1"
+    },
+    "K11": {
+      "formula": "F11*J11",
+      "cached_value": "1000"
+    },
+    "F12": {
+      "formula": "IF(OR(I12=\"Included in fabrication\",I12=\"Included in chamber package\",I12=\"Not a hardware purchase\"),0,MAX(0,D12-E12))",
+      "cached_value": "0"
+    },
+    "K12": {
+      "formula": "F12*J12",
+      "cached_value": "0"
+    },
+    "F13": {
+      "formula": "IF(OR(I13=\"Included in fabrication\",I13=\"Included in chamber package\",I13=\"Not a hardware purchase\"),0,MAX(0,D13-E13))",
+      "cached_value": "0"
+    },
+    "K13": {
+      "formula": "F13*J13",
+      "cached_value": "0"
+    },
+    "F14": {
+      "formula": "IF(OR(I14=\"Included in fabrication\",I14=\"Included in chamber package\",I14=\"Not a hardware purchase\"),0,MAX(0,D14-E14))",
+      "cached_value": "0"
+    },
+    "K14": {
+      "formula": "F14*J14",
+      "cached_value": "0"
+    },
+    "F15": {
+      "formula": "IF(OR(I15=\"Included in fabrication\",I15=\"Included in chamber package\",I15=\"Not a hardware purchase\"),0,MAX(0,D15-E15))",
+      "cached_value": "0"
+    },
+    "K15": {
+      "formula": "F15*J15",
+      "cached_value": "0"
+    },
+    "F16": {
+      "formula": "IF(OR(I16=\"Included in fabrication\",I16=\"Included in chamber package\",I16=\"Not a hardware purchase\"),0,MAX(0,D16-E16))",
+      "cached_value": "0"
+    },
+    "K16": {
+      "formula": "F16*J16",
+      "cached_value": "0"
+    },
+    "F17": {
+      "formula": "IF(OR(I17=\"Included in fabrication\",I17=\"Included in chamber package\",I17=\"Not a hardware purchase\"),0,MAX(0,D17-E17))",
+      "cached_value": "0"
+    },
+    "K17": {
+      "formula": "F17*J17",
+      "cached_value": "0"
+    }
+  },
+  "cached_errors": []
+}

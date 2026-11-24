@@ -1,0 +1,79 @@
+{
+  "duration_seconds": 471.8333333333333,
+  "chapters": [
+    [
+      0,
+      "Complete system and selected pumping layout"
+    ],
+    [
+      31.25,
+      "Front loading and fixed rear services"
+    ],
+    [
+      61.0,
+      "Two different connections"
+    ],
+    [
+      85.25,
+      "Seat the fitting on the KF flange"
+    ],
+    [
+      103.25,
+      "Close the KF clamp"
+    ],
+    [
+      120.91666666666667,
+      "Feed the tube through the loose fitting"
+    ],
+    [
+      138.25,
+      "Choose the target to substrate distance"
+    ],
+    [
+      156.75,
+      "Thread the cap down to grip the tube"
+    ],
+    [
+      184.33333333333331,
+      "Section view of the compression mechanism"
+    ],
+    [
+      206.83333333333331,
+      "Stage, shutter and exact working dimensions"
+    ],
+    [
+      246.20833333333331,
+      "EXT70 model and ISO63 claw-clamp connection"
+    ],
+    [
+      286.0833333333333,
+      "KF25 hose and mechanical backing pump"
+    ],
+    [
+      321.9583333333333,
+      "Pirani and Penning gauge installation"
+    ],
+    [
+      353.3333333333333,
+      "Mass flow controller and chamber connection"
+    ],
+    [
+      390.9583333333333,
+      "MFC inlet adapters through to the push fitting"
+    ],
+    [
+      429.5833333333333,
+      "Delivered CAD and remaining verification"
+    ]
+  ],
+  "fps": 12,
+  "resolution": [
+    1600,
+    900
+  ],
+  "integrated_fitting_seconds": 145.83333333333331,
+  "video": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\chamber-design\\full-system-r03\\Full sputter system R03 - integrated walkthrough.mp4",
+  "full_audio_video_decode_passed": true,
+  "embedded_chapters": 16,
+  "subtitle_codec": "mov_text"
+}

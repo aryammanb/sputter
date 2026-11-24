@@ -1,0 +1,148 @@
+CURRENT OWNER SELECTION:200sccm MFC. See Argon MFC selection R03 - 200 sccm.txt.
+All earlier range recommendations below are superseded by R03.
+
+ARGON MASS FLOW CONTROLLER - SIZING AND ENGINEERING SPECIFICATION R01
+24 November 2026
+
+SUPERSEDED SELECTION: owner subsequently specified50mTorr ignition pressure.
+Use Argon MFC sizing and specification R02.txt for the current recommendation.
+The0-50sccm selection below is retained as history, not the purchase requirement.
+
+DECISION AND STATUS
+Recommend one argon-calibrated 0-50 sccm full-scale, normally closed gas mass
+flow controller. HORIBA SEC-E440J is the preferred reference candidate because
+the existing system CAD already uses its nominal 1/4-inch VCR envelope.
+This is an engineering recommendation, not a purchased or tested component.
+The owner confirmed that the intended gas is argon, not a fluoride gas.
+
+Sizing assumes a provisional 1-10 mTorr chamber operating window
+(0.133-1.333 Pa). This window is an assistant design assumption, not a previously
+selected or experimentally validated sputtering recipe. If operation at
+10-20 mTorr with high effective speed is required, prefer 0-100 sccm instead.
+Confirm the process window and installed pumping speed before releasing an order.
+
+PROJECT INPUTS AND PRECEDENCE
+1. Frozen chamber internal envelope: 200 x 200 x 300 mm = 12.0 litres gross.
+   Gun/stage/baffle displacement reduces vessel free volume; connected ports
+   add volume. Net installed gas volume has not been measured.
+2. Current procurement data: one installed Edwards EXT70 B722-01-000 from
+   the selected two-pump/EXDC80 lot (VP01); second pump is a spare.
+   Layout uses an ISO63 inlet, KF16 outlet and KF16-to-KF25 foreline adapter.
+3. Current backing-pump selection: INDOVAC HV2-150, quoted displacement
+   150 L/min = 9 m3/h. The RV3 in system CAD is an older layout reference.
+   Displacement is not its effective speed at operating foreline pressure.
+4. Selected pumping route remains chamber -> EXT70 -> one backing pump.
+   No separate roughing bypass or adjustable high-vacuum throttle is selected.
+5. Edwards B722-01-880 Issue K, Table 3 lists 65 L/s for N2 at ISO63,
+   without inlet screen; screen reduces speed approximately 10%. This is NOT
+   a specified argon pumping speed. Actual Ar speed versus pressure and the
+   loss through the chamber neck/baffle remain unverified.
+
+Sources within project:
+- chamber-supplier-package/CB01 frozen layout and supplier scope.txt
+- main-system-r04/README.txt; target-clamp-r05/READ FIRST - Clamp R05.txt
+- ../outputs/01a209eb-c119-74d1-bef5-c610f57d428f/gun_procurement_data.json,
+  vacuum_pumping rows VP01, VP02, VP04 and VP06.
+
+SIZING METHOD
+At steady pressure: p * S_eff = Q_Ar + Q_background.
+Thus required Ar flow depends on pressure and effective pumping speed at the
+chamber. Vessel volume does not set steady-state flow. In molecular flow,
+1/S_eff = 1/S_pump + 1/C, with C the intervening path conductance for Ar.
+Conductance and pump speed can change with pressure; do not treat this simple
+model as an installed performance curve.
+
+For sccm referenced to 0 degC and 1013.25 mbar, at chamber gas temperature T:
+Q_Ar [mbar L/s] = F [sccm] * 0.0168875 * T/273.15.
+At T = 293.15 K (20 degC), Q_Ar = 0.018124 * F, approximately.
+Neglecting background load:
+F [sccm] = p [mbar] * S_eff [L/s] / 0.018124.
+1 mTorr = 0.00133322 mbar = 0.133322 Pa.
+At equal standard/chamber temperature, the usual 0.01689 factor applies.
+Require the supplier's actual standard reference temperature on the certificate;
+20/25 degC-referenced sccm must be converted consistently.
+
+Sensitivity calculation, 20 degC chamber gas, negligible background load:
+Chamber pressure       F at20 L/s     F at40 L/s     F at65 L/s
+1 mTorr                 1.47 sccm      2.94 sccm      4.78 sccm
+3 mTorr                 4.41 sccm      8.83 sccm     14.34 sccm
+5 mTorr                 7.36 sccm     14.71 sccm     23.91 sccm
+10 mTorr               14.71 sccm     29.42 sccm     47.81 sccm
+20 mTorr               29.42 sccm     58.85 sccm     95.63 sccm
+The 20/40/65 L/s values are sensitivity cases, not measured Ar speeds or a
+certified bound. 65 L/s is a provisional high-speed case based on the N2 rating.
+At50 sccm and65 L/s, calculated pressure is approximately10.46 mTorr.
+The 50 sccm selection has little headroom at10 mTorr in that high-speed case.
+If measurement or the Ar pump curve requires >50 sccm, select100 sccm or
+engineer a throttle system; do not assume the current baffle is a throttle.
+
+For the assumed20-65 L/s range, ideal pressure time constant V/S is
+approximately0.18-0.60 s using12 L; a95% response is about3 time constants.
+These are small-signal ideal gas estimates at constant speed, not a full
+pump-down time, controller tuning, or a required wait time for deposition.
+MFC response, gauge lag, gas lines, plasma and wall desorption add dynamics.
+
+CONTROLLER PROCUREMENT REQUIREMENTS
+- Qty1 gas MFC, actual argon full scale50 sccm, normally closed on power loss.
+- Candidate: HORIBA SEC-E440J, Ar50 sccm configuration, or verified equivalent.
+  A model name alone does not establish gas, sensor range or valve calibration.
+  Obtain nameplate photo, complete ordering code and calibration certificate.
+  Do not buy a nitrogen-calibrated or500/1000 sccm surplus unit on the assumption
+  that software scaling makes it equivalent; require supplier Ar calibration.
+- Desired stable control down to1 sccm or lower; accuracy <= +/-0.5 sccm over
+  the intended range. The E440J reference specifies2-100% FS control and
+  +/-1% FS accuracy: at50 FS that means1-50 sccm and+/-0.5 sccm.
+  At1 sccm the absolute error is a large fraction of the reading; choose a
+  better low-flow instrument if accurate sub-few-sccm recipes become necessary.
+- 1/4-inch VCR male ports on both ends to match the present adapter concept;
+  verify actual port gender, flow arrow, mounting holes and drawing before buy.
+  Existing reference face-to-face124mm, width38mm, nominal height115mm is a CAD
+  packaging reference. An equivalent MFC may require adapter/bracket revision.
+- Supplier must confirm control into vacuum at the actual regulated inlet
+  pressure and specify permissible inlet pressure, differential pressure,
+  temperature, wetted materials, shutoff leakage and external leak rating.
+  A suitable pressure regulator is required; cylinder pressure cannot feed MFC.
+- E440J reference electronics: +/-15VDC supply;0-5VDC flow command/readback.
+  Verify exact connector, pinout, required supply currents and commons from the
+  supplied unit manual. Provide matching supply, cable and setpoint/readout
+  electronics. The turbo's80V supply is not an MFC supply.
+- Ask for a current quote and support/calibration availability; no price or
+  stock availability is established here. A new supported equivalent is valid
+  if the above specifications and the revised mechanical interface are met.
+
+INTEGRATION AND COMMISSIONING
+Gas route: Ar cylinder -> regulator -> suitable clean gas tubing -> MFC inlet
+adapter -> MFC -> VCR/KF25 outlet adapter -> rear chamber gas port.
+The existing6mm push fitting/tube are interface references; confirm pressure,
+gas compatibility and cleanliness of actual purchased parts. Support MFC
+independently and use the correct VCR gaskets.
+
+MFC sets flow; gauge feedback is needed to know chamber pressure. With the
+current unthrottled route, flow and pressure are coupled. Independent control
+of both would require a deliberately engineered pumping conductance control.
+Use an Ar-corrected, validated gauge in the selected range; a suitable capacitance
+diaphragm gauge is preferable for gas-independent process pressure measurement.
+
+Before accepting operating setpoints, check zero/closed flow, external leaks,
+calibration, and pressure versus several known flows with plasma off. Subtract
+the background gas-load contribution when inferring S_eff. Repeat process
+checks with plasma on. Confirm cooling, foreline pressure, rotor speed and pump
+temperature/current remain within the actual pump/EXDC80 manuals' limits.
+An MFC's50 sccm full scale is not permission to run the pump continuously at
+that flow. The cited pump table is not an Ar maximum-throughput certification
+for the used pump/drive combination. Final permissible flow needs that check.
+Inhibit gas and sputter power on loss of the required pumping/cooling permits;
+define the actual trip limits during control-system engineering. Provide
+independent gas isolation; MFC zero command is not a service isolation valve.
+
+REFERENCES (manufacturer-authored material checked24 November2026)
+Edwards EXT70/EXT250 manual B722-01-880 Issue K, Tables3/10 and Sections2/3:
+https://mmrc.caltech.edu/Vacuum/Edwards/EXPT%20Pumping%20Station/EXT70%20EXT250%20-%20B72201880%20-%20Instruction%20manual.pdf
+HORIBA SEC-E400J reference specifications/dimensions:
+https://static.horiba.com/fileadmin/Horiba/Semiconductor/Resources/Manual_Downloads/others/I030106200.pdf
+Leybold Fundamentals of Vacuum Technology, throughput and effective speed:
+https://www.leybold.com/content/dam/brands/leybold/downloads/brochures/general-brochures/Fundamentals_of_Vacuum_Technology_EN.pdf
+Lesker effective pumping-speed measurement:
+https://www.lesker.com/newweb/technical_info/vacuumtech/pumps_09_measureeps.cfm
+
+No CAD geometry, existing procurement prices or purchase status changed.

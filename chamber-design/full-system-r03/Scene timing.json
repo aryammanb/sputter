@@ -1,0 +1,52 @@
+{
+  "duration_seconds": 326.0,
+  "chapters": [
+    [
+      0,
+      "Complete system and selected pumping layout"
+    ],
+    [
+      31.25,
+      "Front loading and fixed rear services"
+    ],
+    [
+      61.0,
+      "Stage, shutter and exact working dimensions"
+    ],
+    [
+      100.375,
+      "EXT70 model and ISO63 claw-clamp connection"
+    ],
+    [
+      140.25,
+      "KF25 hose and mechanical backing pump"
+    ],
+    [
+      176.125,
+      "Pirani and Penning gauge installation"
+    ],
+    [
+      207.5,
+      "Mass flow controller and chamber connection"
+    ],
+    [
+      245.125,
+      "MFC inlet adapters through to the push fitting"
+    ],
+    [
+      283.75,
+      "Delivered CAD and remaining verification"
+    ]
+  ],
+  "durations": [
+    31.25,
+    29.75,
+    39.375,
+    39.875,
+    35.875,
+    31.375,
+    37.625,
+    38.625,
+    42.25
+  ]
+}

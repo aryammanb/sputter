@@ -1,0 +1,124 @@
+{
+  "source": "outputs/01a209eb-c119-74d1-bef5-c610f57d428f/Sputter system procurement.xlsx",
+  "sha256": "e35c767d488a1a7a59e3450c539a8d899a5813b82df458945ac9671ba4097a57",
+  "method": "Original workbook copied unchanged; CSVs use saved values. Formula text and cached values exported separately. No new recalculation claimed.",
+  "sheets": [
+    {
+      "sheet": "01 Sputter gun",
+      "rows": 48,
+      "columns": 14,
+      "formula_count": 39,
+      "cached_errors": [],
+      "csv": "01-sputter-gun.csv",
+      "cells": "01-sputter-gun.cells.json"
+    },
+    {
+      "sheet": "Subsystems",
+      "rows": 70,
+      "columns": 5,
+      "formula_count": 16,
+      "cached_errors": [],
+      "csv": "subsystems.csv",
+      "cells": "subsystems.cells.json"
+    },
+    {
+      "sheet": "Settled sourcing",
+      "rows": 53,
+      "columns": 8,
+      "formula_count": 229,
+      "cached_errors": [],
+      "csv": "settled-sourcing.csv",
+      "cells": "settled-sourcing.cells.json"
+    },
+    {
+      "sheet": "Needs your input",
+      "rows": 14,
+      "columns": 6,
+      "formula_count": 0,
+      "cached_errors": [],
+      "csv": "needs-your-input.csv",
+      "cells": "needs-your-input.cells.json"
+    },
+    {
+      "sheet": "04 Stage and shutter",
+      "rows": 22,
+      "columns": 14,
+      "formula_count": 17,
+      "cached_errors": [],
+      "csv": "04-stage-and-shutter.csv",
+      "cells": "04-stage-and-shutter.cells.json"
+    },
+    {
+      "sheet": "05 Vacuum pumping",
+      "rows": 31,
+      "columns": 11,
+      "formula_count": 15,
+      "cached_errors": [],
+      "csv": "05-vacuum-pumping.csv",
+      "cells": "05-vacuum-pumping.cells.json"
+    },
+    {
+      "sheet": "06 Pressure measurement",
+      "rows": 11,
+      "columns": 10,
+      "formula_count": 3,
+      "cached_errors": [],
+      "csv": "06-pressure-measurement.csv",
+      "cells": "06-pressure-measurement.cells.json"
+    },
+    {
+      "sheet": "07 Argon and flow control",
+      "rows": 30,
+      "columns": 11,
+      "formula_count": 15,
+      "cached_errors": [],
+      "csv": "07-argon-and-flow-control.csv",
+      "cells": "07-argon-and-flow-control.cells.json"
+    },
+    {
+      "sheet": "08 Gun water cooling",
+      "rows": 27,
+      "columns": 10,
+      "formula_count": 9,
+      "cached_errors": [],
+      "csv": "08-gun-water-cooling.csv",
+      "cells": "08-gun-water-cooling.cells.json"
+    },
+    {
+      "sheet": "09 Turbo water cooling",
+      "rows": 27,
+      "columns": 10,
+      "formula_count": 9,
+      "cached_errors": [],
+      "csv": "09-turbo-water-cooling.csv",
+      "cells": "09-turbo-water-cooling.cells.json"
+    },
+    {
+      "sheet": "10 Electrical and RF",
+      "rows": 29,
+      "columns": 10,
+      "formula_count": 15,
+      "cached_errors": [],
+      "csv": "10-electrical-and-rf.csv",
+      "cells": "10-electrical-and-rf.cells.json"
+    },
+    {
+      "sheet": "11 Frame and supports",
+      "rows": 19,
+      "columns": 10,
+      "formula_count": 7,
+      "cached_errors": [],
+      "csv": "11-frame-and-supports.csv",
+      "cells": "11-frame-and-supports.cells.json"
+    },
+    {
+      "sheet": "12 Installation and reserves",
+      "rows": 22,
+      "columns": 10,
+      "formula_count": 10,
+      "cached_errors": [],
+      "csv": "12-installation-and-reserves.csv",
+      "cells": "12-installation-and-reserves.cells.json"
+    }
+  ]
+}

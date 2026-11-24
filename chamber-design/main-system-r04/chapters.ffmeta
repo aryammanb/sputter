@@ -1,0 +1,142 @@
+;FFMETADATA1
+title=Complete sputter system R04 - main walkthrough
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=36875
+title=The complete sputtering system
+[CHAPTER]
+TIMEBASE=1/1000
+START=36875
+END=84250
+title=Chamber, loading and service layout
+[CHAPTER]
+TIMEBASE=1/1000
+START=84250
+END=108500
+title=Two different connections
+[CHAPTER]
+TIMEBASE=1/1000
+START=108500
+END=126500
+title=Seat the fitting on the KF flange
+[CHAPTER]
+TIMEBASE=1/1000
+START=126500
+END=144167
+title=Close the KF clamp
+[CHAPTER]
+TIMEBASE=1/1000
+START=144167
+END=161500
+title=Feed the tube through the loose fitting
+[CHAPTER]
+TIMEBASE=1/1000
+START=161500
+END=180000
+title=Choose the target to substrate distance
+[CHAPTER]
+TIMEBASE=1/1000
+START=180000
+END=207583
+title=Thread the cap down to grip the tube
+[CHAPTER]
+TIMEBASE=1/1000
+START=207583
+END=230083
+title=Section view of the compression mechanism
+[CHAPTER]
+TIMEBASE=1/1000
+START=230083
+END=280708
+title=Stage, target travel and bent shutter
+[CHAPTER]
+TIMEBASE=1/1000
+START=280708
+END=319333
+title=Opening the complete sputter gun
+[CHAPTER]
+TIMEBASE=1/1000
+START=319333
+END=366708
+title=Target, cooling head and seals
+[CHAPTER]
+TIMEBASE=1/1000
+START=366708
+END=416583
+title=Why we chose twelve magnet stacks
+[CHAPTER]
+TIMEBASE=1/1000
+START=416583
+END=473458
+title=Magnetic circuit and calculated field
+[CHAPTER]
+TIMEBASE=1/1000
+START=473458
+END=523708
+title=Insulation, coax and grounded shielding
+[CHAPTER]
+TIMEBASE=1/1000
+START=523708
+END=573333
+title=Gas supply: cylinder to mass flow controller
+[CHAPTER]
+TIMEBASE=1/1000
+START=573333
+END=616208
+title=Six-millimetre tube insertion
+[CHAPTER]
+TIMEBASE=1/1000
+START=616208
+END=658708
+title=Gun cooling: independent system number one
+[CHAPTER]
+TIMEBASE=1/1000
+START=658708
+END=701333
+title=Turbo cooling: independent system number two
+[CHAPTER]
+TIMEBASE=1/1000
+START=701333
+END=749958
+title=Power supply and RF matching
+[CHAPTER]
+TIMEBASE=1/1000
+START=749958
+END=793583
+title=ISO63 turbo connection
+[CHAPTER]
+TIMEBASE=1/1000
+START=793583
+END=843458
+title=Simple pumping route and backing pump
+[CHAPTER]
+TIMEBASE=1/1000
+START=843458
+END=886458
+title=Rear gauges and flow control
+[CHAPTER]
+TIMEBASE=1/1000
+START=886458
+END=938083
+title=Viewport: checked view below the shield
+[CHAPTER]
+TIMEBASE=1/1000
+START=938083
+END=987708
+title=How magnetron sputtering works
+[CHAPTER]
+TIMEBASE=1/1000
+START=987708
+END=1027708
+title=Shutter closed: conditioning the target
+[CHAPTER]
+TIMEBASE=1/1000
+START=1027708
+END=1068833
+title=Shutter open: deposition on the substrate
+[CHAPTER]
+TIMEBASE=1/1000
+START=1068833
+END=1123208
+title=Complete system: what is established

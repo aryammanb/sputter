@@ -1,0 +1,62 @@
+{
+  "duration_seconds": 365.125,
+  "chapters": [
+    [
+      0,
+      "Complete chamber and design basis"
+    ],
+    [
+      34.25,
+      "Box, front door and viewport"
+    ],
+    [
+      75.75,
+      "Ports and the ISO63 pump connection"
+    ],
+    [
+      117.875,
+      "Gun mount and actual insertion geometry"
+    ],
+    [
+      161.5,
+      "Substrate stage and pump shield"
+    ],
+    [
+      200.375,
+      "Target to substrate adjustment"
+    ],
+    [
+      238.625,
+      "Bent shutter and exact drop"
+    ],
+    [
+      279.125,
+      "Shutter rotation and clearance checks"
+    ],
+    [
+      321.875,
+      "What is fixed and what needs verification"
+    ]
+  ],
+  "resolution": [
+    1600,
+    900
+  ],
+  "fps": 8,
+  "render_seconds": 126.62065499997698,
+  "video": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\chamber-design\\complete-chamber-r01\\Sputter chamber R01 - dimensioned walkthrough.mp4",
+  "full_audio_video_decode_passed": true,
+  "embedded_chapters": 9,
+  "subtitle_codec": "mov_text",
+  "narration_rms": [
+    3216.7576050517164,
+    3085.2519055570665,
+    3221.098703615394,
+    3144.4449526339176,
+    3048.051874479353,
+    3160.5168454314853,
+    3160.7316669845836,
+    3131.7827977105835,
+    3176.4604843118727
+  ]
+}

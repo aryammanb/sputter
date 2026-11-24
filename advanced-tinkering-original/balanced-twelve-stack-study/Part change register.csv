@@ -1,0 +1,142 @@
+﻿Component,Role,Status,Change
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-10 / stack disc 1,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-10 / stack disc 2,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-6 / stack disc 1,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-6 / stack disc 2,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-6,backbolts,Retained,Geometry retained from latest R03 baseline
+01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-8,backbolts,Retained,Geometry retained from latest R03 baseline
+01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-9,backbolts,Retained,Geometry retained from latest R03 baseline
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-5 / stack disc 1,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-5 / stack disc 2,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-7 / stack disc 1,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-7 / stack disc 2,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-4,backbolts,Retained,Geometry retained from latest R03 baseline
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-9 / stack disc 1,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-9 / stack disc 2,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-5,backbolts,Retained,Geometry retained from latest R03 baseline
+01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-7,backbolts,Retained,Geometry retained from latest R03 baseline
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-8 / stack disc 1,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-8 / stack disc 2,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-10,backbolts,Retained,Geometry retained from latest R03 baseline
+01 Original cathode cooling and magnets-1/REF coolant push-in fitting body-2,fittings,Modified or replaced,Existing reference fitting envelope moved outward4.45mm; actual fitting identity and engagement remain unconfirmed.
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-12 / stack disc 1,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-12 / stack disc 2,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/REF coolant push-in fitting body-1,fittings,Modified or replaced,Existing reference fitting envelope moved outward4.45mm; actual fitting identity and engagement remain unconfirmed.
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-11 / stack disc 1,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-11 / stack disc 2,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-12,backbolts,Retained,Geometry retained from latest R03 baseline
+01 Original cathode cooling and magnets-1/REF coolant fitting blue release collar-2,fittings,Modified or replaced,Existing reference fitting envelope moved outward4.45mm; actual fitting identity and engagement remain unconfirmed.
+01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-11,backbolts,Retained,Geometry retained from latest R03 baseline
+01 Original cathode cooling and magnets-1/REF coolant fitting blue release collar-1,fittings,Modified or replaced,Existing reference fitting envelope moved outward4.45mm; actual fitting identity and engagement remain unconfirmed.
+01 Original cathode cooling and magnets-1/AT O-ring ID35x2 installed-1,waterseal,Modified or replaced,Illustrative compressed FKM ring; nominal free ID43x2
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-1 / stack disc 1,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-1 / stack disc 2,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT M4x10 socket-head study-1,yokebolt,Retained,Geometry retained from latest R03 baseline
+01 Original cathode cooling and magnets-1/AT O-ring ID14p5x2 installed-1,waterseal,Modified or replaced,Illustrative compressed FKM ring; nominal free ID23x2
+01 Original cathode cooling and magnets-1/Kuehlkoerper-1,cooler,Modified or replaced,Center blind well D13 -> D21; outer wells D9 -> D6.4 and PCD50 -> PCD58; coolant annulus R11.05..16.05 -> R15.5..20.5. Original outer envelope and mounting holes retained.
+01 Original cathode cooling and magnets-1/Backplate-1,closure,Modified or replaced,"Replacement copper backplate: same OD71.5, thickness13.5 and screw patterns; D21 center, D6.4 outer wells PCD58; glands ID23x2 and ID43x2; coolant axes X +/-18 instead of +/-13.55. Threads remain nominal envelopes."
+01 Original cathode cooling and magnets-1/Magnet Joke-1,yoke,Modified or replaced,"Coolant fitting clearance holes moved X +/-13.55 -> +/-18. OD71.5, thickness10 and attachment holes retained. Magnetic saturation not assessed."
+01 Original cathode cooling and magnets-1/AT center magnet D12x10 N45-1,centermag,Modified or replaced,Stock axially magnetized D20x10 N42 disc; two discs give original20mm pack length.
+01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-1,backbolts,Retained,Geometry retained from latest R03 baseline
+01 Original cathode cooling and magnets-1/AT center magnet D12x10 N45-2,centermag,Modified or replaced,Stock axially magnetized D20x10 N42 disc; two discs give original20mm pack length.
+01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-3,backbolts,Retained,Geometry retained from latest R03 baseline
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-3 / stack disc 1,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-3 / stack disc 2,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-4 / stack disc 1,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-4 / stack disc 2,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-2,backbolts,Retained,Geometry retained from latest R03 baseline
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-2 / stack disc 1,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-2 / stack disc 2,outermag,Modified or replaced,Two stock axially magnetized D6x10 N42 discs per outer stack.
+02 Original spacer and copper attachment-1/AT M3x35 socket-head study-2,headbolts,Retained,Geometry retained from latest R03 baseline
+02 Original spacer and copper attachment-1/AT M3x35 socket-head study-6,headbolts,Retained,Geometry retained from latest R03 baseline
+02 Original spacer and copper attachment-1/AT M3x35 socket-head study-9,headbolts,Retained,Geometry retained from latest R03 baseline
+02 Original spacer and copper attachment-1/AT M3x35 socket-head study-3,headbolts,Retained,Geometry retained from latest R03 baseline
+02 Original spacer and copper attachment-1/AT M3x35 socket-head study-11,headbolts,Retained,Geometry retained from latest R03 baseline
+02 Original spacer and copper attachment-1/AT M3x35 socket-head study-12,headbolts,Retained,Geometry retained from latest R03 baseline
+02 Original spacer and copper attachment-1/AT O-ring ID76x2 installed-1,headseal,Retained,Geometry retained from latest R03 baseline
+02 Original spacer and copper attachment-1/AT M3x35 socket-head study-7,headbolts,Retained,Geometry retained from latest R03 baseline
+02 Original spacer and copper attachment-1/AT M3x35 socket-head study-4,headbolts,Retained,Geometry retained from latest R03 baseline
+02 Original spacer and copper attachment-1/AT M3x35 socket-head study-1,headbolts,Retained,Geometry retained from latest R03 baseline
+02 Original spacer and copper attachment-1/Abstandshalter-1,spacer,Retained,Geometry retained from latest R03 baseline
+02 Original spacer and copper attachment-1/AT M3x35 socket-head study-5,headbolts,Retained,Geometry retained from latest R03 baseline
+02 Original spacer and copper attachment-1/AT M3x35 socket-head study-8,headbolts,Retained,Geometry retained from latest R03 baseline
+02 Original spacer and copper attachment-1/AT M3x35 socket-head study-10,headbolts,Retained,Geometry retained from latest R03 baseline
+07 Reference atmospheric utility routes-1/REF blue coolant hose right-1,hoses,Modified or replaced,Illustrative hose upper route revised for X +/-18 fittings; lower tube route X +/-3 retained. OD4 ID2.5 retained; purchased hose bend radius not validated.
+07 Reference atmospheric utility routes-1/REF blue coolant hose left-1,hoses,Modified or replaced,Illustrative hose upper route revised for X +/-18 fittings; lower tube route X +/-3 retained. OD4 ID2.5 retained; purchased hose bend radius not validated.
+06 Original clamp and reference KF16 tube-1/AT original flange clamp half-2,kfclamps,Retained,Geometry retained from latest R03 baseline
+06 Original clamp and reference KF16 tube-1/AT original flange clamp half-1,kfclamps,Retained,Geometry retained from latest R03 baseline
+06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-1,kfbolts,Retained,Geometry retained from latest R03 baseline
+06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-4,kfbolts,Retained,Geometry retained from latest R03 baseline
+06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-5,kfbolts,Retained,Geometry retained from latest R03 baseline
+06 Original clamp and reference KF16 tube-1/REF KF16 centering ring fitted-1,kfcenter,Retained,Geometry retained from latest R03 baseline
+06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-6,kfbolts,Retained,Geometry retained from latest R03 baseline
+06 Original clamp and reference KF16 tube-1/REF KF16 O-ring installed envelope-1,kfseal,Retained,Geometry retained from latest R03 baseline
+06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-3,kfbolts,Retained,Geometry retained from latest R03 baseline
+06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-2,kfbolts,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-11,cups,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT M3x35 socket-head study-11,basebolts,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT M3x35 socket-head study-10,basebolts,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-12,cups,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT M3x35 socket-head study-12,basebolts,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-4,cups,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT M3x35 socket-head study-7,basebolts,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-5,cups,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT M3x35 socket-head study-9,basebolts,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-6,cups,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-10,cups,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-8,cups,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT M3x35 socket-head study-4,basebolts,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT M3x35 socket-head study-3,basebolts,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT M3x35 socket-head study-5,basebolts,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT M3x35 socket-head study-6,basebolts,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-7,cups,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT M3x35 socket-head study-8,basebolts,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-9,cups,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/Isolator-1,isolator,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT O-ring ID62x2 installed-1,upper62,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-1,cups,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT M3x35 socket-head study-1,basebolts,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-2,cups,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT M3x35 socket-head study-2,basebolts,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT O-ring ID62x2 installed-2,lower62,Retained,Geometry retained from latest R03 baseline
+03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-3,cups,Retained,Geometry retained from latest R03 baseline
+04 Original target clamp and fitted target-1/AT M3x8 socket-head study-12,targetbolts,Retained,Geometry retained from latest R03 baseline
+04 Original target clamp and fitted target-1/Target Klemme-1,clamp,Retained,Geometry retained from latest R03 baseline
+04 Original target clamp and fitted target-1/AT titanium target D50p8x2 fitted-1,target,Retained,Geometry retained from latest R03 baseline
+04 Original target clamp and fitted target-1/AT M3x8 socket-head study-1,targetbolts,Retained,Geometry retained from latest R03 baseline
+04 Original target clamp and fitted target-1/AT M3x8 socket-head study-2,targetbolts,Retained,Geometry retained from latest R03 baseline
+04 Original target clamp and fitted target-1/AT M3x8 socket-head study-3,targetbolts,Retained,Geometry retained from latest R03 baseline
+04 Original target clamp and fitted target-1/AT M3x8 socket-head study-4,targetbolts,Retained,Geometry retained from latest R03 baseline
+04 Original target clamp and fitted target-1/AT M3x8 socket-head study-5,targetbolts,Retained,Geometry retained from latest R03 baseline
+04 Original target clamp and fitted target-1/AT M3x8 socket-head study-6,targetbolts,Retained,Geometry retained from latest R03 baseline
+04 Original target clamp and fitted target-1/AT M3x8 socket-head study-7,targetbolts,Retained,Geometry retained from latest R03 baseline
+04 Original target clamp and fitted target-1/AT M3x8 socket-head study-8,targetbolts,Retained,Geometry retained from latest R03 baseline
+04 Original target clamp and fitted target-1/AT M3x8 socket-head study-9,targetbolts,Retained,Geometry retained from latest R03 baseline
+04 Original target clamp and fitted target-1/AT M3x8 socket-head study-10,targetbolts,Retained,Geometry retained from latest R03 baseline
+04 Original target clamp and fitted target-1/AT M3x8 socket-head study-11,targetbolts,Retained,Geometry retained from latest R03 baseline
+05 Original grounded shield-1/AT M3x6 socket-head study-5,upperbolts,Retained,Geometry retained from latest R03 baseline
+05 Original grounded shield-1/Dunkelraumabschirmung-1,darkcap,Retained,Geometry retained from latest R03 baseline
+05 Original grounded shield-1/AT M3x6 socket-head study-1,upperbolts,Retained,Geometry retained from latest R03 baseline
+05 Original grounded shield-1/AT M3x6 socket-head study-2,upperbolts,Retained,Geometry retained from latest R03 baseline
+05 Original grounded shield-1/AT M3x6 socket-head study-3,upperbolts,Retained,Geometry retained from latest R03 baseline
+05 Original grounded shield-1/AT M3x6 socket-head study-4,upperbolts,Retained,Geometry retained from latest R03 baseline
+05 Original grounded shield-1/Groundshield Rohr-1,shieldtube,Retained,Geometry retained from latest R03 baseline
+05 Original grounded shield-1/AT M4x8 socket-head study-2,lowerbolts,Retained,Geometry retained from latest R03 baseline
+05 Original grounded shield-1/AT M3x6 socket-head study-6,upperbolts,Retained,Geometry retained from latest R03 baseline
+05 Original grounded shield-1/AT M4x8 socket-head study-1,lowerbolts,Retained,Geometry retained from latest R03 baseline
+05 Original grounded shield-1/AT M4x8 socket-head study-3,lowerbolts,Retained,Geometry retained from latest R03 baseline
+R02 Boden - internal blind ground anchor,base,Retained,Geometry retained from latest R03 baseline
+R02 KF16 neck to one inch service tube,kftube,Retained,Geometry retained from latest R03 baseline
+REF icotek SKL3-6 36202 installed study,rfground,Retained,Geometry retained from latest R03 baseline
+R02 Ground carrier and conformal saddle,rfground,Retained,Geometry retained from latest R03 baseline
+R02 M3x4 clamp mounting screw,rfground,Retained,Geometry retained from latest R03 baseline
+R02 M3 clamp nut envelope,rfground,Retained,Geometry retained from latest R03 baseline
+R02 M3x6 blind ground anchor screw,rfground,Retained,Geometry retained from latest R03 baseline
+R02 Copper terminal stand-off D6p5 L12p5,rfhot,Retained,Geometry retained from latest R03 baseline
+R02 M4x20 live terminal screw,rfhot,Retained,Geometry retained from latest R03 baseline
+REF TE323086 M4 ring terminal study,rfhot,Retained,Geometry retained from latest R03 baseline
+R02 Continuous coax outer jacket,coax,Retained,Geometry retained from latest R03 baseline
+R02 Continuous coax shield,coax,Retained,Geometry retained from latest R03 baseline
+R02 Continuous center dielectric,coax,Retained,Geometry retained from latest R03 baseline
+R02 RF center conductor,coax,Retained,Geometry retained from latest R03 baseline
+R02 Additional dielectric guard sleeve,coax,Retained,Geometry retained from latest R03 baseline

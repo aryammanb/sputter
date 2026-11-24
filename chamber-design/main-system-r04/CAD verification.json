@@ -1,0 +1,44 @@
+{
+  "Complete sputter system R04": {
+    "solids": 406,
+    "valid": 405,
+    "known_invalid_supplier_reference": [
+      "Edwards RV3 - imported supplier STEP"
+    ]
+  },
+  "6mm_tube": {
+    "OD_mm": 6.0,
+    "ID_mm": 4,
+    "end_y_mm": 344.196,
+    "socket_mouth_y_mm": 360.196,
+    "engagement_mm": 16.0,
+    "insertion_scope": "16mm is provisional; supplier depth pending",
+    "fitting_overlap_mm3": {
+      "push_body": 0.0,
+      "push_collet": 0.0
+    }
+  },
+  "viewport": {
+    "centre_z_mm": 105,
+    "clear_diameter_mm": 70,
+    "glass_disc_centre_verified": true,
+    "ray_check_file": "Near-face ray check.json",
+    "scope": "Nominal gap100 only; geometric ring, not predicted plasma luminosity."
+  },
+  "Complete sputter system R04 - loading": {
+    "solids": 406,
+    "valid": 405,
+    "known_invalid_supplier_reference": [
+      "Edwards RV3 - imported supplier STEP"
+    ]
+  },
+  "door_retainer_bores": {
+    "pilot_diameter_mm": 4.2,
+    "pilot_depth_mm": 10,
+    "door_thickness_mm": 16,
+    "remaining_solid_mm": 6,
+    "all_six_backings_checked_solid": true,
+    "threads": "M5 nominal; actual tapping and screw engagement to detail"
+  },
+  "viewport_travel_check": "Viewport travel range check.json"
+}

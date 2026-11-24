@@ -1,0 +1,27 @@
+VACUUM PLUMBING GRAPHICAL REFERENCE
+24 November 2026
+
+SELECTED BASELINE - USER DECISION, 24 NOVEMBER 2026
+Option A: chamber -> EXT70 -> one rotary vane pump suction.
+No separate chamber roughing bypass or shared-pump switching manifold is
+selected for this revision. Option B is retained as a future reference only.
+The current chamber CAD already follows the direct turbo connection.
+Use the applicable EXT70/controller startup, shutdown and venting procedures.
+
+Both diagrams use ONE rotary vane pump.
+A: chamber -> turbo -> rotary pump suction; no separate roughing branch.
+B: chamber has a direct roughing branch, and turbo outlet has a backing
+branch. Both branches join at the same rotary pump suction. Three isolation
+valves separate the chamber/turbo, roughing branch, and backing branch.
+
+PNG: high-resolution viewing/sharing graphic.
+SVG: scalable/editable graphic. Source: draw_plumbing.py.
+
+This is a topology comparison, not an operating procedure. Option B does
+not, by itself, establish that the EXT70 can remain running while its backing
+connection is isolated. A validated sequence, pressure monitoring and
+acceptable foreline holding conditions must be established first.
+Do not connect an atmospheric chamber directly to a running turbo's foreline.
+
+Gauge, cooling, vent, anti-suckback and interlock details are intentionally
+omitted. Gas-flow arrows point to pump suction, not to pump exhaust.

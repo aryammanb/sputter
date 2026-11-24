@@ -1,0 +1,207 @@
+1
+00:00:00,500 --> 00:00:07,937
+This is the actual three dimensional model of our first component: the copper cooling body, revision A.
+
+2
+00:00:07,937 --> 00:00:12,703
+It is seventy millimetres in diameter and seven millimetres thick.
+
+3
+00:00:12,703 --> 00:00:20,501
+We will look at the target face, water channel, seals, and fasteners, and explain why each feature is there.
+
+4
+00:00:20,501 --> 00:00:25,700
+The geometry is modeled; its operating performance is not yet validated.
+
+5
+00:00:27,300 --> 00:00:30,764
+This flat front face supports the two inch target.
+
+6
+00:00:30,764 --> 00:00:39,839
+The circular outline marks its fifty point eight millimetre footprint; it is an explanatory overlay, not another modeled component.
+
+7
+00:00:39,839 --> 00:00:46,212
+Heat must cross the contact between target and copper, so flatness and even clamping matter.
+
+8
+00:00:46,212 --> 00:00:48,636
+We have left target thickness open.
+
+9
+00:00:48,636 --> 00:00:52,100
+The target itself does not seal the cooling water.
+
+10
+00:00:53,700 --> 00:00:59,844
+The copper body extends nine point six millimetres radially beyond the nominal target edge.
+
+11
+00:00:59,844 --> 00:01:05,245
+That gives us space to develop the clamp, fasteners, and surrounding interfaces.
+
+12
+00:01:05,245 --> 00:01:10,646
+Seventy millimetres is a packaging choice, not an optimized or minimum diameter.
+
+13
+00:01:10,646 --> 00:01:17,194
+Keeping the target seat flat avoids locking this first revision to a close fitting target pocket.
+
+14
+00:01:17,194 --> 00:01:20,300
+The future clamp must still locate the target.
+
+15
+00:01:21,900 --> 00:01:23,402
+Now turn to the rear.
+
+16
+00:01:23,402 --> 00:01:27,193
+The blue region is the actual machined water channel.
+
+17
+00:01:27,193 --> 00:01:35,920
+It spans radii of eleven to twenty five millimetres and is three millimetres deep, with rounded seven millimetre end caps.
+
+18
+00:01:35,920 --> 00:01:42,645
+Water is intended to enter at one end, sweep around behind the target, and leave at the other.
+
+19
+00:01:42,645 --> 00:01:47,723
+The moving markers show intended direction only, not a flow simulation.
+
+20
+00:01:47,723 --> 00:01:51,300
+The ports belong in the next component: the cover.
+
+21
+00:01:52,900 --> 00:01:58,954
+The solid bridge between the channel ends separates the intended inlet and outlet positions.
+
+22
+00:01:58,954 --> 00:02:04,284
+Without it, water could take a short route instead of sweeping around the target.
+
+23
+00:02:04,284 --> 00:02:09,746
+But metal contact against the future cover does not automatically seal that bridge.
+
+24
+00:02:09,746 --> 00:02:14,023
+We must design the cover and divider interface to control bypass.
+
+25
+00:02:14,023 --> 00:02:18,300
+The two circular O rings provide containment, not a divider seal.
+
+26
+00:02:19,900 --> 00:02:26,292
+This cutaway exposes the four millimetre copper wall between the channel floor and target seat.
+
+27
+00:02:26,292 --> 00:02:32,617
+It keeps water separate from the vacuum beneath the target and conducts heat into the coolant.
+
+28
+00:02:32,617 --> 00:02:40,086
+A thinner wall brings the magnets closer, but increases concerns about pressure deflection and face distortion.
+
+29
+00:02:40,086 --> 00:02:42,778
+A thicker wall increases magnet spacing.
+
+30
+00:02:42,778 --> 00:02:48,833
+Four millimetres is our first iteration, pending structural, thermal, and magnetic checks.
+
+31
+00:02:50,433 --> 00:02:57,241
+The two highlighted circular grooves accept the inner and outer face seals against the future cover.
+
+32
+00:02:57,241 --> 00:03:05,002
+Candidate rings have fourteen and fifty four millimetre inside diameters, both with two millimetre cross sections.
+
+33
+00:03:05,002 --> 00:03:09,768
+Each groove is two point six millimetres wide and one point five deep.
+
+34
+00:03:09,768 --> 00:03:17,257
+A cover seated on the lands gives twenty five percent nominal squeeze and about eighty one percent gland fill.
+
+35
+00:03:17,257 --> 00:03:19,571
+These are nominal geometry values.
+
+36
+00:03:19,571 --> 00:03:25,767
+Seal material, tolerances, swelling, temperature, and cover deflection still need checking.
+
+37
+00:03:27,367 --> 00:03:31,266
+These six rear holes are for fastening the coolant cover.
+
+38
+00:03:31,266 --> 00:03:37,354
+They are equally spaced on a sixty four millimetre bolt circle, outside the outer O ring.
+
+39
+00:03:37,354 --> 00:03:44,810
+The model shows two point five millimetre pilot pockets, four millimetres deep, for intended M three threads.
+
+40
+00:03:44,810 --> 00:03:48,230
+Finished threads and drill points are not modeled.
+
+41
+00:03:48,230 --> 00:03:54,934
+Copper thread strength, useful engagement, and tightening load must be checked before manufacture.
+
+42
+00:03:54,934 --> 00:03:58,833
+These screws retain the cover; the O rings make the seal.
+
+43
+00:04:00,433 --> 00:04:04,803
+On the front are three separate pilot pockets for the target clamp.
+
+44
+00:04:04,803 --> 00:04:11,651
+They sit on the same bolt circle but are rotated between the rear holes, so the two patterns do not meet.
+
+45
+00:04:11,651 --> 00:04:14,325
+Their modeled depth is three millimetres.
+
+46
+00:04:14,325 --> 00:04:21,761
+Separating the clamp fasteners from the coolant cover lets us change the target without opening the water circuit.
+
+47
+00:04:21,761 --> 00:04:27,500
+The clamp itself, thread details, and target locating features are still to be designed.
+
+48
+00:04:29,100 --> 00:04:36,851
+This revision establishes the target seat, cooling passage, seal grooves, and separate fastening interfaces.
+
+49
+00:04:36,851 --> 00:04:42,593
+The native part is one solid, and its volume matches an independent calculation.
+
+50
+00:04:42,593 --> 00:04:48,048
+It does not yet form a closed water circuit or an atmospheric magnet cavity.
+
+51
+00:04:48,048 --> 00:04:53,646
+The next part is the coolant cover, including the ports and divider treatment.
+
+52
+00:04:53,646 --> 00:05:01,900
+We still need pressure, leak, thermal, magnetic, and electrical verification before this becomes a build ready gun.

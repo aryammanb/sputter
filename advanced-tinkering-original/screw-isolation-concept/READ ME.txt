@@ -1,0 +1,49 @@
+METAL SCREW WITH CERAMIC ISOLATION - VISUAL CONCEPT
+
+This local section uses the original Boden, Isolator and Abstandshalter shapes
+cropped around one existing M3 screw. It is not a complete gun redesign.
+The metal screw is retained; no PEEK, PTFE or ceramic screw is proposed.
+
+Electrical arrangement:
+LIVE: steel spacer, metal screw and small metal washer under the screw head.
+GROUND: Boden. The chamber/body ground connection must remain independently verified.
+INSULATION: alumina tube around the shank through Boden, and a separate alumina
+washer between the live metal head washer and the grounded seating face.
+The original main PTFE sealing ring remains between the grounded and live bodies.
+
+Mechanical arrangement:
+The metal screw carries tension. The alumina head washer carries local compressive
+bearing load. The tube insulates the shank and does not replace the screw's threads.
+The main PTFE ring still lies in the overall clamping stack, so its creep is not
+eliminated. This concept specifically replaces the small PTFE screw insulators.
+
+Concept dimensions, NOT released machining tolerances:
+Ground counterbore enlarged from 8 to 12 mm diameter, original floor at Y=-68.
+Alumina tube: OD5.6 ID3.3 length22; Y=-68 to -46.
+Alumina washer: OD11.6 ID3.3 thickness2.5; Y=-70.5 to -68.
+Metal washer: OD7 ID3.3 thickness0.5; Y=-71 to -70.5.
+M3x35 screw underhead Y=-71, tip Y=-36, head bottom Y=-74.
+Nominal entry into spacer is5 mm including entry chamfer; effective full-thread
+engagement and strength must be checked. No thread helix is modeled.
+This is not an off-the-shelf supplier part selection or a drop-in replacement.
+
+Checks completed:
+Seven valid solid bodies on STEP reimport. Only detected volume intersection is
+the nominal screw shaft versus the original thread-minor bore, as expected for
+unmodeled threads. Source geometry is unmodified except the local counterbore cut.
+
+Before implementation:
+Check all twelve fastener positions in the full assembly, remaining wall and
+nearby holes, fits and tolerances, ceramic grade and surface finish, seat flatness,
+edge relief and stress, torque/preload, thermal expansion and RF clearances.
+Ceramic should not be treated as an unbreakable hard stop or used with uncontrolled
+tightening. Protect exposed live heads and evaluate surface contamination paths.
+There is no rated operating voltage, RF power or ceramic stress result in this model.
+
+Video views are explanatory: parts are separated sideways in the exploded view;
+that movement is not a physically verified installation/removal sequence.
+
+Material/product background:
+https://precision-ceramics.com/wp-content/uploads/Alumina-96-Technical-Data-Sheet.pdf
+https://www.mcmaster.com/products/shoulder-washers/
+Supplier examples do not imply that a stocked washer matches these concept dimensions.

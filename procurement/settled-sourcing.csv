@@ -1,0 +1,53 @@
+,,,,,,,
+Sputter gun sourcing I will handle,,,,,,,
+,,,,,,,
+R05 clamp CAD complete for3.175mm target; sourcing routes settled. Final fabrication checks remain separate.,,,,,,,
+"No routine sourcing approval needed. I will resolve quotations, pack sizes, technical specifications and drawing details.",,,,,,,
+,,,,,,,
+ID,Component,Qty,Sourcing method,Unit est. (INR),Line est. (INR),Supplier / buying link,What I will resolve
+G01,Copper cooling body,1,Custom vendor order,6500,6500,"Technica Engineering Works, Rabale, Navi Mumbai (RFQ candidate only): https://technicaengg.com/","I will handle shop selection, material/tolerance/threads, quote and drawing release."
+G02,Copper backplate,1,Custom vendor order,4000,4000,"Technica Engineering Works, Rabale, Navi Mumbai (RFQ candidate only): https://technicaengg.com/","I will handle shop selection, material/tolerance/threads, quote and drawing release."
+G03,Steel return yoke,1,Custom vendor order,1200,1200,"Technica Engineering Works, Rabale, Navi Mumbai (RFQ candidate only): https://technicaengg.com/","I will handle shop selection, material/tolerance/threads, quote and drawing release."
+G04,Live stainless spacer,1,Custom vendor order,2500,2500,Local turning/CNC shop — vendor to choose,"I will handle shop selection, material/tolerance/threads, quote and drawing release."
+G05,Main PTFE insulator,1,Custom vendor order,1500,1500,"Tanna Engineering Enterprises, Vasai, Mumbai (RFQ candidate only): https://tannaee.com/","I will handle shop selection, material/tolerance/threads, quote and drawing release."
+G06,One-piece PTFE screw cups,12,Custom vendor order,120,1440,"Tanna Engineering Enterprises, Vasai, Mumbai (RFQ candidate only): https://tannaee.com/","I will handle shop selection, material/tolerance/threads, quote and drawing release."
+G07,Grounded base / Boden,1,Custom vendor order,3000,3000,Local turning/CNC shop — vendor to choose,"I will handle shop selection, material/tolerance/threads, quote and drawing release."
+G08,Target retaining clamp,1,Custom vendor order,1800,1800,Local turning/CNC shop — vendor to choose,"R05 clamp redesigned and nominal fit checked. Drawing/CAD linked; preload, stiffness, tolerance and thermal release review remains mine."
+G09,Dark-space cap,1,Custom vendor order,1800,1800,Local turning/CNC shop — vendor to choose,"I will handle shop selection, material/tolerance/threads, quote and drawing release."
+G10,Grounded shield tube,1,Custom vendor order,1500,1500,Local tube/turning shop — vendor to choose,"I will handle shop selection, material/tolerance/threads, quote and drawing release."
+G11,Stepped service tube,1,Custom vendor order,2500,2500,Local tube/turning or vacuum-fabrication shop,"I will handle shop selection, material/tolerance/threads, quote and drawing release."
+G12,Internal tube-clamp halves,2,Custom vendor order,700,1400,Local CNC shop — vendor to choose,"I will handle shop selection, material/tolerance/threads, quote and drawing release."
+G13,Coax shield carrier / saddle,1,Custom vendor order,600,600,Local sheet-metal/precision fabrication shop,"I will handle shop selection, material/tolerance/threads, quote and drawing release."
+G14,Copper live-terminal standoff,1,Custom vendor order,250,250,Same turning shop as G01,"I will handle shop selection, material/tolerance/threads, quote and drawing release."
+G15,Outer magnet discs,24,Online purchase,59,1416,https://www.magnetladen.de/en/Rod-Magnet-6x10-mm-N42-Nickel/St-06x10-Nd-Ni/,"I will verify price, actual order quantity, specification and delivery route."
+G16,Centre magnet discs,2,Online purchase,469,938,https://www.magnetladen.de/en/Disc-Magnet-20x10-mm-N42-Nickel/S-20x10-Nd-Ni/,"I will verify price, actual order quantity, specification and delivery route."
+G19,Inner coolant O-ring,1,Local purchase,120,120,Local industrial seal dealer — Mumbai sourcing,"I will handle supplier selection, exact material/specification and quote."
+G20,Outer coolant O-ring,1,Local purchase,150,150,Local industrial seal dealer — Mumbai sourcing,"I will handle supplier selection, exact material/specification and quote."
+G21,Head-to-spacer vacuum O-ring,1,Local purchase,250,250,Local industrial/vacuum seal dealer — Mumbai sourcing,"I will handle supplier selection, exact material/specification and quote."
+G22,Main-insulator vacuum O-rings,2,Local purchase,200,400,Local industrial/vacuum seal dealer — Mumbai sourcing,"I will handle supplier selection, exact material/specification and quote."
+G29,M3 ×16 socket-head screws,12,Local purchase,12,144,Local stainless fastener dealer — Mumbai sourcing,"I will handle supplier selection, exact material/specification and quote."
+G30,M3 ×35 socket-head screws,24,Local purchase,18,432,Local stainless fastener dealer — Mumbai sourcing,"I will handle supplier selection, exact material/specification and quote."
+G31,M3 x10 socket-head screws,12,Local purchase,12,144,Local stainless fastener dealer — Mumbai sourcing,"I will handle supplier selection, exact material/specification and quote."
+G32,M3 ×6 socket-head screws,7,Local purchase,10,70,Local stainless fastener dealer — Mumbai sourcing,"I will handle supplier selection, exact material/specification and quote."
+G33,M3 ×4 socket-head screw,1,Local purchase,10,10,Local stainless fastener dealer — Mumbai sourcing,"I will handle supplier selection, exact material/specification and quote."
+G34,M3 nut,1,Local purchase,5,5,Local stainless fastener dealer — Mumbai sourcing,"I will handle supplier selection, exact material/specification and quote."
+G35,M4 ×10 socket-head screw,1,Local purchase,15,15,Local stainless fastener dealer — Mumbai sourcing,"I will handle supplier selection, exact material/specification and quote."
+G36,M4 ×8 socket-head screws,3,Local purchase,12,36,Local stainless fastener dealer — Mumbai sourcing,"I will handle supplier selection, exact material/specification and quote."
+G37,M4 ×20 socket-head screw,1,Local purchase,18,18,Local stainless fastener dealer — Mumbai sourcing,"I will handle supplier selection, exact material/specification and quote."
+G38,M5 ×20 socket-head screws,6,Local purchase,20,120,Local stainless fastener dealer — Mumbai sourcing,"I will handle supplier selection, exact material/specification and quote."
+G17,Aluminium sputtering target,1,Online purchase,9794,9794,User-selected VritraTech: https://www.vritratech.com/store/product/aluminium-al-sputtering-target/,User-selected VritraTech online source. Target price includes18%GST; delivery extra. R05 clamp fit checked.
+,Subtotal of these lines,,,,44052,,
+,,,,,,,
+,,,,,,,
+Technical follow-up I will handle — these are not questions for you,,,,,,,
+ID,Component,Qty,Sourcing method,Unit est. (INR),Line est. (INR),Supplier / buying link,What I will resolve
+G18,Complete internal coolant push fittings,2,Online purchase,1449.0000000000002,2898.0000000000005,Orange Coast Pneumatics / SMC: https://www.smcpneumatics.com/KQG2S04-M5.html,Choose actual 4mm coolant fitting and matching backplate port thread before releasing machining.
+G23,Internal KF16 centering ring and seal set,1,Local purchase,800,800,Local vacuum-hardware supplier — Mumbai sourcing,Match internal KF16 centering seal to the gun capture geometry; verify actual clear bore.
+G24,Internal cooling tube allowance,1,Local purchase,500,500,Local compatible-tubing supplier — polymer to select — Mumbai sourcing,"Specify water tubing material, pressure/temperature rating and bend radius."
+G26,Additional dielectric guard sleeve,1,Local purchase,100,100,Local PTFE sleeve/insulation-stock supplier — Mumbai sourcing,Select dielectric guard after supply/cable ratings are known; no separate user material choice needed.
+G27,Coax shield spring clamp,1,Local purchase,700,700,Mumbai distributor / US alternative reviewed: https://us.rs-online.com/product/icotek/36202/72429141/,Find a practical single-clamp supply; US RS pack50/backorder is not the selected purchase.
+G28,M4 ring terminal,1,Local purchase,100,100,Local TE distributor/electrical terminal supplier — Mumbai sourcing,"Match lug, crimp and conductor after actual cable is specified."
+G25,Continuous coax allocation,1,Local purchase,1500,1500,Local RF cable supplier — exact cable to choose — Mumbai sourcing,"User answered RF300W. I will select generator/network and then rate cable, insulation and interfaces."
+Already selected in subsystem3: compression gland — online purchase via the owner US route.,,,,,,,
+eBay: https://www.ebay.com/itm/198508082866 ; engineering reference: Lesker QF25XVC100.,,,,,,,
+I will verify current availability and25.4mm passage; this does not require choosing the sourcing route again. Price not included above.,,,,,,,

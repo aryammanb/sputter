@@ -1,0 +1,179 @@
+1
+00:00:00,000 --> 00:00:03,085
+A two-inch, stem-mounted magnetron.
+
+2
+00:00:03,085 --> 00:00:06,700
+The NW100 plate is the chamber interface.
+
+3
+00:00:06,700 --> 00:00:11,019
+The feedthrough and coolant fittings are outside.
+
+4
+00:00:11,019 --> 00:00:14,017
+The target faces into the chamber.
+
+5
+00:00:14,267 --> 00:00:18,679
+The KF25 clamp grips the feedthrough and mating stub.
+
+6
+00:00:18,679 --> 00:00:22,425
+The metal centering ring locates the flanges.
+
+7
+00:00:22,425 --> 00:00:25,505
+Its O-ring seals between their faces.
+
+8
+00:00:25,505 --> 00:00:30,750
+The stub, NW100 plate, and hollow stem form the grounded mount.
+
+9
+00:00:31,000 --> 00:00:38,557
+DC or the output of a 13.56 megahertz matching network drives the same center conductor, one at a time.
+
+10
+00:00:38,557 --> 00:00:41,638
+A socket joins the copper tube to the rod.
+
+11
+00:00:41,638 --> 00:00:44,132
+The ceramic guide centers the rod.
+
+12
+00:00:44,132 --> 00:00:49,048
+The ceramic carrier separates the grounded stem from the live head.
+
+13
+00:00:49,048 --> 00:00:54,550
+The external terminal enclosure and carrier retention still need detailing.
+
+14
+00:00:54,800 --> 00:00:57,726
+Each line begins at an external bulkhead.
+
+15
+00:00:57,726 --> 00:01:05,364
+Inside the stem, an angled transition leads to a dielectric section, then a metal tube at the powered head.
+
+16
+00:01:05,364 --> 00:01:08,861
+The dielectric sections interrupt the metal path.
+
+17
+00:01:08,861 --> 00:01:11,502
+The coolant itself can still conduct.
+
+18
+00:01:11,502 --> 00:01:17,283
+Both lines pass through the carrier, locator, and yoke into the copper backplate.
+
+19
+00:01:17,533 --> 00:01:21,199
+Eight outer magnets surround an annular center magnet.
+
+20
+00:01:21,199 --> 00:01:24,660
+All nine are five millimeters thick in this layout.
+
+21
+00:01:24,660 --> 00:01:30,837
+They sit flush in a separate nonmagnetic locator and touch the rear face of the steel yoke.
+
+22
+00:01:30,837 --> 00:01:34,977
+The copper head seats directly against the front of the yoke.
+
+23
+00:01:34,977 --> 00:01:37,217
+The yoke is at cathode potential.
+
+24
+00:01:37,467 --> 00:01:42,921
+The backplate, C-channel core, and target-seat cover are separate copper pieces.
+
+25
+00:01:42,921 --> 00:01:47,011
+Three head screws pass through dry zones around the channel.
+
+26
+00:01:47,011 --> 00:01:52,534
+The divider lies between inlet and outlet so water must sweep around the channel.
+
+27
+00:01:52,534 --> 00:01:56,283
+The closure and tube seals are still open design items.
+
+28
+00:01:56,533 --> 00:01:59,195
+Blue shows the proposed supply path.
+
+29
+00:01:59,195 --> 00:02:07,773
+Water enters the backplate, travels around the C-shaped channel behind the target, and exits into the orange return.
+
+30
+00:02:07,773 --> 00:02:11,174
+Heat crosses the target seat into the coolant.
+
+31
+00:02:11,174 --> 00:02:13,688
+The moving markers show direction.
+
+32
+00:02:13,688 --> 00:02:16,350
+They do not represent measured flow.
+
+33
+00:02:16,600 --> 00:02:22,263
+The 50.8 millimeter aluminum target seats flat against the copper cover.
+
+34
+00:02:22,263 --> 00:02:29,263
+The ring has a 48 millimeter opening and overlaps the target by 1.4 millimeters per side.
+
+35
+00:02:29,263 --> 00:02:34,689
+Three recessed screws, 120 degrees apart, clamp the ring to the seat.
+
+36
+00:02:34,689 --> 00:02:38,150
+Screw threads and preload are not validated.
+
+37
+00:02:38,400 --> 00:02:41,487
+The shield bolts to its grounded rear seat.
+
+38
+00:02:41,487 --> 00:02:47,877
+The 72.8 millimeter side bore leaves a two millimeter radial gap around the powered head.
+
+39
+00:02:47,877 --> 00:02:50,175
+The inward lip covers the clamp.
+
+40
+00:02:50,175 --> 00:02:56,063
+The shield comes off toward the chamber interior before the target can be removed.
+
+41
+00:02:56,063 --> 00:03:01,017
+Its 92 millimeter mounting flange must clear the actual chamber port.
+
+42
+00:03:01,267 --> 00:03:06,959
+This is the native SolidWorks R06 geometry, with all 45 part instances.
+
+43
+00:03:06,959 --> 00:03:12,171
+The four reported overlaps are at the angled coolant transitions.
+
+44
+00:03:12,171 --> 00:03:20,188
+Before fabrication, resolve those joints, the carrier retention, and the enclosed power termination.
+
+45
+00:03:20,188 --> 00:03:27,083
+Verify seals, cooling, the magnetic field, and electrical clearance in both DC and RF.

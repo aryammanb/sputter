@@ -1,0 +1,227 @@
+1
+00:00:00,300 --> 00:00:05,506
+This revision brings the chamber, gun, pumps, gauges and gas connection into one assembly.
+
+2
+00:00:05,506 --> 00:00:10,539
+The chamber remains two hundred by two hundred by three hundred millimetres internally.
+
+3
+00:00:10,539 --> 00:00:18,175
+We have retained the simpler pumping arrangement: chamber to turbo, then through a flexible foreline to one mechanical backing pump.
+
+4
+00:00:18,175 --> 00:00:23,092
+There is no separate roughing bypass or high vacuum isolation valve in this revision.
+
+5
+00:00:23,092 --> 00:00:30,150
+The gas supply model ends at the six millimetre push fitting; the regulator and cylinder remain outside this design scope.
+
+6
+00:00:31,550 --> 00:00:35,828
+The front door opens without moving the gun or any rear service connection.
+
+7
+00:00:35,828 --> 00:00:40,563
+The clear opening is one hundred and eighty by two hundred and seventy millimetres.
+
+8
+00:00:40,563 --> 00:00:42,901
+The viewport opening is seventy diameter.
+
+9
+00:00:42,901 --> 00:00:46,894
+Both pressure gauges and the mass flow controller connect at the rear.
+
+10
+00:00:46,894 --> 00:00:53,454
+The left wall remains blank, while the two spare right side K F twenty five ports now have removable blanking caps.
+
+11
+00:00:53,454 --> 00:00:59,900
+Next, the integrated close up shows how the gun compression fitting attaches and how its cap sets the gun height.
+
+12
+00:01:01,300 --> 00:01:07,696
+Inside the chamber, the ninety diameter substrate stage is six millimetres thick, with its top at height forty.
+
+13
+00:01:07,696 --> 00:01:12,537
+The one millimetre reference substrate puts the actual working surface at forty one.
+
+14
+00:01:12,537 --> 00:01:19,625
+The target to substrate distance is adjustable from seventy five to one hundred and fifty, with one hundred as the default.
+
+15
+00:01:19,625 --> 00:01:21,987
+The bent shutter is one millimetre sheet.
+
+16
+00:01:21,987 --> 00:01:26,021
+Its flat midplanes are separated by two hundred and forty millimetres.
+
+17
+00:01:26,021 --> 00:01:30,631
+The lower blade underside is at fifty three, exactly twelve above the substrate.
+
+18
+00:01:30,631 --> 00:01:33,397
+It rotates eighty degrees to uncover the sample.
+
+19
+00:01:33,397 --> 00:01:39,275
+These are the same nominal dimensions and checked motion envelope established in the chamber revision.
+
+20
+00:01:40,675 --> 00:01:48,238
+The turbo exterior is reconstructed from the Edwards E X T seventy dimension drawing, rather than from an invented pump shape.
+
+21
+00:01:48,238 --> 00:01:56,281
+Its I S O sixty three flange is ninety five diameter, and the reference overall height is one hundred and fifty seven point zero five.
+
+22
+00:01:56,281 --> 00:02:02,163
+Four double claw clamps join the pump flange to the chamber flange, with a face seal between them.
+
+23
+00:02:02,163 --> 00:02:04,564
+The chamber is carried by its own stand.
+
+24
+00:02:04,564 --> 00:02:14,228
+The standard E X T seventy manual specifies a K F sixteen backing outlet, so this model includes a K F sixteen to K F twenty five adapter for the requested hose.
+
+25
+00:02:14,228 --> 00:02:19,150
+If your actual pump has a K F twenty five outlet variant, that adapter is omitted.
+
+26
+00:02:20,550 --> 00:02:26,296
+The mechanical pump is an Edwards R V three reference, imported from the supplier's actual STEP file.
+
+27
+00:02:26,296 --> 00:02:29,197
+It is a layout reference, not a confirmed purchase.
+
+28
+00:02:29,197 --> 00:02:34,943
+The flexible K F twenty five hose connects the turbo backing outlet to the rotary pump suction inlet.
+
+29
+00:02:34,943 --> 00:02:41,144
+This distinction matters: the other rotary pump port is its exhaust and is not connected back to the chamber.
+
+30
+00:02:41,144 --> 00:02:46,150
+The hose routing is modeled as a curved core with corrugations and separate end flanges.
+
+31
+00:02:46,150 --> 00:02:50,986
+The selected commercial hose must accommodate that route and its minimum bend radius.
+
+32
+00:02:50,986 --> 00:02:55,025
+The blue moving markers illustrate the gas path, not a flow simulation.
+
+33
+00:02:56,425 --> 00:02:59,862
+The two lower rear ports carry the Pirani and Penning gauges.
+
+34
+00:02:59,862 --> 00:03:05,046
+Their chamber port centres are at height ninety, fifty millimetres to either side of centre.
+
+35
+00:03:05,046 --> 00:03:06,961
+Both use K F twenty five fittings.
+
+36
+00:03:06,961 --> 00:03:13,835
+Each gauge is mounted behind a ninety degree elbow so its sensing opening does not look directly at the sputtering target.
+
+37
+00:03:13,835 --> 00:03:19,920
+The housings and connectors are reference geometry because the actual gauge model numbers were not supplied.
+
+38
+00:03:19,920 --> 00:03:26,400
+Their final mounting orientation, temperature and magnetic field clearances must follow the selected gauge manuals.
+
+39
+00:03:27,800 --> 00:03:33,162
+The upper rear port is the mass flow controller connection, at height two hundred and ten.
+
+40
+00:03:33,162 --> 00:03:41,086
+A K F twenty five to female quarter inch V C R adapter connects to the controller's male V C R outlet, with a metal face seal gasket.
+
+41
+00:03:41,086 --> 00:03:44,602
+Both controller ports are assumed male V C R, as requested.
+
+42
+00:03:44,602 --> 00:03:52,883
+The reference body follows the H O R I B A E four forty J layout, including a one hundred and twenty four millimetre face to face distance.
+
+43
+00:03:52,883 --> 00:03:58,782
+A rear shelf supports the controller independently so its weight is not carried by the gas fitting.
+
+44
+00:03:58,782 --> 00:04:04,025
+The signal connector is shown on top; its electrical cable is outside the present model.
+
+45
+00:04:05,425 --> 00:04:11,439
+On the supply side, the male V C R inlet meets a female V C R adapter assembly and its metal gasket.
+
+46
+00:04:11,439 --> 00:04:14,987
+The other end of that adapter is quarter inch female N P T.
+
+47
+00:04:14,987 --> 00:04:20,940
+Into it screws the quarter inch male N P T push fitting for six millimetre outside diameter tubing.
+
+48
+00:04:20,940 --> 00:04:24,729
+This is the same adapter chain recovered from the earlier chat.
+
+49
+00:04:24,729 --> 00:04:29,360
+V C R seals at the gasket face; N P T is a separate tapered thread interface.
+
+50
+00:04:29,360 --> 00:04:33,629
+The exploded view separates those parts so their functions are visible.
+
+51
+00:04:33,629 --> 00:04:39,222
+Gas would enter at the push fitting, pass through the controller, and then enter the chamber.
+
+52
+00:04:39,222 --> 00:04:42,650
+The model stops at the push socket, exactly as requested.
+
+53
+00:04:44,050 --> 00:04:55,896
+The delivered CAD includes complete and loading states, the refined compression fitting, the turbo connection, the backing pump and hose, both gauges, and the complete mass flow controller adapter chain.
+
+54
+00:04:55,896 --> 00:05:04,533
+The R V three is supplier CAD; the turbo is a dimension drawing reconstruction; gauge bodies and several fitting details remain reference envelopes.
+
+55
+00:05:04,533 --> 00:05:10,486
+The supplier pump STEP has a pre existing topology issue and is retained as visual reference geometry.
+
+56
+00:05:10,486 --> 00:05:17,956
+This is a much more complete mechanical layout, but not a fabrication release or a claim of a fully engineered operating system.
+
+57
+00:05:17,956 --> 00:05:24,900
+Pressure strength, seals, purchased interfaces, cooling, electrical controls and interlocks still require verification.

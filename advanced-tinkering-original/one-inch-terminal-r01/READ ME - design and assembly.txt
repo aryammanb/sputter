@@ -1,0 +1,48 @@
+ONE-INCH ATMOSPHERIC TERMINAL - MECHANICAL FIT STUDY R01
+
+Purpose
+Keep the SMA socket, two coolant hose passages and all fixed terminal hardware within a 25.4 mm tube outside diameter. This replaces the earlier wider external housing concept. The original Advanced Tinkering reconstruction is not overwritten or modified.
+
+Scope and status
+This is a native SolidWorks terminal subassembly with a 100 mm straight tube segment. It is NOT an integrated replacement for the original tube/KF16 joint, and it is NOT a released RF or coolant component. The upper connection from a 25.4 mm tube to the magnetron remains a separate design interface. The original reconstructed service tube was 20 mm OD.
+
+Dimensions, millimetres
+- Tube: OD25.4, wall1.5, bore22.4. Specify a minimum bore of22.2 for the tolerance study below. Supplier tube tolerance still needs confirmation.
+- Stainless end plate: OD25.2 +/-0.05, thickness2.0. Axial positionY0 toY2 at the exterior tube end. Attach to tube end before installing polymer parts, using a qualified flush weld. Blend/inspect any weld bead so no fixed feature exceeds the permitted gland passage envelope. Avoid reducing or scratching the actual gland sealing surface. Attachment and weld distortion need fabrication review.
+- SMA axis: X0,Z+4.5.
+- SMA panel cutout: D-shaped,6.5 circle diameter,6.0 overall height, flat atZ+1.75. Orientation follows the illustrative packaging layout; purchased connector controls the released cutout.
+- Hose axes: X-5.4,Z-3.6 andX+5.4,Z-3.6.
+- Hose-guide holes:7.2 diameter. Flexible double-flanged grommet: shank7.1, two lips8.0 diameterx0.8 thick, bore6.3,2.0mm between lips. Custom reference geometry; material and installation to qualify. The rear lip retains the guide without an oversized collar or clamp.
+- Dedicated atmospheric vent:2.0 diameter atX0,Z-9.0. Do not plug it or add a sealing enclosure around the tube end. Evaluate shielding of this small opening against the final EMC requirements.
+- Guide bores permit hoses up to6.0 OD. The original CAD reference hoses were4.0 OD. Smaller-bore guides can be made for4mm hose without changing the plate;6mm is a packaging allowance, not an instruction to change the head fittings.
+- Internal coax allowance:5.0 OD. The mechanical connector reference is Amphenol132118, a rear-mount crimp SMA jack intended for specified compatible cable families. Do not substitute an arbitrary5mm cable on OD alone.
+
+Connector source
+https://www.amphenolrf.com/en-us/part/132118/646/
+https://www.amphenolrf.com/de-de/assets/file/4065786205/
+Manufacturer drawing copy retrieved from:
+https://datasheet.octopart.com/132118-Amphenol-datasheet-7278259.pdf
+The file contains a distributor cover followed by the Amphenol Connex drawing, revisionA01/23/04. Check current purchased dimensions before machining.
+Drawing dimensions used:8AF body/nut,10.2OD washer,1.6 nut thickness,6.5/6.0 recommended D hole,6.48OD crimp ferrule,11.4 nose-to-shoulder. Manufacturer CAD was not available; connector internals, threads, washer thickness and ferrule placement are simplified packaging representations. The model's antirotation shaft flat is a clearance representation, not a measured connector detail.
+
+Mechanical verification
+The native-verification.json file records solid validity and native assembly interference checks. packaging-verification.json records the analytic circular-envelope clearance calculations.
+Nominal SMA-washer to either hose-guide flange clearance:0.635.
+Nominal hose-guide flange to tube bore clearance:0.710.
+Conservative SMA-to-guide gap:0.244 with washerOD10.6, guideOD8.1, both hole centers independently+/-0.05 inX andZ.
+Conservative guide-to-bore gap:0.489 with bore22.2 and the same guide/position assumptions.
+These are calculated tolerances, not measurements of the eBay gland. A one-inch tube label does not prove an arbitrary fitting's entire internal passage is clear. Confirm its through-bore, follower and seal can release enough to pass the finished terminal; open/remove nut and seal as appropriate. Avoid dragging seals across sharp terminal features.
+
+Assembly sequence
+1. Fabricate/clean the straight tube and flush plate before installing cables, hoses or guides. Inspect all welds and burr-free gland-contact surfaces.
+2. Prepare a properly crimped SMA pigtail using the selected connector's assembly instructions and a compatible cable, qualified separately for the matchbox output.
+3. Feed the connector/pigtail through from the head side. Its rear shoulder seats against the inner plate face. Install the external washer and nut. The D cutout resists rotation. Use the connector manufacturer's torque and a thin-wall socket/wrench; assemble SMA hardware BEFORE installing hose guides/hoses to retain tool access.
+4. Install the flexible non-sealing hose guides from outside, seating both retaining lips around the plate, and feed the two hoses. Verify the chosen flexible material permits installation without tearing the small lips. They protect against chafing but do not provide axial strain relief.
+5. Route the two hoses and coax through the tube, secure the internal head connections and maintain separation at the live cathode termination. The external plate does not replace the required RF shield termination to the grounded head structure.
+6. Connect the outer coax to the SMA socket. Support the cable and hoses independently from an external bracket so their loads do not hang from the small plate or head fittings. Use detachable supports that leave no oversized fixed collar when withdrawing the gun.
+
+Removal sequence
+Power/coolant off under the system's operating procedure. Disconnect the external SMA plug. Disconnect supply/return connections and remove any hose-end fittings too large for the gland passage. Release the gland. Withdraw the head and tube together toward the chamber side, with the compact terminal and bare hose tails passing through. The head itself does not pass through a one-inch opening. No head water-seal joint needs to be opened for this removal.
+
+Electrical and thermal limitations
+No maximum operating power is established. The selected connector and coax must be checked for frequency, current, peak RF voltage, DC bias and ignition/mismatch transients on the matching-network output. The pigtail length affects the RF load seen by the matching network. A mechanical fit or a50ohm connector label is not proof of electrical suitability. No change to the cathode insulation or vacuum barrier has been qualified here. Coolant pressure, required flow, hose material and bend radius remain to select;6mm mechanical clearance is not cooling validation. The non-vacuum-tight hose entries are intentional, while the head coolant fittings and hose walls contain water.

@@ -1,0 +1,221 @@
+{
+  "target_face_z": 141,
+  "illustrative_observation_ring": {
+    "radius": 20,
+    "z": 125
+  },
+  "eye_y": -400,
+  "results": [
+    {
+      "viewport_z": 175,
+      "eye_z": 80,
+      "ring_samples": 72,
+      "through_aperture": 0,
+      "unobstructed": 0
+    },
+    {
+      "viewport_z": 175,
+      "eye_z": 100,
+      "ring_samples": 72,
+      "through_aperture": 0,
+      "unobstructed": 0
+    },
+    {
+      "viewport_z": 175,
+      "eye_z": 120,
+      "ring_samples": 72,
+      "through_aperture": 0,
+      "unobstructed": 0
+    },
+    {
+      "viewport_z": 175,
+      "eye_z": 140,
+      "ring_samples": 72,
+      "through_aperture": 0,
+      "unobstructed": 0
+    },
+    {
+      "viewport_z": 175,
+      "eye_z": 160,
+      "ring_samples": 72,
+      "through_aperture": 0,
+      "unobstructed": 0
+    },
+    {
+      "viewport_z": 175,
+      "eye_z": 175,
+      "ring_samples": 72,
+      "through_aperture": 13,
+      "unobstructed": 0
+    },
+    {
+      "viewport_z": 140,
+      "eye_z": 80,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 72
+    },
+    {
+      "viewport_z": 140,
+      "eye_z": 100,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 72
+    },
+    {
+      "viewport_z": 140,
+      "eye_z": 120,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 72
+    },
+    {
+      "viewport_z": 140,
+      "eye_z": 140,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 72
+    },
+    {
+      "viewport_z": 140,
+      "eye_z": 160,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 13
+    },
+    {
+      "viewport_z": 140,
+      "eye_z": 175,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 0
+    },
+    {
+      "viewport_z": 125,
+      "eye_z": 80,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 72
+    },
+    {
+      "viewport_z": 125,
+      "eye_z": 100,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 72
+    },
+    {
+      "viewport_z": 125,
+      "eye_z": 120,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 72
+    },
+    {
+      "viewport_z": 125,
+      "eye_z": 140,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 72
+    },
+    {
+      "viewport_z": 125,
+      "eye_z": 160,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 13
+    },
+    {
+      "viewport_z": 125,
+      "eye_z": 175,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 0
+    },
+    {
+      "viewport_z": 115,
+      "eye_z": 80,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 72
+    },
+    {
+      "viewport_z": 115,
+      "eye_z": 100,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 72
+    },
+    {
+      "viewport_z": 115,
+      "eye_z": 120,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 72
+    },
+    {
+      "viewport_z": 115,
+      "eye_z": 140,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 72
+    },
+    {
+      "viewport_z": 115,
+      "eye_z": 160,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 13
+    },
+    {
+      "viewport_z": 115,
+      "eye_z": 175,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 0
+    },
+    {
+      "viewport_z": 105,
+      "eye_z": 80,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 72
+    },
+    {
+      "viewport_z": 105,
+      "eye_z": 100,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 72
+    },
+    {
+      "viewport_z": 105,
+      "eye_z": 120,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 72
+    },
+    {
+      "viewport_z": 105,
+      "eye_z": 140,
+      "ring_samples": 72,
+      "through_aperture": 72,
+      "unobstructed": 72
+    },
+    {
+      "viewport_z": 105,
+      "eye_z": 160,
+      "ring_samples": 72,
+      "through_aperture": 56,
+      "unobstructed": 13
+    },
+    {
+      "viewport_z": 105,
+      "eye_z": 175,
+      "ring_samples": 72,
+      "through_aperture": 0,
+      "unobstructed": 0
+    }
+  ],
+  "method": "72 rays to a geometric observation ring, triangle intersection against all gun solids, both aperture end planes; not a plasma-brightness prediction."
+}

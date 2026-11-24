@@ -1,0 +1,50 @@
+<div id="head-stack-r09">
+ <div class="viz-controls">
+  <label class="form-label">Highlight a layer<select class="form-select" id="hs-layer"><option value="all">All layers</option><option value="1">1 — Magnets and locator</option><option value="2">2 — Steel yoke</option><option value="3">3 — Rear sealing plate</option><option value="4">4 — Integral cooling body</option><option value="5">5 — Target</option><option value="6">Three rear mounting screws</option></select></label>
+  <label class="form-label">Separate layers <output id="hs-amount">100%</output><input class="form-range" id="hs-explode" type="range" min="0" max="100" value="100"></label>
+ </div>
+ <div class="viz-row"><button class="btn" id="hs-assembled">Assembled</button><button class="btn" id="hs-separated">Separated</button><label class="form-check"><input class="form-check-input" type="checkbox" id="hs-section"><span class="form-check-label">Half section</span></label></div>
+ <div id="hs-scene" role="img" aria-label="Native SolidWorks head geometry. From rear to target: magnet pack, yoke, rear sealing plate, integral cooling body, target. Drag to rotate."></div>
+ <div class="viz-row" id="hs-legend"></div>
+ <p id="hs-detail" aria-live="polite">Rear → magnets → yoke → sealing plate → cooling body → target</p>
+ <p class="text-small text-muted">Drag to rotate · scroll to zoom · separated view shows joined interfaces apart · clamp, shield, support and pipes omitted</p>
+</div>
+<style>
+#head-stack-r09{display:grid;gap:calc(var(--font-size-base)*1)}
+#hs-scene{height:420px;width:100%;touch-action:none}
+#hs-scene canvas{display:block;width:100%;height:100%}
+#hs-legend span{display:inline-flex;align-items:center;gap:calc(var(--font-size-base)*.3)}
+#hs-legend i{display:inline-block;width:10px;height:10px}
+@media(max-width:500px){#hs-scene{height:330px}}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/build/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+<script>
+(()=>{
+ const data=__DATA__,root=document.getElementById('head-stack-r09'),get=id=>root.querySelector('#hs-'+id);
+ const labels=['','Magnets','Yoke','Rear plate','Cooling body','Target','Mounting screws'];
+ const details=['Rear → magnets → yoke → sealing plate → cooling body → target','5 mm magnet layer; magnets occupy the locator pockets.','8 mm steel yoke; rear mounting screws pass through it.','3 mm copper plate; closes the rear channel and carries the two coolant ports.','9 mm one-piece body; 4 mm rear channel plus 5 mm front wall.','3.175 mm target; its rear face contacts the cooling body.','Heads bear on the rear of the yoke; shanks pass through clearance bores and engage the front of the cooling body.'];
+ const scene=new THREE.Scene(),cam=new THREE.PerspectiveCamera(34,1,.1,3000);
+ const renderer=new THREE.WebGLRenderer({alpha:true,antialias:true});renderer.setPixelRatio(Math.min(devicePixelRatio,2));renderer.localClippingEnabled=true;get('scene').appendChild(renderer.domElement);
+ scene.add(new THREE.HemisphereLight(0xffffff,0x777777,1.1));const lamp=new THREE.DirectionalLight(0xffffff,.65);lamp.position.set(-2,-3,4);scene.add(lamp);
+ const orbit=new THREE.OrbitControls(cam,renderer.domElement);cam.up.set(0,0,1);
+ const cut=new THREE.Plane(new THREE.Vector3(0,1,0),0),objects=[];
+ function buf(s){const a=atob(s),b=new Uint8Array(a.length);for(let i=0;i<a.length;i++)b[i]=a.charCodeAt(i);return b.buffer}
+ for(const p of data){const v=new Int16Array(buf(p.v)),f=new Uint16Array(buf(p.f)),xyz=new Float32Array(v.length);for(let i=0;i<v.length;i++)xyz[i]=v[i]/100;const geo=new THREE.BufferGeometry();geo.setAttribute('position',new THREE.BufferAttribute(xyz,3));geo.setIndex(new THREE.BufferAttribute(f,1));geo.computeVertexNormals();geo.computeBoundingBox();const mesh=new THREE.Mesh(geo,new THREE.MeshStandardMaterial({side:THREE.DoubleSide,roughness:.6,metalness:.12}));scene.add(mesh);objects.push({p,mesh,box:geo.boundingBox.clone()});}
+ for(let i=1;i<=5;i++){const item=document.createElement('span'),swatch=document.createElement('i');swatch.style.background='var(--viz-series-'+i+')';swatch.setAttribute('aria-hidden','true');item.append(swatch,document.createTextNode(i+' '+labels[i]));get('legend').append(item)}
+ function color(token){const el=document.createElement('span');el.style.color='var('+token+')';root.append(el);const value=getComputedStyle(el).color;el.remove();return new THREE.Color(value)}
+ function render(){renderer.render(scene,cam)}
+ function update(fit=true){const t=+get('explode').value/100,selected=get('layer').value,base=color('--muted-foreground');get('amount').textContent=Math.round(t*100)+'%';get('detail').textContent=details[selected==='all'?0:+selected];
+  const bounds=new THREE.Box3();for(const o of objects){o.mesh.visible=o.p.g!==6||selected==='6';o.mesh.position.x=o.p.dx*t;o.mesh.material.clippingPlanes=get('section').checked?[cut]:[];o.mesh.material.color.copy(selected==='all'||selected===String(o.p.g)?color('--viz-series-'+o.p.g):base);if(o.mesh.visible)bounds.union(o.box.clone().translate(o.mesh.position));}
+  if(fit){const mid=bounds.getCenter(new THREE.Vector3()),size=bounds.getSize(new THREE.Vector3()),span=Math.max(size.x,size.y,size.z);orbit.target.copy(mid);cam.position.copy(mid).add(new THREE.Vector3(-.45,-1,.5).normalize().multiplyScalar(span*1.95/Math.min(cam.aspect,1)));cam.lookAt(mid);orbit.update();}render();
+ }
+ function save(){window.openai?.setWidgetState({modelContent:{view:'head-stack-integral',layer:get('layer').value},privateContent:{explode:get('explode').value,section:get('section').checked}})?.catch(()=>{})}
+ get('explode').addEventListener('input',()=>{update();save()});get('layer').addEventListener('change',()=>{update();save()});get('section').addEventListener('change',()=>{update(false);save()});
+ get('assembled').addEventListener('click',()=>{get('explode').value=0;update();save()});get('separated').addEventListener('click',()=>{get('explode').value=100;update();save()});
+ orbit.addEventListener('change',render);
+ new ResizeObserver(()=>{const w=get('scene').clientWidth,h=get('scene').clientHeight;renderer.setSize(w,h);cam.aspect=w/h;cam.updateProjectionMatrix();update()}).observe(get('scene'));
+ new MutationObserver(()=>update(false)).observe(document.documentElement,{attributes:true,attributeFilter:['class','style','data-theme']});
+ function restore(st){if(st?.modelContent?.view==='head-stack-integral'){get('layer').value=st.modelContent.layer||'all';get('explode').value=st.privateContent?.explode??100;get('section').checked=!!st.privateContent?.section;}update()}
+ restore(window.openai?.widgetState);window.addEventListener('openai:set_globals',e=>restore(e.detail?.globals?.widgetState));
+})();
+</script>

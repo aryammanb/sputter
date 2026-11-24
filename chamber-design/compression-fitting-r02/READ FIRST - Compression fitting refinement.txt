@@ -1,0 +1,62 @@
+COMPRESSION FITTING R02 - MECHANISM ANIMATION AND CAD REFINEMENT
+24 November 2026
+
+START WITH
+Gun compression fitting - assembly and adjustment.mp4
+Refined compression fitting - assembled.step
+Refined compression fitting - exploded.step
+
+The cap, body, follower and tube O-ring are separate named solids. The cap
+and body have real matching helical geometry in this reference model.
+The KF clamp has separate opening jaws, hinge pin, screw and wing nut.
+The yellow cap index is a visual animation marker, not purchased hardware.
+
+OPERATION SHOWN
+1. Seat adapter KF face on chamber flange with separate KF face seal.
+2. Close KF clamp and tighten wing nut; this fixes the body to the chamber.
+3. Feed gun service tube upward through the loose compression cap.
+4. Support gun and slide tube to chosen height.
+5. Screw cap down the stationary body; its shoulder loads the follower,
+   squeezing the tube O-ring against the tube. The tube does not rotate.
+6. To readjust while vented, loosen the cap, reposition, and retighten.
+   The KF connection stays assembled.
+
+MODEL BASIS
+Lesker QF25XVC100: tube OD25.4, flange OD39.88 and overall fitting length50.8.
+https://www.lesker.com/flanges/adapters-fittings-quickconnects/part/qf25xvc100
+https://www.lesker.com/newweb/flanges/adapters_couplings_quickconnect.cfm?pgid=0
+Lesker is the reference; selected eBay fitting remains planned procurement:
+https://www.ebay.com/itm/198508082866
+
+The following details ARE ILLUSTRATIVE, not a controlled Lesker drawing:
+2 mm right-hand thread pitch; male major37; capOD44; internal seat/follower;
+4 mm axial loosening; two revolutions over4 mm; clamp hinge/fastener details.
+No torque, number of turns or seal squeeze in the animation is an assembly
+instruction for the purchased fitting. Use its actual supplier instructions.
+O-ring deformation preserves elliptical section area as a visual explanation;
+it is not a seal or clamping-force calculation. The exact purchased fitting
+may transfer compression through a different follower/seat arrangement.
+Body and cap have zero positive-volume overlap in the assembled CAD check.
+
+THE TWO SEALS ARE DIFFERENT
+Tube O-ring: seals and grips around the smooth service tube.
+KF face seal: seals between adapter flange and chamber flange.
+The actual mating flange/centering ring must pass the25.4 tube. The earlier
+standard-KF25 bore concern remains unresolved; the animation assumes a clear
+through path and does not qualify an off-the-shelf centering-ring stack.
+
+CHAMBER CAD
+Chamber R02 - refined fitting door closed.step
+Chamber R02 - refined fitting door open.step
+These retain the same chamber, stage, shutter and latest141-part gun fromR01,
+but replace the coarse adapter/clamp placeholders with the separate mechanism.
+These are STEP assemblies with named/color-coded components, not native CAD
+mates. Supplier verification and the previous chamber's structural/sealing
+limitations still apply. The larger cap outline does not change the gun axis.
+
+VIDEO SCOPE
+This standalone animation is for the user's review first. The previous full
+chamber walkthrough has not been overwritten or integrated with this segment.
+Scene7 is an explanatory stationary cutaway: cap axial motion is shown while
+its rotation is omitted in that section so the open cut remains visible.
+Scene6 shows the actual synchronized cap rotation and axial movement.

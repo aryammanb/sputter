@@ -1,0 +1,41 @@
+SUBSTRATE STAGE AND MANUAL SHUTTER - LOCAL FABRICATION SCOPE
+24 November2026
+
+NEW WORK TO QUOTE
+1. Stage: one SS304 disc, diameter90mm, thickness6mm, per Substrate stage.step.
+   Keep the current simple passive/removable geometry. Break sharp edges and
+   provide a clean, flat, deburred vacuum-facing finish. The four fixed supports
+   are already part of Alfa Technovac's chamber package; do not quote them again.
+   Existing installed stage undersideZ34, topZ40. With the reference1mm specimen,
+   specimen topZ41 is the deposition-distance datum.
+2. Shutter: one SS304 sheet-metal part,1mm thick, two90degree bends, innerR2,
+   per Bent shutter.step. Blade56x56mm, upper strip16mm wide, mounting holeD6.6.
+   Folded CAD is the dimensional master. DXF/flat STEP use provisionalK0.42;
+   the fabricator must adjust developed allowances to their material/tooling
+   to obtain the specified finished geometry. Deburr, clean, leave unpainted.
+   Retain the small existing washer detail (ID6.6 OD16 t0.5) within this job
+   where required; no separate procurement line or separate charge is planned.
+
+STOCK COMPONENTS - NO NEW PURCHASE
+One1/4-28 x1.25in flared-collar hand screw (reference99607A246).
+One FKM O-ring (previous reference6540K248).
+Two1/4-28 aluminium nuts (previous reference90670A155).
+The owner confirmed these are already in stock. References identify the parts;
+they are not purchasing instructions. There is no separate actuator to procure.
+
+RETAINED GEOMETRY
+Shutter axisX-65,Y0. Blade undersideZ53, topZ54,12mm above reference specimen.
+Upper flatZ293..294. Flat midplane drop240mm; straight vertical length235mm.
+Closed blade centred on the specimen; parking rotation80degrees.
+Inherited nominal sweep wall clearance is approximately2.877mm at its minimum.
+The chamber roof hole/sealing land is included inCB01. The stocked hand screw,
+seal and nuts remain the manual mechanism. Confirm fit and installed leak/wear
+performance of the existing seal stack; it has not been qualified as a rotary
+vacuum feedthrough by the illustrative CAD. No new actuator is being designed.
+
+BUDGET RECORD
+Stage planning allowance INR1500; shutter fabrication job INR1000.
+Combined new work INR2500, pending local quotations and applicable tax/delivery.
+Stock screw, O-ring and nuts havezero new-purchase cost. Washer work is included
+in the shutter job; stage supports are included inCB01. These are not supplier
+quotations and no orders or messages have been sent.

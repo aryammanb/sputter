@@ -1,0 +1,39 @@
+{
+  "passed": true,
+  "method": "FFmpeg stream inspection, complete video/audio decode, audio volume check; rendered stills visually reviewed. No physical hardware footage claimed.",
+  "videos": [
+    {
+      "file": "media/01-current-system.mp4",
+      "sha256": "a435f9fc91d24664d6a0766e68b258a585708d77a54c5945c2de94458de3752f",
+      "duration": "00:02:34.30",
+      "video": "H.264",
+      "audio": "AAC",
+      "subtitles": "mov_text English",
+      "full_video_audio_decode_exit_code": 0,
+      "mean_audio_volume_dB": -20.1,
+      "decoder_warnings": ""
+    },
+    {
+      "file": "media/02-current-gun.mp4",
+      "sha256": "9b677de65a15312b781c879dff3fd86a517d7ae85c1882b5d938dab17d5a1aac",
+      "duration": "00:02:40.80",
+      "video": "H.264",
+      "audio": "AAC",
+      "subtitles": "mov_text English",
+      "full_video_audio_decode_exit_code": 0,
+      "mean_audio_volume_dB": -19.8,
+      "decoder_warnings": ""
+    },
+    {
+      "file": "media/03-current-field-and-evidence.mp4",
+      "sha256": "e00a59e2b925e93d4cc66297cbcd3c9075e8970743a150b475b2402c58496acf",
+      "duration": "00:01:55.55",
+      "video": "H.264",
+      "audio": "AAC",
+      "subtitles": "mov_text English",
+      "full_video_audio_decode_exit_code": 0,
+      "mean_audio_volume_dB": -19.8,
+      "decoder_warnings": ""
+    }
+  ]
+}

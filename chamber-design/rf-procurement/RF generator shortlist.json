@@ -1,0 +1,42 @@
+{
+  "updated_date": "2026-11-24",
+  "status": "Omicron selected by user in place of eBay supply and controller candidates",
+  "supplier": "Omicron Scientific Equipment Co., Delhi, India",
+  "procurement_method": "Local purchase",
+  "source": "https://www.omicronscientificequipment.com/radio-frequency-13-56-mhz-products.html",
+  "selection": "13.56 MHz 200 W RF supply and compatible matching network from same supplier",
+  "budget_inr": 235000,
+  "price_basis": "Published supply listing price, provisionally allocated to requested package. Matcher inclusion, cables, GST and delivery need vendor quotation.",
+  "selected_by_user": "2026-11-24",
+  "supersedes": "ENI ACG-10B eBay 388445876920 and separate eBay controller candidates",
+  "external_controls": "Not yet budgeted",
+  "previous_300w_plan": "Supply selection revised to 200 W. Gun CAD unchanged; no claim of RF or thermal qualification.",
+  "superseded_ebay_candidate": {
+    "updated_date": "2026-11-24",
+    "status": "Superseded by Omicron supplier selection",
+    "component": "RF generator",
+    "manufacturer": "ENI",
+    "model": "ACG-10B",
+    "listing_mpn": "ACG-10B-01m6",
+    "listing_url": "https://www.ebay.com/itm/388445876920",
+    "seller": "corporate_leftovers",
+    "location": "Escondido, California, United States",
+    "condition": "Used",
+    "advertised_frequency_mhz": 13.56,
+    "advertised_max_output_w": 1000,
+    "planned_gun_operating_limit_w": 300,
+    "asking_price_usd": 2100,
+    "planning_exchange_rate_inr_per_usd": 90,
+    "equipment_only_planning_price_inr": 189000,
+    "shipping": "Freight; exact quote pending packed weight, dimensions and pickup details. Prior approximately INR 100000 allowance is a tariff benchmark, not a seller quote.",
+    "import_taxes": "Not included in equipment price or shipping allowance",
+    "returns": "Listing says seller does not accept returns",
+    "checks_pending": [
+      "Exact unit nameplate, mains input and transformer tap setting",
+      "RF output performance under a suitable dummy load",
+      "Complete compatible matching network and control hardware",
+      "RF cables, connections and operating power limit implementation"
+    ],
+    "procurement_total_treatment": "Candidate only; no finalized purchase total changed"
+  }
+}

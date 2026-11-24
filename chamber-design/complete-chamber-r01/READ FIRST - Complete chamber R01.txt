@@ -1,0 +1,104 @@
+SPUTTER CHAMBER R01 - COMPLETE NOMINAL MECHANICAL ASSEMBLY
+24 November 2026
+
+OPEN THESE FIRST
+Complete chamber - door closed shutter closed.step
+Complete chamber - door open shutter parked.step
+Sputter chamber R01 - dimensioned walkthrough.mp4
+
+The assembly contains 196 named/color-coded component instances, including
+all 141 source components of the latest twelve-stack gun. Several compound
+hardware instances have multiple solids. STEP is exchange CAD, not a native
+SolidWorks assembly with editable mates or a native sheet-metal feature tree.
+The two STEP states are alternatives, not two assemblies to combine.
+
+COORDINATES AND EXACT NOMINAL DIMENSIONS
+All dimensions are mm. Floor inner face z0; roof inner face z300.
+Internal x/y limits -100..100; front is negative y, rear positive y.
+Internal chamber: 200 x200 x300 =12 litres before internal displacement/ports.
+Walls, roof and floor10 thick; front frame16 deep.
+Roof blank220 x226 x10; gun axis at x0/y0, not blank geometric centre y-3.
+Door228 wide x316 high x16 thick. Clear doorway180 x270 with R8 corners.
+Front frame has a compressed seal-envelope groove4.5 wide x2.2 deep.
+Viewport clear70; glass envelope D94 x6. Final glass/seal rating not selected.
+
+PORTS
+Top: gun KF25 mating connection and reference QF25XVC100 compression adapter.
+Also top: shutter pivot x-65/y0, roof clearance hole6.8.
+Bottom: ISO63-K OD95, port bore63.5; mating face z-45.
+Rear KF25 port centres: gas (x0,z210); gauges (x-50,z90) and (x50,z90).
+Right KF25 port centres: y0/z75 and y0/z225.
+Left wall: blank. No legacy side-port layout is carried forward.
+Five service half-nipples use catalogue envelope OD39.88 / bore22.225 /
+length40.132. These bores are acceptable for service ports, NOT our25.4 gun.
+Gauge bodies, MFC, VCR adapter and turbo internals are not invented supplier
+CAD; the chamber mating ports are provided for those connections.
+
+GUN AND STAGE
+Stage D90 x6, undersidez34 / topz40. Four D6 supports are at x/y +/-29.
+Reference substrate50 x50 x1; its TOP at z41 is the deposition datum.
+Target-to-substrate gap75..150; default100. Corresponding target face
+heights z116..191; defaultz141. Gun motion is75 vertically, with all source
+gun components moving together. Adjustment intended while vented/supported.
+Current service tube straight25.4 OD region corresponds to source Y-103..-278.
+At maximum gap its transition ends atz296, below roofz300.
+At minimum gap its end projects12.2 above the reference adapter topz383.8.
+That tube extension must also satisfy the actual purchased gland engagement.
+Pump baffle D104 x1.5 atz18..19.5; conductance not evaluated.
+
+SHUTTER
+One piece1 mm sheet; two90 degree bends with internalR2/externalR3.
+Upper flatz293..294; bladez53..54. Flat midplane drop240.
+Straight vertical length235. Narrow strip width16; paddle56 x56.
+Blade bottomz53 minus substrate topz41 gives12 clearance.
+Closed blade centre x0/y0, covering the50-square coupon with3 margin/side.
+Pivot x-65/y0; open angle80 degrees about positivez, toward rear.
+Open paddle clears coupon edge by6.575 mm in y.
+Sampled min wall clearance2.877 mm over0..80 at1-degree increments.
+No positive volume interference in shutter sweep checks against the new
+fixed chamber parts and source gun at gaps75/100/150. Inherited contacts
+inside the source gun were not requalified. Closed door/front frame are not
+in that sweep obstacle set; shutter y remains within chamber's inner limits.
+Mechanical open/closed stop hardware and tolerance stack remain to detail.
+
+SHUTTER FLAT PATTERN
+Separate parts/Bent shutter.step is the actual bent solid.
+Developed blank STEP/DXF assume neutral-axis K0.42 with R2 and1 thick.
+Developed overall length381.602654; width56 at blade,16 at arm.
+Each bend allowance3.801327. Shop tooling must determine production values.
+The DXF includes the mounting hole6.6 at station8 and bend tangent lines.
+It is a reference blank, not a validated fabrication drawing.
+
+PURCHASED REFERENCES
+Lesker QF25XVC100 is the gun-adapter reference; planned purchase remains
+eBay item198508082866. Amber parts mark the unverified gun sealing interface.
+https://www.lesker.com/flanges/adapters-fittings-quickconnects/part/qf25xvc100
+https://www.ebay.com/itm/198508082866
+Standard KF25 centering rings and weld stubs can restrict the25.4 tube.
+The model shows a nominal27-bore mating flange allowance and seal space;
+it does not establish an off-the-shelf compatible sealing stack.
+https://www.lesker.com/flanges/hardware-kf-centeringrings/part/qf25-100-srv
+https://www.lesker.com/flanges/fittings-kf-nipples/part/qf25-100-lf
+https://www.lesker.com/newweb/flanges/flanges_technicalnotes_iso_1.cfm?pgid=0
+
+Shutter screw99607A246: supplied1/4-28 x1-1/4 under-head assumption.
+Face seal6540K248: supplied1/4ID x1/2OD x1/8 free-section assumption.
+Nut90670A155: supplied1/4-28 aluminum. Head, nut and compressed-seal geometry
+are nominal envelopes. Supplier pages were inaccessible during this work.
+The threaded screw surface, journal, collar, O-ring gland and axial retention
+must be reviewed as a rotating vacuum seal before use. A small roof hole
+alone does not establish a leak-tight moving feedthrough.
+
+SCOPE / REMAINING ENGINEERING
+This is a dimensioned mechanical concept, not a fabrication release.
+Wall/roof/door/glass pressure strength, deflection, buckling, weld design,
+seal compression, hinge/latch selection and fastening details need review.
+The existing gun's RF, cooling, seal and source-CAD limitations still apply.
+No pump-down time, coating uniformity or process performance is established.
+CAD clearance checks do not account for manufacturing tolerances or flexure.
+
+VIDEO
+Nine narrated chapters use actual tessellated CAD, opening door, moving gun,
+and rotating shutter. Dimensions refer to the1 mm reference substrate and
+the exact nominal model, not measured as-built hardware. Captions and chapter
+markers are embedded; transcript and dimension/clearance JSON are supplied.

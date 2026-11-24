@@ -1,0 +1,22 @@
+,,,,,,,,,,,,,
+04 Substrate stage and manual shutter,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Two new fabrication jobs only. Existing hand screw, O-ring and two nuts are in stock; no separate actuator purchase.",,,,,,,,,,,,,
+,,,,,,,,New fabrication budget (INR),,2500,,,
+"Planning allowances, not quotations. Supplier GST/delivery to confirm. Fixed supports are already included inCB01.",,,,,,,,,,,,,
+"Stock quantities below are allocations for this build, not a count of the entire stockroom.",,,,,,,,,,,,,
+Folded shutter STEP controls geometry. Reference flat DXF/K0.42 may be adjusted by fabricator for actual bend tooling.,,,,,,,,,,,,,
+ID,Component,Specification,Required qty,Stock allocated,New order qty,Unit,Procurement method,Inventory / scope status,Unit allowance (₹),New spend (₹),Supplier / reference,Notes,CAD / fabrication file
+SS01,Substrate stage plate,"SS304 disc, D90 x6mm; simple passive removable stage as current CAD",1,0,1,piece,Custom vendor order,Local fabrication,1500,1500,Mumbai precision turning/machining shop; vendor quote pending,Keep existing stage geometry. Stage supports are included inCB01. Stage topZ40; reference1mm specimen topZ41.,C:\Users\Aryamman\Documents\ChatGPT\sputter\chamber-design\stage-shutter-procurement\Substrate stage.step
+SS02,One-piece bent sheet-metal shutter,"SS304 sheet1mm; two90deg bends, innerR2;56x56 blade; existing folded CAD controls",1,0,1,piece,Custom vendor order,Local fabrication,1000,1000,Mumbai laser-cutting and press-brake vendor; quote pending,Finished geometry controls. K0.42 DXF is a reference; fabricator adjusts blank/bend allowance to actual tooling. Include small thrust-washer detail in same job.,C:\Users\Aryamman\Documents\ChatGPT\sputter\chamber-design\stage-shutter-procurement\Bent shutter.step
+SS03,Shutter hand screw,1/4-28 x1.25in flared-collar thumb screw; previous reference99607A246,1,1,0,piece,No purchase,Already in stock,0,0,Existing stock; reference only:https://www.mcmaster.com/99607A246/,User confirmed stock. Manual operation; no separate actuator.,
+SS04,Shutter FKM O-ring,Previous reference6540K248;1/4in ID x1/2in OD x1/8in cross-section,1,1,0,piece,No purchase,Already in stock,0,0,Existing stock; reference only:https://www.mcmaster.com/6540K248/,One seal allocated from user stock; do not buy another pack. Actual rotary seal stack still needs installed leak/wear checking.,
+SS05,Shutter nuts,1/4-28 aluminium nuts; previous reference90670A155,2,2,0,piece,No purchase,Already in stock,0,0,Existing stock; reference only:https://www.mcmaster.com/90670A155/,Two installed nuts allocated; no new pack to procure.,
+SS06,Small shutter thrust washer,Existing CAD reference: ID6.6 OD16 x0.5mm,1,0,0,piece,Included in SS02,Included in fabrication,0,0,Supplied/finished with the sheet-metal job,"Retain as part of existing assembly detail if required; included inSS02 allowance, not a separate shopping item or an assumed stock holding.",
+SS07,Fixed stage supports,4 posts D6 x34 atX/Y +/-29mm,4,0,0,piece,Included in CB01,Included in chamber package,0,0,Alfa Technovac chamber package,Already inCB01 supplier scope and allowance; do not buy or charge twice.,
+SS08,Reference specimen,50x50x1mm reference only,1,0,0,piece,Reference only,Not a hardware purchase,0,0,"Process specimen, not a stage fabrication item",Shown only to define stage/shutter/target distances; actual process substrates are outside this hardware purchase list.,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Stage topZ40; reference specimen topZ41; shutter undersideZ53 gives12mm clearance. Blade56square; manual rotation80deg.,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Stock seal hardware is retained. Verify final assembly fit and vacuum leak performance; CAD does not qualify a dynamic rotary seal.,,,,,,,,,,,,,

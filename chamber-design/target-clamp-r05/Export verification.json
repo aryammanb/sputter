@@ -1,0 +1,35 @@
+{
+  "new_screw_interference_outside_intended_copper_threads": [],
+  "gun_solids": 141,
+  "gun_valid_solids": 141,
+  "assemblies": {
+    "Target clamp R05 - 3.175mm target": {
+      "solids": 1,
+      "valid": 1,
+      "known_invalid_supplier_RV3": 0
+    },
+    "Aluminium target D50.8 x3.175": {
+      "solids": 1,
+      "valid": 1,
+      "known_invalid_supplier_RV3": 0
+    },
+    "Clamp R05 fit assembly": {
+      "solids": 3,
+      "valid": 3,
+      "known_invalid_supplier_RV3": 0
+    },
+    "Complete sputter system R05": {
+      "solids": 406,
+      "valid": 405,
+      "known_invalid_supplier_RV3": 1
+    },
+    "Complete sputter system R05 - loading": {
+      "solids": 406,
+      "valid": 405,
+      "known_invalid_supplier_RV3": 1
+    }
+  },
+  "actual_target_front_z_mm": 141.0,
+  "actual_substrate_top_z_mm": 41.0,
+  "actual_default_gap_mm": 100.0
+}

@@ -1,0 +1,14 @@
+Your updated twelve-stack head
+This is today's updated twelve stack Advanced Tinkering design, using the actual revised copper body and backplate. Here, the water channel is one annulus between the central magnet well and the twelve outer wells. Only two circular joints are needed to replace the two coolant O rings.
+
+Water lies between two circular bonds
+Looking into the cooling body, blue marks the annular water passage. A continuous inner bond keeps water out of the central dry space. A continuous outer bond keeps it out of the outer magnet region. The outer wells sit outside the water annulus, so they do not each need their own bonded ring.
+
+Prepare the backplate for bonding
+This is the matching face of the updated backplate. Gold marks the proposed bonding regions at the current two seal locations. These are design overlays, not finished brazing details. We would revise the O ring grooves into suitable bonding lands, with joint clearance and filler specified by the joining shop. Simply removing the rubber and tightening the screws would not seal it.
+
+Join the two copper faces
+The prepared backplate closes against the cooling body. Both circular interfaces are brazed, creating a permanent metal boundary on each side of the water channel. The gold rings are shown through the copper to reveal the buried joints. Joining happens before installing magnets, hoses or polymer parts.
+
+The metal joint is now the water seal
+This section shows how the two copper parts enclose the water passage. The inner and outer bonds replace the two coolant O rings. There is no divider to bond in this design: water takes both semicircular routes between the opposed ports. Target changes still leave the water enclosure closed. The ports and the other vacuum seals remain separate interfaces. Pressure and leak testing must verify the finished enclosure.

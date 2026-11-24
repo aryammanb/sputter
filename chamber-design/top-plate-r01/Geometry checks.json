@@ -1,0 +1,35 @@
+{
+  "status": "PRELIMINARY; NOT A VERIFIED COMPATIBLE ASSEMBLY OR FABRICATION RELEASE",
+  "units": "mm",
+  "plate": {
+    "width": 220,
+    "depth": 220,
+    "thickness_assumed": 10,
+    "central_bore": 27
+  },
+  "chamber_internal_footprint": [
+    200,
+    200
+  ],
+  "neck_allowance": {
+    "OD": 33,
+    "ID": 27,
+    "height_above_plate": 20
+  },
+  "gun_tube_OD": 25.4,
+  "nominal_diametral_clearance_in_roof_and_neck": 1.6,
+  "checks": {
+    "plate_valid": true,
+    "neck_valid": true,
+    "plate_neck_interference_mm3": 0.0,
+    "plate_reimport_valid": true
+  },
+  "unresolved": [
+    "Standard QF25-100-SRV ring dimensions A23.6/B26 require drawing review; 25.4 tube passage is not established.",
+    "KF25 mating flange and seal stack deliberately not modeled. Standard weld stubs can restrict passage below 25.4.",
+    "Selected adapter and mating seal must pass tube end and full adjustment travel.",
+    "Roof pressure deflection, wall attachment, weld distortion and seal/retention design require verification.",
+    "Neck allowance is not a selected purchased KF25 weld flange.",
+    "Door assembly access and gun collision checks not yet performed."
+  ]
+}

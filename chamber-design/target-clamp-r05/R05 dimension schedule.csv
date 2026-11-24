@@ -1,0 +1,26 @@
+﻿Dimension,Nominal value mm
+target_diameter,50.8
+target_thickness,3.175
+clamp_OD,93.6
+clamp_front_y,5
+contact_shoulder_y,3.175
+lip_axial_depth,1.825
+minimum_aperture_diameter,47.8
+front_aperture_diameter,49.45
+contact_edge_chamfer,0.25
+contact_inner_diameter,48.3
+target_contact_radial_band,1.25
+screw_spec,M3 x10 (12 pieces)
+screw_PCD,80
+screw_count,12
+screw_clearance_diameter,3.3
+counterbore_diameter,5.7
+counterbore_seat_y,1
+shield_minimum_clearance,1.0
+gun_default_translation_z,144.175
+default_target_face_z,141
+substrate_top_z,41
+default_target_substrate_gap,100
+magnet_tip_to_target_front,5.675
+target_gap_min,75
+target_gap_max,150

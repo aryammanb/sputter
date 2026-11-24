@@ -1,0 +1,8 @@
+{
+  "pilot_diameter_mm": 4.2,
+  "pilot_depth_mm": 10,
+  "door_thickness_mm": 16,
+  "remaining_solid_mm": 6,
+  "all_six_backings_checked_solid": true,
+  "threads": "M5 nominal; actual tapping and screw engagement to detail"
+}

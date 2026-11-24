@@ -1,0 +1,67 @@
+EXPOSED LIVE SCREW HEAD - GUARDED CONCEPT
+
+Purpose: develop the screw-head/ground-pocket geometry identified by the user
+as the reported arcing location. The earlier ceramic washer concept left the
+side of the live head exposed. A material substitution alone did not address it.
+
+Proposed arrangement:
+1. Keep the metal M3x35 clamping screw and separate ceramic bearing insulation.
+2. Add a machinable PTFE guard surrounding the live head and metal bearing washer.
+3. Overlap the ceramic washer with the guard's upper lip, rather than leaving
+   a straight side opening beside the live washer. The guard is not clamped by
+   the screw and is not a structural fastener.
+4. Add a removable PTFE threaded cap for the tool-access opening.
+5. Vent the pocket to the chamber through an offset pump-out route. Do not
+   intentionally trap atmospheric gas in a sealed screw-head pocket.
+
+The conceptual guard uses an external M12x1 thread into a redesigned Boden
+pocket. The cap uses a nominal M9x1 thread inside the guard. These are proposed
+retention interfaces; thread helices, reliefs, fits, tolerances and tightening
+limits have not been detailed. Their solids use nominal thread envelopes, with
+expected overlapping volumes at those interfaces. They are not ready-to-machine
+thread drawings or an off-the-shelf part specification.
+
+Dimension study:
+Original head pocket8mm. Proposed pocket: lower nominal M12x1 minor diameter
+10.917, with12mm upper washer-seat diameter. Existing floor remains atY-68.
+Ceramic shank sleeve OD5.6 ID3.3 length22, same conceptual location as before.
+Ceramic washer OD8.8 ID3.3 thickness2.5; revised OD to fit the guard's overlapping lip.
+Metal washer OD7 ID3.3 thickness0.5. Screw head underfaceY-71, bottomY-74.
+Guard OD12; lower bore8, upper lip bore9. Guard extendsY-78 to-69.5.
+Upper lip overlaps ceramic washer axially1mm; radial clearance0.1mm nominal.
+This small nominal gap requires a toleranced thermal/assembly fit review.
+Lip remains1.5mm below the grounded floor; main screw preload is not transferred
+through the protective guard. Nominal guard thread engagement in body3.5mm.
+Guard extends4mm beyond head/grounded face. Cap extends6mm beyond grounded face.
+Cap head OD11.6 thickness2; spigot nominalM9x1 length2, endingY-76.
+Cap top is2mm below lowest live head surface. These dimensions are not voltage ratings.
+Two0.6mm intersecting bores form a90-degree pump-out route in the cap.
+There is no straight-through driver hole to the screw; external driver slot is blind.
+
+Model checks:
+Nine valid solids on STEP reimport. Local intersections are only three nominal
+thread interfaces: metal screw/live spacer, guard/Boden, cap/guard.
+Guard and cap external envelopes are checked at all twelve source screw locations
+against the original reconstruction, excluding Boden which requires new pockets.
+See Guard envelope checks.json. This does not approve the new hole pattern,
+remaining walls, thread strength, tool access or assembly/removal procedure.
+
+Electrical limits:
+This changes exposed-head geometry and is intended to reduce the particular
+discharge opportunity. It does not establish arc-free operation. Surface flashover,
+field concentration at metal/insulator/gas junctions, RF dielectric heating and
+conductive deposition remain relevant. No field or plasma calculation is supplied.
+The protective enclosure is not a vacuum seal. Confirm which spaces communicate
+with chamber vacuum before manufacture; do not drill through the pressure boundary.
+Final dimensions require actual gas, pressure range during pumpdown and operation,
+peak RF voltage/current and DC bias. Power alone is insufficient to establish them.
+Evaluate retention after thermal cycling and inspect/replace contaminated guards.
+Main PTFE sealing-ring compression/creep remains a separate issue.
+
+Research background, not validation of this particular guard:
+https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/hve2.70104
+The paper discusses metal-vacuum-insulator junction fields and vacuum surface
+flashover. It does not establish a rating for this proposed PTFE cap arrangement.
+
+The before/after image compares the previous ceramic-washer concept with this
+proposed guard. The red zigzag is illustrative and is not a simulated or recorded arc.

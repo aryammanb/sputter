@@ -1,0 +1,112 @@
+{
+  "sheet": "11 Frame and supports",
+  "values": {
+    "A2": "11 Frame and supports",
+    "A4": "Allowances as at 24 Nov 2026. Contacts are sourcing candidates, not quotations or confirmed orders. Vendor supplies the listed components as one coordinated package where practical.",
+    "F5": "Budget (INR)",
+    "I5": "45000",
+    "A9": "ID",
+    "B9": "Component / service",
+    "C9": "Scope",
+    "D9": "Qty",
+    "E9": "Procurement method",
+    "F9": "Contact / sourcing route",
+    "G9": "Status",
+    "H9": "Unit INR",
+    "I9": "Line INR",
+    "J9": "Price basis / exclusions",
+    "A10": "FR01",
+    "B10": "Fabricated equipment frame",
+    "C10": "Braced welded mild-steel frame, powder coated; material/cut/weld/finish included",
+    "D10": "1",
+    "E10": "Custom vendor order",
+    "F10": "Unity Fabricators, Thane. +91 9920566939; unityengrs1@gmail.com. https://unityfabricators.com/contact-us/",
+    "G10": "Planning allowance",
+    "H10": "22000",
+    "I10": "22000",
+    "J10": "Budget concept, final layout/drawing/load checks pending. Includes chamber support and top access. No raw steel charged separately.",
+    "A11": "FR02",
+    "B11": "Equipment shelves and trays",
+    "C11": "Formed shelves for RF supply/matcher, controller and mechanical pump",
+    "D11": "1",
+    "E11": "Custom vendor order",
+    "F11": "Unity Fabricators, Thane. +91 9920566939; unityengrs1@gmail.com. https://unityfabricators.com/contact-us/",
+    "G11": "Planning allowance",
+    "H11": "8000",
+    "I11": "8000",
+    "J11": "Allow service access and manufacturer ventilation. Chillers preferably on floor; no enclosure of their airflow.",
+    "A12": "FR03",
+    "B12": "Levelling and vibration pads",
+    "C12": "Levelling feet and pump isolation pads, complete set",
+    "D12": "1",
+    "E12": "Local purchase",
+    "F12": "Unity Fabricators, Thane. +91 9920566939; unityengrs1@gmail.com. https://unityfabricators.com/contact-us/",
+    "G12": "Planning allowance",
+    "H12": "3000",
+    "I12": "3000",
+    "J12": "Stationary frame basis. Castors not required for current plan.",
+    "A13": "FR04",
+    "B13": "Equipment mounting brackets",
+    "C13": "Turbo restraint, gauge supports and chiller-hose support brackets",
+    "D13": "1",
+    "E13": "Custom vendor order",
+    "F13": "Unity Fabricators, Thane. +91 9920566939; unityengrs1@gmail.com. https://unityfabricators.com/contact-us/",
+    "G13": "Planning allowance",
+    "H13": "6000",
+    "I13": "6000",
+    "J13": "Support the turbo per its manufacturer instructions. Mechanical pump is not supported through hose. No duplicate chamber flange clamps. The existing MFC bracket remains solely in the gas BOM.",
+    "A14": "FR05",
+    "B14": "Cable and hose management",
+    "C14": "Rear cable tray, clips, strain relief and hose supports",
+    "D14": "1",
+    "E14": "Local purchase",
+    "F14": "Unity Fabricators, Thane. +91 9920566939; unityengrs1@gmail.com. https://unityfabricators.com/contact-us/",
+    "G14": "Planning allowance",
+    "H14": "2000",
+    "I14": "2000",
+    "J14": "Keep lines clear of door motion and adjustable gun. No duplicate hose or electrical cable purchase.",
+    "A15": "FR06",
+    "B15": "Guards and drip trays",
+    "C15": "Removable drip trays and shields around service connections",
+    "D15": "1",
+    "E15": "Custom vendor order",
+    "F15": "Unity Fabricators, Thane. +91 9920566939; unityengrs1@gmail.com. https://unityfabricators.com/contact-us/",
+    "G15": "Planning allowance",
+    "H15": "4000",
+    "I15": "4000",
+    "J15": "Frame accessories only; chamber door/viewport remain in CB01.",
+    "A18": "Frame vendor must approve loading, stiffness, stability, anchoring and access against final equipment dimensions. This is a costed procurement scope, not released structural drawings.",
+    "A19": "Keep turbo attached to ISO63 chamber connection with manufacturer-required restraint/support. Preserve gun height adjustment, viewport access, door swing and rear service clearance."
+  },
+  "formulas": {
+    "I5": {
+      "formula": "SUM(I10:I15)",
+      "cached_value": "45000"
+    },
+    "I10": {
+      "formula": "D10*H10",
+      "cached_value": "22000"
+    },
+    "I11": {
+      "formula": "D11*H11",
+      "cached_value": "8000"
+    },
+    "I12": {
+      "formula": "D12*H12",
+      "cached_value": "3000"
+    },
+    "I13": {
+      "formula": "D13*H13",
+      "cached_value": "6000"
+    },
+    "I14": {
+      "formula": "D14*H14",
+      "cached_value": "2000"
+    },
+    "I15": {
+      "formula": "D15*H15",
+      "cached_value": "4000"
+    }
+  },
+  "cached_errors": []
+}

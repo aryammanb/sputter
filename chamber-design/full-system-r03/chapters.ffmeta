@@ -1,0 +1,82 @@
+;FFMETADATA1
+title=Full sputter system R03 - integrated dimensioned walkthrough
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=31250
+title=Complete system and selected pumping layout
+[CHAPTER]
+TIMEBASE=1/1000
+START=31250
+END=61000
+title=Front loading and fixed rear services
+[CHAPTER]
+TIMEBASE=1/1000
+START=61000
+END=85250
+title=Two different connections
+[CHAPTER]
+TIMEBASE=1/1000
+START=85250
+END=103250
+title=Seat the fitting on the KF flange
+[CHAPTER]
+TIMEBASE=1/1000
+START=103250
+END=120917
+title=Close the KF clamp
+[CHAPTER]
+TIMEBASE=1/1000
+START=120917
+END=138250
+title=Feed the tube through the loose fitting
+[CHAPTER]
+TIMEBASE=1/1000
+START=138250
+END=156750
+title=Choose the target to substrate distance
+[CHAPTER]
+TIMEBASE=1/1000
+START=156750
+END=184333
+title=Thread the cap down to grip the tube
+[CHAPTER]
+TIMEBASE=1/1000
+START=184333
+END=206833
+title=Section view of the compression mechanism
+[CHAPTER]
+TIMEBASE=1/1000
+START=206833
+END=246208
+title=Stage, shutter and exact working dimensions
+[CHAPTER]
+TIMEBASE=1/1000
+START=246208
+END=286083
+title=EXT70 model and ISO63 claw-clamp connection
+[CHAPTER]
+TIMEBASE=1/1000
+START=286083
+END=321958
+title=KF25 hose and mechanical backing pump
+[CHAPTER]
+TIMEBASE=1/1000
+START=321958
+END=353333
+title=Pirani and Penning gauge installation
+[CHAPTER]
+TIMEBASE=1/1000
+START=353333
+END=390958
+title=Mass flow controller and chamber connection
+[CHAPTER]
+TIMEBASE=1/1000
+START=390958
+END=429583
+title=MFC inlet adapters through to the push fitting
+[CHAPTER]
+TIMEBASE=1/1000
+START=429583
+END=471833
+title=Delivered CAD and remaining verification

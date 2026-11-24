@@ -1,0 +1,56 @@
+COOLANT FITTING REVISION R06
+24 November 2026
+
+Selected fitting: 2 x SMC KQG2S04-M5, 4 mm tube OD, M5x0.8 male thread,
+SUS316 metal parts and special FKM seals. Internal 2 mm hex installation.
+Manufacturer envelope: OD9 mm, overall17.1 mm, installed projection14.1 mm.
+US buying reference: https://www.smcpneumatics.com/KQG2S04-M5.html
+Manufacturer catalog saved in ../coolant-fitting-selection.
+
+CHANGES
+- Copper backplate ports remain centred at native X +/-18 mm, Z0.
+- Former nominal D7.95 counterbores and D5 passages are removed.
+- New ports: D3 flow passages through, D4.2 tap drills5 mm deep from rear
+  faceY-22.5. Callout: 2X M5x0.8-6H, full useful thread4 mm minimum.
+- Flat gasket seating face retained around each port. Use the specified
+  manufacturer's supplied M5 gasket and installation procedure; thread tape
+  is not a substitute for the gasket seat.
+- Existing D14 yoke openings retained: nominal radial clearance toOD9 body
+  is2.5 mm. Fitting top is4.1 mm beyond the10 mm thick yoke face.
+- Two fitting bodies and release rings replaced by catalogue envelope models.
+  Hidden internal details are representative, not manufacturer CAD.
+- Hose insertion segment extended to match the new fitting. Existing hose
+  bends and4mmOD/2.5mmID retained; supplier bend-radius qualification remains.
+- R05 aluminium3.175 mm target and clamp retained. Target-to-substrate
+  adjustment and chamber layout unchanged.
+
+SOLIDWORKS
+Native copper backplate contains two cut-extrude features for passages and
+pilot bores. M5 thread is specified by feature names/custom properties, not
+helical tooth geometry. This is a machining specification candidate, not
+an approved detailed fabrication drawing or a qualified seal design.
+Native assembly components are fixed at the checked assembly positions.
+
+CHECKS AND LIMITS
+Changed-part Boolean checks found no new non-thread interference.
+Fitting-to-tap-minor-bore overlap is expected nominal threaded engagement.
+Existing yoke screw / RF terminal thread-envelope overlaps are retained.
+Native imports are checked for body validity and volume agreement. Unchanged
+curved imported parts can differ slightly between CAD kernels; baseline
+volume tolerance0.1%, revised backplate0.01%, absolute tolerance0.02 mm3.
+No zero-leakage or water-in-vacuum performance claim is made. Manufacturer
+KQG2 vacuum-retention caveat remains. Pressurized coolant joints must be
+qualified before fabrication/operation release.
+
+SYSTEM CONTEXT
+The old RV3 supplier reference has a pre-existing invalid solid. It remains
+in the complete comparison STEP for continuity but is excluded from the
+native SolidWorks build. It is not the selected INDOVAC HV2-150 pump;
+replacement vendor geometry is still pending. Other unchanged purchased
+component/chiller envelopes remain representative.
+
+DELIVERABLE SCOPE
+The native SolidWorks assembly is the141-component gun. The complete system
+is supplied as an updated STEP context model, preserving its original339
+component instances. Unchanged chamber context has not been repackaged as
+a native full-system assembly.

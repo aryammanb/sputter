@@ -1,0 +1,20 @@
+# Local environments, application profiles and generated intermediates
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+browser-profile/
+browser-check/
+*browser-profile*/
+*.lnk
+*.bak
+*.tmp
+~$*
+tools/.work/
+validation/local-*.json
+# Original workspace outputs are preserved locally; curated records live in procurement.
+outputs/

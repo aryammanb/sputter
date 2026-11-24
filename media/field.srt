@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:10,545
+The original nonlinear magnetostatic model used a two millimetre nonmagnetic target and gave ninety five point one millitesla mean parallel field near its surface
+
+2
+00:00:10,545 --> 00:00:12,759
+That is an earlier target revision
+
+3
+00:00:12,759 --> 00:00:22,133
+This updated assessment samples the saved fine mesh solution a quarter millimetre above the current three point one seven five millimetre target
+
+4
+00:00:22,133 --> 00:00:27,080
+The calculated mean parallel field is eighty six point four three millitesla
+
+5
+00:00:27,080 --> 00:00:37,040
+The range is eighty two point nine six to eighty nine point five three, with a mean normal field zero contour radius of twenty point one nine millimetres
+
+6
+00:00:37,040 --> 00:00:45,178
+The changed target, copper and fittings have unit relative permeability in this model, and the magnets and yoke are unchanged
+
+7
+00:00:45,178 --> 00:00:48,172
+This supports resampling the existing solution
+
+8
+00:00:48,172 --> 00:00:55,789
+It is not a new mesh or nonlinear solve, and it does not establish new uncertainty bounds or experimental validation.

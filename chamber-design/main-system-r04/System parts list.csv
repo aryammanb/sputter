@@ -1,0 +1,340 @@
+﻿Name,Role,Group,Scope / reference,Valid
+Gun 001 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-10 / stack disc 1,True
+Gun 002 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-10 / stack disc 2,True
+Gun 003 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-6 / stack disc 1,True
+Gun 004 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-6 / stack disc 2,True
+Gun 005 backbolts,gun_backbolts,gun,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-6,True
+Gun 006 backbolts,gun_backbolts,gun,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-8,True
+Gun 007 backbolts,gun_backbolts,gun,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-9,True
+Gun 008 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-5 / stack disc 1,True
+Gun 009 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-5 / stack disc 2,True
+Gun 010 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-7 / stack disc 1,True
+Gun 011 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-7 / stack disc 2,True
+Gun 012 backbolts,gun_backbolts,gun,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-4,True
+Gun 013 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-9 / stack disc 1,True
+Gun 014 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-9 / stack disc 2,True
+Gun 015 backbolts,gun_backbolts,gun,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-5,True
+Gun 016 backbolts,gun_backbolts,gun,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-7,True
+Gun 017 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-8 / stack disc 1,True
+Gun 018 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-8 / stack disc 2,True
+Gun 019 backbolts,gun_backbolts,gun,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-10,True
+Gun 020 fittings,gun_fittings,gun,01 Original cathode cooling and magnets-1/REF coolant push-in fitting body-2,True
+Gun 021 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-12 / stack disc 1,True
+Gun 022 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-12 / stack disc 2,True
+Gun 023 fittings,gun_fittings,gun,01 Original cathode cooling and magnets-1/REF coolant push-in fitting body-1,True
+Gun 024 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-11 / stack disc 1,True
+Gun 025 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-11 / stack disc 2,True
+Gun 026 backbolts,gun_backbolts,gun,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-12,True
+Gun 027 fittings,gun_fittings,gun,01 Original cathode cooling and magnets-1/REF coolant fitting blue release collar-2,True
+Gun 028 backbolts,gun_backbolts,gun,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-11,True
+Gun 029 fittings,gun_fittings,gun,01 Original cathode cooling and magnets-1/REF coolant fitting blue release collar-1,True
+Gun 030 waterseal,gun_waterseal,gun,01 Original cathode cooling and magnets-1/AT O-ring ID35x2 installed-1,True
+Gun 031 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-1 / stack disc 1,True
+Gun 032 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-1 / stack disc 2,True
+Gun 033 yokebolt,gun_yokebolt,gun,01 Original cathode cooling and magnets-1/AT M4x10 socket-head study-1,True
+Gun 034 waterseal,gun_waterseal,gun,01 Original cathode cooling and magnets-1/AT O-ring ID14p5x2 installed-1,True
+Gun 035 cooler,gun_cooler,gun,01 Original cathode cooling and magnets-1/Kuehlkoerper-1,True
+Gun 036 closure,gun_closure,gun,01 Original cathode cooling and magnets-1/Backplate-1,True
+Gun 037 yoke,gun_yoke,gun,01 Original cathode cooling and magnets-1/Magnet Joke-1,True
+Gun 038 centermag,gun_centermag,gun,01 Original cathode cooling and magnets-1/AT center magnet D12x10 N45-1,True
+Gun 039 backbolts,gun_backbolts,gun,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-1,True
+Gun 040 centermag,gun_centermag,gun,01 Original cathode cooling and magnets-1/AT center magnet D12x10 N45-2,True
+Gun 041 backbolts,gun_backbolts,gun,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-3,True
+Gun 042 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-3 / stack disc 1,True
+Gun 043 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-3 / stack disc 2,True
+Gun 044 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-4 / stack disc 1,True
+Gun 045 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-4 / stack disc 2,True
+Gun 046 backbolts,gun_backbolts,gun,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-2,True
+Gun 047 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-2 / stack disc 1,True
+Gun 048 outermag,gun_outermag,gun,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-2 / stack disc 2,True
+Gun 049 headbolts,gun_headbolts,gun,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-2,True
+Gun 050 headbolts,gun_headbolts,gun,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-6,True
+Gun 051 headbolts,gun_headbolts,gun,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-9,True
+Gun 052 headbolts,gun_headbolts,gun,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-3,True
+Gun 053 headbolts,gun_headbolts,gun,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-11,True
+Gun 054 headbolts,gun_headbolts,gun,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-12,True
+Gun 055 headseal,gun_headseal,gun,02 Original spacer and copper attachment-1/AT O-ring ID76x2 installed-1,True
+Gun 056 headbolts,gun_headbolts,gun,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-7,True
+Gun 057 headbolts,gun_headbolts,gun,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-4,True
+Gun 058 headbolts,gun_headbolts,gun,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-1,True
+Gun 059 spacer,gun_spacer,gun,02 Original spacer and copper attachment-1/Abstandshalter-1,True
+Gun 060 headbolts,gun_headbolts,gun,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-5,True
+Gun 061 headbolts,gun_headbolts,gun,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-8,True
+Gun 062 headbolts,gun_headbolts,gun,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-10,True
+Gun 063 hoses,gun_hoses,gun,07 Reference atmospheric utility routes-1/REF blue coolant hose right-1,True
+Gun 064 hoses,gun_hoses,gun,07 Reference atmospheric utility routes-1/REF blue coolant hose left-1,True
+Gun 065 kfclamps,gun_kfclamps,gun,06 Original clamp and reference KF16 tube-1/AT original flange clamp half-2,True
+Gun 066 kfclamps,gun_kfclamps,gun,06 Original clamp and reference KF16 tube-1/AT original flange clamp half-1,True
+Gun 067 kfbolts,gun_kfbolts,gun,06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-1,True
+Gun 068 kfbolts,gun_kfbolts,gun,06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-4,True
+Gun 069 kfbolts,gun_kfbolts,gun,06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-5,True
+Gun 070 kfcenter,gun_kfcenter,gun,06 Original clamp and reference KF16 tube-1/REF KF16 centering ring fitted-1,True
+Gun 071 kfbolts,gun_kfbolts,gun,06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-6,True
+Gun 072 kfseal,gun_kfseal,gun,06 Original clamp and reference KF16 tube-1/REF KF16 O-ring installed envelope-1,True
+Gun 073 kfbolts,gun_kfbolts,gun,06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-3,True
+Gun 074 kfbolts,gun_kfbolts,gun,06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-2,True
+Gun 075 cups,gun_cups,gun,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-11,True
+Gun 076 basebolts,gun_basebolts,gun,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-11,True
+Gun 077 basebolts,gun_basebolts,gun,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-10,True
+Gun 078 cups,gun_cups,gun,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-12,True
+Gun 079 basebolts,gun_basebolts,gun,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-12,True
+Gun 080 cups,gun_cups,gun,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-4,True
+Gun 081 basebolts,gun_basebolts,gun,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-7,True
+Gun 082 cups,gun_cups,gun,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-5,True
+Gun 083 basebolts,gun_basebolts,gun,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-9,True
+Gun 084 cups,gun_cups,gun,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-6,True
+Gun 085 cups,gun_cups,gun,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-10,True
+Gun 086 cups,gun_cups,gun,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-8,True
+Gun 087 basebolts,gun_basebolts,gun,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-4,True
+Gun 088 basebolts,gun_basebolts,gun,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-3,True
+Gun 089 basebolts,gun_basebolts,gun,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-5,True
+Gun 090 basebolts,gun_basebolts,gun,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-6,True
+Gun 091 cups,gun_cups,gun,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-7,True
+Gun 092 basebolts,gun_basebolts,gun,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-8,True
+Gun 093 cups,gun_cups,gun,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-9,True
+Gun 094 isolator,gun_isolator,gun,03 Original PTFE isolation and base-1/Isolator-1,True
+Gun 095 upper62,gun_upper62,gun,03 Original PTFE isolation and base-1/AT O-ring ID62x2 installed-1,True
+Gun 096 cups,gun_cups,gun,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-1,True
+Gun 097 basebolts,gun_basebolts,gun,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-1,True
+Gun 098 cups,gun_cups,gun,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-2,True
+Gun 099 basebolts,gun_basebolts,gun,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-2,True
+Gun 100 lower62,gun_lower62,gun,03 Original PTFE isolation and base-1/AT O-ring ID62x2 installed-2,True
+Gun 101 cups,gun_cups,gun,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-3,True
+Gun 102 targetbolts,gun_targetbolts,gun,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-12,True
+Gun 103 clamp,gun_clamp,gun,04 Original target clamp and fitted target-1/Target Klemme-1,True
+Gun 104 target,gun_target,gun,04 Original target clamp and fitted target-1/AT titanium target D50p8x2 fitted-1,True
+Gun 105 targetbolts,gun_targetbolts,gun,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-1,True
+Gun 106 targetbolts,gun_targetbolts,gun,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-2,True
+Gun 107 targetbolts,gun_targetbolts,gun,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-3,True
+Gun 108 targetbolts,gun_targetbolts,gun,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-4,True
+Gun 109 targetbolts,gun_targetbolts,gun,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-5,True
+Gun 110 targetbolts,gun_targetbolts,gun,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-6,True
+Gun 111 targetbolts,gun_targetbolts,gun,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-7,True
+Gun 112 targetbolts,gun_targetbolts,gun,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-8,True
+Gun 113 targetbolts,gun_targetbolts,gun,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-9,True
+Gun 114 targetbolts,gun_targetbolts,gun,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-10,True
+Gun 115 targetbolts,gun_targetbolts,gun,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-11,True
+Gun 116 upperbolts,gun_upperbolts,gun,05 Original grounded shield-1/AT M3x6 socket-head study-5,True
+Gun 117 darkcap,gun_darkcap,gun,05 Original grounded shield-1/Dunkelraumabschirmung-1,True
+Gun 118 upperbolts,gun_upperbolts,gun,05 Original grounded shield-1/AT M3x6 socket-head study-1,True
+Gun 119 upperbolts,gun_upperbolts,gun,05 Original grounded shield-1/AT M3x6 socket-head study-2,True
+Gun 120 upperbolts,gun_upperbolts,gun,05 Original grounded shield-1/AT M3x6 socket-head study-3,True
+Gun 121 upperbolts,gun_upperbolts,gun,05 Original grounded shield-1/AT M3x6 socket-head study-4,True
+Gun 122 shieldtube,gun_shieldtube,gun,05 Original grounded shield-1/Groundshield Rohr-1,True
+Gun 123 lowerbolts,gun_lowerbolts,gun,05 Original grounded shield-1/AT M4x8 socket-head study-2,True
+Gun 124 upperbolts,gun_upperbolts,gun,05 Original grounded shield-1/AT M3x6 socket-head study-6,True
+Gun 125 lowerbolts,gun_lowerbolts,gun,05 Original grounded shield-1/AT M4x8 socket-head study-1,True
+Gun 126 lowerbolts,gun_lowerbolts,gun,05 Original grounded shield-1/AT M4x8 socket-head study-3,True
+Gun 127 base,gun_base,gun,R02 Boden - internal blind ground anchor,True
+Gun 128 kftube,gun_kftube,gun,R02 KF16 neck to one inch service tube,True
+Gun 129 rfground,gun_rfground,gun,REF icotek SKL3-6 36202 installed study,True
+Gun 130 rfground,gun_rfground,gun,R02 Ground carrier and conformal saddle,True
+Gun 131 rfground,gun_rfground,gun,R02 M3x4 clamp mounting screw,True
+Gun 132 rfground,gun_rfground,gun,R02 M3 clamp nut envelope,True
+Gun 133 rfground,gun_rfground,gun,R02 M3x6 blind ground anchor screw,True
+Gun 134 rfhot,gun_rfhot,gun,R02 Copper terminal stand-off D6p5 L12p5,True
+Gun 135 rfhot,gun_rfhot,gun,R02 M4x20 live terminal screw,True
+Gun 136 rfhot,gun_rfhot,gun,REF TE323086 M4 ring terminal study,True
+Gun 137 coax,gun_coax,gun,R02 Continuous coax outer jacket,True
+Gun 138 coax,gun_coax,gun,R02 Continuous coax shield,True
+Gun 139 coax,gun_coax,gun,R02 Continuous center dielectric,True
+Gun 140 coax,gun_coax,gun,R02 RF center conductor,True
+Gun 141 coax,gun_coax,gun,R02 Additional dielectric guard sleeve,True
+Rear upper gas inlet KF25 weld nipple,service_port,chamber,"QF25-100-LF nominal envelope: OD39.88, bore22.225, length40.132. No attached gauge/MFC models.",True
+Rear lower left Pirani KF25 weld nipple,service_port,chamber,"QF25-100-LF nominal envelope: OD39.88, bore22.225, length40.132. No attached gauge/MFC models.",True
+Rear lower right Penning KF25 weld nipple,service_port,chamber,"QF25-100-LF nominal envelope: OD39.88, bore22.225, length40.132. No attached gauge/MFC models.",True
+Right lower spare KF25 weld nipple,service_port,chamber,"QF25-100-LF nominal envelope: OD39.88, bore22.225, length40.132. No attached gauge/MFC models.",True
+Right upper spare KF25 weld nipple,service_port,chamber,"QF25-100-LF nominal envelope: OD39.88, bore22.225, length40.132. No attached gauge/MFC models.",True
+Rear wall,structure,chamber,10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.,True
+Right wall,structure,chamber,10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.,True
+Left wall - reserved blank,structure,chamber,10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.,True
+Roof plate,structure,chamber,10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.,True
+Floor plate,structure,chamber,10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.,True
+Front welded door frame,structure,chamber,10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.,True
+Front door compressed gasket envelope,door_seal,chamber,Rectangular compressed-cord envelope in 4.5 x 2.2 groove; final seal specification unqualified.,True
+Front door plate with viewport cutout,door_plate,door,"228 x 316 x 16, viewport clear70; closed inner face y-116. R04 viewport centre Z105, clear diameter70; sightline checked at default gap100. Retainer pilot boresD4.2, depth10 from outer face, leave6mm solid backing; nominal tapped M5.",True
+Viewport gasket envelope,viewport_seal,door,Reference gasket envelope; mounting/seal design pending.,True
+Viewport glass disc,glass,door,D94 x6 nominal envelope; 70 clear aperture. Glass pressure/thermal rating NOT established.,True
+Viewport retainer screw 1,door_screw,door,Nominal M5 envelope; threads/preload not modeled.,True
+Viewport retainer screw 2,door_screw,door,Nominal M5 envelope; threads/preload not modeled.,True
+Viewport retainer screw 3,door_screw,door,Nominal M5 envelope; threads/preload not modeled.,True
+Viewport retainer screw 4,door_screw,door,Nominal M5 envelope; threads/preload not modeled.,True
+Viewport retainer screw 5,door_screw,door,Nominal M5 envelope; threads/preload not modeled.,True
+Viewport retainer screw 6,door_screw,door,Nominal M5 envelope; threads/preload not modeled.,True
+Viewport retaining bezel,viewport_bezel,door,,True
+Door pull handle,door_handle,door,,True
+Hinge fixed barrel 65,hinge_fixed,chamber,,True
+Hinge pin 65,hinge_pin,chamber,,True
+Hinge door leaf 65,hinge_moving,door,,True
+Hinge fixed barrel 235,hinge_fixed,chamber,,True
+Hinge pin 235,hinge_pin,chamber,,True
+Hinge door leaf 235,hinge_moving,door,,True
+Latch body envelope,latch,door,Concept latch; exact procurement and mounting pending.,True
+Latch catch envelope,latch_catch,chamber,,True
+Bottom ISO63-K weld neck and flange,turbo_flange,chamber,"OD95 / bore63.5 / flange12, face z-45; nominal envelope. Clamp profile and backing groove simplified; purchased drawing pending.",True
+Roof KF25 gun weld flange - bore to verify,gun_mount,chamber,Nominal KF25 OD39.88 with proposed27 through bore. Not a verified off-the-shelf mating flange; standard weld stub/ring can block25.4 tube.,True
+Removable substrate stage D90 x6,stage,chamber,"Top z40, undersidez34. Four supports at (+/-29,+/-29), fully below plate and outside central turbo opening.",True
+Stage support -29 -29,stage_support,chamber,,True
+Stage support -29 29,stage_support,chamber,,True
+Stage support 29 -29,stage_support,chamber,,True
+Stage support 29 29,stage_support,chamber,,True
+Reference substrate 50 x50 x1,substrate,chamber,Sample design assumption; top surface z41 is deposition-distance datum.,True
+Removable pump deposition baffle D104 x1.5,pump_baffle,chamber,Baffle topz19.5; four7 clearance bores. Reduces direct line of sight; conductance and full interception not validated.,True
+Baffle spacer -44,baffle_support,chamber,,True
+Baffle spacer 44,baffle_support,chamber,,True
+One piece bent shutter - CLOSED,shutter,shutter,"t1; inside bendsR2; upper flatz293..294; bladez53..54; pivot(-65,0); blade56square; closed centre(0,0).",True
+99607A246 thumb screw nominal envelope,shutter_screw,shutter,"1/4-28 x1.25in under-head assumption; collar/head geometry illustrative, threads not modeled. Verify McMaster drawing.",True
+Shutter aluminum nut 287.5,shutter_nut,shutter,1/4-28 nominal nut envelope; not supplier CAD.,True
+Shutter aluminum nut 294,shutter_nut,shutter,1/4-28 nominal nut envelope; not supplier CAD.,True
+Shutter underside thrust washer,shutter_washer,shutter,,True
+6540K248 shutter face seal envelope,shutter_seal,chamber,Nominal1/4ID x1/2OD x1/8 free section from supplied text; compressed axial envelope2.4. No qualified rotating seal gland.,True
+Adapter body with male thread,fit_body,fitting,"Catalogue envelope reference; male helix pitch2, major37 are illustrative, not manufacturer thread specification.",True
+Threaded cap - separate moving part,fit_cap,fitting,Female helix matched to illustrative2mm pitch. 4mm lift corresponds to two turns. Cap OD44 and details illustrative.,True
+Compression follower,fit_follower,fitting,Illustrative force-transmitting follower; actual supplier cross-section unverified.,True
+Tube compression O ring,fit_tube_seal,fitting,"O-V120 free nominal25.07ID x2.62 section; installed/compressed geometry is explanatory, not validated seal design.",True
+KF face seal / centering space,fit_kf_seal,fitting,KF face seal separate from tube O-ring. Through-bore and actual centering-ring fit remain unresolved.,True
+KF clamp left jaw,fit_clamp_left,fitting,"Functional split-clamp illustration; purchased clamp profile, hinge and fastener dimensions not qualified.",True
+KF clamp right jaw,fit_clamp_right,fitting,"Functional split-clamp illustration; purchased clamp profile, hinge and fastener dimensions not qualified.",True
+KF clamp wing screw,fit_clamp_bolt,fitting,Illustrative clamp fastener; independent of compression cap.,True
+KF clamp wing nut,fit_clamp_wing,fitting,"Turns to secure KF flange joint, not to grip gun tube.",True
+KF clamp hinge pin,fit_clamp_pin,fitting,Hinge axis for opening clamp jaws.,True
+Cap rotation index mark,fit_cap_mark,fitting,"Visual index mark only, not an extra purchased component.",True
+System base plate,base_plate,system,Layout/support concept only; structural sizing not verified.,True
+Chamber riser -85 -75,frame,system,,True
+Chamber riser -85 75,frame,system,,True
+Chamber riser 85 -75,frame,system,,True
+Chamber riser 85 75,frame,system,,True
+Chamber support lower tie -75,frame,system,,True
+Chamber support lower tie 75,frame,system,,True
+EXT70 reference pump housing and ISO63 inlet,turbo_body,system,"Reconstructed external envelope: D95 inlet, D94 body, 157.05 overall incl base. Internal pump geometry omitted.",True
+EXT70 lower motor core,turbo_core,system,,True
+EXT70 cooling fin -153.5,turbo_fin,system,,True
+EXT70 cooling fin -146,turbo_fin,system,,True
+EXT70 cooling fin -138.5,turbo_fin,system,,True
+EXT70 cooling fin -131,turbo_fin,system,,True
+EXT70 native KF16 backing outlet,turbo_outlet,system,Standard EXT70 manual specifies DN16NW. KF25 hose is attached through a reducer adapter.,True
+EXT70 vent valve exterior,turbo_vent,system,Reference exterior detail; actual vent valve not selected.,True
+EXT70 electrical connector exterior,turbo_connector,system,,True
+EXT70 cooling stub -1,turbo_cooling,system,,True
+EXT70 cooling stub 1,turbo_cooling,system,,True
+ISO63 chamber to turbo face seal,iso_seal,system,,True
+ISO63 double claw clamp 1,iso_clamp,system,Four clamp positions. Geometry envelope only; rated fixing and rotor-failure torque requirements not verified.,True
+ISO63 clamp screw 1,iso_screw,system,,True
+ISO63 double claw clamp 2,iso_clamp,system,Four clamp positions. Geometry envelope only; rated fixing and rotor-failure torque requirements not verified.,True
+ISO63 clamp screw 2,iso_screw,system,,True
+ISO63 double claw clamp 3,iso_clamp,system,Four clamp positions. Geometry envelope only; rated fixing and rotor-failure torque requirements not verified.,True
+ISO63 clamp screw 3,iso_screw,system,,True
+ISO63 double claw clamp 4,iso_clamp,system,Four clamp positions. Geometry envelope only; rated fixing and rotor-failure torque requirements not verified.,True
+ISO63 clamp screw 4,iso_screw,system,,True
+Turbo KF16 outlet joint face seal,connection_seal,system,"Nominal FKM/centering envelope, not supplier seal CAD.",True
+Turbo KF16 outlet joint clamp left,kf_clamp,system,Split KF clamp outline; detailed purchased hardware/actuator simplified.,True
+Turbo KF16 outlet joint clamp right,kf_clamp,system,Split KF clamp outline; detailed purchased hardware/actuator simplified.,True
+KF16 to KF25 foreline adapter,foreline_adapter,system,Reference 38mm face-to-face transition; supplier dimensions to confirm. Omit if actual EXT70 has a confirmed KF25 outlet.,True
+KF25 turbo hose joint face seal,connection_seal,system,"Nominal FKM/centering envelope, not supplier seal CAD.",True
+KF25 turbo hose joint clamp left,kf_clamp,system,Split KF clamp outline; detailed purchased hardware/actuator simplified.,True
+KF25 turbo hose joint clamp right,kf_clamp,system,Split KF clamp outline; detailed purchased hardware/actuator simplified.,True
+KF25 hose turbo-end termination,hose_end,system,,True
+Edwards RV3 - imported supplier STEP,backing_pump,system,"IdealVac P101919 STEP, representing Edwards RV3. Layout reference, not a confirmed pump purchase. Source has pre-existing topology defects; retained as supplier visual/reference geometry, not a manufacturing solid.",False
+RV3 inlet KF25 hose joint face seal,connection_seal,system,"Nominal FKM/centering envelope, not supplier seal CAD.",True
+RV3 inlet KF25 hose joint clamp left,kf_clamp,system,Split KF clamp outline; detailed purchased hardware/actuator simplified.,True
+RV3 inlet KF25 hose joint clamp right,kf_clamp,system,Split KF clamp outline; detailed purchased hardware/actuator simplified.,True
+KF25 hose RV3-end termination,hose_end,system,,True
+KF25 flexible backing hose - routed core,hose,system,Nominal bore22.225 / coreOD27. Routing and bend radius are layout assumptions; select actual hose after checking minimum bend radius.,True
+KF25 backing hose corrugations,hose_ribs,system,64 nominal corrugation ribs for visual/reference routing only.,True
+Pirani protective KF25 elbow,gauge_elbow,system,Reference R25 centreline elbow. Protects sensor from direct target line of sight; actual orientation per selected gauge manual.,True
+Pirani rear port joint face seal,connection_seal,system,"Nominal FKM/centering envelope, not supplier seal CAD.",True
+Pirani rear port joint clamp left,kf_clamp,system,Split KF clamp outline; detailed purchased hardware/actuator simplified.,True
+Pirani rear port joint clamp right,kf_clamp,system,Split KF clamp outline; detailed purchased hardware/actuator simplified.,True
+Pirani gauge joint face seal,connection_seal,system,"Nominal FKM/centering envelope, not supplier seal CAD.",True
+Pirani gauge joint clamp left,kf_clamp,system,Split KF clamp outline; detailed purchased hardware/actuator simplified.,True
+Pirani gauge joint clamp right,kf_clamp,system,Split KF clamp outline; detailed purchased hardware/actuator simplified.,True
+Pirani KF25 sensor stem,gauge_stem,system,,True
+Pirani gauge reference housing,gauge_pirani,system,"Generic Pirani sensor envelope, D44 x74; exact make/model not supplied. Not a metrology or magnetic-clearance qualification.",True
+Pirani housing band -30,gauge_band,system,,True
+Pirani housing band 36,gauge_band,system,,True
+Pirani electrical connector,gauge_connector,system,,True
+Penning protective KF25 elbow,gauge_elbow,system,Reference R25 centreline elbow. Protects sensor from direct target line of sight; actual orientation per selected gauge manual.,True
+Penning rear port joint face seal,connection_seal,system,"Nominal FKM/centering envelope, not supplier seal CAD.",True
+Penning rear port joint clamp left,kf_clamp,system,Split KF clamp outline; detailed purchased hardware/actuator simplified.,True
+Penning rear port joint clamp right,kf_clamp,system,Split KF clamp outline; detailed purchased hardware/actuator simplified.,True
+Penning gauge joint face seal,connection_seal,system,"Nominal FKM/centering envelope, not supplier seal CAD.",True
+Penning gauge joint clamp left,kf_clamp,system,Split KF clamp outline; detailed purchased hardware/actuator simplified.,True
+Penning gauge joint clamp right,kf_clamp,system,Split KF clamp outline; detailed purchased hardware/actuator simplified.,True
+Penning KF25 sensor stem,gauge_stem,system,,True
+Penning gauge reference housing,gauge_penning,system,"Generic Penning sensor envelope, D58 x94; exact make/model not supplied. Not a metrology or magnetic-clearance qualification.",True
+Penning housing band -50,gauge_band,system,,True
+Penning housing band 36,gauge_band,system,,True
+Penning electrical connector,gauge_connector,system,,True
+MFC chamber KF25 joint face seal,connection_seal,system,"Nominal FKM/centering envelope, not supplier seal CAD.",True
+MFC chamber KF25 joint clamp left,kf_clamp,system,Split KF clamp outline; detailed purchased hardware/actuator simplified.,True
+MFC chamber KF25 joint clamp right,kf_clamp,system,Split KF clamp outline; detailed purchased hardware/actuator simplified.,True
+KF25 to quarter-inch female VCR adapter body,mfc_out_adapter,system,"Functional reference envelope; nominal total face-to-face34.544 per ANCORP1.36in configuration, supplier selection pending.",True
+MFC outlet female VCR swivel nut,vcr_out_nut,system,Female mating connection around MFC male face seal; external thread detail simplified.,True
+MFC outlet VCR metal gasket,vcr_gasket,system,Nominal visual gasket envelope; actual gasket specification per fittings.,True
+MFC stainless flow body,mfc_body,system,"HORIBA SEC-E440J-style reference: VCR face-to-face124, body76.2, width38, nominal height115. Ports male VCR on both ends as instructed.",True
+MFC electronics housing,mfc_electronics,system,,True
+MFC male VCR outlet,mfc_male_vcr,system,Nominal quarter-inch male VCR port; supplier face/bead/thread tolerances not modeled.,True
+MFC male VCR inlet,mfc_male_vcr,system,Nominal quarter-inch male VCR port; supplier face/bead/thread tolerances not modeled.,True
+MFC top signal connector,mfc_signal,system,,True
+Rear MFC support shelf,mfc_bracket,system,Mounting layout only; bracket load/weld/fasteners not validated.,True
+MFC shelf gusset -30,mfc_bracket,system,,True
+MFC shelf gusset 27.5,mfc_bracket,system,,True
+MFC mount screw 221.38600000000002,mfc_mount_screw,system,Nominal M4 envelope.,True
+MFC mount screw 259.486,mfc_mount_screw,system,Nominal M4 envelope.,True
+MFC inlet VCR metal gasket,vcr_gasket,system,,True
+MFC inlet female VCR swivel nut,vcr_in_nut,system,,True
+Female VCR to quarter-inch female NPT adapter,vcr_npt_adapter,system,Adapter-assembly reference from prior chat; SS-4-WVCR-7-4 cited body requires compatible swivel nut/gland. End geometry illustrative.,True
+Quarter-inch male NPT to6mm push fitting body,push_body,system,6mm OD tube x1/4 male NPT interface; Amazon B09H4RL894 selected in prior chat. Parker W68LF-6M-4 was reference. Pressure/gas compatibility not verified.,True
+6mm push fitting release collet,push_collet,system,Gas-supply boundary of this model. No tube beyond push fitting.,True
+Right spare 75 face seal,connection_seal,system,"Nominal FKM/centering envelope, not supplier seal CAD.",True
+Right spare 75 clamp left,kf_clamp,system,Split KF clamp outline; detailed purchased hardware/actuator simplified.,True
+Right spare 75 clamp right,kf_clamp,system,Split KF clamp outline; detailed purchased hardware/actuator simplified.,True
+Right spare KF25 blank cap 75,blank_cap,system,,True
+Right spare 225 face seal,connection_seal,system,"Nominal FKM/centering envelope, not supplier seal CAD.",True
+Right spare 225 clamp left,kf_clamp,system,Split KF clamp outline; detailed purchased hardware/actuator simplified.,True
+Right spare 225 clamp right,kf_clamp,system,Split KF clamp outline; detailed purchased hardware/actuator simplified.,True
+Right spare KF25 blank cap 225,blank_cap,system,,True
+6 mm OD gas tube - seated end,gas_insert,utilities,"OD6 ID4; socket mouthY360.196; nominal engagement16mm is illustrative, vendor insertion depth still required.",True
+Argon supply tube - 6 mm OD,gas_line,utilities,"Actual modeled OD6; material, pressure rating and regulator/push fitting compatibility to select.",True
+Representative argon cylinder,cylinder,utilities,"Representative cylinder only, not a supplier pressure-vessel model.",True
+Cylinder foot,cylinder,utilities,,True
+Cylinder valve,regulator,utilities,,True
+Representative argon regulator,regulator,utilities,,True
+Regulator gauge 605,regulator,utilities,,True
+Regulator dial 605,regulator_dial,utilities,,True
+Regulator gauge 640,regulator,utilities,,True
+Regulator dial 640,regulator_dial,utilities,,True
+Cooling system 1 cabinet,chiller1,utilities,"Representative envelope; cooling duty, pump flow and water quality not selected.",True
+Cooling system 1 display,chiller1,utilities,,True
+Chiller 1 vent -250,chiller1,utilities,,True
+Chiller 1 vent -235,chiller1,utilities,,True
+Chiller 1 vent -220,chiller1,utilities,,True
+Chiller 1 vent -205,chiller1,utilities,,True
+Chiller 1 vent -190,chiller1,utilities,,True
+Chiller 1 vent -175,chiller1,utilities,,True
+Chiller 1 vent -160,chiller1,utilities,,True
+Chiller 1 vent -145,chiller1,utilities,,True
+Chiller 1 vent -130,chiller1,utilities,,True
+Cooling system 2 cabinet,chiller2,utilities,"Representative envelope; cooling duty, pump flow and water quality not selected.",True
+Cooling system 2 display,chiller2,utilities,,True
+Chiller 2 vent -250,chiller2,utilities,,True
+Chiller 2 vent -235,chiller2,utilities,,True
+Chiller 2 vent -220,chiller2,utilities,,True
+Chiller 2 vent -205,chiller2,utilities,,True
+Chiller 2 vent -190,chiller2,utilities,,True
+Chiller 2 vent -175,chiller2,utilities,,True
+Chiller 2 vent -160,chiller2,utilities,,True
+Chiller 2 vent -145,chiller2,utilities,,True
+Chiller 2 vent -130,chiller2,utilities,,True
+Gun cooling supply,gun_water,utilities,Representative flexible extension; nominal4mm OD matches current gun hoses. Service loop and bend/flow suitability not qualified.,True
+Gun cooling return,gun_water,utilities,Representative flexible extension; nominal4mm OD matches current gun hoses. Service loop and bend/flow suitability not qualified.,True
+Turbo cooling supply,turbo_water,utilities,"Nominal OD9/ID6 reinforced-hose reference loop; pump stub connections require selected hose/adapters, no supplier seating claim.",True
+Turbo cooling return,turbo_water,utilities,"Nominal OD9/ID6 reinforced-hose reference loop; pump stub connections require selected hose/adapters, no supplier seating claim.",True
+Representative DC or RF power supply,power,utilities,Representative supply. DC option or RF option with suitable matching network; ratings and interlocks not selected.,True
+Power supply display,power_display,utilities,,True
+Power control 470,power,utilities,,True
+Power control 520,power,utilities,,True
+RF matching network - RF configuration only,matching,utilities,RF-only representative matching network. DC configuration bypasses this enclosure.,True
+RF supply to matching network cable,power_cable,utilities,"Representative cable; connector, impedance and power rating pending.",True
+Power cable to gun coax,power_cable,utilities,"OD5 study allowance continues existing coax at(0,-4.5,453); RF shown via matching network, DC bypass described.",True
+Representative protective earth bond,earth,utilities,Representative protective bonding connection. Grounding/RF return scheme requires electrical design.,True

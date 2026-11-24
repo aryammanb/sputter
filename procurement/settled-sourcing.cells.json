@@ -1,0 +1,1253 @@
+{
+  "sheet": "Settled sourcing",
+  "values": {
+    "A2": "Sputter gun sourcing I will handle",
+    "A4": "R05 clamp CAD complete for3.175mm target; sourcing routes settled. Final fabrication checks remain separate.",
+    "A5": "No routine sourcing approval needed. I will resolve quotations, pack sizes, technical specifications and drawing details.",
+    "A7": "ID",
+    "B7": "Component",
+    "C7": "Qty",
+    "D7": "Sourcing method",
+    "E7": "Unit est. (INR)",
+    "F7": "Line est. (INR)",
+    "G7": "Supplier / buying link",
+    "H7": "What I will resolve",
+    "A8": "G01",
+    "B8": "Copper cooling body",
+    "C8": "1",
+    "D8": "Custom vendor order",
+    "E8": "6500",
+    "F8": "6500",
+    "G8": "Technica Engineering Works, Rabale, Navi Mumbai (RFQ candidate only): https://technicaengg.com/",
+    "H8": "I will handle shop selection, material/tolerance/threads, quote and drawing release.",
+    "A9": "G02",
+    "B9": "Copper backplate",
+    "C9": "1",
+    "D9": "Custom vendor order",
+    "E9": "4000",
+    "F9": "4000",
+    "G9": "Technica Engineering Works, Rabale, Navi Mumbai (RFQ candidate only): https://technicaengg.com/",
+    "H9": "I will handle shop selection, material/tolerance/threads, quote and drawing release.",
+    "A10": "G03",
+    "B10": "Steel return yoke",
+    "C10": "1",
+    "D10": "Custom vendor order",
+    "E10": "1200",
+    "F10": "1200",
+    "G10": "Technica Engineering Works, Rabale, Navi Mumbai (RFQ candidate only): https://technicaengg.com/",
+    "H10": "I will handle shop selection, material/tolerance/threads, quote and drawing release.",
+    "A11": "G04",
+    "B11": "Live stainless spacer",
+    "C11": "1",
+    "D11": "Custom vendor order",
+    "E11": "2500",
+    "F11": "2500",
+    "G11": "Local turning/CNC shop — vendor to choose",
+    "H11": "I will handle shop selection, material/tolerance/threads, quote and drawing release.",
+    "A12": "G05",
+    "B12": "Main PTFE insulator",
+    "C12": "1",
+    "D12": "Custom vendor order",
+    "E12": "1500",
+    "F12": "1500",
+    "G12": "Tanna Engineering Enterprises, Vasai, Mumbai (RFQ candidate only): https://tannaee.com/",
+    "H12": "I will handle shop selection, material/tolerance/threads, quote and drawing release.",
+    "A13": "G06",
+    "B13": "One-piece PTFE screw cups",
+    "C13": "12",
+    "D13": "Custom vendor order",
+    "E13": "120",
+    "F13": "1440",
+    "G13": "Tanna Engineering Enterprises, Vasai, Mumbai (RFQ candidate only): https://tannaee.com/",
+    "H13": "I will handle shop selection, material/tolerance/threads, quote and drawing release.",
+    "A14": "G07",
+    "B14": "Grounded base / Boden",
+    "C14": "1",
+    "D14": "Custom vendor order",
+    "E14": "3000",
+    "F14": "3000",
+    "G14": "Local turning/CNC shop — vendor to choose",
+    "H14": "I will handle shop selection, material/tolerance/threads, quote and drawing release.",
+    "A15": "G08",
+    "B15": "Target retaining clamp",
+    "C15": "1",
+    "D15": "Custom vendor order",
+    "E15": "1800",
+    "F15": "1800",
+    "G15": "Local turning/CNC shop — vendor to choose",
+    "H15": "R05 clamp redesigned and nominal fit checked. Drawing/CAD linked; preload, stiffness, tolerance and thermal release review remains mine.",
+    "A16": "G09",
+    "B16": "Dark-space cap",
+    "C16": "1",
+    "D16": "Custom vendor order",
+    "E16": "1800",
+    "F16": "1800",
+    "G16": "Local turning/CNC shop — vendor to choose",
+    "H16": "I will handle shop selection, material/tolerance/threads, quote and drawing release.",
+    "A17": "G10",
+    "B17": "Grounded shield tube",
+    "C17": "1",
+    "D17": "Custom vendor order",
+    "E17": "1500",
+    "F17": "1500",
+    "G17": "Local tube/turning shop — vendor to choose",
+    "H17": "I will handle shop selection, material/tolerance/threads, quote and drawing release.",
+    "A18": "G11",
+    "B18": "Stepped service tube",
+    "C18": "1",
+    "D18": "Custom vendor order",
+    "E18": "2500",
+    "F18": "2500",
+    "G18": "Local tube/turning or vacuum-fabrication shop",
+    "H18": "I will handle shop selection, material/tolerance/threads, quote and drawing release.",
+    "A19": "G12",
+    "B19": "Internal tube-clamp halves",
+    "C19": "2",
+    "D19": "Custom vendor order",
+    "E19": "700",
+    "F19": "1400",
+    "G19": "Local CNC shop — vendor to choose",
+    "H19": "I will handle shop selection, material/tolerance/threads, quote and drawing release.",
+    "A20": "G13",
+    "B20": "Coax shield carrier / saddle",
+    "C20": "1",
+    "D20": "Custom vendor order",
+    "E20": "600",
+    "F20": "600",
+    "G20": "Local sheet-metal/precision fabrication shop",
+    "H20": "I will handle shop selection, material/tolerance/threads, quote and drawing release.",
+    "A21": "G14",
+    "B21": "Copper live-terminal standoff",
+    "C21": "1",
+    "D21": "Custom vendor order",
+    "E21": "250",
+    "F21": "250",
+    "G21": "Same turning shop as G01",
+    "H21": "I will handle shop selection, material/tolerance/threads, quote and drawing release.",
+    "A22": "G15",
+    "B22": "Outer magnet discs",
+    "C22": "24",
+    "D22": "Online purchase",
+    "E22": "59",
+    "F22": "1416",
+    "G22": "https://www.magnetladen.de/en/Rod-Magnet-6x10-mm-N42-Nickel/St-06x10-Nd-Ni/",
+    "H22": "I will verify price, actual order quantity, specification and delivery route.",
+    "A23": "G16",
+    "B23": "Centre magnet discs",
+    "C23": "2",
+    "D23": "Online purchase",
+    "E23": "469",
+    "F23": "938",
+    "G23": "https://www.magnetladen.de/en/Disc-Magnet-20x10-mm-N42-Nickel/S-20x10-Nd-Ni/",
+    "H23": "I will verify price, actual order quantity, specification and delivery route.",
+    "A24": "G19",
+    "B24": "Inner coolant O-ring",
+    "C24": "1",
+    "D24": "Local purchase",
+    "E24": "120",
+    "F24": "120",
+    "G24": "Local industrial seal dealer — Mumbai sourcing",
+    "H24": "I will handle supplier selection, exact material/specification and quote.",
+    "A25": "G20",
+    "B25": "Outer coolant O-ring",
+    "C25": "1",
+    "D25": "Local purchase",
+    "E25": "150",
+    "F25": "150",
+    "G25": "Local industrial seal dealer — Mumbai sourcing",
+    "H25": "I will handle supplier selection, exact material/specification and quote.",
+    "A26": "G21",
+    "B26": "Head-to-spacer vacuum O-ring",
+    "C26": "1",
+    "D26": "Local purchase",
+    "E26": "250",
+    "F26": "250",
+    "G26": "Local industrial/vacuum seal dealer — Mumbai sourcing",
+    "H26": "I will handle supplier selection, exact material/specification and quote.",
+    "A27": "G22",
+    "B27": "Main-insulator vacuum O-rings",
+    "C27": "2",
+    "D27": "Local purchase",
+    "E27": "200",
+    "F27": "400",
+    "G27": "Local industrial/vacuum seal dealer — Mumbai sourcing",
+    "H27": "I will handle supplier selection, exact material/specification and quote.",
+    "A28": "G29",
+    "B28": "M3 ×16 socket-head screws",
+    "C28": "12",
+    "D28": "Local purchase",
+    "E28": "12",
+    "F28": "144",
+    "G28": "Local stainless fastener dealer — Mumbai sourcing",
+    "H28": "I will handle supplier selection, exact material/specification and quote.",
+    "A29": "G30",
+    "B29": "M3 ×35 socket-head screws",
+    "C29": "24",
+    "D29": "Local purchase",
+    "E29": "18",
+    "F29": "432",
+    "G29": "Local stainless fastener dealer — Mumbai sourcing",
+    "H29": "I will handle supplier selection, exact material/specification and quote.",
+    "A30": "G31",
+    "B30": "M3 x10 socket-head screws",
+    "C30": "12",
+    "D30": "Local purchase",
+    "E30": "12",
+    "F30": "144",
+    "G30": "Local stainless fastener dealer — Mumbai sourcing",
+    "H30": "I will handle supplier selection, exact material/specification and quote.",
+    "A31": "G32",
+    "B31": "M3 ×6 socket-head screws",
+    "C31": "7",
+    "D31": "Local purchase",
+    "E31": "10",
+    "F31": "70",
+    "G31": "Local stainless fastener dealer — Mumbai sourcing",
+    "H31": "I will handle supplier selection, exact material/specification and quote.",
+    "A32": "G33",
+    "B32": "M3 ×4 socket-head screw",
+    "C32": "1",
+    "D32": "Local purchase",
+    "E32": "10",
+    "F32": "10",
+    "G32": "Local stainless fastener dealer — Mumbai sourcing",
+    "H32": "I will handle supplier selection, exact material/specification and quote.",
+    "A33": "G34",
+    "B33": "M3 nut",
+    "C33": "1",
+    "D33": "Local purchase",
+    "E33": "5",
+    "F33": "5",
+    "G33": "Local stainless fastener dealer — Mumbai sourcing",
+    "H33": "I will handle supplier selection, exact material/specification and quote.",
+    "A34": "G35",
+    "B34": "M4 ×10 socket-head screw",
+    "C34": "1",
+    "D34": "Local purchase",
+    "E34": "15",
+    "F34": "15",
+    "G34": "Local stainless fastener dealer — Mumbai sourcing",
+    "H34": "I will handle supplier selection, exact material/specification and quote.",
+    "A35": "G36",
+    "B35": "M4 ×8 socket-head screws",
+    "C35": "3",
+    "D35": "Local purchase",
+    "E35": "12",
+    "F35": "36",
+    "G35": "Local stainless fastener dealer — Mumbai sourcing",
+    "H35": "I will handle supplier selection, exact material/specification and quote.",
+    "A36": "G37",
+    "B36": "M4 ×20 socket-head screw",
+    "C36": "1",
+    "D36": "Local purchase",
+    "E36": "18",
+    "F36": "18",
+    "G36": "Local stainless fastener dealer — Mumbai sourcing",
+    "H36": "I will handle supplier selection, exact material/specification and quote.",
+    "A37": "G38",
+    "B37": "M5 ×20 socket-head screws",
+    "C37": "6",
+    "D37": "Local purchase",
+    "E37": "20",
+    "F37": "120",
+    "G37": "Local stainless fastener dealer — Mumbai sourcing",
+    "H37": "I will handle supplier selection, exact material/specification and quote.",
+    "A38": "G17",
+    "B38": "Aluminium sputtering target",
+    "C38": "1",
+    "D38": "Online purchase",
+    "E38": "9794",
+    "F38": "9794",
+    "G38": "User-selected VritraTech: https://www.vritratech.com/store/product/aluminium-al-sputtering-target/",
+    "H38": "User-selected VritraTech online source. Target price includes18%GST; delivery extra. R05 clamp fit checked.",
+    "B39": "Subtotal of these lines",
+    "F39": "44052",
+    "A42": "Technical follow-up I will handle — these are not questions for you",
+    "A43": "ID",
+    "B43": "Component",
+    "C43": "Qty",
+    "D43": "Sourcing method",
+    "E43": "Unit est. (INR)",
+    "F43": "Line est. (INR)",
+    "G43": "Supplier / buying link",
+    "H43": "What I will resolve",
+    "A44": "G18",
+    "B44": "Complete internal coolant push fittings",
+    "C44": "2",
+    "D44": "Online purchase",
+    "E44": "1449.0000000000002",
+    "F44": "2898.0000000000005",
+    "G44": "Orange Coast Pneumatics / SMC: https://www.smcpneumatics.com/KQG2S04-M5.html",
+    "H44": "Choose actual 4mm coolant fitting and matching backplate port thread before releasing machining.",
+    "A45": "G23",
+    "B45": "Internal KF16 centering ring and seal set",
+    "C45": "1",
+    "D45": "Local purchase",
+    "E45": "800",
+    "F45": "800",
+    "G45": "Local vacuum-hardware supplier — Mumbai sourcing",
+    "H45": "Match internal KF16 centering seal to the gun capture geometry; verify actual clear bore.",
+    "A46": "G24",
+    "B46": "Internal cooling tube allowance",
+    "C46": "1",
+    "D46": "Local purchase",
+    "E46": "500",
+    "F46": "500",
+    "G46": "Local compatible-tubing supplier — polymer to select — Mumbai sourcing",
+    "H46": "Specify water tubing material, pressure/temperature rating and bend radius.",
+    "A47": "G26",
+    "B47": "Additional dielectric guard sleeve",
+    "C47": "1",
+    "D47": "Local purchase",
+    "E47": "100",
+    "F47": "100",
+    "G47": "Local PTFE sleeve/insulation-stock supplier — Mumbai sourcing",
+    "H47": "Select dielectric guard after supply/cable ratings are known; no separate user material choice needed.",
+    "A48": "G27",
+    "B48": "Coax shield spring clamp",
+    "C48": "1",
+    "D48": "Local purchase",
+    "E48": "700",
+    "F48": "700",
+    "G48": "Mumbai distributor / US alternative reviewed: https://us.rs-online.com/product/icotek/36202/72429141/",
+    "H48": "Find a practical single-clamp supply; US RS pack50/backorder is not the selected purchase.",
+    "A49": "G28",
+    "B49": "M4 ring terminal",
+    "C49": "1",
+    "D49": "Local purchase",
+    "E49": "100",
+    "F49": "100",
+    "G49": "Local TE distributor/electrical terminal supplier — Mumbai sourcing",
+    "H49": "Match lug, crimp and conductor after actual cable is specified.",
+    "A50": "G25",
+    "B50": "Continuous coax allocation",
+    "C50": "1",
+    "D50": "Local purchase",
+    "E50": "1500",
+    "F50": "1500",
+    "G50": "Local RF cable supplier — exact cable to choose — Mumbai sourcing",
+    "H50": "User answered RF300W. I will select generator/network and then rate cable, insulation and interfaces.",
+    "A51": "Already selected in subsystem3: compression gland — online purchase via the owner US route.",
+    "A52": "eBay: https://www.ebay.com/itm/198508082866 ; engineering reference: Lesker QF25XVC100.",
+    "A53": "I will verify current availability and25.4mm passage; this does not require choosing the sourcing route again. Price not included above."
+  },
+  "formulas": {
+    "B8": {
+      "formula": "'01 Sputter gun'!B11",
+      "cached_value": "Copper cooling body"
+    },
+    "C8": {
+      "formula": "'01 Sputter gun'!D11",
+      "cached_value": "1"
+    },
+    "D8": {
+      "formula": "'01 Sputter gun'!F11",
+      "cached_value": "Custom vendor order"
+    },
+    "E8": {
+      "formula": "'01 Sputter gun'!G11",
+      "cached_value": "6500"
+    },
+    "F8": {
+      "formula": "'01 Sputter gun'!H11",
+      "cached_value": "6500"
+    },
+    "G8": {
+      "formula": "'01 Sputter gun'!J11",
+      "cached_value": "Technica Engineering Works, Rabale, Navi Mumbai (RFQ candidate only): https://technicaengg.com/"
+    },
+    "B9": {
+      "formula": "'01 Sputter gun'!B12",
+      "cached_value": "Copper backplate"
+    },
+    "C9": {
+      "formula": "'01 Sputter gun'!D12",
+      "cached_value": "1"
+    },
+    "D9": {
+      "formula": "'01 Sputter gun'!F12",
+      "cached_value": "Custom vendor order"
+    },
+    "E9": {
+      "formula": "'01 Sputter gun'!G12",
+      "cached_value": "4000"
+    },
+    "F9": {
+      "formula": "'01 Sputter gun'!H12",
+      "cached_value": "4000"
+    },
+    "G9": {
+      "formula": "'01 Sputter gun'!J12",
+      "cached_value": "Technica Engineering Works, Rabale, Navi Mumbai (RFQ candidate only): https://technicaengg.com/"
+    },
+    "B10": {
+      "formula": "'01 Sputter gun'!B13",
+      "cached_value": "Steel return yoke"
+    },
+    "C10": {
+      "formula": "'01 Sputter gun'!D13",
+      "cached_value": "1"
+    },
+    "D10": {
+      "formula": "'01 Sputter gun'!F13",
+      "cached_value": "Custom vendor order"
+    },
+    "E10": {
+      "formula": "'01 Sputter gun'!G13",
+      "cached_value": "1200"
+    },
+    "F10": {
+      "formula": "'01 Sputter gun'!H13",
+      "cached_value": "1200"
+    },
+    "G10": {
+      "formula": "'01 Sputter gun'!J13",
+      "cached_value": "Technica Engineering Works, Rabale, Navi Mumbai (RFQ candidate only): https://technicaengg.com/"
+    },
+    "B11": {
+      "formula": "'01 Sputter gun'!B14",
+      "cached_value": "Live stainless spacer"
+    },
+    "C11": {
+      "formula": "'01 Sputter gun'!D14",
+      "cached_value": "1"
+    },
+    "D11": {
+      "formula": "'01 Sputter gun'!F14",
+      "cached_value": "Custom vendor order"
+    },
+    "E11": {
+      "formula": "'01 Sputter gun'!G14",
+      "cached_value": "2500"
+    },
+    "F11": {
+      "formula": "'01 Sputter gun'!H14",
+      "cached_value": "2500"
+    },
+    "G11": {
+      "formula": "'01 Sputter gun'!J14",
+      "cached_value": "Local turning/CNC shop — vendor to choose"
+    },
+    "B12": {
+      "formula": "'01 Sputter gun'!B15",
+      "cached_value": "Main PTFE insulator"
+    },
+    "C12": {
+      "formula": "'01 Sputter gun'!D15",
+      "cached_value": "1"
+    },
+    "D12": {
+      "formula": "'01 Sputter gun'!F15",
+      "cached_value": "Custom vendor order"
+    },
+    "E12": {
+      "formula": "'01 Sputter gun'!G15",
+      "cached_value": "1500"
+    },
+    "F12": {
+      "formula": "'01 Sputter gun'!H15",
+      "cached_value": "1500"
+    },
+    "G12": {
+      "formula": "'01 Sputter gun'!J15",
+      "cached_value": "Tanna Engineering Enterprises, Vasai, Mumbai (RFQ candidate only): https://tannaee.com/"
+    },
+    "B13": {
+      "formula": "'01 Sputter gun'!B16",
+      "cached_value": "One-piece PTFE screw cups"
+    },
+    "C13": {
+      "formula": "'01 Sputter gun'!D16",
+      "cached_value": "12"
+    },
+    "D13": {
+      "formula": "'01 Sputter gun'!F16",
+      "cached_value": "Custom vendor order"
+    },
+    "E13": {
+      "formula": "'01 Sputter gun'!G16",
+      "cached_value": "120"
+    },
+    "F13": {
+      "formula": "'01 Sputter gun'!H16",
+      "cached_value": "1440"
+    },
+    "G13": {
+      "formula": "'01 Sputter gun'!J16",
+      "cached_value": "Tanna Engineering Enterprises, Vasai, Mumbai (RFQ candidate only): https://tannaee.com/"
+    },
+    "B14": {
+      "formula": "'01 Sputter gun'!B17",
+      "cached_value": "Grounded base / Boden"
+    },
+    "C14": {
+      "formula": "'01 Sputter gun'!D17",
+      "cached_value": "1"
+    },
+    "D14": {
+      "formula": "'01 Sputter gun'!F17",
+      "cached_value": "Custom vendor order"
+    },
+    "E14": {
+      "formula": "'01 Sputter gun'!G17",
+      "cached_value": "3000"
+    },
+    "F14": {
+      "formula": "'01 Sputter gun'!H17",
+      "cached_value": "3000"
+    },
+    "G14": {
+      "formula": "'01 Sputter gun'!J17",
+      "cached_value": "Local turning/CNC shop — vendor to choose"
+    },
+    "B15": {
+      "formula": "'01 Sputter gun'!B18",
+      "cached_value": "Target retaining clamp"
+    },
+    "C15": {
+      "formula": "'01 Sputter gun'!D18",
+      "cached_value": "1"
+    },
+    "D15": {
+      "formula": "'01 Sputter gun'!F18",
+      "cached_value": "Custom vendor order"
+    },
+    "E15": {
+      "formula": "'01 Sputter gun'!G18",
+      "cached_value": "1800"
+    },
+    "F15": {
+      "formula": "'01 Sputter gun'!H18",
+      "cached_value": "1800"
+    },
+    "G15": {
+      "formula": "'01 Sputter gun'!J18",
+      "cached_value": "Local turning/CNC shop — vendor to choose"
+    },
+    "B16": {
+      "formula": "'01 Sputter gun'!B19",
+      "cached_value": "Dark-space cap"
+    },
+    "C16": {
+      "formula": "'01 Sputter gun'!D19",
+      "cached_value": "1"
+    },
+    "D16": {
+      "formula": "'01 Sputter gun'!F19",
+      "cached_value": "Custom vendor order"
+    },
+    "E16": {
+      "formula": "'01 Sputter gun'!G19",
+      "cached_value": "1800"
+    },
+    "F16": {
+      "formula": "'01 Sputter gun'!H19",
+      "cached_value": "1800"
+    },
+    "G16": {
+      "formula": "'01 Sputter gun'!J19",
+      "cached_value": "Local turning/CNC shop — vendor to choose"
+    },
+    "B17": {
+      "formula": "'01 Sputter gun'!B20",
+      "cached_value": "Grounded shield tube"
+    },
+    "C17": {
+      "formula": "'01 Sputter gun'!D20",
+      "cached_value": "1"
+    },
+    "D17": {
+      "formula": "'01 Sputter gun'!F20",
+      "cached_value": "Custom vendor order"
+    },
+    "E17": {
+      "formula": "'01 Sputter gun'!G20",
+      "cached_value": "1500"
+    },
+    "F17": {
+      "formula": "'01 Sputter gun'!H20",
+      "cached_value": "1500"
+    },
+    "G17": {
+      "formula": "'01 Sputter gun'!J20",
+      "cached_value": "Local tube/turning shop — vendor to choose"
+    },
+    "B18": {
+      "formula": "'01 Sputter gun'!B21",
+      "cached_value": "Stepped service tube"
+    },
+    "C18": {
+      "formula": "'01 Sputter gun'!D21",
+      "cached_value": "1"
+    },
+    "D18": {
+      "formula": "'01 Sputter gun'!F21",
+      "cached_value": "Custom vendor order"
+    },
+    "E18": {
+      "formula": "'01 Sputter gun'!G21",
+      "cached_value": "2500"
+    },
+    "F18": {
+      "formula": "'01 Sputter gun'!H21",
+      "cached_value": "2500"
+    },
+    "G18": {
+      "formula": "'01 Sputter gun'!J21",
+      "cached_value": "Local tube/turning or vacuum-fabrication shop"
+    },
+    "B19": {
+      "formula": "'01 Sputter gun'!B22",
+      "cached_value": "Internal tube-clamp halves"
+    },
+    "C19": {
+      "formula": "'01 Sputter gun'!D22",
+      "cached_value": "2"
+    },
+    "D19": {
+      "formula": "'01 Sputter gun'!F22",
+      "cached_value": "Custom vendor order"
+    },
+    "E19": {
+      "formula": "'01 Sputter gun'!G22",
+      "cached_value": "700"
+    },
+    "F19": {
+      "formula": "'01 Sputter gun'!H22",
+      "cached_value": "1400"
+    },
+    "G19": {
+      "formula": "'01 Sputter gun'!J22",
+      "cached_value": "Local CNC shop — vendor to choose"
+    },
+    "B20": {
+      "formula": "'01 Sputter gun'!B23",
+      "cached_value": "Coax shield carrier / saddle"
+    },
+    "C20": {
+      "formula": "'01 Sputter gun'!D23",
+      "cached_value": "1"
+    },
+    "D20": {
+      "formula": "'01 Sputter gun'!F23",
+      "cached_value": "Custom vendor order"
+    },
+    "E20": {
+      "formula": "'01 Sputter gun'!G23",
+      "cached_value": "600"
+    },
+    "F20": {
+      "formula": "'01 Sputter gun'!H23",
+      "cached_value": "600"
+    },
+    "G20": {
+      "formula": "'01 Sputter gun'!J23",
+      "cached_value": "Local sheet-metal/precision fabrication shop"
+    },
+    "B21": {
+      "formula": "'01 Sputter gun'!B24",
+      "cached_value": "Copper live-terminal standoff"
+    },
+    "C21": {
+      "formula": "'01 Sputter gun'!D24",
+      "cached_value": "1"
+    },
+    "D21": {
+      "formula": "'01 Sputter gun'!F24",
+      "cached_value": "Custom vendor order"
+    },
+    "E21": {
+      "formula": "'01 Sputter gun'!G24",
+      "cached_value": "250"
+    },
+    "F21": {
+      "formula": "'01 Sputter gun'!H24",
+      "cached_value": "250"
+    },
+    "G21": {
+      "formula": "'01 Sputter gun'!J24",
+      "cached_value": "Same turning shop as G01"
+    },
+    "B22": {
+      "formula": "'01 Sputter gun'!B25",
+      "cached_value": "Outer magnet discs"
+    },
+    "C22": {
+      "formula": "'01 Sputter gun'!D25",
+      "cached_value": "24"
+    },
+    "D22": {
+      "formula": "'01 Sputter gun'!F25",
+      "cached_value": "Online purchase"
+    },
+    "E22": {
+      "formula": "'01 Sputter gun'!G25",
+      "cached_value": "59"
+    },
+    "F22": {
+      "formula": "'01 Sputter gun'!H25",
+      "cached_value": "1416"
+    },
+    "G22": {
+      "formula": "'01 Sputter gun'!J25",
+      "cached_value": "https://www.magnetladen.de/en/Rod-Magnet-6x10-mm-N42-Nickel/St-06x10-Nd-Ni/"
+    },
+    "B23": {
+      "formula": "'01 Sputter gun'!B26",
+      "cached_value": "Centre magnet discs"
+    },
+    "C23": {
+      "formula": "'01 Sputter gun'!D26",
+      "cached_value": "2"
+    },
+    "D23": {
+      "formula": "'01 Sputter gun'!F26",
+      "cached_value": "Online purchase"
+    },
+    "E23": {
+      "formula": "'01 Sputter gun'!G26",
+      "cached_value": "469"
+    },
+    "F23": {
+      "formula": "'01 Sputter gun'!H26",
+      "cached_value": "938"
+    },
+    "G23": {
+      "formula": "'01 Sputter gun'!J26",
+      "cached_value": "https://www.magnetladen.de/en/Disc-Magnet-20x10-mm-N42-Nickel/S-20x10-Nd-Ni/"
+    },
+    "B24": {
+      "formula": "'01 Sputter gun'!B29",
+      "cached_value": "Inner coolant O-ring"
+    },
+    "C24": {
+      "formula": "'01 Sputter gun'!D29",
+      "cached_value": "1"
+    },
+    "D24": {
+      "formula": "'01 Sputter gun'!F29",
+      "cached_value": "Local purchase"
+    },
+    "E24": {
+      "formula": "'01 Sputter gun'!G29",
+      "cached_value": "120"
+    },
+    "F24": {
+      "formula": "'01 Sputter gun'!H29",
+      "cached_value": "120"
+    },
+    "G24": {
+      "formula": "'01 Sputter gun'!J29",
+      "cached_value": "Local industrial seal dealer — Mumbai sourcing"
+    },
+    "B25": {
+      "formula": "'01 Sputter gun'!B30",
+      "cached_value": "Outer coolant O-ring"
+    },
+    "C25": {
+      "formula": "'01 Sputter gun'!D30",
+      "cached_value": "1"
+    },
+    "D25": {
+      "formula": "'01 Sputter gun'!F30",
+      "cached_value": "Local purchase"
+    },
+    "E25": {
+      "formula": "'01 Sputter gun'!G30",
+      "cached_value": "150"
+    },
+    "F25": {
+      "formula": "'01 Sputter gun'!H30",
+      "cached_value": "150"
+    },
+    "G25": {
+      "formula": "'01 Sputter gun'!J30",
+      "cached_value": "Local industrial seal dealer — Mumbai sourcing"
+    },
+    "B26": {
+      "formula": "'01 Sputter gun'!B31",
+      "cached_value": "Head-to-spacer vacuum O-ring"
+    },
+    "C26": {
+      "formula": "'01 Sputter gun'!D31",
+      "cached_value": "1"
+    },
+    "D26": {
+      "formula": "'01 Sputter gun'!F31",
+      "cached_value": "Local purchase"
+    },
+    "E26": {
+      "formula": "'01 Sputter gun'!G31",
+      "cached_value": "250"
+    },
+    "F26": {
+      "formula": "'01 Sputter gun'!H31",
+      "cached_value": "250"
+    },
+    "G26": {
+      "formula": "'01 Sputter gun'!J31",
+      "cached_value": "Local industrial/vacuum seal dealer — Mumbai sourcing"
+    },
+    "B27": {
+      "formula": "'01 Sputter gun'!B32",
+      "cached_value": "Main-insulator vacuum O-rings"
+    },
+    "C27": {
+      "formula": "'01 Sputter gun'!D32",
+      "cached_value": "2"
+    },
+    "D27": {
+      "formula": "'01 Sputter gun'!F32",
+      "cached_value": "Local purchase"
+    },
+    "E27": {
+      "formula": "'01 Sputter gun'!G32",
+      "cached_value": "200"
+    },
+    "F27": {
+      "formula": "'01 Sputter gun'!H32",
+      "cached_value": "400"
+    },
+    "G27": {
+      "formula": "'01 Sputter gun'!J32",
+      "cached_value": "Local industrial/vacuum seal dealer — Mumbai sourcing"
+    },
+    "B28": {
+      "formula": "'01 Sputter gun'!B39",
+      "cached_value": "M3 ×16 socket-head screws"
+    },
+    "C28": {
+      "formula": "'01 Sputter gun'!D39",
+      "cached_value": "12"
+    },
+    "D28": {
+      "formula": "'01 Sputter gun'!F39",
+      "cached_value": "Local purchase"
+    },
+    "E28": {
+      "formula": "'01 Sputter gun'!G39",
+      "cached_value": "12"
+    },
+    "F28": {
+      "formula": "'01 Sputter gun'!H39",
+      "cached_value": "144"
+    },
+    "G28": {
+      "formula": "'01 Sputter gun'!J39",
+      "cached_value": "Local stainless fastener dealer — Mumbai sourcing"
+    },
+    "B29": {
+      "formula": "'01 Sputter gun'!B40",
+      "cached_value": "M3 ×35 socket-head screws"
+    },
+    "C29": {
+      "formula": "'01 Sputter gun'!D40",
+      "cached_value": "24"
+    },
+    "D29": {
+      "formula": "'01 Sputter gun'!F40",
+      "cached_value": "Local purchase"
+    },
+    "E29": {
+      "formula": "'01 Sputter gun'!G40",
+      "cached_value": "18"
+    },
+    "F29": {
+      "formula": "'01 Sputter gun'!H40",
+      "cached_value": "432"
+    },
+    "G29": {
+      "formula": "'01 Sputter gun'!J40",
+      "cached_value": "Local stainless fastener dealer — Mumbai sourcing"
+    },
+    "B30": {
+      "formula": "'01 Sputter gun'!B41",
+      "cached_value": "M3 x10 socket-head screws"
+    },
+    "C30": {
+      "formula": "'01 Sputter gun'!D41",
+      "cached_value": "12"
+    },
+    "D30": {
+      "formula": "'01 Sputter gun'!F41",
+      "cached_value": "Local purchase"
+    },
+    "E30": {
+      "formula": "'01 Sputter gun'!G41",
+      "cached_value": "12"
+    },
+    "F30": {
+      "formula": "'01 Sputter gun'!H41",
+      "cached_value": "144"
+    },
+    "G30": {
+      "formula": "'01 Sputter gun'!J41",
+      "cached_value": "Local stainless fastener dealer — Mumbai sourcing"
+    },
+    "B31": {
+      "formula": "'01 Sputter gun'!B42",
+      "cached_value": "M3 ×6 socket-head screws"
+    },
+    "C31": {
+      "formula": "'01 Sputter gun'!D42",
+      "cached_value": "7"
+    },
+    "D31": {
+      "formula": "'01 Sputter gun'!F42",
+      "cached_value": "Local purchase"
+    },
+    "E31": {
+      "formula": "'01 Sputter gun'!G42",
+      "cached_value": "10"
+    },
+    "F31": {
+      "formula": "'01 Sputter gun'!H42",
+      "cached_value": "70"
+    },
+    "G31": {
+      "formula": "'01 Sputter gun'!J42",
+      "cached_value": "Local stainless fastener dealer — Mumbai sourcing"
+    },
+    "B32": {
+      "formula": "'01 Sputter gun'!B43",
+      "cached_value": "M3 ×4 socket-head screw"
+    },
+    "C32": {
+      "formula": "'01 Sputter gun'!D43",
+      "cached_value": "1"
+    },
+    "D32": {
+      "formula": "'01 Sputter gun'!F43",
+      "cached_value": "Local purchase"
+    },
+    "E32": {
+      "formula": "'01 Sputter gun'!G43",
+      "cached_value": "10"
+    },
+    "F32": {
+      "formula": "'01 Sputter gun'!H43",
+      "cached_value": "10"
+    },
+    "G32": {
+      "formula": "'01 Sputter gun'!J43",
+      "cached_value": "Local stainless fastener dealer — Mumbai sourcing"
+    },
+    "B33": {
+      "formula": "'01 Sputter gun'!B44",
+      "cached_value": "M3 nut"
+    },
+    "C33": {
+      "formula": "'01 Sputter gun'!D44",
+      "cached_value": "1"
+    },
+    "D33": {
+      "formula": "'01 Sputter gun'!F44",
+      "cached_value": "Local purchase"
+    },
+    "E33": {
+      "formula": "'01 Sputter gun'!G44",
+      "cached_value": "5"
+    },
+    "F33": {
+      "formula": "'01 Sputter gun'!H44",
+      "cached_value": "5"
+    },
+    "G33": {
+      "formula": "'01 Sputter gun'!J44",
+      "cached_value": "Local stainless fastener dealer — Mumbai sourcing"
+    },
+    "B34": {
+      "formula": "'01 Sputter gun'!B45",
+      "cached_value": "M4 ×10 socket-head screw"
+    },
+    "C34": {
+      "formula": "'01 Sputter gun'!D45",
+      "cached_value": "1"
+    },
+    "D34": {
+      "formula": "'01 Sputter gun'!F45",
+      "cached_value": "Local purchase"
+    },
+    "E34": {
+      "formula": "'01 Sputter gun'!G45",
+      "cached_value": "15"
+    },
+    "F34": {
+      "formula": "'01 Sputter gun'!H45",
+      "cached_value": "15"
+    },
+    "G34": {
+      "formula": "'01 Sputter gun'!J45",
+      "cached_value": "Local stainless fastener dealer — Mumbai sourcing"
+    },
+    "B35": {
+      "formula": "'01 Sputter gun'!B46",
+      "cached_value": "M4 ×8 socket-head screws"
+    },
+    "C35": {
+      "formula": "'01 Sputter gun'!D46",
+      "cached_value": "3"
+    },
+    "D35": {
+      "formula": "'01 Sputter gun'!F46",
+      "cached_value": "Local purchase"
+    },
+    "E35": {
+      "formula": "'01 Sputter gun'!G46",
+      "cached_value": "12"
+    },
+    "F35": {
+      "formula": "'01 Sputter gun'!H46",
+      "cached_value": "36"
+    },
+    "G35": {
+      "formula": "'01 Sputter gun'!J46",
+      "cached_value": "Local stainless fastener dealer — Mumbai sourcing"
+    },
+    "B36": {
+      "formula": "'01 Sputter gun'!B47",
+      "cached_value": "M4 ×20 socket-head screw"
+    },
+    "C36": {
+      "formula": "'01 Sputter gun'!D47",
+      "cached_value": "1"
+    },
+    "D36": {
+      "formula": "'01 Sputter gun'!F47",
+      "cached_value": "Local purchase"
+    },
+    "E36": {
+      "formula": "'01 Sputter gun'!G47",
+      "cached_value": "18"
+    },
+    "F36": {
+      "formula": "'01 Sputter gun'!H47",
+      "cached_value": "18"
+    },
+    "G36": {
+      "formula": "'01 Sputter gun'!J47",
+      "cached_value": "Local stainless fastener dealer — Mumbai sourcing"
+    },
+    "B37": {
+      "formula": "'01 Sputter gun'!B48",
+      "cached_value": "M5 ×20 socket-head screws"
+    },
+    "C37": {
+      "formula": "'01 Sputter gun'!D48",
+      "cached_value": "6"
+    },
+    "D37": {
+      "formula": "'01 Sputter gun'!F48",
+      "cached_value": "Local purchase"
+    },
+    "E37": {
+      "formula": "'01 Sputter gun'!G48",
+      "cached_value": "20"
+    },
+    "F37": {
+      "formula": "'01 Sputter gun'!H48",
+      "cached_value": "120"
+    },
+    "G37": {
+      "formula": "'01 Sputter gun'!J48",
+      "cached_value": "Local stainless fastener dealer — Mumbai sourcing"
+    },
+    "B38": {
+      "formula": "'01 Sputter gun'!B27",
+      "cached_value": "Aluminium sputtering target"
+    },
+    "C38": {
+      "formula": "'01 Sputter gun'!D27",
+      "cached_value": "1"
+    },
+    "D38": {
+      "formula": "'01 Sputter gun'!F27",
+      "cached_value": "Online purchase"
+    },
+    "E38": {
+      "formula": "'01 Sputter gun'!G27",
+      "cached_value": "9794"
+    },
+    "F38": {
+      "formula": "'01 Sputter gun'!H27",
+      "cached_value": "9794"
+    },
+    "G38": {
+      "formula": "'01 Sputter gun'!J27",
+      "cached_value": "User-selected VritraTech: https://www.vritratech.com/store/product/aluminium-al-sputtering-target/"
+    },
+    "F39": {
+      "formula": "SUM(F8:F38)",
+      "cached_value": "44052"
+    },
+    "B44": {
+      "formula": "'01 Sputter gun'!B28",
+      "cached_value": "Complete internal coolant push fittings"
+    },
+    "C44": {
+      "formula": "'01 Sputter gun'!D28",
+      "cached_value": "2"
+    },
+    "D44": {
+      "formula": "'01 Sputter gun'!F28",
+      "cached_value": "Online purchase"
+    },
+    "E44": {
+      "formula": "'01 Sputter gun'!G28",
+      "cached_value": "1449.0000000000002"
+    },
+    "F44": {
+      "formula": "'01 Sputter gun'!H28",
+      "cached_value": "2898.0000000000005"
+    },
+    "G44": {
+      "formula": "'01 Sputter gun'!J28",
+      "cached_value": "Orange Coast Pneumatics / SMC: https://www.smcpneumatics.com/KQG2S04-M5.html"
+    },
+    "B45": {
+      "formula": "'01 Sputter gun'!B33",
+      "cached_value": "Internal KF16 centering ring and seal set"
+    },
+    "C45": {
+      "formula": "'01 Sputter gun'!D33",
+      "cached_value": "1"
+    },
+    "D45": {
+      "formula": "'01 Sputter gun'!F33",
+      "cached_value": "Local purchase"
+    },
+    "E45": {
+      "formula": "'01 Sputter gun'!G33",
+      "cached_value": "800"
+    },
+    "F45": {
+      "formula": "'01 Sputter gun'!H33",
+      "cached_value": "800"
+    },
+    "G45": {
+      "formula": "'01 Sputter gun'!J33",
+      "cached_value": "Local vacuum-hardware supplier — Mumbai sourcing"
+    },
+    "B46": {
+      "formula": "'01 Sputter gun'!B34",
+      "cached_value": "Internal cooling tube allowance"
+    },
+    "C46": {
+      "formula": "'01 Sputter gun'!D34",
+      "cached_value": "1"
+    },
+    "D46": {
+      "formula": "'01 Sputter gun'!F34",
+      "cached_value": "Local purchase"
+    },
+    "E46": {
+      "formula": "'01 Sputter gun'!G34",
+      "cached_value": "500"
+    },
+    "F46": {
+      "formula": "'01 Sputter gun'!H34",
+      "cached_value": "500"
+    },
+    "G46": {
+      "formula": "'01 Sputter gun'!J34",
+      "cached_value": "Local compatible-tubing supplier — polymer to select — Mumbai sourcing"
+    },
+    "B47": {
+      "formula": "'01 Sputter gun'!B36",
+      "cached_value": "Additional dielectric guard sleeve"
+    },
+    "C47": {
+      "formula": "'01 Sputter gun'!D36",
+      "cached_value": "1"
+    },
+    "D47": {
+      "formula": "'01 Sputter gun'!F36",
+      "cached_value": "Local purchase"
+    },
+    "E47": {
+      "formula": "'01 Sputter gun'!G36",
+      "cached_value": "100"
+    },
+    "F47": {
+      "formula": "'01 Sputter gun'!H36",
+      "cached_value": "100"
+    },
+    "G47": {
+      "formula": "'01 Sputter gun'!J36",
+      "cached_value": "Local PTFE sleeve/insulation-stock supplier — Mumbai sourcing"
+    },
+    "B48": {
+      "formula": "'01 Sputter gun'!B37",
+      "cached_value": "Coax shield spring clamp"
+    },
+    "C48": {
+      "formula": "'01 Sputter gun'!D37",
+      "cached_value": "1"
+    },
+    "D48": {
+      "formula": "'01 Sputter gun'!F37",
+      "cached_value": "Local purchase"
+    },
+    "E48": {
+      "formula": "'01 Sputter gun'!G37",
+      "cached_value": "700"
+    },
+    "F48": {
+      "formula": "'01 Sputter gun'!H37",
+      "cached_value": "700"
+    },
+    "G48": {
+      "formula": "'01 Sputter gun'!J37",
+      "cached_value": "Mumbai distributor / US alternative reviewed: https://us.rs-online.com/product/icotek/36202/72429141/"
+    },
+    "B49": {
+      "formula": "'01 Sputter gun'!B38",
+      "cached_value": "M4 ring terminal"
+    },
+    "C49": {
+      "formula": "'01 Sputter gun'!D38",
+      "cached_value": "1"
+    },
+    "D49": {
+      "formula": "'01 Sputter gun'!F38",
+      "cached_value": "Local purchase"
+    },
+    "E49": {
+      "formula": "'01 Sputter gun'!G38",
+      "cached_value": "100"
+    },
+    "F49": {
+      "formula": "'01 Sputter gun'!H38",
+      "cached_value": "100"
+    },
+    "G49": {
+      "formula": "'01 Sputter gun'!J38",
+      "cached_value": "Local TE distributor/electrical terminal supplier — Mumbai sourcing"
+    },
+    "B50": {
+      "formula": "'01 Sputter gun'!B35",
+      "cached_value": "Continuous coax allocation"
+    },
+    "C50": {
+      "formula": "'01 Sputter gun'!D35",
+      "cached_value": "1"
+    },
+    "D50": {
+      "formula": "'01 Sputter gun'!F35",
+      "cached_value": "Local purchase"
+    },
+    "E50": {
+      "formula": "'01 Sputter gun'!G35",
+      "cached_value": "1500"
+    },
+    "F50": {
+      "formula": "'01 Sputter gun'!H35",
+      "cached_value": "1500"
+    },
+    "G50": {
+      "formula": "'01 Sputter gun'!J35",
+      "cached_value": "Local RF cable supplier — exact cable to choose — Mumbai sourcing"
+    }
+  },
+  "cached_errors": []
+}

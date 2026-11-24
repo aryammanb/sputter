@@ -1,0 +1,23 @@
+0:00 The revised magnetic head
+This is revision B of our magnetic cooling head. Unlike the earlier two part layout, this assembly includes the actual magnet volumes, their dry wells, a locator, a steel return yoke, and supporting spacers. The exploded view shows how these parts relate. Display colors distinguish components, not necessarily their real surface finishes.
+
+0:22 Seven dry wells in the copper
+The copper body now has seven blind magnet wells. Water occupies the pocket around the solid copper islands; the magnets enter the dry holes inside those islands. The wells stop before the target face. We increased the body diameter to eighty two millimetres to accommodate the wells, seal glands, coolant passages, and fastening pattern.
+
+0:44 The magnet pack and yoke
+Six eight by twenty millimetre rod magnets surround two stacked twelve by ten millimetre discs. In this proposed orientation, the outer poles face north toward the target and the center stack faces south. The steel plate provides the return path. A plastic locator guides the magnet bases. This arrangement fits mechanically; its field strength and racetrack are not yet validated.
+
+1:08 Eight seal locations
+Each dry well needs its own face O ring at the body and cover interface. A perimeter ring closes the outer boundary. That makes eight primary face seals: six around the outer wells, one around the center, and one around the perimeter. The green traces mark their locations. They are explanatory graphics, not seal compression models.
+
+1:30 Cover first, then magnet pack
+First the cover approaches and closes the cooling body. Its seven dry passages align with the blind wells. Next, the yoke and magnet pack advance from the rear. The rods and center stack pass through the cover into their matching wells. The yoke seats on three support spacers. This animation shows the nominal assembly geometry; fasteners and seals still require final detailing.
+
+1:55 The poles are close to the target
+This cutaway reveals the fitted magnets. Their tips sit four millimetres behind the target seating face, including a one point five millimetre gap to the blind well ends. Target thickness adds to the distance to the plasma facing surface. The spacers carry the structural clamping load, so the magnets are not used as compression posts. Clearances shown are nominal.
+
+2:18 Water flows around the dry islands
+With the cover and magnets hidden, the blue floor reveals the coolant pocket. Water enters through one relocated port, divides around the dry islands, and returns through the other. The moving dots show two possible routes, not a fluid simulation. The copper divider discourages a direct shortcut, but bypass must be checked. The ports and rear utility routes lie between outer magnet positions.
+
+2:43 What this revision establishes
+The assembled head now reserves space for the magnets and utilities together. Fifteen candidate part instances pass nominal collision checks, and a separate fitting volume check also passes. That establishes geometric fit, not operating performance. We still need magnetic field analysis, seal and pressure validation, cooling assessment, and the complete vacuum housing and electrical connection to our selected RF feedthrough.

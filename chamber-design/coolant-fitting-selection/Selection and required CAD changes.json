@@ -1,0 +1,17 @@
+{
+  "model": "SMC KQG2S04-M5",
+  "qty": 2,
+  "scope": "Mechanical procurement selection only; coolant-in-vacuum suitability unqualified",
+  "CAD_revision_status": "R06 native SolidWorks gun and backplate completed; full-system STEP context updated",
+  "thread": "M5x0.8",
+  "body_OD_mm": 9,
+  "length_mm": 17.1,
+  "installed_projection_mm": 14.1,
+  "hex_mm": 2,
+  "yoke_hole_mm": 14,
+  "nominal_radial_clearance_mm": 2.5,
+  "price_USD_each": 16.1,
+  "rejected_candidate": "User Flipkart4mm x1/4NPT; oversized port and no verified envelope/seals",
+  "manufacturer": "https://ca01.smcworld.com/catalog/en/fitting_tube/KQG2-E/7-9-2-p0397-0414-KQG2_en/data/7-9-2-p0397-0414-KQG2_en.pdf",
+  "CAD_revision_folder": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\chamber-design\\coolant-fitting-r06"
+}

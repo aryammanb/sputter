@@ -1,0 +1,46 @@
+TOP PLATE R01 - PRELIMINARY INTERFACE LAYOUT
+24 November 2026
+
+Basis: 200 x 200 x 300 internal chamber; front access door; gun on top;
+ISO63 pump underneath; left wall blank; three KF25 ports each on rear/right.
+
+Proposed roof: 220 x 220 x 10 mm stainless blank with central 27 mm bore.
+Thickness and 10 mm per-side overhang are layout assumptions, not approved
+vacuum structural sizing or a final wall-joint detail. No roof bolt pattern
+or perimeter seal is specified; a welded roof is the initial concept.
+The neck allowance is OD33 / ID27 / 20 mm above the roof, to keep stack low.
+It is NOT a finished KF25 flange. The flange and seal stack are not modeled.
+
+REFERENCE / PROCUREMENT
+Use Lesker QF25XVC100 as reference. Purchase selected eBay item 198508082866.
+https://www.lesker.com/flanges/adapters-fittings-quickconnects/part/qf25xvc100
+https://www.ebay.com/itm/198508082866
+Lesker lists 25.4 mm tube OD, 39.88 mm flange OD, A25.9 and B50.8.
+Do not interpret A/B without the controlled drawing. The diagram uses a
+schematic adapter envelope, not supplier CAD. eBay dimensions are unconfirmed.
+
+IMPORTANT COMPATIBILITY ISSUE
+The 25.4 mm tube must pass the adapter, seal/centering ring, mating flange
+and roof. Standard KF25 is NOT assurance of a 25.4 mm through bore.
+Lesker QF25-100-SRV lists A23.6/B26; the actual cross section must be checked.
+https://www.lesker.com/flanges/hardware-kf-centeringrings/part/qf25-100-srv
+Standard KF25 weld stubs also have smaller bores (e.g. 22.225 mm).
+https://www.lesker.com/newweb/flanges/flanges_kf_weld.cfm?pgid=weld3
+Do not order a standard KF25 mating stack assuming it passes our tube.
+Obtain confirmation of a complete 25.4 mm pass-through stack. If unavailable,
+revise the chamber adapter selection and mating connection before fabrication.
+Do not machine an off-the-shelf seal ring without an engineered seal review.
+
+ASSEMBLY
+Bring gun into chamber through the front door. Feed its service end upward
+through roof and gland; the approximately 102 mm head remains inside.
+Loosen/reposition only when vented and supported. Check the actual coupling
+length, tube-end details and remaining sealing engagement over 75 mm proposed
+travel before claiming a 75-150 mm target/substrate range is attainable.
+Provide a deliberate ground bond; the tube O-ring is not an electrical bond.
+
+DELIVERABLE SCOPE
+STEP models cover roof and neck allowance only; no gun or supplier adapter CAD.
+Geometry checks verify simple solid validity, bore clearance and reimport.
+They do not verify structural, sealing or full gun-assembly compatibility.
+Top plate R01 - concept.png is a schematic drawing of the proposed interface.

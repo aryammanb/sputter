@@ -1,0 +1,197 @@
+﻿Instance,Group,Role,Design notes,Volume mm3
+Gun 001 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-10 / stack disc 1,282.74333882308144
+Gun 002 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-10 / stack disc 2,282.74333882308144
+Gun 003 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-6 / stack disc 1,282.74333882308144
+Gun 004 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-6 / stack disc 2,282.74333882308144
+Gun 005 backbolts,gun,gun_backbolts,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-6,175.73591510679483
+Gun 006 backbolts,gun,gun_backbolts,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-8,175.73591510679472
+Gun 007 backbolts,gun,gun_backbolts,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-9,175.73591510679475
+Gun 008 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-5 / stack disc 1,282.7433388230814
+Gun 009 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-5 / stack disc 2,282.7433388230814
+Gun 010 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-7 / stack disc 1,282.7433388230815
+Gun 011 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-7 / stack disc 2,282.74333882308144
+Gun 012 backbolts,gun,gun_backbolts,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-4,175.73591510679475
+Gun 013 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-9 / stack disc 1,282.74333882308144
+Gun 014 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-9 / stack disc 2,282.74333882308144
+Gun 015 backbolts,gun,gun_backbolts,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-5,175.73591510679472
+Gun 016 backbolts,gun,gun_backbolts,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-7,175.73591510679475
+Gun 017 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-8 / stack disc 1,282.74333882308144
+Gun 018 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-8 / stack disc 2,282.74333882308144
+Gun 019 backbolts,gun,gun_backbolts,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-10,175.73591510679475
+Gun 020 fittings,gun,gun_fittings,01 Original cathode cooling and magnets-1/REF coolant push-in fitting body-2,1584.5565026176894
+Gun 021 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-12 / stack disc 1,282.74333882308144
+Gun 022 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-12 / stack disc 2,282.74333882308144
+Gun 023 fittings,gun,gun_fittings,01 Original cathode cooling and magnets-1/REF coolant push-in fitting body-1,1584.5565026176896
+Gun 024 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-11 / stack disc 1,282.74333882308156
+Gun 025 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-11 / stack disc 2,282.7433388230815
+Gun 026 backbolts,gun,gun_backbolts,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-12,175.7359151067779
+Gun 027 fittings,gun,gun_fittings,01 Original cathode cooling and magnets-1/REF coolant fitting blue release collar-2,72.64933011426716
+Gun 028 backbolts,gun,gun_backbolts,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-11,175.7359151067779
+Gun 029 fittings,gun,gun_fittings,01 Original cathode cooling and magnets-1/REF coolant fitting blue release collar-1,72.64933011426716
+Gun 030 waterseal,gun,gun_waterseal,01 Original cathode cooling and magnets-1/AT O-ring ID35x2 installed-1,452.5213617900835
+Gun 031 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-1 / stack disc 1,282.74333882308144
+Gun 032 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-1 / stack disc 2,282.74333882308144
+Gun 033 yokebolt,gun,gun_yokebolt,01 Original cathode cooling and magnets-1/AT M4x10 socket-head study-1,263.33889367842045
+Gun 034 waterseal,gun,gun_waterseal,01 Original cathode cooling and magnets-1/AT O-ring ID14p5x2 installed-1,255.12927376823703
+Gun 035 cooler,gun,gun_cooler,01 Original cathode cooling and magnets-1/Kuehlkoerper-1,53057.725874466465
+Gun 036 closure,gun,gun_closure,01 Original cathode cooling and magnets-1/Backplate-1,39902.66819212974
+Gun 037 yoke,gun,gun_yoke,01 Original cathode cooling and magnets-1/Magnet Joke-1,36216.53191237467
+Gun 038 centermag,gun,gun_centermag,01 Original cathode cooling and magnets-1/AT center magnet D12x10 N45-1,3141.5926535897934
+Gun 039 backbolts,gun,gun_backbolts,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-1,175.73591510677787
+Gun 040 centermag,gun,gun_centermag,01 Original cathode cooling and magnets-1/AT center magnet D12x10 N45-2,3141.5926535897934
+Gun 041 backbolts,gun,gun_backbolts,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-3,175.73591510679472
+Gun 042 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-3 / stack disc 1,282.74333882308144
+Gun 043 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-3 / stack disc 2,282.74333882308144
+Gun 044 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-4 / stack disc 1,282.74333882308144
+Gun 045 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-4 / stack disc 2,282.74333882308144
+Gun 046 backbolts,gun,gun_backbolts,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-2,175.7359151067779
+Gun 047 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-2 / stack disc 1,282.74333882308144
+Gun 048 outermag,gun,gun_outermag,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-2 / stack disc 2,282.74333882308144
+Gun 049 headbolts,gun,gun_headbolts,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-2,310.03900104776284
+Gun 050 headbolts,gun,gun_headbolts,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-6,310.0390010477568
+Gun 051 headbolts,gun,gun_headbolts,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-9,310.0390010477563
+Gun 052 headbolts,gun,gun_headbolts,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-3,310.0390010477563
+Gun 053 headbolts,gun,gun_headbolts,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-11,310.0390010477399
+Gun 054 headbolts,gun,gun_headbolts,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-12,310.03900104776324
+Gun 055 headseal,gun,gun_headseal,02 Original spacer and copper attachment-1/AT O-ring ID76x2 installed-1,769.8293103310697
+Gun 056 headbolts,gun,gun_headbolts,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-7,310.03900104775676
+Gun 057 headbolts,gun,gun_headbolts,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-4,310.03900104775636
+Gun 058 headbolts,gun,gun_headbolts,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-1,310.03900104774004
+Gun 059 spacer,gun,gun_spacer,02 Original spacer and copper attachment-1/Abstandshalter-1,87824.45281909074
+Gun 060 headbolts,gun,gun_headbolts,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-5,310.03900104775676
+Gun 061 headbolts,gun,gun_headbolts,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-8,310.0390010477563
+Gun 062 headbolts,gun,gun_headbolts,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-10,310.0390010477629
+Gun 063 hoses,gun,gun_hoses,07 Reference atmospheric utility routes-1/REF blue coolant hose right-1,2111.9997170297293
+Gun 064 hoses,gun,gun_hoses,07 Reference atmospheric utility routes-1/REF blue coolant hose left-1,2111.9983063701975
+Gun 065 kfclamps,gun,gun_kfclamps,06 Original clamp and reference KF16 tube-1/AT original flange clamp half-2,15059.332796476529
+Gun 066 kfclamps,gun,gun_kfclamps,06 Original clamp and reference KF16 tube-1/AT original flange clamp half-1,15059.332796474993
+Gun 067 kfbolts,gun,gun_kfbolts,06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-1,640.9516772191436
+Gun 068 kfbolts,gun,gun_kfbolts,06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-4,640.9516772190674
+Gun 069 kfbolts,gun,gun_kfbolts,06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-5,640.9516772190674
+Gun 070 kfcenter,gun,gun_kfcenter,06 Original clamp and reference KF16 tube-1/REF KF16 centering ring fitted-1,317.300858012583
+Gun 071 kfbolts,gun,gun_kfbolts,06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-6,640.9516772191436
+Gun 072 kfseal,gun,gun_kfseal,06 Original clamp and reference KF16 tube-1/REF KF16 O-ring installed envelope-1,1418.75594051493
+Gun 073 kfbolts,gun,gun_kfbolts,06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-3,640.9516772190673
+Gun 074 kfbolts,gun,gun_kfbolts,06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-2,640.9516772190673
+Gun 075 cups,gun,gun_cups,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-11,1287.3579105972228
+Gun 076 basebolts,gun,gun_basebolts,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-11,310.03900104773993
+Gun 077 basebolts,gun,gun_basebolts,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-10,310.03900104777006
+Gun 078 cups,gun,gun_cups,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-12,1287.3579105972224
+Gun 079 basebolts,gun,gun_basebolts,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-12,310.0390010477636
+Gun 080 cups,gun,gun_cups,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-4,1287.357910597222
+Gun 081 basebolts,gun,gun_basebolts,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-7,310.039001047757
+Gun 082 cups,gun,gun_cups,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-5,1287.3579105972224
+Gun 083 basebolts,gun,gun_basebolts,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-9,310.0390010477564
+Gun 084 cups,gun,gun_cups,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-6,1287.3579105972221
+Gun 085 cups,gun,gun_cups,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-10,1287.3579105972217
+Gun 086 cups,gun,gun_cups,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-8,1287.3579105972228
+Gun 087 basebolts,gun,gun_basebolts,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-4,310.0390010477564
+Gun 088 basebolts,gun,gun_basebolts,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-3,310.03900104777
+Gun 089 basebolts,gun,gun_basebolts,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-5,310.0390010477569
+Gun 090 basebolts,gun,gun_basebolts,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-6,310.0390010477571
+Gun 091 cups,gun,gun_cups,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-7,1287.3579105972224
+Gun 092 basebolts,gun,gun_basebolts,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-8,310.0390010477568
+Gun 093 cups,gun,gun_cups,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-9,1287.3579105972217
+Gun 094 isolator,gun,gun_isolator,03 Original PTFE isolation and base-1/Isolator-1,28747.647540497026
+Gun 095 upper62,gun,gun_upper62,03 Original PTFE isolation and base-1/AT O-ring ID62x2 installed-1,631.6548187340197
+Gun 096 cups,gun,gun_cups,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-1,1287.3579105972221
+Gun 097 basebolts,gun,gun_basebolts,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-1,310.03900104776363
+Gun 098 cups,gun,gun_cups,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-2,1287.3579105972228
+Gun 099 basebolts,gun,gun_basebolts,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-2,310.03900104774004
+Gun 100 lower62,gun,gun_lower62,03 Original PTFE isolation and base-1/AT O-ring ID62x2 installed-2,631.6548187340115
+Gun 101 cups,gun,gun_cups,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-3,1287.3579105972217
+Gun 102 targetbolts,gun,gun_targetbolts,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-12,119.18724734215611
+Gun 103 clamp,gun,gun_clamp,04 Original target clamp and fitted target-1/Target Klemme-1,26717.95661511411
+Gun 104 target,gun,gun_target,04 Original target clamp and fitted target-1/AT titanium target D50p8x2 fitted-1,4053.6598327801594
+Gun 105 targetbolts,gun,gun_targetbolts,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-1,119.18724734216124
+Gun 106 targetbolts,gun,gun_targetbolts,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-2,119.18724734217962
+Gun 107 targetbolts,gun,gun_targetbolts,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-3,119.18724734219862
+Gun 108 targetbolts,gun,gun_targetbolts,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-4,119.18724734217285
+Gun 109 targetbolts,gun,gun_targetbolts,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-5,119.18724734217302
+Gun 110 targetbolts,gun,gun_targetbolts,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-6,119.18724734217811
+Gun 111 targetbolts,gun,gun_targetbolts,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-7,119.187247342173
+Gun 112 targetbolts,gun,gun_targetbolts,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-8,119.18724734217307
+Gun 113 targetbolts,gun,gun_targetbolts,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-9,119.18724734217287
+Gun 114 targetbolts,gun,gun_targetbolts,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-10,119.18724734219865
+Gun 115 targetbolts,gun,gun_targetbolts,04 Original target clamp and fitted target-1/AT M3x8 socket-head study-11,119.18724734217963
+Gun 116 upperbolts,gun,gun_upperbolts,05 Original grounded shield-1/AT M3x6 socket-head study-5,105.0500804010178
+Gun 117 darkcap,gun,gun_darkcap,05 Original grounded shield-1/Dunkelraumabschirmung-1,41044.76627300665
+Gun 118 upperbolts,gun,gun_upperbolts,05 Original grounded shield-1/AT M3x6 socket-head study-1,105.05008040102558
+Gun 119 upperbolts,gun,gun_upperbolts,05 Original grounded shield-1/AT M3x6 socket-head study-2,105.05008040101778
+Gun 120 upperbolts,gun,gun_upperbolts,05 Original grounded shield-1/AT M3x6 socket-head study-3,105.05008040112604
+Gun 121 upperbolts,gun,gun_upperbolts,05 Original grounded shield-1/AT M3x6 socket-head study-4,105.05008040113856
+Gun 122 shieldtube,gun,gun_shieldtube,05 Original grounded shield-1/Groundshield Rohr-1,53160.32449044946
+Gun 123 lowerbolts,gun,gun_lowerbolts,05 Original grounded shield-1/AT M4x8 socket-head study-2,238.20615244977967
+Gun 124 upperbolts,gun,gun_upperbolts,05 Original grounded shield-1/AT M3x6 socket-head study-6,105.05008040104089
+Gun 125 lowerbolts,gun,gun_lowerbolts,05 Original grounded shield-1/AT M4x8 socket-head study-1,238.20615244970057
+Gun 126 lowerbolts,gun,gun_lowerbolts,05 Original grounded shield-1/AT M4x8 socket-head study-3,238.2061524497433
+Gun 127 base,gun,gun_base,R02 Boden - internal blind ground anchor,152509.06653466454
+Gun 128 kftube,gun,gun_kftube,R02 KF16 neck to one inch service tube,23892.865133085117
+Gun 129 rfground,gun,gun_rfground,REF icotek SKL3-6 36202 installed study,170.57996140322496
+Gun 130 rfground,gun,gun_rfground,R02 Ground carrier and conformal saddle,219.44175957438082
+Gun 131 rfground,gun,gun_rfground,R02 M3x4 clamp mounting screw,99.5492172106268
+Gun 132 rfground,gun,gun_rfground,R02 M3 clamp nut envelope,38.90548342205685
+Gun 133 rfground,gun,gun_rfground,R02 M3x6 blind ground anchor screw,113.68638415179976
+Gun 134 rfhot,gun,gun_rfhot,R02 Copper terminal stand-off D6p5 L12p5,233.26325452904726
+Gun 135 rfhot,gun,gun_rfhot,R02 M4x20 live terminal screw,405.26545231308063
+Gun 136 rfhot,gun,gun_rfhot,REF TE323086 M4 ring terminal study,80.54560475660296
+Gun 137 coax,gun,gun_coax,R02 Continuous coax outer jacket,2281.5319110006326
+Gun 138 coax,gun,gun_coax,R02 Continuous coax shield,720.3446229604222
+Gun 139 coax,gun,gun_coax,R02 Continuous center dielectric,2061.8612639144008
+Gun 140 coax,gun,gun_coax,R02 RF center conductor,180.60474137049795
+Gun 141 coax,gun,gun_coax,R02 Additional dielectric guard sleeve,56.75664223308019
+Rear upper gas inlet KF25 weld nipple,chamber,service_port,"QF25-100-LF nominal envelope: OD39.88, bore22.225, length40.132. No attached gauge/MFC models.",8567.604225986935
+Rear lower left Pirani KF25 weld nipple,chamber,service_port,"QF25-100-LF nominal envelope: OD39.88, bore22.225, length40.132. No attached gauge/MFC models.",8567.604225986943
+Rear lower right Penning KF25 weld nipple,chamber,service_port,"QF25-100-LF nominal envelope: OD39.88, bore22.225, length40.132. No attached gauge/MFC models.",8567.604225986943
+Right lower spare KF25 weld nipple,chamber,service_port,"QF25-100-LF nominal envelope: OD39.88, bore22.225, length40.132. No attached gauge/MFC models.",8567.604225986946
+Right upper spare KF25 weld nipple,chamber,service_port,"QF25-100-LF nominal envelope: OD39.88, bore22.225, length40.132. No attached gauge/MFC models.",8567.604225986917
+Rear wall,chamber,structure,10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.,644798.7756270751
+Right wall,chamber,structure,10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.,589865.8504180501
+Left wall - reserved blank,chamber,structure,10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.,600000.0
+Roof plate,chamber,structure,10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.,488283.8458898468
+Floor plate,chamber,structure,10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.,458715.48999352497
+Front welded door frame,chamber,structure,10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.,270000.12466094847
+Front door compressed gasket envelope,chamber,door_seal,Rectangular compressed-cord envelope in 4.5 x 2.2 groove; final seal specification unqualified.,8247.897299356027
+Front door plate with viewport cutout,door,door_plate,"228 x 316 x 16, viewport clear70; closed inner face y-116.",1090361.5185734998
+Viewport gasket envelope,door,viewport_seal,Reference gasket envelope; mounting/seal design pending.,2544.6900494077336
+Viewport glass disc,door,glass,D94 x6 nominal envelope; 70 clear aperture. Glass pressure/thermal rating NOT established.,41638.66903067912
+Viewport retainer screw 1,door,door_screw,Nominal M5 envelope; threads/preload not modeled.,529.3583621298801
+Viewport retainer screw 2,door,door_screw,Nominal M5 envelope; threads/preload not modeled.,529.3583621298801
+Viewport retainer screw 3,door,door_screw,Nominal M5 envelope; threads/preload not modeled.,529.3583621298801
+Viewport retainer screw 4,door,door_screw,Nominal M5 envelope; threads/preload not modeled.,529.3583621298801
+Viewport retainer screw 5,door,door_screw,Nominal M5 envelope; threads/preload not modeled.,529.35836212988
+Viewport retainer screw 6,door,door_screw,Nominal M5 envelope; threads/preload not modeled.,529.3583621298799
+Viewport retaining bezel,door,viewport_bezel,,37296.20258525466
+Door pull handle,door,door_handle,,7808.0
+Hinge fixed barrel 65,chamber,hinge_fixed,,4151.302541481804
+Hinge pin 65,chamber,hinge_pin,,1130.9733552923256
+Hinge door leaf 65,door,hinge_moving,,2251.1291210776767
+Hinge fixed barrel 235,chamber,hinge_fixed,,4151.302541481804
+Hinge pin 235,chamber,hinge_pin,,1130.9733552923256
+Hinge door leaf 235,door,hinge_moving,,2251.1291210776767
+Latch body envelope,door,latch,Concept latch; exact procurement and mounting pending.,2688.0
+Latch catch envelope,chamber,latch_catch,,1728.0
+Bottom ISO63-K weld neck and flange,chamber,turbo_flange,"OD95 / bore63.5 / flange12, face z-45; nominal envelope. Clamp profile and backing groove simplified; purchased drawing pending.",69546.0256211398
+Support leg -85 -75,chamber,support,,20479.999999999996
+Support leg -85 75,chamber,support,,20479.999999999996
+Support leg 85 -75,chamber,support,,20479.999999999996
+Support leg 85 75,chamber,support,,20479.999999999996
+Roof KF25 gun weld flange - bore to verify,chamber,gun_mount,Nominal KF25 OD39.88 with proposed27 through bore. Not a verified off-the-shelf mating flange; standard weld stub/ring can block25.4 tube.,10528.116191564653
+Gun joint seal space - unresolved reference,chamber,gun_mount_seal,Placeholder only; actual KF25 centering seal must be verified for25.4 pass-through.,819.9556825869356
+QF25XVC100 reference compression adapter,chamber,gun_adapter,50.8 long and40 flange OD from catalogue; body/knob envelope illustrative. Minimum through bore25.9 assumed from A dimension; controlled drawing required. eBay purchase planned.,29524.459678810228
+Gun KF25 clamp envelope,chamber,gun_mount_clamp,Simplified annular clamp envelope; no actuator detail.,6165.06142340461
+Removable substrate stage D90 x6,chamber,stage,"Top z40, undersidez34. Four supports at (+/-29,+/-29), fully below plate and outside central turbo opening.",38170.35074111598
+Stage support -29 -29,chamber,stage_support,,961.3273519984766
+Stage support -29 29,chamber,stage_support,,961.3273519984766
+Stage support 29 -29,chamber,stage_support,,961.3273519984766
+Stage support 29 29,chamber,stage_support,,961.3273519984766
+Reference substrate 50 x50 x1,chamber,substrate,Sample design assumption; top surface z41 is deposition-distance datum.,2500.0
+Removable pump deposition baffle D104 x1.5,chamber,pump_baffle,Baffle topz19.5; four7 clearance bores. Reduces direct line of sight; conductance and full interception not validated.,12511.392742921347
+Baffle spacer -44,chamber,baffle_support,,353.4291735288518
+Baffle spacer 44,chamber,baffle_support,,353.4291735288518
+One piece bent shutter - CLOSED,shutter,shutter,"t1; inside bendsR2; upper flatz293..294; bladez53..54; pivot(-65,0); blade56square; closed centre(0,0).",8315.451762149185
+99607A246 thumb screw nominal envelope,shutter,shutter_screw,"1/4-28 x1.25in under-head assumption; collar/head geometry illustrative, threads not modeled. Verify McMaster drawing.",2748.7752712927067
+Shutter aluminum nut 287.5,shutter,shutter_nut,1/4-28 nominal nut envelope; not supplier CAD.,413.8606965524109
+Shutter aluminum nut 294,shutter,shutter_nut,1/4-28 nominal nut envelope; not supplier CAD.,413.8606965524109
+Shutter underside thrust washer,shutter,shutter_washer,,83.42499291607696
+6540K248 shutter face seal envelope,chamber,shutter_seal,Nominal1/4ID x1/2OD x1/8 free section from supplied text; compressed axial envelope2.4. No qualified rotating seal gland.,228.01836559387328

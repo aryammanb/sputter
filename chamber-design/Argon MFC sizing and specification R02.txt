@@ -1,0 +1,127 @@
+CURRENT OWNER SELECTION:200sccm MFC. See Argon MFC selection R03 - 200 sccm.txt.
+All earlier range recommendations below are superseded by R03.
+
+ARGON MASS FLOW CONTROLLER - IGNITION REVISION R02
+24 November 2026
+Supersedes the selection and procurement recommendation in R01.
+
+OWNER REQUIREMENT AND RECOMMENDATION
+The owner specifies50 mTorr (6.666 Pa,0.06666 mbar) for plasma ignition.
+The previous0-50 sccm recommendation covered an assumed deposition window
+only; it does not reliably cover this ignition requirement with direct pumping.
+Ignition at50 mTorr is a requested design target, not a demonstrated recipe.
+
+For the CURRENT unthrottled chamber-to-EXT70 layout, provisionally specify
+one normally closed, argon-calibrated0-300 sccm MFC. Release for purchase and
+operation depends on installed Ar pumping performance and confirmation of
+permissible Ar throughput for the actual EXT70/EXDC80/cooling/backing system.
+300 sccm is a sizing allowance, not an approved pump operating flow.
+Do not specify a generic SEC-E440J300 sccm solely because its body fits CAD:
+its low-flow control and accuracy may be unsuitable for deposition.
+
+RETAINED PROJECT BASIS
+Gross chamber volume12 L (200x200x300mm); installed free volume unmeasured.
+Selected pumping hardware: one Edwards EXT70 B722-01-000 from the EXDC80
+bundle, backed by the selected INDOVAC HV2-150150 L/min displacement pump.
+The RV3 shown in CAD is a superseded layout reference. Current connection:
+chamber -> ISO63 EXT70 -> KF16/KF25 adapter/foreline -> backing-pump suction.
+No adjustable high-vacuum throttle or roughing bypass is currently selected.
+65 L/s is the manual's ISO63 N2 speed without screen, not an Ar specification.
+
+CALCULATION
+Use chamber effective speed, not nominal pump speed: p*S_eff = Q_Ar+Q_bg.
+For Ar flow referenced to0degC/1013.25mbar and chamber gas at20degC:
+Q_Ar [mbar L/s] =0.018124*F [sccm].
+At50mTorr, neglecting background gas load:
+Effective chamber speed       Required Ar flow
+20 L/s                       73.56 sccm
+40 L/s                      147.12 sccm
+65 L/s                      239.07 sccm
+These are constant-speed sensitivity cases, NOT an Ar pump performance curve
+or a certified speed bound. Speed/conductance can vary at ignition pressure.
+A300sccm range gives about25% headroom over239sccm in the65L/s case.
+A200sccm controller misses that case. A100sccm controller reaches50mTorr only
+if S_eff is approximately27.2L/s or less under these assumptions.
+The12L chamber controls response time, not the steady flow needed to hold50mTorr.
+Standard gas reference temperature must match the supplied MFC certificate.
+
+CHOOSING BETWEEN TWO ARCHITECTURES
+A. Retain current direct pumping: use0-300sccm, with verified low-flow accuracy.
+   If this gas load is outside pump/drive limits, this architecture is not
+   established as suitable for the50mTorr requirement, regardless of MFC size.
+B. Engineering alternative: a0-100sccm MFC plus a vacuum-rated adjustable
+   throttle between chamber and turbo, with chamber-pressure feedback.
+   At50mTorr,20sccm requires about5.44L/s effective chamber speed;50sccm
+   requires13.59L/s;100sccm requires27.19L/s. Restricting inlet conductance
+   can therefore raise chamber pressure with less gas throughput.
+   This is a proposed layout change, not selected hardware or completed CAD.
+   Check valve conductance range, ISO63 interfaces, height/clearances, seals,
+   supports, contamination shielding and controlled reopening pressure transient.
+   A foreline valve is not a substitute for a chamber-to-turbo throttle.
+   Do not disconnect or close off the turbo's backing pump to raise pressure.
+   Do not use an uncontrolled vent burst as an ignition-pressure controller.
+
+MFC PROCUREMENT REQUIREMENTS FOR OPTION A
+- Qty1, true Ar-calibrated full scale300sccm, normally closed on power failure.
+- Require supplier-guaranteed control over both the deposition and ignition
+  ranges. Deposition pressure/flow recipe remains unconfirmed; the previous
+  provisional1-10mTorr window corresponds to roughly1.5-48sccm for the assumed
+ 20-65L/s speed cases. For a single controller covering that full provisional
+  envelope, request stable control down to1sccm and absolute accuracy no worse
+  than+/-0.5sccm at1-30sccm; obtain guaranteed ignition-range accuracy as well.
+  This is a purchase requirement to verify, not a claim that a named unit meets it.
+- HORIBA SEC-E440J reference specifications are2-100%FS control,+/-1%FS
+  accuracy. At300sccm that is6-300sccm and+/-3sccm, so it does NOT satisfy
+  the above provisional low-flow requirement. It remains a mechanical reference,
+  not the selected all-purpose instrument. Source a wider-range controller with
+  verified low-flow performance, or separately engineer low/high flow channels.
+  Parallel channels need isolation and combined-flow accounting, not a bare tee.
+- Request actual Ar calibration certificate, full ordering code, reference
+  temperature, inlet/differential pressure limits and vacuum-outlet suitability.
+- Match the existing1/4inch male VCR ends where possible. Existing124mm
+  face-to-face/38mm width/nominal115mm height are only the E440J CAD envelope.
+  A different instrument requires checked mounting/adapter/connector dimensions.
+- Supply, control interface and cable must match the selected instrument.
+  Existing E440J +/-15V/0-5V references do not apply automatically to alternatives.
+- Use regulated Ar supply and suitable clean rated tubing/fittings. Confirm
+  closed-valve leakage and provide independent gas isolation. No current quote,
+  final SKU, hardware purchase, price or stock availability is recorded here.
+
+PUMP LIMITS AND COMMISSIONING
+Edwards Table3 lists different continuous inlet-pressure limits for water,
+forced-air and natural cooling; Table10 requires active cooling for continuous
+high gas throughput. These are not gas-specific throughput approval for this
+used pump with its EXDC80. Verify the matching manuals/manufacturer limits.
+Keep the distinctions between chamber pressure, turbo inlet pressure and
+foreline pressure: a throttle produces a pressure difference across itself.
+The selected backing pump's9m3/h displacement is not its speed at foreline
+pressure. Verify its actual curve and the allowable turbo backing pressure.
+
+Commission with validated chamber-pressure measurement suitable for50mTorr
+and the lower deposition range, with Ar correction where applicable. A suitable
+capacitance diaphragm gauge avoids gas-species sensitivity. First establish
+pressure versus calibrated Ar flow with plasma off and confirm stable pumping,
+cooling, rotor speed, foreline pressure, drive current and temperature. Establish
+permitted ignition flow and duration from those limits; no arbitrary boost
+duration or300sccm command is authorized by this sizing calculation.
+Then validate plasma ignition at the requested pressure and transition under
+pressure feedback to the eventual deposition recipe. Define overshoot limits,
+failure-to-ignite timeout, and gas/power shutdown on lost pumping/cooling permits.
+50mTorr does not guarantee ignition: power supply, matching, target/gap and
+magnetic configuration also matter.
+
+REFERENCES
+Project inputs and standard-flow derivation: Argon MFC sizing and specification
+R01.txt, retained for calculation history only; its selection is superseded here.
+Procurement: ../outputs/01a209eb-c119-74d1-bef5-c610f57d428f/gun_procurement_data.json,
+vacuum_pumping VP01/VP02/VP04/VP06.
+Edwards manufacturer manual B722-01-880 Issue K, Tables3/10:
+https://mmrc.caltech.edu/Vacuum/Edwards/EXPT%20Pumping%20Station/EXT70%20EXT250%20-%20B72201880%20-%20Instruction%20manual.pdf
+HORIBA E400J reference specifications:
+https://static.horiba.com/fileadmin/Horiba/Semiconductor/Resources/Manual_Downloads/others/I030106200.pdf
+Leybold manufacturer pressure-control explanation:
+https://www.leybold.com/en-us/knowledge/vacuum-fundamentals/vacuum-measurement/how-to-control-vacuum-pressure
+Manufacturer references checked24November2026.
+
+This revision updates engineering recommendations only. CAD, quoted prices,
+procurement workbook and selected pumping architecture have not been changed.

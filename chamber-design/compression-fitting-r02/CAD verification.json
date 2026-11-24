@@ -1,0 +1,42 @@
+{
+  "reimport": {
+    "Refined compression fitting - assembled.step": {
+      "solids": 11,
+      "all_valid": true
+    },
+    "Refined compression fitting - exploded.step": {
+      "solids": 11,
+      "all_valid": true
+    },
+    "Chamber R02 - refined fitting door closed.step": {
+      "solids": 206,
+      "all_valid": true
+    },
+    "Chamber R02 - refined fitting door open.step": {
+      "solids": 206,
+      "all_valid": true
+    }
+  },
+  "thread_motion_samples": [
+    {
+      "lift_mm": 0,
+      "rotation_deg": 0,
+      "body_cap_overlap_mm3": 0
+    },
+    {
+      "lift_mm": 1.3,
+      "rotation_deg": 234.0,
+      "body_cap_overlap_mm3": 0
+    },
+    {
+      "lift_mm": 2,
+      "rotation_deg": 360,
+      "body_cap_overlap_mm3": 0
+    },
+    {
+      "lift_mm": 4,
+      "rotation_deg": 720,
+      "body_cap_overlap_mm3": 0
+    }
+  ]
+}

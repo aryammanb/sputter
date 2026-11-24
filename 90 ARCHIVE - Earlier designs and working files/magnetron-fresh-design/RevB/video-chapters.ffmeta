@@ -1,0 +1,42 @@
+;FFMETADATA1
+title=Rev B magnetic cooling head - design and assembly
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=22867
+title=The revised magnetic head
+[CHAPTER]
+TIMEBASE=1/1000
+START=22867
+END=44267
+title=Seven dry wells in the copper
+[CHAPTER]
+TIMEBASE=1/1000
+START=44267
+END=68333
+title=The magnet pack and yoke
+[CHAPTER]
+TIMEBASE=1/1000
+START=68333
+END=90533
+title=Eight seal locations
+[CHAPTER]
+TIMEBASE=1/1000
+START=90533
+END=115133
+title=Cover first, then magnet pack
+[CHAPTER]
+TIMEBASE=1/1000
+START=115133
+END=138267
+title=The poles are close to the target
+[CHAPTER]
+TIMEBASE=1/1000
+START=138267
+END=163400
+title=Water flows around the dry islands
+[CHAPTER]
+TIMEBASE=1/1000
+START=163400
+END=190133
+title=What this revision establishes

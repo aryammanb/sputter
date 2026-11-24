@@ -1,0 +1,37 @@
+;FFMETADATA1
+title=SMA coax connection and electrical isolation
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=28800
+title=The compact coax connection
+[CHAPTER]
+TIMEBASE=1/1000
+START=28800
+END=53867
+title=How the external plug mates
+[CHAPTER]
+TIMEBASE=1/1000
+START=53867
+END=80467
+title=One continuous RF center path
+[CHAPTER]
+TIMEBASE=1/1000
+START=80467
+END=110067
+title=What provides the insulation
+[CHAPTER]
+TIMEBASE=1/1000
+START=110067
+END=138800
+title=How the internal cable attaches
+[CHAPTER]
+TIMEBASE=1/1000
+START=138800
+END=175800
+title=The transition at the cathode
+[CHAPTER]
+TIMEBASE=1/1000
+START=175800
+END=210133
+title=Keep the two electrical paths distinct

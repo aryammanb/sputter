@@ -1,0 +1,22 @@
+{
+  "catalogue_reference": {
+    "part": "QF25XVC100",
+    "tube_OD": 25.4,
+    "KF_flange_OD": 39.88,
+    "overall_length": 50.8
+  },
+  "illustrative_details": {
+    "thread_pitch": 2,
+    "male_thread_major_diameter": 37,
+    "cap_OD": 44,
+    "cap_loosen_lift": 4,
+    "cap_turns_for_4mm": 2,
+    "seal_axial_compression": 0.52
+  },
+  "checks": {
+    "all_shapes_valid": true,
+    "body_cap_overlap_mm3": 0.0,
+    "tube_clearance_in_body_diameter": 0.5
+  },
+  "scope": "Mechanism illustration, not controlled supplier CAD. Detailed thread, seal seat and clamp geometry need supplier verification."
+}

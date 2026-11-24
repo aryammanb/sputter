@@ -1,0 +1,230 @@
+[
+  {
+    "title": "The complete sputtering system",
+    "view": "overview",
+    "facts": [
+      "Dimensioned chamber and latest 141-part gun",
+      "Argon, two cooling loops and electrical source added",
+      "Equipment envelopes and plasma demo are identified as representative"
+    ],
+    "speech": "This is the complete system layout, with the latest twelve-stack magnetron inside the top-mounted sputter gun. We will work from the complete apparatus into the gun, open it to explain the mechanical and magnetic design, then follow gas, cooling, power and vacuum connections. Finally we will illustrate ignition, shutter operation and deposition. The chamber and custom parts use explicit nominal CAD dimensions. The cylinder, chillers, power equipment and selected other purchased parts are reference envelopes. This is a dimensioned design study, not a fabrication release or a validated operating machine."
+  },
+  {
+    "title": "Chamber, loading and service layout",
+    "view": "door",
+    "facts": [
+      "Internal space 200 \u00d7 200 \u00d7 300 mm = 12 litres",
+      "10 mm shell; 228 \u00d7 316 \u00d7 16 mm front door",
+      "Left wall blank; two capped right KF25 spares"
+    ],
+    "speech": "The rectangular chamber has two hundred millimetres of internal width and depth, with three hundred millimetres of internal height. That is twelve litres before subtracting internal hardware. The shell plates are ten millimetres thick. The front door is two hundred and twenty eight by three hundred and sixteen millimetres, and sixteen millimetres thick. It opens around the left hinge, giving access through the one hundred and eighty by two hundred and seventy millimetre opening. The left side stays blank for future modification. Two capped KF25 ports remain on the right, one high and one low. The gas inlet and both gauges are behind the chamber, keeping the sides free of routine wiring. Plate and window thicknesses here remain nominal choices requiring vacuum structural and seal verification."
+  },
+  {
+    "title": "Stage, target travel and bent shutter",
+    "view": "internals",
+    "facts": [
+      "Stage \u00d890 \u00d7 6 mm; top Z40",
+      "Reference substrate 50 \u00d7 50 \u00d7 1 mm; top Z41",
+      "Target gap 75\u2013150 mm; default 100 mm",
+      "Shutter underside Z53: 12 mm above substrate"
+    ],
+    "speech": "The simple substrate stage is ninety millimetres in diameter and six millimetres thick. Its top is at height forty above the chamber floor. The reference substrate is fifty millimetres square and one millimetre thick, making its top height forty one. At the default setting the target face is at height one hundred and forty one, leaving a one hundred millimetre target to substrate distance. Moving the gun gives a modeled range from seventy five to one hundred and fifty millimetres. The shutter is one millimetre sheet with two right angle bends. Its blade underside is at height fifty three, twelve millimetres above the substrate. Its upper flat and lower blade midplanes differ by two hundred and forty millimetres. Turning the top actuator swings the blade away. These shutter clearances are geometrical, while its small rotary seal still needs a practical leak and wear test."
+  },
+  {
+    "title": "Opening the complete sputter gun",
+    "view": "gun_explode",
+    "facts": [
+      "Latest gun: 141 component instances",
+      "Shields removed sideways; axial parts separated",
+      "Exploded spacing is explanatory, not an assembly instruction"
+    ],
+    "speech": "Now we open the actual latest gun model. The protective outer shield and dark-space cap move aside so the target, target clamp, copper cooling head, magnet pack, rear closure, insulation and support become visible. Exploded distances are deliberately enlarged for explanation. They are not machining dimensions or an approved disassembly order. The stem carries the water hoses and a single coaxial electrical connection down to the head. The outer chamber envelope has not been enlarged to accommodate the new magnet arrangement. The complete CAD retains the fasteners, seals and small parts even where we hide them in a close-up to keep the explanation readable."
+  },
+  {
+    "title": "Target, cooling head and seals",
+    "view": "gun_cooling",
+    "facts": [
+      "Target \u00d850.8 \u00d7 2 mm",
+      "Coolant annulus R15.5\u201320.5 mm; depth 7 mm",
+      "Nominal water seals ID23 \u00d7 2 and ID43 \u00d7 2",
+      "Copper head separates water from vacuum"
+    ],
+    "speech": "At the front is the fifty point eight millimetre diameter target, modeled two millimetres thick. It is held against the copper head by the target clamp and its fasteners. The copper spreads heat away from the target into the water-cooled structure. In the revised head the coolant channel is an annulus between radii fifteen point five and twenty point five millimetres, with seven millimetres depth. The revised water seals have nominal inside diameters twenty three and forty three millimetres, each with a two millimetre section. The two water axes move to plus and minus eighteen millimetres to suit this channel. The section view exposes these features, rather than making a second physical opening. Seal squeeze, electrical isolation, corrosion and pressure testing still need to be checked against the final materials and hardware."
+  },
+  {
+    "title": "Why we chose twelve magnet stacks",
+    "view": "magnets",
+    "facts": [
+      "12 outer stacks: each 2 \u00d7 \u00d86 \u00d7 10 mm N42",
+      "Centre stack: 2 \u00d7 \u00d820 \u00d7 10 mm N42",
+      "Outer pitch circle \u00d858 mm; opposite face polarity",
+      "Outer/centre pole-area proxy 1.08"
+    ],
+    "speech": "The selected arrangement uses readily available N42 disc magnets. Each of the twelve outer positions holds two six millimetre diameter, ten millimetre long magnets, giving a twenty millimetre stack. The centre contains two twenty millimetre diameter by ten millimetre magnets, also giving twenty millimetres total length. The outer stacks sit on a fifty eight millimetre pitch circle. The centre presents north toward the target and the outside stacks present south. Compared with the earlier outer-dominant arrangement, the larger centre and smaller outer poles move the design toward a balanced magnetron. Twelve positions give a more evenly distributed ring than the six-position alternative. The outer to centre pole-area proxy is one point zero eight. That is a useful selection aid, not a measured flux ratio or proof of a balanced topology."
+  },
+  {
+    "title": "Magnetic circuit and calculated field",
+    "view": "magnets",
+    "facts": [
+      "Centre bore \u00d821; outer wells \u00d86.4 mm",
+      "Yoke/head diameter \u00d871.5 mm",
+      "Calculated near-target racetrack radius \u224820 mm",
+      "Calculated parallel field \u224889\u2013100 mT"
+    ],
+    "speech": "The copper and steel pieces were revised around this pack: a twenty one millimetre centre bore, six point four millimetre outer wells, and a seventy one point five millimetre outer diameter. The steel return path guides flux between opposing poles. A separate three dimensional nonlinear magnetostatic study evaluated this candidate using N42 remanence and an assumed AISI ten ten steel curve. At a quarter millimetre above the modeled nonmagnetic target, the calculated parallel field averaged ninety five point one millitesla around a racetrack near twenty millimetres radius. It ranged approximately eighty nine point five to ninety nine point five millitesla. These are field calculations under stated material and spacing assumptions. They do not predict ignition, deposition rate, erosion profile or plasma confinement time, and they do not by themselves certify the balanced topology. Copper changes the spacing; it is not a static magnetic shield."
+  },
+  {
+    "title": "Insulation, coax and grounded shielding",
+    "view": "gun_electrical",
+    "facts": [
+      "Single coax: centre conductor to live head",
+      "Shield bonds to grounded gun structure",
+      "Insulator and guards separate live and grounded parts",
+      "Cable and dielectric ratings remain to qualify"
+    ],
+    "speech": "The live target assembly is separated from the grounded support by the insulating components. The single coaxial cable runs through the stem. Its centre conductor continues to the live terminal; its outer shield connects to the grounded structure. This arrangement avoids treating the coolant lines as electrical conductors. The model includes the shield contact, centre dielectric, added guard sleeve and terminal geometry from the latest design. The shield tube and front dark-space cap surround the source and protect the adjacent hardware from deposition. They also restrict what can be seen from the front window, which is why we checked the viewing geometry. The five millimetre cable diameter is a study allowance. Cable construction, RF current path, insulation creepage, voltage rating and the sealed atmosphere-to-vacuum boundary still require engineering qualification."
+  },
+  {
+    "title": "Gas supply: cylinder to mass flow controller",
+    "view": "gas_supply",
+    "facts": [
+      "Representative argon cylinder and regulator",
+      "6 mm OD tube continues into the push fitting",
+      "MFC inlet: push fit \u2192 NPT \u2192 female VCR",
+      "MFC outlet: female VCR \u2192 KF25 \u2192 chamber"
+    ],
+    "speech": "The argon cylinder and regulator are intentionally representative. From the regulator a six millimetre outside diameter tube runs to the mass flow controller. The CAD tube is modeled with a four millimetre internal bore, a chosen value rather than a tubing purchase specification. At the MFC inlet it enters the six millimetre push fitting. That fitting connects through the quarter inch NPT and female VCR adapter assembly to the assumed male VCR inlet. The MFC outlet is also assumed male VCR and connects through the female VCR to KF25 adapter at the rear chamber port. The metal VCR gaskets and the independent MFC support bracket are retained. The regulator and all gas-contact components must ultimately suit the selected gas and operating pressure; no cylinder pressure is intended to reach the MFC unchecked."
+  },
+  {
+    "title": "Six-millimetre tube insertion",
+    "view": "tube_insert",
+    "facts": [
+      "Tube OD6; socket nominal bore \u00d86",
+      "Socket mouth Y360.196 mm",
+      "Tube end Y344.196 mm: illustrative 16 mm engagement",
+      "Supplier insertion depth and tube material pending"
+    ],
+    "speech": "This close-up shows the tube being pushed straight into the existing collet. The modeled tube outside diameter is exactly six millimetres and the fitting has a nominal six millimetre socket. Its mouth is at coordinate three hundred and sixty point one nine six on the rearward axis. In this illustration the tube end reaches three hundred and forty four point one nine six, giving sixteen millimetres of engagement. That sixteen millimetres is deliberately recorded as a provisional visual choice. We still need the actual fitting specification to set the final insertion depth and confirm tube material and gas compatibility. The animation shows the physical insertion direction; it does not simulate the hidden gripper teeth or an actual leak-tight connection."
+  },
+  {
+    "title": "Gun cooling: independent system number one",
+    "view": "cooling1",
+    "facts": [
+      "Two 4 mm OD extensions meet existing gun hoses",
+      "Blue supply; red return",
+      "Representative service loops above the gun",
+      "Chiller capacity and flow not yet selected"
+    ],
+    "speech": "Cooling system number one serves the sputter gun. The blue line is the supply and the red line is the return. Both continue from the two existing gun water hoses at the top of the service tube. These external extensions keep the current four millimetre outside diameter and two point five millimetre internal bore of the gun hoses. The large upper service loops represent the slack needed when changing the gun height. Their shape is a routing study: it does not establish a permissible minimum bend radius or demonstrate adequate flow through the gun. The chiller cabinet is representative. We have not selected its heat-removal capacity, water pump, temperature setpoint or flow interlock. The final gun heat load must determine those choices."
+  },
+  {
+    "title": "Turbo cooling: independent system number two",
+    "view": "cooling2",
+    "facts": [
+      "Separate supply and return to the EXT70 cooler",
+      "Representative cabinet and routing",
+      "Final reinforced hose approximately 6 mm ID per manual",
+      "Cooling and pump operation must be coordinated"
+    ],
+    "speech": "Cooling system number two is separate and connects only to the turbo water cooler. This keeps the turbo loop identifiable instead of mixing it with the gun circuit. The external cabinet and routing are representative. The Edwards manual specifies approximately six millimetre internal diameter reinforced hose over the cooler barbs, secured with clips, or direct connections to its one eighth BSP female fittings. The final tube and adapters must follow that interface. Either cooler barb can serve as supply or return. The cooling controller must coordinate water flow with pump operation, including avoiding condensation when the pump is off. No cooling flow rate, pressure or duty is being claimed by this routing model."
+  },
+  {
+    "title": "Power supply and RF matching",
+    "view": "power_view",
+    "facts": [
+      "Representative DC or RF source",
+      "RF configuration shown through matching network",
+      "DC configuration bypasses matching network",
+      "Protective bond shown; interlocks still to design"
+    ],
+    "speech": "The representative power supply feeds the gun through the external cable. We show an RF configuration, including a separate matching network between generator and source. RF sputtering uses the matching network to couple power into a changing plasma load. If the final system uses DC, the DC supply connects through the appropriate cable arrangement and bypasses this RF matching box. The two options are alternatives, not two supplies operating together. Conventional DC is suited to electrically conductive targets, while RF can support insulating targets. The green bonding lead is a visual reminder of protective grounding. It is not a completed grounding specification. Cooling flow, chamber pressure, enclosure access and supply enable need coordinated interlocks before this becomes an operating system."
+  },
+  {
+    "title": "ISO63 turbo connection",
+    "view": "turbo",
+    "facts": [
+      "EXT70 exterior reconstructed from drawing",
+      "ISO63 inlet and four double-claw clamp references",
+      "Native KF16 foreline adapted to KF25 in this reference",
+      "Chamber supported independently of turbo"
+    ],
+    "speech": "The EXT70 reference mounts below the chamber through the ISO63 connection. Four representative double-claw clamps hold the mating flanges around the face seal. The turbo body is reconstructed from the manufacturer drawing rather than an exact supplier solid model. The reference version has a KF16 backing outlet, so the model includes a KF16 to KF25 adapter before the hose. If the actual purchased variant already has a KF25 outlet, omit that adapter. The chamber stand carries the chamber independently; the turbo is not being used as the structural support for the vessel. The inlet baffle above it helps interrupt a direct deposition path, although its conductance and effectiveness still require assessment."
+  },
+  {
+    "title": "Simple pumping route and backing pump",
+    "view": "backing",
+    "facts": [
+      "Chamber \u2192 turbo \u2192 KF25 hose \u2192 mechanical pump",
+      "One backing pump; no separate roughing branch",
+      "Supplier RV3 CAD used as a reference",
+      "Foreline hose centreline \u2248640 mm"
+    ],
+    "speech": "We retained the simpler plumbing option you selected. There is one route from chamber through turbo, then through the backing hose to a single mechanical pump. There is no separate roughing bypass branch. The backing pump model is supplier CAD for an Edwards RV3, used as a reference envelope rather than a purchase decision. The KF25 hose connects to its inlet, not its exhaust. Its modeled centreline is about six hundred and forty millimetres long. Flow markers illustrate the evacuation direction, not a pump-down calculation. Pump startup and venting must follow the controller and manufacturer instructions. This arrangement does not imply the turbo can stay at operating speed while the chamber is freely opened. Backing pump exhaust treatment, oil mist handling and the turbo controller are further equipment to specify."
+  },
+  {
+    "title": "Rear gauges and flow control",
+    "view": "gauges",
+    "facts": [
+      "Pirani and Penning on protected rear KF25 elbows",
+      "Generic sensor envelopes; models not yet chosen",
+      "Upper rear port reserved for MFC gas inlet",
+      "Gauge orientation and magnetic separation to verify"
+    ],
+    "speech": "The Pirani and Penning gauge connections occupy the two lower rear KF25 ports, through elbows. These break the direct line of sight from the target toward the sensor bodies and reduce direct coating exposure. Their housings here are generic reference shapes. We have not yet selected the gauge models or controllers, so final mounting orientation, sensitivity and allowable stray magnetic field must be checked from their manuals. The upper rear port receives the MFC gas inlet. Keeping these services at the rear gives the system a cleaner working side and preserves the blank left wall. Gauge readings, MFC control and pressure interlocks belong in the eventual control system, even though the current CAD is focused on the mechanical layout."
+  },
+  {
+    "title": "Viewport: checked view below the shield",
+    "view": "viewport",
+    "facts": [
+      "Clear aperture \u00d870; centre lowered Z175 \u2192 Z105",
+      "Default target face Z141; gap100",
+      "72 geometric rays to ring R20 at Z136",
+      "47/72 clear at eye (0,\u2212400,20); shield remains visible"
+    ],
+    "speech": "The original window centre was at height one hundred and seventy five, above the default target face at one hundred and forty one. The shield blocked all sampled rays toward a ring five millimetres below that face. We therefore lowered the same seventy millimetre clear aperture to centre height one hundred and five. At an observer position four hundred millimetres in front and height twenty above the floor datum, forty seven of seventy two sampled rays now reach that geometric ring without intersecting the gun. A still lower viewing angle exposes more of the ring. This is a direct triangle-intersection sightline check, not a prediction of plasma brightness. The screen shows the opaque door and shield, with illustrative glow behind the actual aperture. It establishes useful access at the default gun height. It does not guarantee an equally clear view at every gun position or after the window is coated."
+  },
+  {
+    "title": "How magnetron sputtering works",
+    "view": "plasma",
+    "facts": [
+      "ILLUSTRATIVE PLASMA \u2014 not a discharge simulation",
+      "Argon ions accelerate toward the target",
+      "Magnetic field retains electrons near the target",
+      "Ejected target atoms travel toward the substrate"
+    ],
+    "speech": "Here the glow and particles are an illustration of the process, not a simulated discharge. After evacuation and controlled argon admission, electrical power creates and sustains a plasma. Argon ions accelerate through the sheath toward the target and knock target atoms out of its surface. The magnetic field curves electron motion and helps keep electrons near the target, increasing ionization locally and producing the familiar racetrack region. The magnetic field does not simply pull all of the sputtered atoms onto the substrate. Many ejected target atoms are neutral and travel through the gas toward the substrate and chamber surfaces, with possible collisions. The coloured moving dots are explanatory symbols. Their sizes, speeds, numbers and paths are exaggerated and do not represent pressure, deposition rate or a calculated energy distribution."
+  },
+  {
+    "title": "Shutter closed: conditioning the target",
+    "view": "demo_closed",
+    "facts": [
+      "Illustrative discharge and target-atom trajectories",
+      "Shutter blade blocks the direct substrate path",
+      "Window view and internal cutaway are different views",
+      "No pressure, power or timing recipe implied"
+    ],
+    "speech": "With the shutter closed, the source can be conditioned before intentionally exposing the substrate. The blade intercepts the direct deposition path to the sample. It does not stop the plasma, seal off the substrate or prevent every scattered atom from reaching it. The illustrated atom paths terminate at the blade in this simplified view. Opening the shutter then exposes the sample to the source. This is a conceptual sequence, not an operating recipe: actual base pressure, argon flow, working pressure, power, warm-up time and conditioning duration need experimental development within the hardware limits. Cooling and pressure permissives must be established before enabling the source."
+  },
+  {
+    "title": "Shutter open: deposition on the substrate",
+    "view": "demo_open",
+    "facts": [
+      "Blade rotates 80\u00b0 away from the sample",
+      "Nominal target-to-substrate gap100 mm",
+      "Film colour and thickness exaggerated for visibility",
+      "No uniformity or deposition rate prediction"
+    ],
+    "speech": "The shutter rotates eighty degrees away and the illustrated target atoms now reach the substrate. The sample is one hundred millimetres below the target in this default configuration. A coloured layer appears on it to explain film formation. Its displayed thickness is exaggerated for visibility and must not be read as a prediction. Changing the source distance changes the geometry, but the present model does not calculate thickness uniformity, deposition rate, gas scattering or substrate heating. Those depend on the operating conditions and require measurement or an appropriate process model. This demonstration explains the sequence while preserving the actual chamber, stage, source and shutter geometry underneath it."
+  },
+  {
+    "title": "Complete system: what is established",
+    "view": "closing",
+    "facts": [
+      "Dimensioned CAD, loading state, parts list and checks",
+      "Representative utilities separated from engineered parts",
+      "Balanced magnetron candidate: magnetostatics assessed",
+      "Next: purchased interfaces, seals, controls and qualification"
+    ],
+    "speech": "This brings the full mechanical system and the operating idea into one walkthrough: the twelve-stack source, adjustable compression mount, loading door and window, substrate stage and shutter, ISO63 turbo, single backing pump, gauges, MFC, argon supply, two cooling systems and power equipment. The CAD package records the actual modeled dimensions and the reference status of purchased hardware. The main remaining work is to confirm purchased interfaces and material ratings, resolve the source sealing details, check the vessel and window for vacuum loading, and specify the electrical controls, cooling interlocks, turbo controller and exhaust handling. The imported backing-pump reference also retains a known supplier geometry defect. None of these are hidden by the illustrative plasma sequence. The result is a complete system layout and explanation, with its engineering limits stated explicitly."
+  }
+]

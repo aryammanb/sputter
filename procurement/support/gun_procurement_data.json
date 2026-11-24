@@ -1,0 +1,2212 @@
+{
+  "date": "2026-11-24",
+  "rows": [
+    {
+      "id": "G01",
+      "component": "Copper cooling body",
+      "specification": "Latest 12-stack head; central Ø21 well, outer Ø6.4 wells on PCD58; water annulus R15.5–20.5 ×7 deep",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Custom vendor order",
+      "unit_price_inr": 6500,
+      "total_inr": 6500,
+      "status": "Route settled",
+      "supplier": "Technica Engineering Works, Rabale, Navi Mumbai (RFQ candidate only): https://technicaengg.com/",
+      "price_basis": "Rough planning allowance, not a vendor quote. Material + machining assumed; no separate raw-stock charge.",
+      "design_readiness": "Copper seat geometry retained. Target back remains atY0; R05 gun pose raised1.175mm to retain100mm target/substrate gap. Target dimensional tolerance/contact and material/thread release review pending.",
+      "cad_instances": [
+        "Gun 035 cooler"
+      ],
+      "cad_roles": [
+        "gun_cooler"
+      ],
+      "cad_file": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\balanced-twelve-stack-study\\Proposed cooler.step"
+    },
+    {
+      "id": "G02",
+      "component": "Copper backplate",
+      "specification": "Ø71.5 ×13.5; ID23×2 and ID43×2 seal glands; water axes ±18",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Custom vendor order",
+      "unit_price_inr": 4000,
+      "total_inr": 4000,
+      "status": "Route settled",
+      "supplier": "Technica Engineering Works, Rabale, Navi Mumbai (RFQ candidate only): https://technicaengg.com/",
+      "price_basis": "Rough planning allowance, not a vendor quote. Material + machining assumed; no separate raw-stock charge.",
+      "design_readiness": "R06 native backplate: revisedM5 coolantports with native passage/tap-drill features; gasket seat retained. Replaces formerD7.95 referencecounterbores. IndependentSTEP comparison matchesreferencegeometry; fabricationdrawing/tolerance andsealqualification pending.",
+      "cad_instances": [
+        "Gun 036 closure"
+      ],
+      "cad_roles": [
+        "gun_closure"
+      ],
+      "cad_file": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\chamber-design\\coolant-fitting-r06\\SolidWorks R06\\035 Gun copper backplate R06 M5 coolant ports.SLDPRT"
+    },
+    {
+      "id": "G03",
+      "component": "Steel return yoke",
+      "specification": "Ø71.5 ×10; two Ø14 fitting-clearance holes at ±18; low-carbon magnetic steel grade to specify",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Custom vendor order",
+      "unit_price_inr": 1200,
+      "total_inr": 1200,
+      "status": "Route settled",
+      "supplier": "Technica Engineering Works, Rabale, Navi Mumbai (RFQ candidate only): https://technicaengg.com/",
+      "price_basis": "Rough planning allowance, not a vendor quote. Material + machining assumed; no separate raw-stock charge.",
+      "design_readiness": "CAD geometry available; material, threads, tolerances and drawing release pending. Confirm small-batch copper/mild-steel capability and commercial terms; not yet selected or contacted.",
+      "cad_instances": [
+        "Gun 037 yoke"
+      ],
+      "cad_roles": [
+        "gun_yoke"
+      ],
+      "cad_file": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\balanced-twelve-stack-study\\Proposed yoke.step"
+    },
+    {
+      "id": "G04",
+      "component": "Live stainless spacer",
+      "specification": "Abstandshalter; material grade and finish to confirm against CAD",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Custom vendor order",
+      "unit_price_inr": 2500,
+      "total_inr": 2500,
+      "status": "Route settled",
+      "supplier": "Local turning/CNC shop — vendor to choose",
+      "price_basis": "Rough planning allowance, not a vendor quote. Material + machining assumed; no separate raw-stock charge.",
+      "design_readiness": "CAD geometry available; material, threads, tolerances and drawing release pending.",
+      "cad_instances": [
+        "Gun 059 spacer"
+      ],
+      "cad_roles": [
+        "gun_spacer"
+      ],
+      "cad_file": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\source\\Abstandshalter.step"
+    },
+    {
+      "id": "G05",
+      "component": "Main PTFE insulator",
+      "specification": "Isolator; machined virgin PTFE proposal; two ID62×2 seal interfaces",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Custom vendor order",
+      "unit_price_inr": 1500,
+      "total_inr": 1500,
+      "status": "Route settled",
+      "supplier": "Tanna Engineering Enterprises, Vasai, Mumbai (RFQ candidate only): https://tannaee.com/",
+      "price_basis": "Rough planning allowance, not a vendor quote. Material + machining assumed; no separate raw-stock charge.",
+      "design_readiness": "CAD geometry available; material, threads, tolerances and drawing release pending. Manufacturer advertises custom polymer machining; confirm this drawing and single-batch order.",
+      "cad_instances": [
+        "Gun 094 isolator"
+      ],
+      "cad_roles": [
+        "gun_isolator"
+      ],
+      "cad_file": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\source\\Isolator.step"
+    },
+    {
+      "id": "G06",
+      "component": "One-piece PTFE screw cups",
+      "specification": "Outward-lip R03 design; one per insulated base screw",
+      "quantity": 12,
+      "unit": "piece",
+      "route": "Custom vendor order",
+      "unit_price_inr": 120,
+      "total_inr": 1440,
+      "status": "Route settled",
+      "supplier": "Tanna Engineering Enterprises, Vasai, Mumbai (RFQ candidate only): https://tannaee.com/",
+      "price_basis": "Rough planning allowance, not a vendor quote. Material + machining assumed; no separate raw-stock charge.",
+      "design_readiness": "CAD geometry available; material, threads, tolerances and drawing release pending. Manufacturer advertises custom polymer machining; confirm this drawing and single-batch order.",
+      "cad_instances": [
+        "Gun 075 cups",
+        "Gun 078 cups",
+        "Gun 080 cups",
+        "Gun 082 cups",
+        "Gun 084 cups",
+        "Gun 085 cups",
+        "Gun 086 cups",
+        "Gun 091 cups",
+        "Gun 093 cups",
+        "Gun 096 cups",
+        "Gun 098 cups",
+        "Gun 101 cups"
+      ],
+      "cad_roles": [
+        "gun_cups"
+      ],
+      "cad_file": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\balanced-twelve-stack-study\\Proposed twelve stack mechanical study.step"
+    },
+    {
+      "id": "G07",
+      "component": "Grounded base / Boden",
+      "specification": "R02 base with internal blind ground-anchor pilot; metal grade to confirm",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Custom vendor order",
+      "unit_price_inr": 3000,
+      "total_inr": 3000,
+      "status": "Route settled",
+      "supplier": "Local turning/CNC shop — vendor to choose",
+      "price_basis": "Rough planning allowance, not a vendor quote. Material + machining assumed; no separate raw-stock charge.",
+      "design_readiness": "CAD geometry available; material, threads, tolerances and drawing release pending.",
+      "cad_instances": [
+        "Gun 127 base"
+      ],
+      "cad_roles": [
+        "gun_base"
+      ],
+      "cad_file": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\integrated-single-coax-r02\\generated\\R02 Boden - internal blind ground anchor.step"
+    },
+    {
+      "id": "G08",
+      "component": "Target retaining clamp",
+      "specification": "Target clamp R05: OD93.6; shoulderY3.175; minimum apertureD47.8; lip axial depth1.825;12 holes onPCD80.",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Custom vendor order",
+      "unit_price_inr": 1800,
+      "total_inr": 1800,
+      "status": "Route settled",
+      "supplier": "Local turning/CNC shop — vendor to choose",
+      "price_basis": "Rough planning allowance, not a vendor quote. Material + machining assumed; no separate raw-stock charge.",
+      "design_readiness": "R05 geometric redesign complete: zero target/cooler/shield interference;1mm shield gap retained. Lip axial depth reduced3 to1.825mm; qualify preload/stiffness, tolerance and thermal performance before release.",
+      "cad_instances": [
+        "Gun target clamp R05 for3.175mm aluminium"
+      ],
+      "cad_roles": [
+        "gun_clamp"
+      ],
+      "cad_file": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\chamber-design\\target-clamp-r05\\Target clamp R05 - 3.175mm target.step"
+    },
+    {
+      "id": "G09",
+      "component": "Dark-space cap",
+      "specification": "Dunkelraumabschirmung; front shield from latest CAD; material to confirm",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Custom vendor order",
+      "unit_price_inr": 1800,
+      "total_inr": 1800,
+      "status": "Route settled",
+      "supplier": "Local turning/CNC shop — vendor to choose",
+      "price_basis": "Rough planning allowance, not a vendor quote. Material + machining assumed; no separate raw-stock charge.",
+      "design_readiness": "CAD geometry available; material, threads, tolerances and drawing release pending.",
+      "cad_instances": [
+        "Gun 117 darkcap"
+      ],
+      "cad_roles": [
+        "gun_darkcap"
+      ],
+      "cad_file": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\source\\Dunkelraumabschirmung.step"
+    },
+    {
+      "id": "G10",
+      "component": "Grounded shield tube",
+      "specification": "Groundshield Rohr; stainless fabrication assumption, grade to confirm",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Custom vendor order",
+      "unit_price_inr": 1500,
+      "total_inr": 1500,
+      "status": "Route settled",
+      "supplier": "Local tube/turning shop — vendor to choose",
+      "price_basis": "Rough planning allowance, not a vendor quote. Material + machining assumed; no separate raw-stock charge.",
+      "design_readiness": "CAD geometry available; material, threads, tolerances and drawing release pending.",
+      "cad_instances": [
+        "Gun 122 shieldtube"
+      ],
+      "cad_roles": [
+        "gun_shieldtube"
+      ],
+      "cad_file": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\source\\Groundshield Rohr.step"
+    },
+    {
+      "id": "G11",
+      "component": "Stepped service tube",
+      "specification": "Retain KF16-style Ø30 capture; service end OD25.4 ID22.4; final gland surface finish required",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Custom vendor order",
+      "unit_price_inr": 2500,
+      "total_inr": 2500,
+      "status": "Route settled",
+      "supplier": "Local tube/turning or vacuum-fabrication shop",
+      "price_basis": "Rough planning allowance, not a vendor quote. Material + machining assumed; no separate raw-stock charge.",
+      "design_readiness": "CAD geometry available; material, threads, tolerances and drawing release pending.",
+      "cad_instances": [
+        "Gun 128 kftube"
+      ],
+      "cad_roles": [
+        "gun_kftube"
+      ],
+      "cad_file": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\integrated-single-coax-r02\\generated\\R02 KF16 neck to one inch service tube.step"
+    },
+    {
+      "id": "G12",
+      "component": "Internal tube-clamp halves",
+      "specification": "Existing bespoke KF16-style capture halves; not the roof KF25 clamp",
+      "quantity": 2,
+      "unit": "half",
+      "route": "Custom vendor order",
+      "unit_price_inr": 700,
+      "total_inr": 1400,
+      "status": "Route settled",
+      "supplier": "Local CNC shop — vendor to choose",
+      "price_basis": "Rough planning allowance, not a vendor quote. Material + machining assumed; no separate raw-stock charge.",
+      "design_readiness": "CAD geometry available; material, threads, tolerances and drawing release pending.",
+      "cad_instances": [
+        "Gun 065 kfclamps",
+        "Gun 066 kfclamps"
+      ],
+      "cad_roles": [
+        "gun_kfclamps"
+      ],
+      "cad_file": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\balanced-twelve-stack-study\\Proposed twelve stack mechanical study.step"
+    },
+    {
+      "id": "G13",
+      "component": "Coax shield carrier / saddle",
+      "specification": "R02 conductive formed carrier, nominal0.8 thick; alloy and contact finish pending",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Custom vendor order",
+      "unit_price_inr": 600,
+      "total_inr": 600,
+      "status": "Route settled",
+      "supplier": "Local sheet-metal/precision fabrication shop",
+      "price_basis": "Rough planning allowance, not a vendor quote. Material + machining assumed; no separate raw-stock charge.",
+      "design_readiness": "CAD geometry available; material, threads, tolerances and drawing release pending.",
+      "cad_instances": [
+        "Gun 130 rfground"
+      ],
+      "cad_roles": [],
+      "cad_file": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\integrated-single-coax-r02\\generated\\R02 Ground carrier and conformal saddle.step"
+    },
+    {
+      "id": "G14",
+      "component": "Copper live-terminal standoff",
+      "specification": "OD6.5 ID4.3 ×12.5",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Custom vendor order",
+      "unit_price_inr": 250,
+      "total_inr": 250,
+      "status": "Route settled",
+      "supplier": "Same turning shop as G01",
+      "price_basis": "Rough planning allowance, not a vendor quote. Material + machining assumed; no separate raw-stock charge.",
+      "design_readiness": "CAD geometry available; material, threads, tolerances and drawing release pending.",
+      "cad_instances": [
+        "Gun 134 rfhot"
+      ],
+      "cad_roles": [],
+      "cad_file": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\advanced-tinkering-original\\integrated-single-coax-r02\\generated\\R02 Copper terminal stand-off D6p5 L12p5.step"
+    },
+    {
+      "id": "G15",
+      "component": "Outer magnet discs",
+      "specification": "Axially magnetized N42, NiCuNi, Ø6 ×10; two per stack,12 stacks",
+      "quantity": 24,
+      "unit": "piece",
+      "route": "Online purchase",
+      "unit_price_inr": 59,
+      "total_inr": 1416,
+      "status": "Route settled",
+      "supplier": "https://www.magnetladen.de/en/Rod-Magnet-6x10-mm-N42-Nickel/St-06x10-Nd-Ni/",
+      "price_basis": "Listed €0.59 each for1–49. INR planning conversion100/EUR, not a live FX quote. Listed VAT included; shipping/import extra. Checked2026-11-24.",
+      "design_readiness": "Catalogue geometry matches; confirm India shipping and temperature suitability.",
+      "cad_instances": [
+        "Gun 001 outermag",
+        "Gun 002 outermag",
+        "Gun 003 outermag",
+        "Gun 004 outermag",
+        "Gun 008 outermag",
+        "Gun 009 outermag",
+        "Gun 010 outermag",
+        "Gun 011 outermag",
+        "Gun 013 outermag",
+        "Gun 014 outermag",
+        "Gun 017 outermag",
+        "Gun 018 outermag",
+        "Gun 021 outermag",
+        "Gun 022 outermag",
+        "Gun 024 outermag",
+        "Gun 025 outermag",
+        "Gun 031 outermag",
+        "Gun 032 outermag",
+        "Gun 042 outermag",
+        "Gun 043 outermag",
+        "Gun 044 outermag",
+        "Gun 045 outermag",
+        "Gun 047 outermag",
+        "Gun 048 outermag"
+      ],
+      "cad_roles": [
+        "gun_outermag"
+      ],
+      "cad_file": ""
+    },
+    {
+      "id": "G16",
+      "component": "Centre magnet discs",
+      "specification": "Axially magnetized N42, NiCuNi, Ø20 ×10; two stacked",
+      "quantity": 2,
+      "unit": "piece",
+      "route": "Online purchase",
+      "unit_price_inr": 469,
+      "total_inr": 938,
+      "status": "Route settled",
+      "supplier": "https://www.magnetladen.de/en/Disc-Magnet-20x10-mm-N42-Nickel/S-20x10-Nd-Ni/",
+      "price_basis": "Listed €4.69 each for1–4. INR planning conversion100/EUR, not a live FX quote. Listed VAT included; shipping/import extra. Checked2026-11-24.",
+      "design_readiness": "Catalogue geometry matches; confirm India shipping and temperature suitability.",
+      "cad_instances": [
+        "Gun 038 centermag",
+        "Gun 040 centermag"
+      ],
+      "cad_roles": [
+        "gun_centermag"
+      ],
+      "cad_file": ""
+    },
+    {
+      "id": "G17",
+      "component": "Aluminium sputtering target",
+      "specification": "VritraTech aluminium,99.99% purity, diameter50.8 x thickness3.175mm (2in x0.125in).",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Online purchase",
+      "unit_price_inr": 9794,
+      "total_inr": 9794,
+      "status": "Route settled",
+      "supplier": "User-selected VritraTech: https://www.vritratech.com/store/product/aluminium-al-sputtering-target/",
+      "price_basis": "Listed INR8300 +18%GST1494 =9794 including GST. Delivery extra. Nominal2in x0.125in, purity99.99%. Checked24Nov2026.",
+      "design_readiness": "R05 clamp/target CAD updated. Nominal clamp overlap0mm3; shield clearance1mm. Confirm actual target dimensions, edge condition and flatness before machining release.",
+      "cad_instances": [
+        "Gun aluminium target D50.8 x3.175"
+      ],
+      "cad_roles": [
+        "gun_target"
+      ],
+      "cad_file": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\chamber-design\\target-clamp-r05\\Aluminium target D50.8 x3.175.step"
+    },
+    {
+      "id": "G18",
+      "component": "Complete internal coolant push fittings",
+      "specification": "SMC KQG2S04-M5; 4 mm OD tube; M5x0.8; SUS316/FKM; internal 2 mm hex; body OD9, L17.1 mm",
+      "quantity": 2,
+      "unit": "assembly",
+      "route": "Online purchase",
+      "unit_price_inr": 1449.0000000000002,
+      "total_inr": 2898,
+      "status": "Mechanical selection; vacuum use unqualified",
+      "supplier": "Orange Coast Pneumatics / SMC: https://www.smcpneumatics.com/KQG2S04-M5.html",
+      "price_basis": "Listed USD16.10 each; qty2 USD32.20. INR90/USD planning => INR2898; shipping/import extra. Complete fittings; no separate release collars.",
+      "design_readiness": "R06 native SolidWorks gun/backplate saved. M5x0.8 port callouts; D4.2 tap drill depth5, D3 flow passage, portsX+/-18. FittingOD9 insideD14 yoke:2.5mm nominal radial clearance. NativeSTEP141 validsolids. Thread teeth/internalfittingdetails not modeled; coolant-in-vacuum qualification pending.",
+      "cad_instances": [
+        "Gun 020 fittings",
+        "Gun 023 fittings",
+        "Gun 027 fittings",
+        "Gun 029 fittings"
+      ],
+      "cad_roles": [
+        "gun_fittings"
+      ],
+      "cad_file": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\chamber-design\\coolant-fitting-r06\\SolidWorks R06\\Magnetron R06 - M5 coolant fittings.SLDASM"
+    },
+    {
+      "id": "G19",
+      "component": "Inner coolant O-ring",
+      "specification": "ID23 ×2 nominal; FKM proposal, compound to confirm",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Local purchase",
+      "unit_price_inr": 120,
+      "total_inr": 120,
+      "status": "Route settled",
+      "supplier": "Local industrial seal dealer — Mumbai sourcing",
+      "price_basis": "Planning allowance, not quote; user chose O-ring closure on2026-11-24.",
+      "design_readiness": "Gland squeeze/compound/tolerance review pending.",
+      "cad_instances": [
+        "Gun 034 waterseal"
+      ],
+      "cad_roles": [],
+      "cad_file": ""
+    },
+    {
+      "id": "G20",
+      "component": "Outer coolant O-ring",
+      "specification": "ID43 ×2 nominal; FKM proposal, compound to confirm",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Local purchase",
+      "unit_price_inr": 150,
+      "total_inr": 150,
+      "status": "Route settled",
+      "supplier": "Local industrial seal dealer — Mumbai sourcing",
+      "price_basis": "Planning allowance, not quote; user chose O-ring closure on2026-11-24.",
+      "design_readiness": "Gland squeeze/compound/tolerance review pending.",
+      "cad_instances": [
+        "Gun 030 waterseal"
+      ],
+      "cad_roles": [],
+      "cad_file": ""
+    },
+    {
+      "id": "G21",
+      "component": "Head-to-spacer vacuum O-ring",
+      "specification": "ID76 ×2 nominal; vacuum-compatible compound to select",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Local purchase",
+      "unit_price_inr": 250,
+      "total_inr": 250,
+      "status": "Route settled",
+      "supplier": "Local industrial/vacuum seal dealer — Mumbai sourcing",
+      "price_basis": "Planning allowance, not quote.",
+      "design_readiness": "Gland and compound review pending.",
+      "cad_instances": [
+        "Gun 055 headseal"
+      ],
+      "cad_roles": [
+        "gun_headseal"
+      ],
+      "cad_file": ""
+    },
+    {
+      "id": "G22",
+      "component": "Main-insulator vacuum O-rings",
+      "specification": "ID62 ×2 nominal; one on each side of main insulator",
+      "quantity": 2,
+      "unit": "piece",
+      "route": "Local purchase",
+      "unit_price_inr": 200,
+      "total_inr": 400,
+      "status": "Route settled",
+      "supplier": "Local industrial/vacuum seal dealer — Mumbai sourcing",
+      "price_basis": "Planning allowance, not quote.",
+      "design_readiness": "Gland and compound review pending.",
+      "cad_instances": [
+        "Gun 095 upper62",
+        "Gun 100 lower62"
+      ],
+      "cad_roles": [
+        "gun_upper62",
+        "gun_lower62"
+      ],
+      "cad_file": ""
+    },
+    {
+      "id": "G23",
+      "component": "Internal KF16 centering ring and seal set",
+      "specification": "Complete matched centering-ring/O-ring assembly for gun tube joint",
+      "quantity": 1,
+      "unit": "assembly",
+      "route": "Local purchase",
+      "unit_price_inr": 800,
+      "total_inr": 800,
+      "status": "My technical follow-up",
+      "supplier": "Local vacuum-hardware supplier — Mumbai sourcing",
+      "price_basis": "Planning allowance, not quote. Includes both CAD ring and seal.",
+      "design_readiness": "Check against actual internal capture geometry; not the chamber KF25 joint.",
+      "cad_instances": [
+        "Gun 070 kfcenter",
+        "Gun 072 kfseal"
+      ],
+      "cad_roles": [
+        "gun_kfcenter",
+        "gun_kfseal"
+      ],
+      "cad_file": ""
+    },
+    {
+      "id": "G24",
+      "component": "Internal cooling tube allowance",
+      "specification": "OD4 ID2.5; two modeled runs about0.28m each; purchase1m allowance",
+      "quantity": 1,
+      "unit": "metre",
+      "route": "Local purchase",
+      "unit_price_inr": 500,
+      "total_inr": 500,
+      "status": "My technical follow-up",
+      "supplier": "Local compatible-tubing supplier — polymer to select — Mumbai sourcing",
+      "price_basis": "Planning allowance, not quote. External chiller loops belong to subsystem8.",
+      "design_readiness": "Material, bend radius, pressure and temperature pending.",
+      "cad_instances": [
+        "Gun 063 hoses",
+        "Gun 064 hoses"
+      ],
+      "cad_roles": [
+        "gun_hoses"
+      ],
+      "cad_file": ""
+    },
+    {
+      "id": "G25",
+      "component": "Continuous coax allocation",
+      "specification": "Continuous RF coax for selected300W system; OD5 and conductor0.9 in CAD remain allowances, actual cable to specify.",
+      "quantity": 1,
+      "unit": "metre",
+      "route": "Local purchase",
+      "unit_price_inr": 1500,
+      "total_inr": 1500,
+      "status": "My technical follow-up",
+      "supplier": "Local RF cable supplier — exact cable to choose — Mumbai sourcing",
+      "price_basis": "Planning allowance, not quote. Four CAD layers are one cable. Internal allocation only; coordinate continuous purchased length with subsystem10.",
+      "design_readiness": "User selected RF300W, matching network from eBay. Select compatible generator/network frequency and connectors, then qualify cable voltage/current/thermal ratings, OD, bend radius and final length.",
+      "cad_instances": [
+        "Gun 137 coax",
+        "Gun 138 coax",
+        "Gun 139 coax",
+        "Gun 140 coax"
+      ],
+      "cad_roles": [],
+      "cad_file": ""
+    },
+    {
+      "id": "G26",
+      "component": "Additional dielectric guard sleeve",
+      "specification": "R02 guard; nominal OD4 ID3.2, trim to modeled terminal route",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Local purchase",
+      "unit_price_inr": 100,
+      "total_inr": 100,
+      "status": "My technical follow-up",
+      "supplier": "Local PTFE sleeve/insulation-stock supplier — Mumbai sourcing",
+      "price_basis": "Planning allowance, not quote.",
+      "design_readiness": "RF300W selected. Match guard/clamp/lug to actual RF cable and connector/rating selection; technical follow-up, no additional user choice required.",
+      "cad_instances": [
+        "Gun 141 coax"
+      ],
+      "cad_roles": [],
+      "cad_file": ""
+    },
+    {
+      "id": "G27",
+      "component": "Coax shield spring clamp",
+      "specification": "icotek SKL3-6, part36202;3–6mm shield range",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Local purchase",
+      "unit_price_inr": 700,
+      "total_inr": 700,
+      "status": "My technical follow-up",
+      "supplier": "Mumbai distributor / US alternative reviewed: https://us.rs-online.com/product/icotek/36202/72429141/",
+      "price_basis": "INR700 remains an unquoted single-piece allowance. RS US listing:$181.25 per50, minimum50, backordered on24Nov2026. Bulk listing not selected; seek a practical single-piece local/US source.",
+      "design_readiness": "RF300W selected. Match guard/clamp/lug to actual RF cable and connector/rating selection; technical follow-up, no additional user choice required.",
+      "cad_instances": [
+        "Gun 129 rfground"
+      ],
+      "cad_roles": [],
+      "cad_file": ""
+    },
+    {
+      "id": "G28",
+      "component": "M4 ring terminal",
+      "specification": "TE323086 reference;22–16AWG; M4 stud",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Local purchase",
+      "unit_price_inr": 100,
+      "total_inr": 100,
+      "status": "My technical follow-up",
+      "supplier": "Local TE distributor/electrical terminal supplier — Mumbai sourcing",
+      "price_basis": "Planning allowance only. Reference:https://www.te.com/en/product-323086.html",
+      "design_readiness": "RF300W selected. Match guard/clamp/lug to actual RF cable and connector/rating selection; technical follow-up, no additional user choice required.",
+      "cad_instances": [
+        "Gun 136 rfhot"
+      ],
+      "cad_roles": [],
+      "cad_file": ""
+    },
+    {
+      "id": "G29",
+      "component": "M3 ×16 socket-head screws",
+      "specification": "Proposed stainless grade;12 copper closure screws",
+      "quantity": 12,
+      "unit": "piece",
+      "route": "Local purchase",
+      "unit_price_inr": 12,
+      "total_inr": 144,
+      "status": "Route settled",
+      "supplier": "Local stainless fastener dealer — Mumbai sourcing",
+      "price_basis": "Planning allowance; installed count, no spares or pack MOQ included.",
+      "design_readiness": "Thread/engagement and material review pending.",
+      "cad_instances": [
+        "Gun 005 backbolts",
+        "Gun 006 backbolts",
+        "Gun 007 backbolts",
+        "Gun 012 backbolts",
+        "Gun 015 backbolts",
+        "Gun 016 backbolts",
+        "Gun 019 backbolts",
+        "Gun 026 backbolts",
+        "Gun 028 backbolts",
+        "Gun 039 backbolts",
+        "Gun 041 backbolts",
+        "Gun 046 backbolts"
+      ],
+      "cad_roles": [
+        "gun_backbolts"
+      ],
+      "cad_file": ""
+    },
+    {
+      "id": "G30",
+      "component": "M3 ×35 socket-head screws",
+      "specification": "12 head screws +12 insulated base screws",
+      "quantity": 24,
+      "unit": "piece",
+      "route": "Local purchase",
+      "unit_price_inr": 18,
+      "total_inr": 432,
+      "status": "Route settled",
+      "supplier": "Local stainless fastener dealer — Mumbai sourcing",
+      "price_basis": "Planning allowance; installed count, no spares or pack MOQ included.",
+      "design_readiness": "Thread/engagement and material review pending.",
+      "cad_instances": [
+        "Gun 049 headbolts",
+        "Gun 050 headbolts",
+        "Gun 051 headbolts",
+        "Gun 052 headbolts",
+        "Gun 053 headbolts",
+        "Gun 054 headbolts",
+        "Gun 056 headbolts",
+        "Gun 057 headbolts",
+        "Gun 058 headbolts",
+        "Gun 060 headbolts",
+        "Gun 061 headbolts",
+        "Gun 062 headbolts",
+        "Gun 076 basebolts",
+        "Gun 077 basebolts",
+        "Gun 079 basebolts",
+        "Gun 081 basebolts",
+        "Gun 083 basebolts",
+        "Gun 087 basebolts",
+        "Gun 088 basebolts",
+        "Gun 089 basebolts",
+        "Gun 090 basebolts",
+        "Gun 092 basebolts",
+        "Gun 097 basebolts",
+        "Gun 099 basebolts"
+      ],
+      "cad_roles": [
+        "gun_headbolts",
+        "gun_basebolts"
+      ],
+      "cad_file": ""
+    },
+    {
+      "id": "G31",
+      "component": "M3 x10 socket-head screws",
+      "specification": "12 target-clamp screws; replace M3x8 with M3x10. Head seats unchanged; nominal straight-pilot engagement5.55mm, physical bottom margin1mm.",
+      "quantity": 12,
+      "unit": "piece",
+      "route": "Local purchase",
+      "unit_price_inr": 12,
+      "total_inr": 144,
+      "status": "Route settled",
+      "supplier": "Local stainless fastener dealer — Mumbai sourcing",
+      "price_basis": "Local planning allowance INR12 each, not a vendor quote. Twelve M3x10 replace M3x8; no spare/pack minimum added.",
+      "design_readiness": "Geometry updated inR05. Verify useful M3x0.5 threads toY-9, pilot endY-10 and actual screw tolerances. Torque/preload and stripping strength not established.",
+      "cad_instances": [
+        "Gun 102 targetbolts R05 M3x10",
+        "Gun 105 targetbolts R05 M3x10",
+        "Gun 106 targetbolts R05 M3x10",
+        "Gun 107 targetbolts R05 M3x10",
+        "Gun 108 targetbolts R05 M3x10",
+        "Gun 109 targetbolts R05 M3x10",
+        "Gun 110 targetbolts R05 M3x10",
+        "Gun 111 targetbolts R05 M3x10",
+        "Gun 112 targetbolts R05 M3x10",
+        "Gun 113 targetbolts R05 M3x10",
+        "Gun 114 targetbolts R05 M3x10",
+        "Gun 115 targetbolts R05 M3x10"
+      ],
+      "cad_roles": [
+        "gun_targetbolts"
+      ],
+      "cad_file": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\chamber-design\\target-clamp-r05\\Latest magnetron R05 - aluminium3.175mm.step"
+    },
+    {
+      "id": "G32",
+      "component": "M3 ×6 socket-head screws",
+      "specification": "6 shield screws +1 blind ground-anchor screw",
+      "quantity": 7,
+      "unit": "piece",
+      "route": "Local purchase",
+      "unit_price_inr": 10,
+      "total_inr": 70,
+      "status": "Route settled",
+      "supplier": "Local stainless fastener dealer — Mumbai sourcing",
+      "price_basis": "Planning allowance; installed count, no spares or pack MOQ included.",
+      "design_readiness": "Thread/engagement and material review pending.",
+      "cad_instances": [
+        "Gun 116 upperbolts",
+        "Gun 118 upperbolts",
+        "Gun 119 upperbolts",
+        "Gun 120 upperbolts",
+        "Gun 121 upperbolts",
+        "Gun 124 upperbolts",
+        "Gun 133 rfground"
+      ],
+      "cad_roles": [
+        "gun_upperbolts"
+      ],
+      "cad_file": ""
+    },
+    {
+      "id": "G33",
+      "component": "M3 ×4 socket-head screw",
+      "specification": "Coax shield clamp mounting screw",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Local purchase",
+      "unit_price_inr": 10,
+      "total_inr": 10,
+      "status": "Route settled",
+      "supplier": "Local stainless fastener dealer — Mumbai sourcing",
+      "price_basis": "Planning allowance; installed count, no spares or pack MOQ included.",
+      "design_readiness": "Thread/engagement review pending.",
+      "cad_instances": [
+        "Gun 131 rfground"
+      ],
+      "cad_roles": [],
+      "cad_file": ""
+    },
+    {
+      "id": "G34",
+      "component": "M3 nut",
+      "specification": "Coax shield clamp mounting nut",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Local purchase",
+      "unit_price_inr": 5,
+      "total_inr": 5,
+      "status": "Route settled",
+      "supplier": "Local stainless fastener dealer — Mumbai sourcing",
+      "price_basis": "Planning allowance; one complete nut, CAD rounded envelope only.",
+      "design_readiness": "Match final thread and wrench clearance.",
+      "cad_instances": [
+        "Gun 132 rfground"
+      ],
+      "cad_roles": [],
+      "cad_file": ""
+    },
+    {
+      "id": "G35",
+      "component": "M4 ×10 socket-head screw",
+      "specification": "Steel return yoke retention",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Local purchase",
+      "unit_price_inr": 15,
+      "total_inr": 15,
+      "status": "Route settled",
+      "supplier": "Local stainless fastener dealer — Mumbai sourcing",
+      "price_basis": "Planning allowance; installed count, no spares or pack MOQ included.",
+      "design_readiness": "Thread/engagement and material review pending.",
+      "cad_instances": [
+        "Gun 033 yokebolt"
+      ],
+      "cad_roles": [
+        "gun_yokebolt"
+      ],
+      "cad_file": ""
+    },
+    {
+      "id": "G36",
+      "component": "M4 ×8 socket-head screws",
+      "specification": "3 lower shield screws",
+      "quantity": 3,
+      "unit": "piece",
+      "route": "Local purchase",
+      "unit_price_inr": 12,
+      "total_inr": 36,
+      "status": "Route settled",
+      "supplier": "Local stainless fastener dealer — Mumbai sourcing",
+      "price_basis": "Planning allowance; installed count, no spares or pack MOQ included.",
+      "design_readiness": "Thread/engagement and material review pending.",
+      "cad_instances": [
+        "Gun 123 lowerbolts",
+        "Gun 125 lowerbolts",
+        "Gun 126 lowerbolts"
+      ],
+      "cad_roles": [
+        "gun_lowerbolts"
+      ],
+      "cad_file": ""
+    },
+    {
+      "id": "G37",
+      "component": "M4 ×20 socket-head screw",
+      "specification": "Live terminal screw",
+      "quantity": 1,
+      "unit": "piece",
+      "route": "Local purchase",
+      "unit_price_inr": 18,
+      "total_inr": 18,
+      "status": "Route settled",
+      "supplier": "Local stainless fastener dealer — Mumbai sourcing",
+      "price_basis": "Planning allowance; installed count, no spares or pack MOQ included.",
+      "design_readiness": "Thread/engagement and material review pending.",
+      "cad_instances": [
+        "Gun 135 rfhot"
+      ],
+      "cad_roles": [],
+      "cad_file": ""
+    },
+    {
+      "id": "G38",
+      "component": "M5 ×20 socket-head screws",
+      "specification": "6 bespoke internal tube-clamp screws",
+      "quantity": 6,
+      "unit": "piece",
+      "route": "Local purchase",
+      "unit_price_inr": 20,
+      "total_inr": 120,
+      "status": "Route settled",
+      "supplier": "Local stainless fastener dealer — Mumbai sourcing",
+      "price_basis": "Planning allowance; installed count, no spares or pack MOQ included.",
+      "design_readiness": "Thread/engagement and material review pending.",
+      "cad_instances": [
+        "Gun 067 kfbolts",
+        "Gun 068 kfbolts",
+        "Gun 069 kfbolts",
+        "Gun 071 kfbolts",
+        "Gun 073 kfbolts",
+        "Gun 074 kfbolts"
+      ],
+      "cad_roles": [
+        "gun_kfbolts"
+      ],
+      "cad_file": ""
+    }
+  ],
+  "subsystems": [
+    "Sputter gun",
+    "Chamber and loading door",
+    "Gun mounting and height adjustment",
+    "Substrate stage and shutter",
+    "Vacuum pumping",
+    "Pressure measurement",
+    "Argon supply and flow control",
+    "Gun water cooling",
+    "Turbo water cooling",
+    "Electrical power and controls",
+    "Frame and equipment supports"
+  ],
+  "cad_instances_accounted": 141,
+  "user_decisions": [
+    "Keep two coolant O-rings; no brazing in active procurement.",
+    "Use Mumbai for local sourcing."
+  ],
+  "estimate_total": 50650,
+  "by_route": {
+    "Online purchase": 12148,
+    "Local purchase": 6214,
+    "Custom vendor order": 29990
+  },
+  "locality": "Mumbai / Mumbai metropolitan region",
+  "procurement_policy": {
+    "local_area": "Mumbai",
+    "us_route_available": true,
+    "methods": [
+      "Online purchase",
+      "Local purchase",
+      "Custom vendor order"
+    ],
+    "guidance": "Consider US/eBay for hard-to-source standard items; no assumption of India-only sourcing; delivery/transfer charges remain to establish."
+  },
+  "selected_mounting_gland": {
+    "subsystem": 3,
+    "qty": 1,
+    "route": "Online purchase",
+    "buy_url": "https://www.ebay.com/itm/198508082866",
+    "reference_model": "Lesker QF25XVC100",
+    "reference_url": "https://www.lesker.com/flanges/adapters-fittings-quickconnects/part/qf25xvc100",
+    "price_status": "Current eBay price and availability unverified; not included in gun subtotal",
+    "source": "Previously selected project record;24Nov2026 user reiterated US route"
+  },
+  "review": {
+    "routine_ids": [
+      "G01",
+      "G02",
+      "G03",
+      "G04",
+      "G05",
+      "G06",
+      "G07",
+      "G08",
+      "G09",
+      "G10",
+      "G11",
+      "G12",
+      "G13",
+      "G14",
+      "G15",
+      "G16",
+      "G19",
+      "G20",
+      "G21",
+      "G22",
+      "G29",
+      "G30",
+      "G31",
+      "G32",
+      "G33",
+      "G34",
+      "G35",
+      "G36",
+      "G37",
+      "G38",
+      "G17"
+    ],
+    "my_followup_ids": [
+      "G18",
+      "G23",
+      "G24",
+      "G26",
+      "G27",
+      "G28",
+      "G25"
+    ],
+    "user_input_ids": [],
+    "questions": 0,
+    "latest_workbook": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\outputs\\01a209eb-c119-74d1-bef5-c610f57d428f\\Sputter system procurement.xlsx"
+  },
+  "recorded_answers": {
+    "raw": [
+      "Al, 2\" dia, 0.125\" thick",
+      "RF - 300W, matching network from ebay",
+      "nothing"
+    ],
+    "target": {
+      "material": "Aluminium",
+      "diameter_mm": 50.8,
+      "thickness_mm": 3.175
+    },
+    "power": {
+      "mode": "RF",
+      "rated_power_W": 300,
+      "matching_network_source": "eBay",
+      "models_not_yet_selected": true
+    },
+    "already_purchased": [],
+    "source_file": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\outputs\\01a209eb-c119-74d1-bef5-c610f57d428f\\Sputter system procurement - US sourcing.xlsx",
+    "source_cells": [
+      "C7",
+      "C8",
+      "C9"
+    ],
+    "already_purchased_scope": "Original question concerned gun hardware; later shutter stock confirmation is in stage_shutter_package."
+  },
+  "design_actions": [
+    "Reassess magnetic field at5.675mm pole-tip to target-front spacing.",
+    "Qualify lip stiffness, preload, tolerances, target contact and thermal operating limit forR05.",
+    "Select RF300W generator/matching network and then specify cable/insulation."
+  ],
+  "target_supplier": {
+    "url": "https://www.vritratech.com/store/product/aluminium-al-sputtering-target/",
+    "purity_percent": 99.99,
+    "base_INR": 8300,
+    "GST_INR": 1494,
+    "total_INR": 9794,
+    "price_checked": "2026-11-24"
+  },
+  "clamp_revision": {
+    "revision": "R05",
+    "directory": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\chamber-design\\target-clamp-r05",
+    "source_report": "Clamp redesign and verification.json",
+    "nominal_fit_passed": true,
+    "preload_and_thermal_qualification_pending": true
+  },
+  "chamber_package": {
+    "package_id": "CB01",
+    "quantity": 1,
+    "procurement_method": "Custom vendor order",
+    "supplier_user_name": "Alpha Technovac, Mumbai",
+    "supplier_record": "Alfa Technovac LLP",
+    "supplier_url": "https://www.alfavacuum.com/",
+    "budget_allowance_INR": 100000,
+    "budget_basis": "Planning allowance set by assistant, not a supplier quote. GST/delivery and final scope price to confirm in quotation.",
+    "source_geometry": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\chamber-design\\target-clamp-r05\\Complete sputter system R05.step",
+    "layout_changes": 0,
+    "scope": "Complete chamber/door and chamber-side mating hardware; fixed mounting provisions included. Removable stage/shutter and external equipment excluded.",
+    "supplier_layout_solids": 73,
+    "supplier_layout_all_valid": true,
+    "status": "Layout/interfaces frozen; supplier detailing and quotation pending",
+    "downstream_no_duplicate_items": [
+      "Chamber weld-on flanges",
+      "Door/window hardware and seals",
+      "Chamber-side KF clamps/centering seals",
+      "ISO63 inlet clamp/centering set",
+      "Right spare blank caps",
+      "Fixed stage/baffle supports"
+    ]
+  },
+  "partial_system_subtotal_INR": 944392.4,
+  "system_estimate_complete": true,
+  "gun_mount_package": {
+    "selected_ebay_url": "https://www.ebay.com/itm/198508082866",
+    "selected_ebay_price": "unverified - listing unavailable via web reader and HTTP403; browser tool initialization failed",
+    "reference_manufacturer_url": "https://www.lesker.com/flanges/adapters-fittings-quickconnects/part/qf25xvc100",
+    "reference_unit_price_USD": 200,
+    "reference_dimensions_mm": {
+      "nominal_tube_OD": 25.4,
+      "dim_A": 25.9,
+      "dim_B": 50.8,
+      "KF25_flange_OD": 39.88
+    },
+    "date": "2026-11-24",
+    "planning_allowance_INR": 18000,
+    "planning_FX_INR_per_USD": 90,
+    "allowance_basis": "Reference manufacturer list price only; not an eBay quote. Delivery/tax/transfer charges extra. No supplier stock claim.",
+    "CAD_only_checks": [
+      {
+        "gap_mm": 75,
+        "tube_straight_region_z_mm": [
+          222.175,
+          397.175
+        ],
+        "metal_or_face_reference_overlap_mm3": {
+          "body": 0,
+          "cap": 0,
+          "follower": 0,
+          "kf_seal": 0
+        }
+      },
+      {
+        "gap_mm": 100,
+        "tube_straight_region_z_mm": [
+          247.175,
+          422.17499999999995
+        ],
+        "metal_or_face_reference_overlap_mm3": {
+          "body": 0,
+          "cap": 0,
+          "follower": 0,
+          "kf_seal": 0
+        }
+      },
+      {
+        "gap_mm": 150,
+        "tube_straight_region_z_mm": [
+          297.175,
+          472.17499999999995
+        ],
+        "metal_or_face_reference_overlap_mm3": {
+          "body": 0,
+          "cap": 0,
+          "follower": 0,
+          "kf_seal": 0
+        }
+      }
+    ],
+    "scope": "Validates the illustrative modeled body/cap/follower stack and75–150mm axial positions only; it does not verify the unidentified eBay assembly, its contents or commercial centering hardware. Tube O-ring contact is intentional and excluded.",
+    "supplier_responsibility": "Alfa CB01 includes chamber-side weld flange, clamp and compatible clear-through centering/seal hardware; establish actual25.4mm tube passage with gland before manufacture. No new user sourcing decision.",
+    "other_US_source_reference": {
+      "url": "https://www.ldsvacuumshopper.com/nwto1tubsiz.html?viewfullsite=1",
+      "model": "NW25-Q100",
+      "advertised_sale_USD": 78.84,
+      "status": "Backup reference only, not selected or included as another purchase; full-stack through-bore still requires confirmation."
+    }
+  },
+  "stage_shutter_package": {
+    "subsystem": 4,
+    "rows": [
+      {
+        "id": "SS01",
+        "component": "Substrate stage plate",
+        "spec": "SS304 disc, D90 x6mm; simple passive removable stage as current CAD",
+        "required": 1,
+        "stock": 0,
+        "new": 1,
+        "method": "Custom vendor order",
+        "status": "Local fabrication",
+        "unit_price": 1500,
+        "supplier": "Mumbai precision turning/machining shop; vendor quote pending",
+        "note": "Keep existing stage geometry. Stage supports are included inCB01. Stage topZ40; reference1mm specimen topZ41.",
+        "file": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\chamber-design\\stage-shutter-procurement\\Substrate stage.step"
+      },
+      {
+        "id": "SS02",
+        "component": "One-piece bent sheet-metal shutter",
+        "spec": "SS304 sheet1mm; two90deg bends, innerR2;56x56 blade; existing folded CAD controls",
+        "required": 1,
+        "stock": 0,
+        "new": 1,
+        "method": "Custom vendor order",
+        "status": "Local fabrication",
+        "unit_price": 1000,
+        "supplier": "Mumbai laser-cutting and press-brake vendor; quote pending",
+        "note": "Finished geometry controls. K0.42 DXF is a reference; fabricator adjusts blank/bend allowance to actual tooling. Include small thrust-washer detail in same job.",
+        "file": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\chamber-design\\stage-shutter-procurement\\Bent shutter.step"
+      },
+      {
+        "id": "SS03",
+        "component": "Shutter hand screw",
+        "spec": "1/4-28 x1.25in flared-collar thumb screw; previous reference99607A246",
+        "required": 1,
+        "stock": 1,
+        "new": 0,
+        "method": "No purchase",
+        "status": "Already in stock",
+        "unit_price": 0,
+        "supplier": "Existing stock; reference only:https://www.mcmaster.com/99607A246/",
+        "note": "User confirmed stock. Manual operation; no separate actuator.",
+        "file": ""
+      },
+      {
+        "id": "SS04",
+        "component": "Shutter FKM O-ring",
+        "spec": "Previous reference6540K248;1/4in ID x1/2in OD x1/8in cross-section",
+        "required": 1,
+        "stock": 1,
+        "new": 0,
+        "method": "No purchase",
+        "status": "Already in stock",
+        "unit_price": 0,
+        "supplier": "Existing stock; reference only:https://www.mcmaster.com/6540K248/",
+        "note": "One seal allocated from user stock; do not buy another pack. Actual rotary seal stack still needs installed leak/wear checking.",
+        "file": ""
+      },
+      {
+        "id": "SS05",
+        "component": "Shutter nuts",
+        "spec": "1/4-28 aluminium nuts; previous reference90670A155",
+        "required": 2,
+        "stock": 2,
+        "new": 0,
+        "method": "No purchase",
+        "status": "Already in stock",
+        "unit_price": 0,
+        "supplier": "Existing stock; reference only:https://www.mcmaster.com/90670A155/",
+        "note": "Two installed nuts allocated; no new pack to procure.",
+        "file": ""
+      },
+      {
+        "id": "SS06",
+        "component": "Small shutter thrust washer",
+        "spec": "Existing CAD reference: ID6.6 OD16 x0.5mm",
+        "required": 1,
+        "stock": 0,
+        "new": 0,
+        "method": "Included in SS02",
+        "status": "Included in fabrication",
+        "unit_price": 0,
+        "supplier": "Supplied/finished with the sheet-metal job",
+        "note": "Retain as part of existing assembly detail if required; included inSS02 allowance, not a separate shopping item or an assumed stock holding.",
+        "file": ""
+      },
+      {
+        "id": "SS07",
+        "component": "Fixed stage supports",
+        "spec": "4 posts D6 x34 atX/Y +/-29mm",
+        "required": 4,
+        "stock": 0,
+        "new": 0,
+        "method": "Included in CB01",
+        "status": "Included in chamber package",
+        "unit_price": 0,
+        "supplier": "Alfa Technovac chamber package",
+        "note": "Already inCB01 supplier scope and allowance; do not buy or charge twice.",
+        "file": ""
+      },
+      {
+        "id": "SS08",
+        "component": "Reference specimen",
+        "spec": "50x50x1mm reference only",
+        "required": 1,
+        "stock": 0,
+        "new": 0,
+        "method": "Reference only",
+        "status": "Not a hardware purchase",
+        "unit_price": 0,
+        "supplier": "Process specimen, not a stage fabrication item",
+        "note": "Shown only to define stage/shutter/target distances; actual process substrates are outside this hardware purchase list.",
+        "file": ""
+      }
+    ],
+    "new_spend_estimate_INR": 2500,
+    "basis": "Assistant planning allowances only: stage1500, folded shutter job1000; GST/delivery as quoted. Stock hardware haszero new-purchase cost.",
+    "user_decisions": [
+      "No separate actuator",
+      "Screw, O-ring and nuts already in stock",
+      "Shutter sheet-metal part goes to local fabrication"
+    ],
+    "stage_selection": "SS304 plainD90x6 disc, current CAD geometry retained",
+    "personal_input_required": false
+  },
+  "vacuum_pumping": {
+    "rows": [
+      [
+        "VP01",
+        "EXT70 + EXDC80 used bundle",
+        "One listing lot: two EXT70 B722-01-000 pumps with EXDC80 as listed",
+        1,
+        "Online purchase",
+        799,
+        "USD",
+        "Selected; used condition unverified",
+        "https://www.ebay.com/itm/407198952795",
+        "USD799 for the entire lot from user screenshot. One pump installed; second is spare. Verify quantity of included drives from listing contents before order. Import freight/duty excluded. Replaces previous USD685 turbo and USD125 EXDC160 selections."
+      ],
+      [
+        "VP02",
+        "Included EXDC80 drive",
+        "80V-input EXDC80, manufacturer part D39640000",
+        1,
+        "Included with selected pump",
+        0,
+        "INR",
+        "Included in VP01",
+        "https://www.ebay.com/itm/407198952795",
+        "Manufacturer D39640880 supports EXT70 with 80V EXDC80. No separate drive purchase; nameplate/contents and function checked on receipt."
+      ],
+      [
+        "VP03",
+        "80V programmable DC supply",
+        "OWON SPM8205;0-80V,0-20A,500W total limit",
+        1,
+        "Online purchase",
+        22918,
+        "INR",
+        "User selected; specifications match",
+        "https://www.toolworld.in/product.php?pid=14114&pn=SPM8205+Programmable+DC+Power+Supply-+80V+20A+500W",
+        "Toolworld INR22918 incl18%GST;4available/same-day dispatch shown24Nov2026. Set80.0V constant-voltage mode; current limit about1.5A for oneEXDC80. At80V,500W permits6.25A maximum, not20A simultaneously. Manufacturer ripple<=50mVp-p; EXDC80 maxinput1.1A. Replaces MeanWellNPP45072."
+      ],
+      [
+        "VP04",
+        "Rotary-vane backing pump",
+        "INDOVAC HV2-150 monobloc, double stage; KF25 inlet/outlet",
+        1,
+        "Local purchase",
+        48500,
+        "INR",
+        "User selected quotation",
+        "INDOVAC Pumps & Engg Co, Bhandup Mumbai; C:/Users/Aryamman/Downloads/HV2-150 ( MONOBLOC - DOUBLE STAGE ) -IIT BOMBAY-30.01.2026 (1).pdf",
+        "30Jan2026 quote: 150LPM=9m3/h, ultimate0.005mbar;0.33HP220V1ph50Hz; motor/base/guard/anti-suckback included. GST18% extra; packing nil, delivery free. Price reconfirmation needed; validity wording refers to formal order."
+      ],
+      [
+        "VP05",
+        "Foreline flexible hose",
+        "KF25-ended SS vacuum bellows, nominal1m",
+        1,
+        "Local purchase",
+        6000,
+        "INR",
+        "Planning allowance",
+        "Mumbai vacuum component supplier",
+        "Allowance only; final length after HV2-150 envelope/port positions received. Existing CAD uses RV3 reference, not this pump."
+      ],
+      [
+        "VP06",
+        "Turbo exhaust reducer",
+        "KF16 to KF25 vacuum adapter",
+        1,
+        "Local purchase",
+        1000,
+        "INR",
+        "Planning allowance",
+        "Mumbai vacuum component supplier",
+        "EXT70 manufacturer manual specifies DN16NW outlet. Avoid treating it as native KF25."
+      ],
+      [
+        "VP07",
+        "KF16 joint hardware",
+        "KF16 clamp + FKM centering seal",
+        1,
+        "Local purchase",
+        350,
+        "INR",
+        "Planning allowance",
+        "Mumbai vacuum component supplier",
+        "One joint: turbo outlet to adapter."
+      ],
+      [
+        "VP08",
+        "KF25 foreline joint hardware",
+        "KF25 clamp + FKM centering seal",
+        2,
+        "Local purchase",
+        400,
+        "INR",
+        "Planning allowance",
+        "Mumbai vacuum component supplier",
+        "Two joints: reducer/hose and hose/backing-pump inlet. Chamber-side joints already inCB01."
+      ],
+      [
+        "VP09",
+        "Backing-pump exhaust mist filter",
+        "KF25 compatible oil-mist separator",
+        1,
+        "Local purchase",
+        4000,
+        "INR",
+        "Planning allowance",
+        "INDOVAC / Mumbai vacuum supplier",
+        "Not explicitly included in quote. Allowance includes mating joint/necessary adapter; select for150LPM with acceptable backpressure."
+      ],
+      [
+        "VP10",
+        "Initial vacuum pump oil",
+        "Vendor-specified vacuum oil;1L charge",
+        1,
+        "Local purchase",
+        1000,
+        "INR",
+        "Allowance; inclusion to check",
+        "INDOVAC Pumps & Engg Co",
+        "Quote gives1L charge but does not explicitly price supplied oil. Remove this allowance if initial fill included."
+      ],
+      [
+        "VP11",
+        "Driver supply/control harness",
+        "Mating connector, rated DC conductors, enable switch, fusing",
+        1,
+        "Local purchase",
+        2000,
+        "INR",
+        "Allowance; pinout pending",
+        "Mumbai electrical components vendor / local technician",
+        "EXDC80:70-85Vdc,1.1A maximum;3.15A time-delay IEC fuse with adequateDC voltage/interruption rating. Local harness includes start/stop control, protective earth and <=22kohm DC0V-to-earth path per manual. Use all specified power contacts. Set80V; protect/guard voltage adjustment."
+      ],
+      [
+        "VP12",
+        "Separate PSU housing",
+        "Not required: OWON supplied as enclosed benchtop instrument",
+        0,
+        "Not a hardware purchase",
+        0,
+        "INR",
+        "Removed from procurement",
+        "https://www.toolworld.in/product.php?pid=14114&pn=SPM8205+Programmable+DC+Power+Supply-+80V+20A+500W",
+        "Previous INR1500 bare-PSU housing allowance removed. OWON enclosure and mains cord supplied; driver-side DC harness/fuse/earth connection remain inVP11."
+      ],
+      [
+        "VP13",
+        "Turbo ISO63 mounting joint",
+        "Four double-claw clamps + centering O-ring assembly",
+        1,
+        "Included in chamber package",
+        0,
+        "INR",
+        "Included inCB01",
+        "Alfa Technovac chamber scope",
+        "Zero new spend here; do not procure twice."
+      ],
+      [
+        "VP14",
+        "Turbo manual vent valve",
+        "Retain valve shown on selected used pump; inspect completeness",
+        1,
+        "Included with selected pump",
+        0,
+        "INR",
+        "Contents verification",
+        "Selected EXT70 listing photographs",
+        "No separate automatic vent actuator requested; replacement cost excluded unless supplied valve is missing/unusable."
+      ]
+    ],
+    "planning_INR_per_USD": 90,
+    "new_spend_estimate_INR": 167208,
+    "pump_quote_GST_rate": 0.18,
+    "pump_driver_compatibility": "EXT70 supported by80V EXDC80 D39640000 per manufacturerD39640880; actual used lot nameplates/function to verify",
+    "PSU": "OWON SPM8205 fromToolworld;INR22918 inclGST;set80V CV",
+    "RV3_CAD_reference_superseded": true,
+    "superseded_selection": [
+      [
+        "VP01",
+        "Turbo pump",
+        "Edwards EXT70 ISO63-K; listing PN B72205000R",
+        1,
+        "Online purchase",
+        685,
+        "USD",
+        "Selected; drive compatibility pending",
+        "https://www.ebay.com/itm/285808977562",
+        "User screenshot USD685 used; listing/photo part number discrepancy to resolve. No imported freight/duty included."
+      ],
+      [
+        "VP02",
+        "Turbo drive module",
+        "EXDC160 (187W), D39646000, 24V",
+        1,
+        "Online purchase",
+        125,
+        "USD",
+        "Selected; compatibility pending",
+        "https://www.ebay.com/itm/128105462331",
+        "User screenshot USD125 used. Do not infer compatibility from the 80V EXDC160 manual. Retain pending exact pairing confirmation."
+      ],
+      [
+        "VP03",
+        "24V DC power supply",
+        "Mean Well LRS-350-24; 24V,14.6A,350.4W",
+        1,
+        "Local purchase",
+        2885.1,
+        "INR",
+        "Provisional for 24V drive",
+        "DNA Technology / local Mean Well dealer; https://www.dnatechindia.com/meanwell-smps-lrs-350-24-power-supply.html",
+        "Listed INR2445 +18% GST. Local purchase preferred; URL is Indian price/buying reference. 230V selector; set output24V. Final qualification against selected driver manual pending."
+      ]
+    ],
+    "bundle": {
+      "url": "https://www.ebay.com/itm/407198952795",
+      "lot_qty": 1,
+      "price_USD": 799,
+      "pumps_in_lot": 2,
+      "pumps_installed": 1,
+      "pumps_spare": 1
+    },
+    "previous_PSU": "Mean Well NPP-450-72 in PSU mode set80V; qty1"
+  },
+  "pressure_measurement": {
+    "supplier": "Alfa Technovac, Mumbai (user called Alpha Technovac)",
+    "method": "Local purchase",
+    "rows": [
+      [
+        "PG01",
+        "Pirani gauge",
+        "Model and native vacuum fitting to confirm",
+        1,
+        "Local purchase",
+        "Alfa Technovac, Mumbai",
+        "User-supplied price; package scope pending",
+        20000,
+        null,
+        "INR20000 per user. Whether controller/readout, cable andGST are included is unconfirmed. Budget is not an all-inclusive system quotation."
+      ],
+      [
+        "PG02",
+        "Penning gauge",
+        "Model and native vacuum fitting to confirm",
+        1,
+        "Local purchase",
+        "Alfa Technovac, Mumbai",
+        "User-supplied price; package scope pending",
+        40000,
+        null,
+        "INR40000 per user. Whether controller/readout, cable andGST are included is unconfirmed. Rear dedicatedKF25 port retained; supplier to confirm needed adapter/elbow."
+      ]
+    ],
+    "price_source": "User message24Nov2026",
+    "recorded_subtotal_INR": 60000,
+    "GST_included": null,
+    "controllers_cables_included": null,
+    "models": null,
+    "chamber_joint_hardware_included_in": "CB01"
+  },
+  "argon_supply_flow_control": {
+    "supplier": "Local IITB supplier (user specified)",
+    "method": "Local purchase",
+    "rows": [
+      [
+        "AR01",
+        "Argon cylinder",
+        "Capacity and argon purity to confirm",
+        1,
+        "Local purchase",
+        "Local IITB supplier",
+        "User estimate; price basis unconfirmed",
+        2000,
+        null,
+        "Approximately INR 2,000 per user. Cylinder ownership/deposit/refill basis and GST not specified. Do not assume this is a new-cylinder purchase price."
+      ],
+      [
+        "AR02",
+        "Argon regulator",
+        "Model, cylinder connection and outlet to confirm",
+        1,
+        "Local purchase",
+        "Local IITB supplier",
+        "User estimate; specification pending",
+        7000,
+        null,
+        "Approximately INR 7,000 per user. Regulator outlet adapters to planned 6 mm tube remain to finalize. GST inclusion unconfirmed."
+      ]
+    ],
+    "price_source": "User estimates 24 Nov 2026",
+    "recorded_partial_subtotal_INR": 81934.4,
+    "GST_included": null,
+    "cylinder_price_basis": null,
+    "MFC_tubing_fittings": "Selected items + local allowances; used-unit and flow-range qualifications pending",
+    "additional_rows": [
+      [
+        "AR03",
+        "Argon mass flow controller",
+        "HORIBA STEC SEC-E440J; Ar200sccm; used",
+        1,
+        "Online purchase",
+        "https://www.ebay.com/itm/206686435579",
+        "User selection; USD318.06 screenshot",
+        318.06,
+        "USD",
+        "Nameplate Ar200SCCM, N2CF1.385. Set readout full scale200sccm; do not multiply label flow again byCF. Verify actual male1/4VCR ports, inlet pressure and calibration."
+      ],
+      [
+        "AR04",
+        "Vacuum-side adapter",
+        "KF25 to1/4inch VCR female; variant537098527113",
+        1,
+        "Online purchase",
+        "https://www.ebay.com/itm/236564860622?var=537098527113",
+        "User selection; USD45.36 screenshot",
+        45.36,
+        "USD",
+        "Select exactKF25/1/4VCRFemale variant. Require complete female nut/gland assembly. ChamberKF25 clamp/centeringseal alreadyCB01. VCR metal gasket inAR07."
+      ],
+      [
+        "AR05",
+        "MFC inlet adapter body",
+        "Swagelok SS-4-WVCR-7-4;1/4WVCR to1/4FNPT",
+        1,
+        "Online purchase",
+        "https://componentonline.com/product/299-18028/SS-4-WVCR-7-4",
+        "Recovered earlier selection; USD169.23 listing",
+        169.23,
+        "USD",
+        "Price from indexed supplier listing; direct page403. This is a BODY, not guaranteed complete femaleVCR connection; includeAR06 nut andAR07 gasket. Manufacturer:https://products.swagelok.com/en/c/straights/p/SS-4-WVCR-7-4"
+      ],
+      [
+        "AR06",
+        "VCR female nut",
+        "Swagelok SS-4-VCR-1,1/4inch",
+        1,
+        "Local purchase",
+        "Mumbai instrumentation fittings vendor; https://products.swagelok.com/en/c/female-nuts/p/SS-4-VCR-1",
+        "Planning allowance; local quote pending",
+        1500,
+        "INR",
+        "For inletWVCR body AR05; no second nut charged for completeKF adapter AR04. Remove charge ifAR05 supplied with matchingnut."
+      ],
+      [
+        "AR07",
+        "Fresh VCR metal gaskets",
+        "1/4inch VCR; SS-4-VCR-2-GR reference",
+        2,
+        "Local purchase",
+        "Mumbai vacuum/instrumentation supplier; https://products.swagelok.com/en/c/gaskets/p/SS-4-VCR-2-GR",
+        "Planning allowance INR700each",
+        700,
+        "INR",
+        "Two freshgaskets: one at eachMFC port. Correct sealingface/material; no threadtape onVCR sealingjoint. No sparegaskets budgeted."
+      ],
+      [
+        "AR08",
+        "MFC-side push fitting",
+        "6mmOD tube x1/4inch maleNPT straight",
+        1,
+        "Online purchase",
+        "https://www.amazon.in/dp/B09H4RL894",
+        "Earlier user selection; price unverified allowance",
+        250,
+        "INR",
+        "Recovered from Find a push-fit MFC adapter chat. Currentlisting inaccessible; INR250 planning allowance. Confirm argon/seal/regulatedpressure rating; specifyNPT, notBSP."
+      ],
+      [
+        "AR09",
+        "Regulator outlet to tube adapter",
+        "Actual regulator outlet thread to6mmOD push fitting",
+        1,
+        "Local purchase",
+        "Local IITB regulator supplier / Mumbai fittings vendor",
+        "Planning allowance; thread match by vendor",
+        700,
+        "INR",
+        "Vendor to match suppliedregulator thread/seat and include any intermediaryadapters. Outlet-side regulatedgas only; cylinder-to-regulator connection includedregulator supply. Do not assume regulator hasNPT outlet."
+      ],
+      [
+        "AR10",
+        "Argon supply tubing",
+        "6mmOD PA12 pneumatic tube,3m planning length",
+        3,
+        "Local purchase",
+        "Mumbai pneumatics supplier",
+        "Planning allowance INR150/metre",
+        150,
+        "INR",
+        "Purchase bymetre. Argon-compatible tubing rated above selected regulatedpressure; keep upstream ofMFC. Exact route length totrim onsite."
+      ],
+      [
+        "AR11",
+        "MFC power/setpoint/readout unit",
+        "HORIBA PE-D20; integrated+15/-15V supply and0-5V control",
+        1,
+        "Online purchase",
+        "https://www.ebay.com/itm/174099551751",
+        "Assistant selected; observedUSD195.51 sale",
+        195.51,
+        "USD",
+        "Used listing observedUSD195.51 (regular230.01); recheck atorder. E440J manual explicitly listsPE-D20 andSC-EDH cable. SetFS200sccm; no extra standalonePSU or externalknob charged."
+      ],
+      [
+        "AR12",
+        "MFC interconnection cable",
+        "SC-EDH compatible9-pin cable,2m",
+        1,
+        "Custom vendor order",
+        "Local electronics/instrumentation cable vendor",
+        "Planning allowance; wiring specification pending",
+        2500,
+        "INR",
+        "Pin-to-pin map from exactHORIBA manuals, notgenericDB9 serialcable. MFC pins4 and7 separate returns joined atsource; +15V>=60mA,-15V>=150mA. IncludeM3 mating screws, shield andcontinuitytest. Check PE-D20 includes cable before ordering."
+      ],
+      [
+        "AR13",
+        "MFC support bracket",
+        "Simple localSS bracket and fasteners",
+        1,
+        "Custom vendor order",
+        "Local sheetmetal vendor",
+        "Planning allowance",
+        500,
+        "INR",
+        "SupportMFC independently; do not carry its mass fromKF/VCR joint. ExistingCAD bracketreference; finishholepattern after actualunit measured."
+      ],
+      [
+        "AR14",
+        "NPT thread sealing consumable",
+        "Argon-compatible PTFE tape/sealant forNPT joint",
+        1,
+        "Local purchase",
+        "Local IITB / instrumentation supplier",
+        "Planning allowance",
+        100,
+        "INR",
+        "Use onNPT taperedjoint only, per fittinginstructions. VCRuses freshmetalgaskets; regulator sealingseat per supplier."
+      ]
+    ],
+    "recorded_subtotal_INR": 81934.4,
+    "MFC_selection": {
+      "model": "HORIBA SEC-E440J",
+      "gas": "Ar",
+      "full_scale_sccm": 200,
+      "url": "https://www.ebay.com/itm/206686435579",
+      "price_USD": 318.06,
+      "source": "Latest explicit user selection",
+      "ignition50mTorr": "Not established; separate R02 proposes300sccm fordirectpumping",
+      "control_unit": "HORIBA PE-D20 +SC-EDH-compatible cable"
+    }
+  },
+  "cooling_packages": [
+    {
+      "sheet": "08 Gun water cooling",
+      "rows": [
+        [
+          "GC01",
+          "Refrigerated gun chiller",
+          "TEYU S&A CW-5000TITY or vendor-confirmed equivalent;220-240V50Hz",
+          1,
+          "Local purchase",
+          35000,
+          "Quicksoftpro, Mira Road/Thane; https://www.quicksoftpro.in/cw5000-water-chiller.html",
+          "Planning allowance, not quotation. Local supplier advertisesCW5000 family approx32000 but mixesCW5200 specs; exactunit/brand/pump option must be confirmed. ManufacturerTITY:750W nominal,2.5bar maximum head; nominalflow is not installed gunflow. Require>=500W cooling at actualsetpoint/ambient."
+        ],
+        [
+          "GC02",
+          "External supply/return hoses",
+          "Nonconductive hose, nominal6mmID;4m total",
+          4,
+          "Local purchase",
+          150,
+          "Mumbai industrial hose supplier",
+          "Externalruns only; retain existinggunOD4/ID2.5 hoses and internalfittings in gunBOM. Reduceclose tostem; finalhose lengths andpressure ratings toverify. Nonconductivehose alone does not establish RF/DC isolation."
+        ],
+        [
+          "GC03",
+          "Reducers and service fittings",
+          "Chiller outlet to6mmID hose togun4mmOD tube interfaces; kit",
+          1,
+          "Local purchase",
+          1500,
+          "Mumbai pneumatics/instrumentation supplier",
+          "Kit includes requiredreducers, disconnects andhoseclamps; actualchillerport may be10mmODbarb orfastconnector. No duplicateinternalgunpushfittings."
+        ],
+        [
+          "GC04",
+          "Actual gun-return flow monitor",
+          "Adjustable lowflow switch +visualflow indication,0.1-1L/min class",
+          1,
+          "Local purchase",
+          3500,
+          "Mumbai instrumentation supplier",
+          "Install in actualgunreturn beforebypass merges. Normal target0.5L/min; provisionaltrip0.3L/min, finalthreshold fromthermaltest. Built-inchilleralarm can be satisfied bybypass and is notproof ofgunflow. Sensorhardware only; interlocklogic in electricalsubsystem."
+        ],
+        [
+          "GC05",
+          "Pump bypass and pressure indication",
+          "Adjustable returnbypass/relief +0-4bar gauge; kit",
+          1,
+          "Local purchase",
+          2000,
+          "Mumbai instrumentation supplier",
+          "Set minimumpressure deliveringqualifiedgunflow. Pump2.5barmax is notgungaugepressure rating; qualifygun/O-ringjoint andtubing pressurebefore release. Bypass maintainschiller circulation."
+        ],
+        [
+          "GC06",
+          "Gun temperature sensors",
+          "Inlet/return temperature probes andlocalindicator; pairkit",
+          1,
+          "Local purchase",
+          1500,
+          "Mumbai instrumentation supplier",
+          "Monitor inlet/returntemperature; alarm thresholds established bygunthermaltest. 300W is planninginput, notvalidatedcontinuousgunrating."
+        ],
+        [
+          "GC07",
+          "Initial gun coolant and fill consumables",
+          "Chiller-compatible lowconductivity coolant; initial8L fill",
+          1,
+          "Local purchase",
+          700,
+          "Local labwater / chiller supplier",
+          "Keep gunloopseparate fromgroundedturbo loop. Lowconductivitywater quality andelectricalleakage must be checked foractualpoweredcopperhead; initialfill is notproof ofRF isolation."
+        ],
+        [
+          "GC08",
+          "Gun coolant strainer",
+          "Serviceable fineparticle strainer, lowpressureloss",
+          1,
+          "Local purchase",
+          800,
+          "Mumbai instrumentation supplier",
+          "Protectsmallbore passages; choosemesh andwettedmaterials compatiblewith coolant, verifyinstalledflow withstrainer."
+        ]
+      ],
+      "notes": [
+        "300W conservativewaterheat basis; targetflow0.5L/min givesdeltaT=300/(0.5/60*4180)=8.6C.",
+        "Initialgunsetpoint25C, adjustedabove measureddewpoint+margin andwithinqualifiedgunthermalrange; chillerperformance atactualambient toconfirm.",
+        "ExistingOD4/ID2.5 gunhoses andchannelpressureloss maylimitflow; requirepumpcurve/installedflowtest. Highheadoption is procurementbasis, notvalidatedflow.",
+        "RF/DC electricalisolation, coolantconductivity/leakage,gunpressureleaktest and300Wthermalqualification remainrequired. NoCADport/borechanges made."
+      ],
+      "total": 45600
+    },
+    {
+      "sheet": "09 Turbo water cooling",
+      "rows": [
+        [
+          "TC01",
+          "Refrigerated turbo chiller",
+          "TEYU S&A CW-5000TGTY or vendor-confirmed equivalent;220-240V50Hz",
+          1,
+          "Local purchase",
+          32000,
+          "Quicksoftpro, Mira Road/Thane; https://www.quicksoftpro.in/cw5000-water-chiller.html",
+          "Planningallowance based onlocaladvertisedapprox32000; notvendorquote/GSTconfirmation. ManufacturerTGTY750Wnominal,1barmaxhead. Require>=150W capacity at15C andactualambient; 150W is sizingallowance, notmeasuredpumpheat."
+        ],
+        [
+          "TC02",
+          "Turbo supply/return hose",
+          "Reinforced6mmID coolant hose;4m total",
+          4,
+          "Local purchase",
+          150,
+          "Mumbai industrial hose supplier",
+          "Connectexistingpumpcooler hoseconnections; checkactualusedpump includesusablewatercooler. Chillerconnectors requireadaptation; noassumedthread conversion onpumpstub."
+        ],
+        [
+          "TC03",
+          "Turbo hose adapters/clamps",
+          "Chillerport to6mmID hose adapter/clamp kit",
+          1,
+          "Local purchase",
+          1200,
+          "Mumbai instrumentation supplier",
+          "Includesbarbreducers andhoseclamps forbothends. Usedcoolingblock inspection required; replacementblock is notincluded allowance."
+        ],
+        [
+          "TC04",
+          "Turbo returnflow monitor",
+          "Adjustable lowflow switch +visualindicator,0.1-1L/min class",
+          1,
+          "Local purchase",
+          3500,
+          "Mumbai instrumentation supplier",
+          "Target0.5L/min at15C; configurepermittedflow aboveEdwards minimum0.25L/min withsensor uncertainty margin. Provisionaltrip0.3L/min. Actualpumpbranch sensing, notbypassflow. Interlocklogic/controlledshutdown in electricalsubsystem."
+        ],
+        [
+          "TC05",
+          "Turbo bypass/pressure indication",
+          "Adjustablebypass +0-2bar pressuregauge; kit",
+          1,
+          "Local purchase",
+          1500,
+          "Mumbai instrumentation supplier",
+          "Maintainstablepumpbranchflow withoutdeadheadingchiller. Edwards maximumwaterpressure5barg; selectedchiller1barmaxhead isbelowthis, verifyactualunit."
+        ],
+        [
+          "TC06",
+          "Turbo inlet temperature indicator",
+          "Temperatureprobe andindicator",
+          1,
+          "Local purchase",
+          1000,
+          "Mumbai instrumentation supplier",
+          "Commissionat15C; requirewater within10-20C manufacturer range. Maintaincooling throughrun-down peroperatingsequence."
+        ],
+        [
+          "TC07",
+          "Initial turbo coolant",
+          "Mechanicallyclean water meetingEdwardsTable7;8L initialfill",
+          1,
+          "Local purchase",
+          500,
+          "Local labwater/chiller supplier",
+          "pH6-8,CaCO3<=75ppm,chloride<=100ppm,oxygen<=4ppm peractualIssueK manual. Do notsubstituteuntreatedDIwater andassumecompliance. Avoiddeposits/turbidity."
+        ],
+        [
+          "TC08",
+          "Condensation protection",
+          "Vapoursealed closedcellhoseinsulation anddripmanagementkit",
+          1,
+          "Local purchase",
+          1200,
+          "Mumbai HVACsupplier",
+          "15Cloopmay bebelowMumbaidewpoint. Insulatecoldhoses/coolingblock wherepermitted,keepconnectorsdry,verifydewpointatinstallation. Cannotclaimhoseinsulationaloneprotectsallpumpsurfaces."
+        ]
+      ],
+      "notes": [
+        "EXT70IssueK Table7:10-20C water;minimum15L/h=0.25L/min at15C;maximum5barg. Commissiontarget15C/0.5L/min.",
+        "Separateloopfromgun permitsdifferenttemperature andcoolant/electricalconditions. Onechillerperloop; nootherpumpchillerchargedinVP.",
+        "Manufacturer750Wnominalrating doesnotestablishcapacityat15C/actualroomtemperature; localvendor confirmsperformancebeforeorder.",
+        "Operatingpermissives includehealthyflow/temperature; lossstopsdeposition andtriggersmanufacturer-compatibleturbo shutdown. Electricalcontrollerhardware budgetedlater."
+      ],
+      "total": 41500
+    }
+  ],
+  "internal_coolant_fitting_selection": {
+    "model": "SMC KQG2S04-M5",
+    "qty": 2,
+    "scope": "Mechanical procurement selection only; coolant-in-vacuum suitability unqualified",
+    "CAD_revision_status": "R06 native SolidWorks gun and backplate completed; full-system STEP context updated",
+    "thread": "M5x0.8",
+    "body_OD_mm": 9,
+    "length_mm": 17.1,
+    "installed_projection_mm": 14.1,
+    "hex_mm": 2,
+    "yoke_hole_mm": 14,
+    "nominal_radial_clearance_mm": 2.5,
+    "price_USD_each": 16.1,
+    "rejected_candidate": "User Flipkart4mm x1/4NPT; oversized port and no verified envelope/seals",
+    "manufacturer": "https://ca01.smcworld.com/catalog/en/fitting_tube/KQG2-E/7-9-2-p0397-0414-KQG2_en/data/7-9-2-p0397-0414-KQG2_en.pdf",
+    "CAD_revision_folder": "C:\\Users\\Aryamman\\Documents\\ChatGPT\\sputter\\chamber-design\\coolant-fitting-r06"
+  },
+  "rf_package": {
+    "supplier": "Omicron Scientific Equipment Co., Delhi, India",
+    "procurement_method": "Local purchase",
+    "source": "https://www.omicronscientificequipment.com/radio-frequency-13-56-mhz-products.html",
+    "selection": "13.56 MHz 200 W RF supply and compatible matching network from same supplier",
+    "budget_inr": 235000,
+    "price_basis": "Published supply listing price, provisionally allocated to requested package. Matcher inclusion, cables, GST and delivery need vendor quotation.",
+    "selected_by_user": "2026-11-24",
+    "supersedes": "ENI ACG-10B eBay 388445876920 and separate eBay controller candidates",
+    "external_controls": "Not yet budgeted",
+    "previous_300w_plan": "Supply selection revised to 200 W. Gun CAD unchanged; no claim of RF or thermal qualification."
+  },
+  "electrical_controls": {
+    "rows": [
+      [
+        "EL01",
+        "RF supply and matching network",
+        "13.56 MHz, 200 W Omicron package",
+        1,
+        "Local purchase",
+        235000,
+        "Omicron Scientific Equipment Co., Delhi. Mr Sanjeev Kumar Dixit; website contact +91 8045812082. https://www.omicronscientificequipment.com/contact-us.html",
+        "Published supply price provisionally used for requested supply + matcher package. Confirm matcher, cables, GST and delivery in quote. Source: https://www.omicronscientificequipment.com/radio-frequency-13-56-mhz-products.html"
+      ],
+      [
+        "EL02",
+        "Panel enclosure and mounting hardware",
+        "Metal enclosure, backplate, DIN rail, ducts, glands and ventilation",
+        1,
+        "Custom vendor order",
+        6000,
+        "Elecmec Controls, Bhandup, Mumbai. +91 9821372900; sales@elecmeccontrols.com. https://www.elecmeccontrols.com/",
+        "Planning allowance. Panel vendor supplies hardware; not separately purchased again."
+      ],
+      [
+        "EL03",
+        "Incoming isolation and protection",
+        "Main isolator, branch protection, residual-current protection as appropriate",
+        1,
+        "Local purchase",
+        6000,
+        "Elecmec Controls, Bhandup, Mumbai. +91 9821372900; sales@elecmeccontrols.com. https://www.elecmeccontrols.com/",
+        "Panel-vendor procurement allowance. Ratings depend on final nameplate loads and site supply."
+      ],
+      [
+        "EL04",
+        "Contactors and motor protection",
+        "RF branch contactor, backing-pump starter/overload and auxiliary contacts",
+        1,
+        "Local purchase",
+        6000,
+        "Elecmec Controls, Bhandup, Mumbai. +91 9821372900; sales@elecmeccontrols.com. https://www.elecmeccontrols.com/",
+        "Retain pump anti-suckback hardware already included. Chiller branch switching based on manufacturer requirements."
+      ],
+      [
+        "EL05",
+        "Emergency-stop circuit",
+        "Latching emergency stop, monitored reset and safety relay hardware",
+        1,
+        "Local purchase",
+        7000,
+        "Elecmec Controls, Bhandup, Mumbai. +91 9821372900; sales@elecmeccontrols.com. https://www.elecmeccontrols.com/",
+        "Hardware allowance, no asserted safety performance rating. Reset must not automatically restart RF."
+      ],
+      [
+        "EL06",
+        "Door switch and bracket",
+        "Door-closed interlock switch, actuator and mounting bracket",
+        1,
+        "Local purchase",
+        2000,
+        "Elecmec Controls, Bhandup, Mumbai. +91 9821372900; sales@elecmeccontrols.com. https://www.elecmeccontrols.com/",
+        "Added switch only. Chamber door and mechanical hardware already in CB01."
+      ],
+      [
+        "EL07",
+        "Control power supply",
+        "24 V DC DIN-rail supply for new panel controls",
+        1,
+        "Local purchase",
+        2000,
+        "Elecmec Controls, Bhandup, Mumbai. +91 9821372900; sales@elecmeccontrols.com. https://www.elecmeccontrols.com/",
+        "For controls only. Does not replace the 80 V turbo supply or MFC controller."
+      ],
+      [
+        "EL08",
+        "Sequencing and interface relays",
+        "Small programmable relay/timers, isolation relays and terminals",
+        1,
+        "Local purchase",
+        6000,
+        "Elecmec Controls, Bhandup, Mumbai. +91 9821372900; sales@elecmeccontrols.com. https://www.elecmeccontrols.com/",
+        "RF permit and controlled stop sequencing. Existing flow/temperature sensors retained."
+      ],
+      [
+        "EL09",
+        "Vacuum signal interface allowance",
+        "Gauge relay-output interface or threshold modules",
+        1,
+        "Local purchase",
+        4000,
+        "Elecmec Controls, Bhandup, Mumbai. +91 9821372900; sales@elecmeccontrols.com. https://www.elecmeccontrols.com/",
+        "Interface allowance only. Gauge heads/readouts/cables belong to PG01/PG02. Confirm usable gauge outputs with Alfa."
+      ],
+      [
+        "EL10",
+        "Power and signal wiring",
+        "Wire, shielded signal cable, terminals, equipment connectors and labels",
+        1,
+        "Local purchase",
+        6000,
+        "Elecmec Controls, Bhandup, Mumbai. +91 9821372900; sales@elecmeccontrols.com. https://www.elecmeccontrols.com/",
+        "External installation only. Excludes existing MFC harness and turbo driver harness budgets."
+      ],
+      [
+        "EL11",
+        "Protective earth and RF bonding",
+        "Earth bus, flexible door bond and short wide RF bonding straps",
+        1,
+        "Local purchase",
+        2000,
+        "Elecmec Controls, Bhandup, Mumbai. +91 9821372900; sales@elecmeccontrols.com. https://www.elecmeccontrols.com/",
+        "Bond grounded chamber, matcher and equipment chassis. Keep live cathode electrically isolated."
+      ],
+      [
+        "EL12",
+        "Operator controls and indication",
+        "Start/stop, RF enable, reset, status lamps and fault buzzer",
+        1,
+        "Local purchase",
+        2500,
+        "Elecmec Controls, Bhandup, Mumbai. +91 9821372900; sales@elecmeccontrols.com. https://www.elecmeccontrols.com/",
+        "Simple local panel. No computer, HMI or data-acquisition system assumed."
+      ],
+      [
+        "EL13",
+        "Panel design, assembly and tests",
+        "Schematic, wiring, logic setup, continuity and functional checks",
+        1,
+        "Custom vendor order",
+        12000,
+        "Elecmec Controls, Bhandup, Mumbai. +91 9821372900; sales@elecmeccontrols.com. https://www.elecmeccontrols.com/",
+        "Vendor service allowance. Final wiring design pending actual interfaces; not a released fabrication package."
+      ],
+      [
+        "EL14",
+        "External RF connection allowance",
+        "Generator-to-matcher cable and match-output connectors/adapters",
+        1,
+        "Local purchase",
+        5000,
+        "Omicron Scientific Equipment Co., Delhi. Mr Sanjeev Kumar Dixit; website contact +91 8045812082. https://www.omicronscientificequipment.com/contact-us.html",
+        "Remove/reduce if included in EL01 quote. Gun internal coax already G25. Exact cable type, length and matched-side voltage/current to specify with Omicron."
+      ]
+    ],
+    "budget_inr": 301500,
+    "includes_rf_package": true
+  },
+  "frame_supports": {
+    "rows": [
+      [
+        "FR01",
+        "Fabricated equipment frame",
+        "Braced welded mild-steel frame, powder coated; material/cut/weld/finish included",
+        1,
+        "Custom vendor order",
+        22000,
+        "Unity Fabricators, Thane. +91 9920566939; unityengrs1@gmail.com. https://unityfabricators.com/contact-us/",
+        "Budget concept, final layout/drawing/load checks pending. Includes chamber support and top access. No raw steel charged separately."
+      ],
+      [
+        "FR02",
+        "Equipment shelves and trays",
+        "Formed shelves for RF supply/matcher, controller and mechanical pump",
+        1,
+        "Custom vendor order",
+        8000,
+        "Unity Fabricators, Thane. +91 9920566939; unityengrs1@gmail.com. https://unityfabricators.com/contact-us/",
+        "Allow service access and manufacturer ventilation. Chillers preferably on floor; no enclosure of their airflow."
+      ],
+      [
+        "FR03",
+        "Levelling and vibration pads",
+        "Levelling feet and pump isolation pads, complete set",
+        1,
+        "Local purchase",
+        3000,
+        "Unity Fabricators, Thane. +91 9920566939; unityengrs1@gmail.com. https://unityfabricators.com/contact-us/",
+        "Stationary frame basis. Castors not required for current plan."
+      ],
+      [
+        "FR04",
+        "Equipment mounting brackets",
+        "Turbo restraint, gauge supports and chiller-hose support brackets",
+        1,
+        "Custom vendor order",
+        6000,
+        "Unity Fabricators, Thane. +91 9920566939; unityengrs1@gmail.com. https://unityfabricators.com/contact-us/",
+        "Support the turbo per its manufacturer instructions. Mechanical pump is not supported through hose. No duplicate chamber flange clamps. The existing MFC bracket remains solely in the gas BOM."
+      ],
+      [
+        "FR05",
+        "Cable and hose management",
+        "Rear cable tray, clips, strain relief and hose supports",
+        1,
+        "Local purchase",
+        2000,
+        "Unity Fabricators, Thane. +91 9920566939; unityengrs1@gmail.com. https://unityfabricators.com/contact-us/",
+        "Keep lines clear of door motion and adjustable gun. No duplicate hose or electrical cable purchase."
+      ],
+      [
+        "FR06",
+        "Guards and drip trays",
+        "Removable drip trays and shields around service connections",
+        1,
+        "Custom vendor order",
+        4000,
+        "Unity Fabricators, Thane. +91 9920566939; unityengrs1@gmail.com. https://unityfabricators.com/contact-us/",
+        "Frame accessories only; chamber door/viewport remain in CB01."
+      ]
+    ],
+    "budget_inr": 45000,
+    "design_release_pending": true
+  },
+  "installation_reserves": {
+    "rows": [
+      [
+        "IN01",
+        "Controlled vent connection",
+        "Manual metering vent valve, filter, gauge-branch tee and adapters",
+        1,
+        "Local purchase",
+        4000,
+        "Alfa Technovac, Mumbai. Existing user-known supplier; contact through existing IITB/user procurement channel.",
+        "Use rear gauge-branch tee; retain both right-side spare ports and blank left wall. No roughing bypass/isolation valve added. Vent only under turbo manufacturer permitted stopped/vent sequence; final fitting size by Alfa."
+      ],
+      [
+        "IN02",
+        "Argon line shutoff",
+        "Manual gas shutoff compatible with regulator-to-MFC 6 mm line",
+        1,
+        "Local purchase",
+        1500,
+        "Existing IITB local supplier / stores procurement channel",
+        "Allowance for upstream isolation. Credit if existing regulator/adapter package already provides equivalent isolation."
+      ],
+      [
+        "IN03",
+        "Gun coolant/vacuum leak checks",
+        "Outsourced leak-test service for assembled gun and coolant boundaries",
+        1,
+        "Local purchase",
+        6000,
+        "Alfa Technovac, Mumbai. Existing user-known supplier; contact through existing IITB/user procurement channel.",
+        "Service enquiry candidate; availability/quote unconfirmed. Excludes chamber leak acceptance already within CB01 supplier scope."
+      ],
+      [
+        "IN04",
+        "RF startup and commissioning",
+        "RF output/load check and low-power sputter startup support",
+        1,
+        "Local purchase",
+        10000,
+        "Omicron Scientific Equipment Co., Delhi. Mr Sanjeev Kumar Dixit; website contact +91 8045812082. https://www.omicronscientificequipment.com/contact-us.html",
+        "Service allowance including vendor test equipment, not a purchased dummy load. Credit if package includes commissioning. Gun RF/thermal qualification still required."
+      ],
+      [
+        "IN05",
+        "Spare seals and consumables",
+        "Spare KF/FKM seals, VCR gaskets, fasteners and cleaning supplies",
+        1,
+        "Local purchase",
+        5000,
+        "Alfa Technovac, Mumbai. Existing user-known supplier; contact through existing IITB/user procurement channel.",
+        "Initial spare stock only. Working seals already in component BOM; shutter screw/O-ring/nuts remain already in stock."
+      ],
+      [
+        "IN06",
+        "Assembly tools and handling supplies",
+        "Torque/hex tools, fittings tools, ties and small installation consumables",
+        1,
+        "Local purchase",
+        4000,
+        "Existing IITB local supplier / stores procurement channel",
+        "Initial allowance; use existing IITB tools first and credit unused budget. Excludes major test equipment."
+      ],
+      [
+        "RS01",
+        "Freight and packing reserve",
+        "Consolidated US forwarding, domestic delivery and protective packing",
+        1,
+        "Local purchase",
+        20000,
+        "Existing IITB local supplier / stores procurement channel",
+        "Planning reserve administered via user existing US procurement route and IITB procurement. No ENI 43 kg shipment; Omicron replaces it. Replace reserve with actual quoted freight, not an extra charge on top."
+      ],
+      [
+        "RS02",
+        "Taxes and clearance reserve",
+        "Unconfirmed GST, import taxes, brokerage and clearance",
+        1,
+        "Local purchase",
+        50000,
+        "Existing IITB local supplier / stores procurement channel",
+        "Budget reserve only, not a tax-rate calculation. Apply only amounts absent from line prices; remove overlap with tax-inclusive quotes. No claim of IITB tax exemption."
+      ]
+    ],
+    "installation_inr": 30500,
+    "landed_cost_reserves_inr": 70000
+  },
+  "completion_basis": "Initial-build procurement planning: all known subsystems allocated with supplier or sourcing route. Allowances are not quotes; engineering release and performance qualification not complete.",
+  "total_planning_budget_INR": 1108831.6400000001,
+  "contingency_rate": 0.1,
+  "contingency_INR": 94439.24
+}

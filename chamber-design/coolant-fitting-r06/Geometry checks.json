@@ -1,0 +1,85 @@
+{
+  "fitting_OD_mm": 9,
+  "yoke_hole_mm": 14,
+  "nominal_radial_clearance_mm": 2.5,
+  "fitting_projection_mm": 14.1,
+  "yoke_thickness_mm": 10,
+  "collet_projection_beyond_yoke_mm": 4.1,
+  "parts_changed": "backplate, two fitting bodies/two rings, two hose insertion segments",
+  "raw_interferences": [
+    {
+      "a": "SMC KQG2S04-M5 body 18",
+      "b": "Gun copper backplate R06 M5 coolant ports",
+      "roles": [
+        "gun_fittings",
+        "gun_closure"
+      ],
+      "volume_mm3": 17.34159144781572,
+      "classification": "Expected purchased male thread into modeled tap minor bore"
+    },
+    {
+      "a": "SMC KQG2S04-M5 body -18",
+      "b": "Gun copper backplate R06 M5 coolant ports",
+      "roles": [
+        "gun_fittings",
+        "gun_closure"
+      ],
+      "volume_mm3": 17.341591447815723,
+      "classification": "Expected purchased male thread into modeled tap minor bore"
+    },
+    {
+      "a": "Gun copper backplate R06 M5 coolant ports",
+      "b": "SMC KQG2S04-M5 body 18",
+      "roles": [
+        "gun_closure",
+        "gun_fittings"
+      ],
+      "volume_mm3": 17.34159144781572,
+      "classification": "Expected purchased male thread into modeled tap minor bore"
+    },
+    {
+      "a": "Gun copper backplate R06 M5 coolant ports",
+      "b": "SMC KQG2S04-M5 body -18",
+      "roles": [
+        "gun_closure",
+        "gun_fittings"
+      ],
+      "volume_mm3": 17.34159144781572,
+      "classification": "Expected purchased male thread into modeled tap minor bore"
+    },
+    {
+      "a": "Gun copper backplate R06 M5 coolant ports",
+      "b": "Gun 033 yokebolt",
+      "roles": [
+        "gun_closure",
+        "gun_yokebolt"
+      ],
+      "volume_mm3": 22.83727581892109,
+      "classification": "Pre-existing nominal thread envelope overlap"
+    },
+    {
+      "a": "Gun copper backplate R06 M5 coolant ports",
+      "b": "Gun 135 rfhot",
+      "roles": [
+        "gun_closure",
+        "gun_rfhot"
+      ],
+      "volume_mm3": 25.811385686136724,
+      "classification": "Pre-existing nominal thread envelope overlap"
+    }
+  ],
+  "new_nonthread_interferences": 0,
+  "hose_bend_radius": "Retained fromR05; material/supplier limit not qualified",
+  "backplate_port_change": {
+    "old_counterbore_diameter_mm": 7.95,
+    "new_tap_drill_diameter_mm": 4.2,
+    "new_flow_passage_diameter_mm": 3,
+    "thread": "M5x0.8-6H",
+    "full_thread_depth_mm": 4,
+    "tap_drill_depth_mm": 5,
+    "port_centres_x_mm": [
+      -18,
+      18
+    ]
+  }
+}

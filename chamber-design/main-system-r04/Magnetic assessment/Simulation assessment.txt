@@ -1,0 +1,145 @@
+MAGNETIC CIRCUIT SIMULATION - CONFINEMENT ASSESSMENT
+23 November 2026
+
+RESULT
+The proposed twelve-stack circuit has ample predicted field strength to
+magnetize electrons near the target. At0.25mm above the assumed2mm target,
+the candidate racetrack has a mean parallel field of95.1mT and a weakest
+point of89.5mT. This is positive magnetic-strength
+screening, not proof that a specified discharge will ignite or operate well.
+The copper/target spacing does not appear to make the field too weak.
+
+WHAT WAS ACTUALLY SIMULATED
+Three-dimensional nonlinear magnetostatics using tetrahedral finite elements.
+The actual proposed yoke STEP, including fitting and screw-clearance holes,
+was imported. The26 axially magnetized discs are represented by13 contiguous
+cylinders: two touching discs with the same polarity are equivalent here to
+one20mm-long cylinder; small coating/interface gaps are neglected.
+
+Outer magnets:12 D6x20 stacks on PCD58, S toward target.
+Center: D20x20, N toward target.
+Nominal N42 remanence1.30T, recoil relative permeability1.05, temperature20C.
+Target:D50.8x2, nonmagnetic. Pole tips are4.5mm behind the front face.
+Copper, water, air and insulation are approximated with relative permeability1.
+Their static magnetic effect is therefore their spacing, not shielding.
+Surrounding ferromagnetic chamber components, if any, are not included.
+
+Yoke: a published reference AISI1010 nonlinear B-H curve, reproduced by
+QuickField from CERN DIRAC note2012-02. The actual steel grade/heat treatment
+has not been specified. H-values were scaled by0.5 and2 as sensitivity cases.
+These are assumptions about steel, not measurements of the proposed part.
+
+MODEL AND SOLVER
+Magnetic scalar potential, no free currents:
+  B = -mu_r grad(u) + Br, where u = mu0 * magnetic scalar potential.
+  Integral(mu_r grad(u).grad(v)) = Integral(Br.grad(v)).
+Coordinates use millimetres and u in tesla-millimetres.
+Simulation(x,y,z) = CAD(x,-z,y); target front is z=2mm.
+Piecewise-linear tetrahedra, Newton iteration with line search and the
+differential B-H Jacobian; algebraic-multigrid-preconditioned conjugate gradient.
+Scalar potential is zero on the enclosing air-box boundary.
+Air-side element fields are volume-projected to nodes for field sampling.
+The trajectory lines integrate the resulting static B direction. Animated
+markers are direction indicators, not simulated plasma electrons.
+
+NUMERICAL VERIFICATION
+Nominal refined mesh:114,336 vertices,708,128 tetrahedra.
+Air box extends +/-80mm in each direction; checked with +/-120mm at coarse size.
+Near-circuit nominal mesh size1.2mm; coarse size1.8mm.
+Final nonlinear residual:1.68e-10 relative to source.
+Refining the mesh changed ring mean field by0.44%.
+Larger-domain/remeshing check changed coarse ring mean by0.11%.
+Independent analytical comparison: same magnets in free space, unit
+permeability everywhere, compared with Magpylib analytical cylinder fields at
+9,600 points. Refined vector L2 error:2.33%.
+Pointwise relative error95th percentile:3.67%.
+This is solver verification, not experimental validation of the steel circuit.
+These differences are not certified uncertainty bars for the real hardware.
+
+FIELD RESULTS AT0.25mm ABOVE TARGET
+Continuous Bnormal=0 contour found at all360 sampled angles.
+Mean contour radius:19.99mm.
+Radius range:19.73..20.25mm.
+Minimum distance to target edge:5.15mm.
+Parallel field along contour:89.5..99.5mT.
+Peak-to-peak field variation / mean:10.6%.
+This is a candidate magnetic racetrack, not a simulated erosion profile.
+Field nonuniformity is not equivalent to deposition-thickness nonuniformity.
+
+YOKE
+Volume-weighted mean B:0.30T.
+Element B99th percentile:1.12T.
+Maximum element B:1.42T, sensitive to sharp-edge meshing.
+No extensive high-field saturation region was predicted with the assumed curve.
+Halving/doubling the reference H values changed the coarse ring mean by
+0.005% / -0.010%.
+This sensitivity does not cover every possible steel, especially nonmagnetic
+stainless steel, hysteresis, or a wrong/missing yoke.
+
+ELECTRON MAGNETIZATION
+For perpendicular electron energy Eperp:
+  electron gyroradius = sqrt(2*me*Eperp)/(e*B).
+Using the weakest ring field gives conservative local values:
+10eV:0.119mm.
+100eV:0.377mm.
+The local gyro-orbits are small compared with the millimetre-scale field
+structure. This supports local magnetization. It does not prevent parallel
+losses or establish confinement time. No plasma temperature is inferred from
+these illustrative electron energies.
+
+IS THAT GOOD ENOUGH?
+For the magnetic-strength question: the model is encouraging. It does not
+indicate that the nominal4.5mm spacing leaves inadequate field.
+The often cited20-50mT near-target range is context, not a universal cutoff.
+This candidate is stronger, which can affect ignition, discharge voltage and
+erosion. More magnetic field is not automatically a better sputter source.
+
+For overall gun operation: not established. No operating gas pressure, RF
+sheath, electron energy distribution, plasma density or secondary emission
+has been solved. Ignition and sustaining conditions cannot be certified from
+magnetic strength alone. A full kinetic plasma simulation would require those
+inputs and should be checked against an actual discharge.
+
+BALANCE IS A SEPARATE QUESTION
+The mechanical proposal was called a balanced candidate because its nominal
+outer/center pole-area ratio is1.08. That alone does not establish balance.
+This simulation resolves the near-target field and candidate confinement ring.
+No axis Bz reversal was found in the sampled nominal region up to68mm above
+the target, but that is not proof of exact balance. A local closed racetrack
+exists in unbalanced magnetrons too.
+Do not treat this work as certification of balanced topology. A reliable
+effective pole-flux/leakage assessment needs additional pole-face refinement
+and a defined balance measure; this mesh was verified for the target-region
+field, not tiny-offset flux integrals over individual6mm pole faces.
+
+SPACING SENSITIVITY (NONMAGNETIC TARGET ONLY)
+Target 1mm; pole-to-face 3.5mm: ring mean 104.2mT, minimum 99.9mT.
+Target 2mm; pole-to-face 4.5mm: ring mean 95.1mT, minimum 89.5mT.
+Target 3mm; pole-to-face 5.5mm: ring mean 87.7mT, minimum 84.2mT.
+Target 5mm; pole-to-face 7.5mm: ring mean 71.4mT, minimum 69.1mT.
+
+RECOMMENDED NEXT CHECK
+Map the assembled cold field with a calibrated Hall probe at known heights
+above the actual target, for example1,3 and5mm. Compare the measured normal
+and parallel components with the model before deciding whether to alter
+magnet strength, pole spacing or copper thickness. Then establish ignition,
+stability, target erosion and temperatures over the intended operating range.
+
+SOURCES
+Magnetostatic scalar-potential formulation for magnetron circuits:
+https://simulation.ist.fraunhofer.de/bfield_howto/
+Reference AISI1010 B-H table and its CERN source attribution:
+https://quickfield.com/glossary/soft_steel.htm
+N42 magnetic material reference:
+https://www.arnoldmagnetics.com/products/neodymium-iron-boron-magnets/
+Typical magnetron magnetic-field context:
+https://doi.org/10.1088/1361-6595/AC7F53
+
+FILES
+Magnetic circuit simulation - confinement assessment.mp4: narrated results.
+Assessment results.json: numerical results and checks.
+Target field map.png / Field section.png / Racetrack uniformity.png /
+Field versus height.png: standalone scientific figures.
+fine_nominal_field.npz: mesh, potential, element B, projected air B and materials.
+The code and material assumptions are supplied for reproducibility.
+No mechanical CAD has been changed by this simulation task.

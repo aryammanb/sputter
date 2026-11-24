@@ -1,0 +1,22 @@
+,,,,,,,,,
+12 Installation and reserves,,,,,,,,,
+,,,,,,,,,
+"Allowances as at 24 Nov 2026. Contacts are sourcing candidates, not quotations or confirmed orders. Vendor supplies the listed components as one coordinated package where practical.",,,,,,,,,
+,,,,,Budget (INR),,,30500,
+,,,,,Freight and tax reserves,,,70000,
+,,,,,,,,,
+,,,,,,,,,
+ID,Component / service,Scope,Qty,Procurement method,Contact / sourcing route,Status,Unit INR,Line INR,Price basis / exclusions
+IN01,Controlled vent connection,"Manual metering vent valve, filter, gauge-branch tee and adapters",1,Local purchase,"Alfa Technovac, Mumbai. Existing user-known supplier; contact through existing IITB/user procurement channel.",Planning allowance,4000,4000,Use rear gauge-branch tee; retain both right-side spare ports and blank left wall. No roughing bypass/isolation valve added. Vent only under turbo manufacturer permitted stopped/vent sequence; final fitting size by Alfa.
+IN02,Argon line shutoff,Manual gas shutoff compatible with regulator-to-MFC 6 mm line,1,Local purchase,Existing IITB local supplier / stores procurement channel,Planning allowance,1500,1500,Allowance for upstream isolation. Credit if existing regulator/adapter package already provides equivalent isolation.
+IN03,Gun coolant/vacuum leak checks,Outsourced leak-test service for assembled gun and coolant boundaries,1,Local purchase,"Alfa Technovac, Mumbai. Existing user-known supplier; contact through existing IITB/user procurement channel.",Planning allowance,6000,6000,Service enquiry candidate; availability/quote unconfirmed. Excludes chamber leak acceptance already within CB01 supplier scope.
+IN04,RF startup and commissioning,RF output/load check and low-power sputter startup support,1,Local purchase,"Omicron Scientific Equipment Co., Delhi. Mr Sanjeev Kumar Dixit; website contact +91 8045812082. https://www.omicronscientificequipment.com/contact-us.html",Planning allowance,10000,10000,"Service allowance including vendor test equipment, not a purchased dummy load. Credit if package includes commissioning. Gun RF/thermal qualification still required."
+IN05,Spare seals and consumables,"Spare KF/FKM seals, VCR gaskets, fasteners and cleaning supplies",1,Local purchase,"Alfa Technovac, Mumbai. Existing user-known supplier; contact through existing IITB/user procurement channel.",Planning allowance,5000,5000,Initial spare stock only. Working seals already in component BOM; shutter screw/O-ring/nuts remain already in stock.
+IN06,Assembly tools and handling supplies,"Torque/hex tools, fittings tools, ties and small installation consumables",1,Local purchase,Existing IITB local supplier / stores procurement channel,Planning allowance,4000,4000,Initial allowance; use existing IITB tools first and credit unused budget. Excludes major test equipment.
+RS01,Freight and packing reserve,"Consolidated US forwarding, domestic delivery and protective packing",1,Local purchase,Existing IITB local supplier / stores procurement channel,Planning allowance,20000,20000,"Planning reserve administered via user existing US procurement route and IITB procurement. No ENI 43 kg shipment; Omicron replaces it. Replace reserve with actual quoted freight, not an extra charge on top."
+RS02,Taxes and clearance reserve,"Unconfirmed GST, import taxes, brokerage and clearance",1,Local purchase,Existing IITB local supplier / stores procurement channel,Planning allowance,50000,50000,"Budget reserve only, not a tax-rate calculation. Apply only amounts absent from line prices; remove overlap with tax-inclusive quotes. No claim of IITB tax exemption."
+,,,,,,,,,
+,,,,,,,,,
+Freight and taxes are separate reserves and excluded from the procurement subtotal. Their actual bills replace these reserves.,,,,,,,,,
+"Initial build scope includes manual substrate stage/shutter, two chillers and 200 W RF. No shutter actuator, computer/DAQ, substrate heater or second backing pump is required for this scope.",,,,,,,,,
+"Initial cylinder and regulator already in gas BOM. Recurring argon refills, electricity, replacement targets and future upgrades are operating costs, excluded from this initial capital budget.",,,,,,,,,

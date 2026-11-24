@@ -1,0 +1,25 @@
+{
+  "firstRender": {
+    "ready": "true",
+    "section": "true",
+    "context": "false"
+  },
+  "dragRotation": "pass, rendered pixels changed",
+  "wheelZoom": "pass, rendered pixels changed",
+  "contextToggle": {
+    "ready": "true",
+    "section": "true",
+    "context": "true"
+  },
+  "sectionToggle": {
+    "ready": "true",
+    "section": "false",
+    "context": "true"
+  },
+  "narrow": {
+    "width": 328,
+    "scroll": 328,
+    "canvas": 328
+  },
+  "uncaughtJavaScriptErrors": 0
+}

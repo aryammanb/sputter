@@ -1,0 +1,27 @@
+open errors=0 warnings=128 top=9 instances=84 parts=75 missing files=0
+Integral seat/channel solid volume=26796.709 mm3
+Interferences=23
+12.959 mm3 R09 20 Power path and ceramic head mounting-1/R09 204 Grounded head carrier keeper-1 | R09 20 Power path and ceramic head mounting-1/R09 207 Ground keeper M3 screw-1
+12.959 mm3 R09 20 Power path and ceramic head mounting-1/R09 204 Grounded head carrier keeper-1 | R09 20 Power path and ceramic head mounting-1/R09 207 Ground keeper M3 screw-3
+12.959 mm3 R09 10 Mount and stem weldment-1/R09 101 NW100 plate with power enclosure mounting-1 | R09 60 Power termination guard-1/R09 606 Guard mounting M3 screw-3
+12.959 mm3 R09 20 Power path and ceramic head mounting-1/R09 204 Grounded head carrier keeper-1 | R09 20 Power path and ceramic head mounting-1/R09 207 Ground keeper M3 screw-2
+12.959 mm3 R09 10 Mount and stem weldment-1/R09 101 NW100 plate with power enclosure mounting-1 | R09 60 Power termination guard-1/R09 606 Guard mounting M3 screw-4
+12.959 mm3 R09 10 Mount and stem weldment-1/R09 101 NW100 plate with power enclosure mounting-1 | R09 60 Power termination guard-1/R09 606 Guard mounting M3 screw-1
+12.959 mm3 R09 10 Mount and stem weldment-1/R09 101 NW100 plate with power enclosure mounting-1 | R09 60 Power termination guard-1/R09 606 Guard mounting M3 screw-2
+10.799 mm3 R09 30 Rear magnet pack-1/R09 304 Steel yoke-1 | R09 20 Power path and ceramic head mounting-1/R09 205 Live ceramic retention M3 screw-1
+10.799 mm3 R09 30 Rear magnet pack-1/R09 304 Steel yoke-1 | R09 20 Power path and ceramic head mounting-1/R09 205 Live ceramic retention M3 screw-3
+10.799 mm3 R09 60 Power termination guard-1/R09 601 Grounded power guard shell-1 | R09 60 Power termination guard-1/R09 607 Guard cover M3 screw-2
+10.799 mm3 R09 60 Power termination guard-1/R09 601 Grounded power guard shell-1 | R09 60 Power termination guard-1/R09 607 Guard cover M3 screw-1
+10.799 mm3 R09 60 Power termination guard-1/R09 601 Grounded power guard shell-1 | R09 60 Power termination guard-1/R09 607 Guard cover M3 screw-3
+10.799 mm3 R09 60 Power termination guard-1/R09 601 Grounded power guard shell-1 | R09 60 Power termination guard-1/R09 607 Guard cover M3 screw-4
+10.799 mm3 R09 30 Rear magnet pack-1/R09 304 Steel yoke-1 | R09 20 Power path and ceramic head mounting-1/R09 205 Live ceramic retention M3 screw-2
+8.207 mm3 R09 31 Copper cooling head layout-1/R09 308 Integral copper target seat and channel-1 | R09 31 Copper cooling head layout-1/R09 309 Head attachment screw envelope-3
+8.207 mm3 R09 31 Copper cooling head layout-1/R09 308 Integral copper target seat and channel-1 | R09 31 Copper cooling head layout-1/R09 309 Head attachment screw envelope-1
+8.207 mm3 R09 31 Copper cooling head layout-1/R09 308 Integral copper target seat and channel-1 | R09 31 Copper cooling head layout-1/R09 309 Head attachment screw envelope-2
+7.991 mm3 R09 10 Mount and stem weldment-1/R09 502 Grounded shield seat-1 | R09 50 Removable grounded shield-1/R09 503 Shield screw envelope-3
+7.991 mm3 R09 10 Mount and stem weldment-1/R09 502 Grounded shield seat-1 | R09 50 Removable grounded shield-1/R09 503 Shield screw envelope-2
+7.991 mm3 R09 10 Mount and stem weldment-1/R09 502 Grounded shield seat-1 | R09 50 Removable grounded shield-1/R09 503 Shield screw envelope-1
+6.912 mm3 R09 31 Copper cooling head layout-1/R09 308 Integral copper target seat and channel-1 | R09 40 Target and clamp-1/R09 403 Target clamp screw envelope-1
+6.912 mm3 R09 31 Copper cooling head layout-1/R09 308 Integral copper target seat and channel-1 | R09 40 Target and clamp-1/R09 403 Target clamp screw envelope-2
+6.912 mm3 R09 31 Copper cooling head layout-1/R09 308 Integral copper target seat and channel-1 | R09 40 Target and clamp-1/R09 403 Target clamp screw envelope-3
+PASS: 23 expected thread envelopes; no other reported volumetric interference

@@ -1,0 +1,12 @@
+# Preserve source bytes and manifest hashes across platforms.
+* -text
+*.step binary
+*.SLDPRT binary
+*.SLDASM binary
+*.mp4 binary
+*.png binary
+*.npz binary
+*.zip binary
+*.xlsx binary
+*.stl binary
+*.STEP binary

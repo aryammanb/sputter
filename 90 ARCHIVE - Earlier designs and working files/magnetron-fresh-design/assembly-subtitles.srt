@@ -1,0 +1,147 @@
+1
+00:00:00,500 --> 00:00:02,758
+Here are our two actual CAD parts.
+
+2
+00:00:02,758 --> 00:00:05,812
+Orange is the cooling body; teal is the cover.
+
+3
+00:00:05,812 --> 00:00:06,874
+Both are copper.
+
+4
+00:00:06,874 --> 00:00:10,194
+The cover approaches the channel side of the body.
+
+5
+00:00:10,194 --> 00:00:17,033
+We will inspect the mating features, show the seal locations, align the parts, and bring them together.
+
+6
+00:00:18,633 --> 00:00:22,241
+First, turn the cover over so both mating faces are visible.
+
+7
+00:00:22,241 --> 00:00:26,270
+The body carries the water channel and two circular O ring grooves.
+
+8
+00:00:26,270 --> 00:00:31,081
+The cover has two water holes and a short pocket for the proposed divider strip.
+
+9
+00:00:31,081 --> 00:00:36,433
+This flipped position is only for inspection; the cover must rotate back before assembly.
+
+10
+00:00:38,033 --> 00:00:41,563
+The green traces mark the inner and outer O ring positions.
+
+11
+00:00:41,563 --> 00:00:45,093
+They separate the wet annular region from its surroundings.
+
+12
+00:00:45,093 --> 00:00:48,503
+The gold trace marks the proposed internal divider strip.
+
+13
+00:00:48,503 --> 00:00:51,495
+Its job is to reduce the inlet to outlet shortcut.
+
+14
+00:00:51,495 --> 00:00:56,700
+These are seal location graphics, not finished seal models or a compression simulation.
+
+15
+00:00:58,300 --> 00:01:03,949
+Now rotate the cover into its installation orientation, with the fitting bosses pointing rearward.
+
+16
+00:01:03,949 --> 00:01:08,503
+The guide lines connect each cover water hole to the corresponding channel end.
+
+17
+00:01:08,503 --> 00:01:12,595
+The six clearance holes must align with the body's six receiving holes.
+
+18
+00:01:12,595 --> 00:01:15,996
+The divider pocket must also face the solid channel bridge.
+
+19
+00:01:15,996 --> 00:01:19,167
+Matching the circular bolt pattern alone is not enough.
+
+20
+00:01:20,767 --> 00:01:25,461
+Slide the cover straight toward the body without twisting the seals out of position.
+
+21
+00:01:25,461 --> 00:01:29,262
+At zero gap, the flat metal lands meet at their shared mating plane.
+
+22
+00:01:29,262 --> 00:01:37,198
+The circular grooves remain one point five millimetres deep for the proposed two millimetre rings, giving twenty five percent nominal squeeze.
+
+23
+00:01:37,198 --> 00:01:41,167
+Actual seal compression and cover stiffness still require verification.
+
+24
+00:01:42,767 --> 00:01:49,751
+Six screws enter from the rear, pass through the cover clearance holes, and engage the intended M three threads in the body.
+
+25
+00:01:49,751 --> 00:01:54,087
+The highlighted circles show their locations; actual screws are not included.
+
+26
+00:01:54,087 --> 00:01:58,706
+Tightening should be developed in opposing steps with a validated load and torque.
+
+27
+00:01:58,706 --> 00:02:02,367
+The cover screws are separate from the front target clamp screws.
+
+28
+00:02:03,967 --> 00:02:08,641
+With the cover hidden for this internal view, follow the intended water route.
+
+29
+00:02:08,641 --> 00:02:16,311
+Water passes through one boss and cover hole, travels around the C shaped channel, then returns through the other hole and boss.
+
+30
+00:02:16,311 --> 00:02:19,427
+The bridge and proposed strip discourage a shortcut.
+
+31
+00:02:19,427 --> 00:02:22,783
+The moving dots are explanatory, not a fluid simulation.
+
+32
+00:02:22,783 --> 00:02:25,300
+Bypass and pressure loss must be measured.
+
+33
+00:02:26,900 --> 00:02:28,368
+This is the fitted pair.
+
+34
+00:02:28,368 --> 00:02:34,668
+The flat front face supports the future target, while the cover remains attached during target changes.
+
+35
+00:02:34,668 --> 00:02:41,335
+The plates together are ten millimetres thick, with the bosses projecting another eight millimetres rearward.
+
+36
+00:02:41,335 --> 00:02:45,066
+This is a nominal CAD fit, not a pressure qualified assembly.
+
+37
+00:02:45,066 --> 00:02:51,367
+Fittings, seals, fasteners, and the surrounding vacuum and electrical insulation still need completion.

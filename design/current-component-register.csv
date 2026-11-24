@@ -1,0 +1,340 @@
+instance,group,role,source_name,solid_count,valid,volume_mm3,note
+1,gun,gun_outermag,Gun 001 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-10 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+2,gun,gun_outermag,Gun 002 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-10 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+3,gun,gun_outermag,Gun 003 outermag,1,True,282.7433388230814,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-6 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+4,gun,gun_outermag,Gun 004 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-6 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+5,gun,gun_backbolts,Gun 005 backbolts,1,True,175.7359151067943,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-6 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+6,gun,gun_backbolts,Gun 006 backbolts,1,True,175.73591510679427,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-8 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+7,gun,gun_backbolts,Gun 007 backbolts,1,True,175.7359151067943,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-9 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+8,gun,gun_outermag,Gun 008 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-5 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+9,gun,gun_outermag,Gun 009 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-5 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+10,gun,gun_outermag,Gun 010 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-7 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+11,gun,gun_outermag,Gun 011 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-7 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+12,gun,gun_backbolts,Gun 012 backbolts,1,True,175.73591510679424,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-4 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+13,gun,gun_outermag,Gun 013 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-9 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+14,gun,gun_outermag,Gun 014 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-9 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+15,gun,gun_backbolts,Gun 015 backbolts,1,True,175.73591510679424,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-5 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+16,gun,gun_backbolts,Gun 016 backbolts,1,True,175.73591510679427,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-7 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+17,gun,gun_outermag,Gun 017 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-8 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+18,gun,gun_outermag,Gun 018 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-8 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+19,gun,gun_backbolts,Gun 019 backbolts,1,True,175.73591510679432,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-10 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+20,gun,gun_fittings,SMC KQG2S04-M5 body 18,1,True,1584.5565026176894,"Purchased fitting envelope: OD9, overall17.1, above-seat14.1, M5x0.8, internal2mmhex. External dimensions fromSMC; hidden internal valve/seal details not manufacturer CAD. Assembly gasket compression atseat is represented, notqualified."
+21,gun,gun_outermag,Gun 021 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-12 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+22,gun,gun_outermag,Gun 022 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-12 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+23,gun,gun_fittings,SMC KQG2S04-M5 body -18,1,True,1584.5565026176896,"Purchased fitting envelope: OD9, overall17.1, above-seat14.1, M5x0.8, internal2mmhex. External dimensions fromSMC; hidden internal valve/seal details not manufacturer CAD. Assembly gasket compression atseat is represented, notqualified."
+24,gun,gun_outermag,Gun 024 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-11 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+25,gun,gun_outermag,Gun 025 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-11 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+26,gun,gun_backbolts,Gun 026 backbolts,1,True,175.73591510677744,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-12 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+27,gun,gun_fittings,SMC KQG2S04-M5 release ring 18,1,True,72.64933011426714,"Purchased fitting envelope: OD9, overall17.1, above-seat14.1, M5x0.8, internal2mmhex. External dimensions fromSMC; hidden internal valve/seal details not manufacturer CAD. Assembly gasket compression atseat is represented, notqualified."
+28,gun,gun_backbolts,Gun 028 backbolts,1,True,175.73591510677738,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-11 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+29,gun,gun_fittings,SMC KQG2S04-M5 release ring -18,1,True,72.64933011426714,"Purchased fitting envelope: OD9, overall17.1, above-seat14.1, M5x0.8, internal2mmhex. External dimensions fromSMC; hidden internal valve/seal details not manufacturer CAD. Assembly gasket compression atseat is represented, notqualified."
+30,gun,gun_waterseal,Gun 030 waterseal,1,True,452.5213617901026,01 Original cathode cooling and magnets-1/AT O-ring ID35x2 installed-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+31,gun,gun_outermag,Gun 031 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-1 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+32,gun,gun_outermag,Gun 032 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-1 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+33,gun,gun_yokebolt,Gun 033 yokebolt,1,True,263.33889367841994,01 Original cathode cooling and magnets-1/AT M4x10 socket-head study-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+34,gun,gun_waterseal,Gun 034 waterseal,1,True,255.1292737682475,01 Original cathode cooling and magnets-1/AT O-ring ID14p5x2 installed-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+35,gun,gun_cooler,Gun 035 cooler,1,True,53057.72587446169,01 Original cathode cooling and magnets-1/Kuehlkoerper-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+36,gun,gun_closure,Gun copper backplate R06 M5 coolant ports,1,True,39902.66819213189,"Two M5x0.8 gasket-sealed ports at X+/-18. Native SolidWorks features: D3 flow passage through; D4.2 tap drill5mm; M5x0.8 full thread4mm callout. OldD7.95 counterbores removed. Tapped thread represented by minor bore, not helical teeth."
+37,gun,gun_yoke,Gun 037 yoke,1,True,36216.53191237616,01 Original cathode cooling and magnets-1/Magnet Joke-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+38,gun,gun_centermag,Gun 038 centermag,1,True,3141.5926535897934,01 Original cathode cooling and magnets-1/AT center magnet D12x10 N45-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+39,gun,gun_backbolts,Gun 039 backbolts,1,True,175.73591510677733,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+40,gun,gun_centermag,Gun 040 centermag,1,True,3141.5926535897934,01 Original cathode cooling and magnets-1/AT center magnet D12x10 N45-2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+41,gun,gun_backbolts,Gun 041 backbolts,1,True,175.73591510679424,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-3 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+42,gun,gun_outermag,Gun 042 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-3 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+43,gun,gun_outermag,Gun 043 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-3 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+44,gun,gun_outermag,Gun 044 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-4 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+45,gun,gun_outermag,Gun 045 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-4 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+46,gun,gun_backbolts,Gun 046 backbolts,1,True,175.73591510677744,01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+47,gun,gun_outermag,Gun 047 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-2 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+48,gun,gun_outermag,Gun 048 outermag,1,True,282.74333882308144,01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-2 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+49,gun,gun_headbolts,Gun 049 headbolts,1,True,310.03900104776204,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+50,gun,gun_headbolts,Gun 050 headbolts,1,True,310.039001047756,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-6 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+51,gun,gun_headbolts,Gun 051 headbolts,1,True,310.03900104775545,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-9 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+52,gun,gun_headbolts,Gun 052 headbolts,1,True,310.0390010477554,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-3 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+53,gun,gun_headbolts,Gun 053 headbolts,1,True,310.0390010477389,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-11 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+54,gun,gun_headbolts,Gun 054 headbolts,1,True,310.0390010477623,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-12 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+55,gun,gun_headseal,Gun 055 headseal,1,True,769.8293103310626,02 Original spacer and copper attachment-1/AT O-ring ID76x2 installed-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+56,gun,gun_headbolts,Gun 056 headbolts,1,True,310.0390010477559,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-7 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+57,gun,gun_headbolts,Gun 057 headbolts,1,True,310.0390010477555,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-4 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+58,gun,gun_headbolts,Gun 058 headbolts,1,True,310.03900104773896,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+59,gun,gun_spacer,Gun 059 spacer,1,True,87824.45281909073,02 Original spacer and copper attachment-1/Abstandshalter-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+60,gun,gun_headbolts,Gun 060 headbolts,1,True,310.03900104775585,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-5 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+61,gun,gun_headbolts,Gun 061 headbolts,1,True,310.03900104775545,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-8 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+62,gun,gun_headbolts,Gun 062 headbolts,1,True,310.039001047762,02 Original spacer and copper attachment-1/AT M3x35 socket-head study-10 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+63,gun,gun_hoses,Gun 063 hoses,1,True,2111.9997170295946,"4mmOD/2.5mmID coolant tube extended toY-24.0, giving12.6mm nominal insertion fromcolletY-36.6. Existing bend retained; supplier tubing bend-radius qualification remainspending."
+64,gun,gun_hoses,Gun 064 hoses,1,True,2111.998306370417,"4mmOD/2.5mmID coolant tube extended toY-24.0, giving12.6mm nominal insertion fromcolletY-36.6. Existing bend retained; supplier tubing bend-radius qualification remainspending."
+65,gun,gun_kfclamps,Gun 065 kfclamps,1,True,15059.332796476527,06 Original clamp and reference KF16 tube-1/AT original flange clamp half-2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+66,gun,gun_kfclamps,Gun 066 kfclamps,1,True,15059.332796475,06 Original clamp and reference KF16 tube-1/AT original flange clamp half-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+67,gun,gun_kfbolts,Gun 067 kfbolts,1,True,640.9516772191429,06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+68,gun,gun_kfbolts,Gun 068 kfbolts,1,True,640.9516772190666,06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-4 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+69,gun,gun_kfbolts,Gun 069 kfbolts,1,True,640.9516772190668,06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-5 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+70,gun,gun_kfcenter,Gun 070 kfcenter,1,True,317.3008580125831,06 Original clamp and reference KF16 tube-1/REF KF16 centering ring fitted-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+71,gun,gun_kfbolts,Gun 071 kfbolts,1,True,640.9516772191427,06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-6 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+72,gun,gun_kfseal,Gun 072 kfseal,1,True,1418.7559405149104,06 Original clamp and reference KF16 tube-1/REF KF16 O-ring installed envelope-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+73,gun,gun_kfbolts,Gun 073 kfbolts,1,True,640.9516772190666,06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-3 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+74,gun,gun_kfbolts,Gun 074 kfbolts,1,True,640.9516772190666,06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+75,gun,gun_cups,Gun 075 cups,1,True,1287.3579105972226,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-11 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+76,gun,gun_basebolts,Gun 076 basebolts,1,True,310.03900104773896,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-11 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+77,gun,gun_basebolts,Gun 077 basebolts,1,True,310.03900104776903,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-10 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+78,gun,gun_cups,Gun 078 cups,1,True,1287.3579105972224,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-12 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+79,gun,gun_basebolts,Gun 079 basebolts,1,True,310.03900104776255,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-12 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+80,gun,gun_cups,Gun 080 cups,1,True,1287.357910597222,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-4 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+81,gun,gun_basebolts,Gun 081 basebolts,1,True,310.03900104775596,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-7 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+82,gun,gun_cups,Gun 082 cups,1,True,1287.3579105972221,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-5 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+83,gun,gun_basebolts,Gun 083 basebolts,1,True,310.0390010477554,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-9 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+84,gun,gun_cups,Gun 084 cups,1,True,1287.357910597222,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-6 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+85,gun,gun_cups,Gun 085 cups,1,True,1287.357910597222,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-10 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+86,gun,gun_cups,Gun 086 cups,1,True,1287.3579105972221,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-8 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+87,gun,gun_basebolts,Gun 087 basebolts,1,True,310.0390010477554,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-4 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+88,gun,gun_basebolts,Gun 088 basebolts,1,True,310.03900104776903,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-3 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+89,gun,gun_basebolts,Gun 089 basebolts,1,True,310.03900104775596,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-5 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+90,gun,gun_basebolts,Gun 090 basebolts,1,True,310.0390010477561,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-6 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+91,gun,gun_cups,Gun 091 cups,1,True,1287.3579105972224,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-7 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+92,gun,gun_basebolts,Gun 092 basebolts,1,True,310.03900104775596,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-8 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+93,gun,gun_cups,Gun 093 cups,1,True,1287.357910597222,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-9 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+94,gun,gun_isolator,Gun 094 isolator,1,True,28747.64754049702,03 Original PTFE isolation and base-1/Isolator-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+95,gun,gun_upper62,Gun 095 upper62,1,True,631.6548187340226,03 Original PTFE isolation and base-1/AT O-ring ID62x2 installed-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+96,gun,gun_cups,Gun 096 cups,1,True,1287.357910597222,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+97,gun,gun_basebolts,Gun 097 basebolts,1,True,310.0390010477627,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+98,gun,gun_cups,Gun 098 cups,1,True,1287.3579105972226,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+99,gun,gun_basebolts,Gun 099 basebolts,1,True,310.0390010477391,03 Original PTFE isolation and base-1/AT M3x35 socket-head study-2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+100,gun,gun_lower62,Gun 100 lower62,1,True,631.6548187340254,03 Original PTFE isolation and base-1/AT O-ring ID62x2 installed-2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+101,gun,gun_cups,Gun 101 cups,1,True,1287.3579105972215,03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-3 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+102,gun,gun_targetbolts,Gun 102 targetbolts R05 M3x10,1,True,133.32441428330728,"R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap."
+103,gun,gun_clamp,Gun target clamp R05 for3.175mm aluminium,1,True,24496.766947760127,Central pressure lip revised; contact shoulderY3.175; apertureD47.8; front envelopeY5 and outer screw interface retained. R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+104,gun,gun_target,Gun aluminium target D50.8 x3.175,1,True,6435.184984538229,"Selected VritraTech99.99% aluminium,2in x0.125in. https://www.vritratech.com/store/product/aluminium-al-sputtering-target/ R05 default gun datum raised1.175mm to retain100mm target/substrate gap."
+105,gun,gun_targetbolts,Gun 105 targetbolts R05 M3x10,1,True,133.32441428331202,"R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap."
+106,gun,gun_targetbolts,Gun 106 targetbolts R05 M3x10,1,True,133.32441428333073,"R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap."
+107,gun,gun_targetbolts,Gun 107 targetbolts R05 M3x10,1,True,133.3244142833498,"R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap."
+108,gun,gun_targetbolts,Gun 108 targetbolts R05 M3x10,1,True,133.32441428332402,"R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap."
+109,gun,gun_targetbolts,Gun 109 targetbolts R05 M3x10,1,True,133.32441428332413,"R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap."
+110,gun,gun_targetbolts,Gun 110 targetbolts R05 M3x10,1,True,133.32441428332888,"R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap."
+111,gun,gun_targetbolts,Gun 111 targetbolts R05 M3x10,1,True,133.32441428332416,"R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap."
+112,gun,gun_targetbolts,Gun 112 targetbolts R05 M3x10,1,True,133.32441428332413,"R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap."
+113,gun,gun_targetbolts,Gun 113 targetbolts R05 M3x10,1,True,133.32441428332393,"R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap."
+114,gun,gun_targetbolts,Gun 114 targetbolts R05 M3x10,1,True,133.3244142833497,"R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap."
+115,gun,gun_targetbolts,Gun 115 targetbolts R05 M3x10,1,True,133.32441428333067,"R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap."
+116,gun,gun_upperbolts,Gun 116 upperbolts,1,True,105.05008040101748,05 Original grounded shield-1/AT M3x6 socket-head study-5 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+117,gun,gun_darkcap,Gun 117 darkcap,1,True,41044.766273006586,05 Original grounded shield-1/Dunkelraumabschirmung-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+118,gun,gun_upperbolts,Gun 118 upperbolts,1,True,105.0500804010253,05 Original grounded shield-1/AT M3x6 socket-head study-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+119,gun,gun_upperbolts,Gun 119 upperbolts,1,True,105.0500804010175,05 Original grounded shield-1/AT M3x6 socket-head study-2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+120,gun,gun_upperbolts,Gun 120 upperbolts,1,True,105.05008040112574,05 Original grounded shield-1/AT M3x6 socket-head study-3 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+121,gun,gun_upperbolts,Gun 121 upperbolts,1,True,105.05008040113826,05 Original grounded shield-1/AT M3x6 socket-head study-4 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+122,gun,gun_shieldtube,Gun 122 shieldtube,1,True,53160.32449044957,05 Original grounded shield-1/Groundshield Rohr-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+123,gun,gun_lowerbolts,Gun 123 lowerbolts,1,True,238.206152449779,05 Original grounded shield-1/AT M4x8 socket-head study-2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+124,gun,gun_upperbolts,Gun 124 upperbolts,1,True,105.05008040104059,05 Original grounded shield-1/AT M3x6 socket-head study-6 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+125,gun,gun_lowerbolts,Gun 125 lowerbolts,1,True,238.20615244969997,05 Original grounded shield-1/AT M4x8 socket-head study-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+126,gun,gun_lowerbolts,Gun 126 lowerbolts,1,True,238.20615244974263,05 Original grounded shield-1/AT M4x8 socket-head study-3 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+127,gun,gun_base,Gun 127 base,1,True,152509.06653466666,R02 Boden - internal blind ground anchor R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+128,gun,gun_kftube,Gun 128 kftube,1,True,23892.8651330851,R02 KF16 neck to one inch service tube R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+129,gun,gun_rfground,Gun 129 rfground,1,True,170.57996140325517,REF icotek SKL3-6 36202 installed study R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+130,gun,gun_rfground,Gun 130 rfground,1,True,219.44175957438102,R02 Ground carrier and conformal saddle R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+131,gun,gun_rfground,Gun 131 rfground,1,True,99.54921721062676,R02 M3x4 clamp mounting screw R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+132,gun,gun_rfground,Gun 132 rfground,1,True,38.90548342205685,R02 M3 clamp nut envelope R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+133,gun,gun_rfground,Gun 133 rfground,1,True,113.68638415179974,R02 M3x6 blind ground anchor screw R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+134,gun,gun_rfhot,Gun 134 rfhot,1,True,233.26325452904732,R02 Copper terminal stand-off D6p5 L12p5 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+135,gun,gun_rfhot,Gun 135 rfhot,1,True,405.2654523130807,R02 M4x20 live terminal screw R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+136,gun,gun_rfhot,Gun 136 rfhot,1,True,80.54560475660267,REF TE323086 M4 ring terminal study R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+137,gun,gun_coax,Gun 137 coax,1,True,2281.531911000633,R02 Continuous coax outer jacket R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+138,gun,gun_coax,Gun 138 coax,1,True,720.3446229604217,R02 Continuous coax shield R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+139,gun,gun_coax,Gun 139 coax,1,True,2061.8612639144008,R02 Continuous center dielectric R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+140,gun,gun_coax,Gun 140 coax,1,True,180.60474137049795,R02 RF center conductor R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+141,gun,gun_coax,Gun 141 coax,1,True,56.756642233080164,R02 Additional dielectric guard sleeve R05 default gun datum raised1.175mm to retain100mm target/substrate gap.
+142,chamber,service_port,Rear upper gas inlet KF25 weld nipple,1,True,8567.604225987005,"QF25-100-LF nominal envelope: OD39.88, bore22.225, length40.132. No attached gauge/MFC models."
+143,chamber,service_port,Rear lower left Pirani KF25 weld nipple,1,True,8567.604225987012,"QF25-100-LF nominal envelope: OD39.88, bore22.225, length40.132. No attached gauge/MFC models."
+144,chamber,service_port,Rear lower right Penning KF25 weld nipple,1,True,8567.604225987008,"QF25-100-LF nominal envelope: OD39.88, bore22.225, length40.132. No attached gauge/MFC models."
+145,chamber,service_port,Right lower spare KF25 weld nipple,1,True,8567.604225987012,"QF25-100-LF nominal envelope: OD39.88, bore22.225, length40.132. No attached gauge/MFC models."
+146,chamber,service_port,Right upper spare KF25 weld nipple,1,True,8567.604225986986,"QF25-100-LF nominal envelope: OD39.88, bore22.225, length40.132. No attached gauge/MFC models."
+147,chamber,structure,Rear wall,1,True,644798.7756270755,10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.
+148,chamber,structure,Right wall,1,True,589865.8504180498,10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.
+149,chamber,structure,Left wall - reserved blank,1,True,600000.0,10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.
+150,chamber,structure,Roof plate,1,True,488283.84588984656,10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.
+151,chamber,structure,Floor plate,1,True,458715.48999352363,10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.
+152,chamber,structure,Front welded door frame,1,True,270000.1246609456,10 mm walls/roof/floor and 16 mm front frame are nominal design choices; pressure/deflection/weld sizing not validated.
+153,chamber,door_seal,Front door compressed gasket envelope,1,True,8247.897299356257,Rectangular compressed-cord envelope in 4.5 x 2.2 groove; final seal specification unqualified.
+154,door,door_plate,Front door plate with viewport cutout,1,True,1090361.518573499,"228 x 316 x 16, viewport clear70; closed inner face y-116. R04 viewport centre Z105, clear diameter70; sightline checked at default gap100. Retainer pilot boresD4.2, depth10 from outer face, leave6mm solid backing; nominal tapped M5."
+155,door,viewport_seal,Viewport gasket envelope,1,True,2544.690049407789,Reference gasket envelope; mounting/seal design pending.
+156,door,glass,Viewport glass disc,1,True,41638.669030679135,D94 x6 nominal envelope; 70 clear aperture. Glass pressure/thermal rating NOT established.
+157,door,door_screw,Viewport retainer screw 1,1,True,529.3583621298778,Nominal M5 envelope; threads/preload not modeled.
+158,door,door_screw,Viewport retainer screw 2,1,True,529.3583621298778,Nominal M5 envelope; threads/preload not modeled.
+159,door,door_screw,Viewport retainer screw 3,1,True,529.3583621298778,Nominal M5 envelope; threads/preload not modeled.
+160,door,door_screw,Viewport retainer screw 4,1,True,529.3583621298778,Nominal M5 envelope; threads/preload not modeled.
+161,door,door_screw,Viewport retainer screw 5,1,True,529.3583621298781,Nominal M5 envelope; threads/preload not modeled.
+162,door,door_screw,Viewport retainer screw 6,1,True,529.3583621298781,Nominal M5 envelope; threads/preload not modeled.
+163,door,viewport_bezel,Viewport retaining bezel,1,True,37296.20258525622,
+164,door,door_handle,Door pull handle,1,True,7808.0,
+165,chamber,hinge_fixed,Hinge fixed barrel 65,2,True,4151.3025414818485,
+166,chamber,hinge_pin,Hinge pin 65,1,True,1130.9733552923256,
+167,door,hinge_moving,Hinge door leaf 65,1,True,2251.1291210777053,
+168,chamber,hinge_fixed,Hinge fixed barrel 235,2,True,4151.3025414818485,
+169,chamber,hinge_pin,Hinge pin 235,1,True,1130.9733552923256,
+170,door,hinge_moving,Hinge door leaf 235,1,True,2251.1291210777053,
+171,door,latch,Latch body envelope,1,True,2688.0,Concept latch; exact procurement and mounting pending.
+172,chamber,latch_catch,Latch catch envelope,1,True,1728.0,
+173,chamber,turbo_flange,Bottom ISO63-K weld neck and flange,1,True,69546.02562114137,"OD95 / bore63.5 / flange12, face z-45; nominal envelope. Clamp profile and backing groove simplified; purchased drawing pending."
+174,chamber,gun_mount,Roof KF25 gun weld flange - bore to verify,1,True,10528.116191563608,Nominal KF25 OD39.88 with proposed27 through bore. Not a verified off-the-shelf mating flange; standard weld stub/ring can block25.4 tube.
+175,chamber,stage,Removable substrate stage D90 x6,1,True,38170.35074111599,"Top z40, undersidez34. Four supports at (+/-29,+/-29), fully below plate and outside central turbo opening."
+176,chamber,stage_support,Stage support -29 -29,1,True,961.3273519984768,
+177,chamber,stage_support,Stage support -29 29,1,True,961.3273519984768,
+178,chamber,stage_support,Stage support 29 -29,1,True,961.3273519984768,
+179,chamber,stage_support,Stage support 29 29,1,True,961.3273519984768,
+180,chamber,substrate,Reference substrate 50 x50 x1,1,True,2500.0,Sample design assumption; top surface z41 is deposition-distance datum.
+181,chamber,pump_baffle,Removable pump deposition baffle D104 x1.5,1,True,12511.3927429218,Baffle topz19.5; four7 clearance bores. Reduces direct line of sight; conductance and full interception not validated.
+182,chamber,baffle_support,Baffle spacer -44,1,True,353.4291735288517,
+183,chamber,baffle_support,Baffle spacer 44,1,True,353.4291735288517,
+184,shutter,shutter,One piece bent shutter - CLOSED,1,True,8315.451762138911,"t1; inside bendsR2; upper flatz293..294; bladez53..54; pivot(-65,0); blade56square; closed centre(0,0)."
+185,shutter,shutter_screw,99607A246 thumb screw nominal envelope,1,True,2748.7752712926813,"1/4-28 x1.25in under-head assumption; collar/head geometry illustrative, threads not modeled. Verify McMaster drawing."
+186,shutter,shutter_nut,Shutter aluminum nut 287.5,1,True,413.8606965523627,1/4-28 nominal nut envelope; not supplier CAD.
+187,shutter,shutter_nut,Shutter aluminum nut 294,1,True,413.8606965523627,1/4-28 nominal nut envelope; not supplier CAD.
+188,shutter,shutter_washer,Shutter underside thrust washer,1,True,83.42499291607879,
+189,chamber,shutter_seal,6540K248 shutter face seal envelope,1,True,228.01836559387695,Nominal1/4ID x1/2OD x1/8 free section from supplied text; compressed axial envelope2.4. No qualified rotating seal gland.
+190,fitting,fit_body,Adapter body with male thread,1,True,23538.77306955926,"Catalogue envelope reference; male helix pitch2, major37 are illustrative, not manufacturer thread specification."
+191,fitting,fit_cap,Threaded cap - separate moving part,1,True,12773.460609791184,Female helix matched to illustrative2mm pitch. 4mm lift corresponds to two turns. Cap OD44 and details illustrative.
+192,fitting,fit_follower,Compression follower,1,True,506.6195145032116,Illustrative force-transmitting follower; actual supplier cross-section unverified.
+193,fitting,fit_tube_seal,Tube compression O ring,1,True,485.56936008994364,"O-V120 free nominal25.07ID x2.62 section; installed/compressed geometry is explanatory, not validated seal design."
+194,fitting,fit_kf_seal,KF face seal / centering space,1,True,819.9556825869536,KF face seal separate from tube O-ring. Through-bore and actual centering-ring fit remain unresolved.
+195,fitting,fit_clamp_left,KF clamp left jaw,1,True,4955.821606994471,"Functional split-clamp illustration; purchased clamp profile, hinge and fastener dimensions not qualified."
+196,fitting,fit_clamp_right,KF clamp right jaw,1,True,4955.821606994931,"Functional split-clamp illustration; purchased clamp profile, hinge and fastener dimensions not qualified."
+197,fitting,fit_clamp_bolt,KF clamp wing screw,1,True,402.1238596594943,Illustrative clamp fastener; independent of compression cap.
+198,fitting,fit_clamp_wing,KF clamp wing nut,1,True,180.4725035860591,"Turns to secure KF flange joint, not to grip gun tube."
+199,fitting,fit_clamp_pin,KF clamp hinge pin,1,True,142.50264276683302,Hinge axis for opening clamp jaws.
+200,fitting,fit_cap_mark,Cap rotation index mark,1,True,7.280000000000003,"Visual index mark only, not an extra purchased component."
+201,system,base_plate,System base plate,1,True,3552000.0,Layout/support concept only; structural sizing not verified.
+202,system,frame,Chamber riser -85 -75,1,True,190000.0,
+203,system,frame,Chamber riser -85 75,1,True,190000.0,
+204,system,frame,Chamber riser 85 -75,1,True,190000.0,
+205,system,frame,Chamber riser 85 75,1,True,190000.0,
+206,system,frame,Chamber support lower tie -75,1,True,121875.0,
+207,system,frame,Chamber support lower tie 75,1,True,121875.0,
+208,system,turbo_body,EXT70 reference pump housing and ISO63 inlet,1,True,503929.80291419924,"Reconstructed external envelope: D95 inlet, D94 body, 157.05 overall incl base. Internal pump geometry omitted."
+209,system,turbo_core,EXT70 lower motor core,1,True,167987.71361165162,
+210,system,turbo_fin,EXT70 cooling fin -153.5,1,True,6253.732876052318,
+211,system,turbo_fin,EXT70 cooling fin -146,1,True,6253.732876052318,
+212,system,turbo_fin,EXT70 cooling fin -138.5,1,True,6253.732876052318,
+213,system,turbo_fin,EXT70 cooling fin -131,1,True,6253.732876052318,
+214,system,turbo_outlet,EXT70 native KF16 backing outlet,1,True,3753.4325098221375,Standard EXT70 manual specifies DN16NW. KF25 hose is attached through a reducer adapter.
+215,system,turbo_vent,EXT70 vent valve exterior,1,True,3270.3979523869743,Reference exterior detail; actual vent valve not selected.
+216,system,turbo_connector,EXT70 electrical connector exterior,1,True,3421.1943997592853,
+217,system,turbo_cooling,EXT70 cooling stub -1,1,True,846.6592201424489,
+218,system,turbo_cooling,EXT70 cooling stub 1,1,True,846.6592201424489,
+219,system,iso_seal,ISO63 chamber to turbo face seal,1,True,3251.548396465506,
+220,system,iso_clamp,ISO63 double claw clamp 1,1,True,2112.722187545276,Four clamp positions. Geometry envelope only; rated fixing and rotor-failure torque requirements not verified.
+221,system,iso_screw,ISO63 clamp screw 1,1,True,1417.0662429837996,
+222,system,iso_clamp,ISO63 double claw clamp 2,1,True,2112.722187547278,Four clamp positions. Geometry envelope only; rated fixing and rotor-failure torque requirements not verified.
+223,system,iso_screw,ISO63 clamp screw 2,1,True,1417.0662429836557,
+224,system,iso_clamp,ISO63 double claw clamp 3,1,True,2112.722187550126,Four clamp positions. Geometry envelope only; rated fixing and rotor-failure torque requirements not verified.
+225,system,iso_screw,ISO63 clamp screw 3,1,True,1417.0662429834908,
+226,system,iso_clamp,ISO63 double claw clamp 4,1,True,2112.7221875481237,Four clamp positions. Geometry envelope only; rated fixing and rotor-failure torque requirements not verified.
+227,system,iso_screw,ISO63 clamp screw 4,1,True,1417.0662429836345,
+228,system,connection_seal,Turbo KF16 outlet joint face seal,1,True,895.3539062731109,"Nominal FKM/centering envelope, not supplier seal CAD."
+229,system,kf_clamp,Turbo KF16 outlet joint clamp left,1,True,3280.0860015402463,Split KF clamp outline; detailed purchased hardware/actuator simplified.
+230,system,kf_clamp,Turbo KF16 outlet joint clamp right,1,True,3280.0860015411135,Split KF clamp outline; detailed purchased hardware/actuator simplified.
+231,system,foreline_adapter,KF16 to KF25 foreline adapter,2,True,9610.997992169721,Reference 38mm face-to-face transition; supplier dimensions to confirm. Omit if actual EXT70 has a confirmed KF25 outlet.
+232,system,connection_seal,KF25 turbo hose joint face seal,1,True,1360.9379375351286,"Nominal FKM/centering envelope, not supplier seal CAD."
+233,system,kf_clamp,KF25 turbo hose joint clamp left,1,True,4201.943461055496,Split KF clamp outline; detailed purchased hardware/actuator simplified.
+234,system,kf_clamp,KF25 turbo hose joint clamp right,1,True,4201.94346105377,Split KF clamp outline; detailed purchased hardware/actuator simplified.
+235,system,hose_end,KF25 hose turbo-end termination,1,True,4394.768275253354,
+236,system,backing_pump,Edwards RV3 - imported supplier STEP,1,False,12249204.474002546,"IdealVac P101919 STEP, representing Edwards RV3. Layout reference, not a confirmed pump purchase. Source has pre-existing topology defects; retained as supplier visual/reference geometry, not a manufacturing solid."
+237,system,connection_seal,RV3 inlet KF25 hose joint face seal,1,True,1360.9379375351273,"Nominal FKM/centering envelope, not supplier seal CAD."
+238,system,kf_clamp,RV3 inlet KF25 hose joint clamp left,1,True,4201.9434610556755,Split KF clamp outline; detailed purchased hardware/actuator simplified.
+239,system,kf_clamp,RV3 inlet KF25 hose joint clamp right,1,True,4201.943461053818,Split KF clamp outline; detailed purchased hardware/actuator simplified.
+240,system,hose_end,KF25 hose RV3-end termination,1,True,4941.062276155352,
+241,system,hose,KF25 flexible backing hose - routed core,1,True,118203.78959141014,Nominal bore22.225 / coreOD27. Routing and bend radius are layout assumptions; select actual hose after checking minimum bend radius.
+242,system,hose_ribs,KF25 backing hose corrugations,64,True,28630.816683967736,64 nominal corrugation ribs for visual/reference routing only.
+243,system,gauge_elbow,Pirani protective KF25 elbow,1,True,14268.854463529258,Reference R25 centreline elbow. Protects sensor from direct target line of sight; actual orientation per selected gauge manual.
+244,system,connection_seal,Pirani rear port joint face seal,1,True,1360.9379375351286,"Nominal FKM/centering envelope, not supplier seal CAD."
+245,system,kf_clamp,Pirani rear port joint clamp left,1,True,4201.943461055497,Split KF clamp outline; detailed purchased hardware/actuator simplified.
+246,system,kf_clamp,Pirani rear port joint clamp right,1,True,4201.943461053769,Split KF clamp outline; detailed purchased hardware/actuator simplified.
+247,system,connection_seal,Pirani gauge joint face seal,1,True,1360.9379375351286,"Nominal FKM/centering envelope, not supplier seal CAD."
+248,system,kf_clamp,Pirani gauge joint clamp left,1,True,4201.943461055687,Split KF clamp outline; detailed purchased hardware/actuator simplified.
+249,system,kf_clamp,Pirani gauge joint clamp right,1,True,4201.943461053825,Split KF clamp outline; detailed purchased hardware/actuator simplified.
+250,system,gauge_stem,Pirani KF25 sensor stem,1,True,4632.287406080324,
+251,system,gauge_pirani,Pirani gauge reference housing,1,True,112519.28248097203,"Generic Pirani sensor envelope, D44 x74; exact make/model not supplied. Not a metrology or magnetic-clearance qualification."
+252,system,gauge_band,Pirani housing band -30,1,True,643.2410958225232,
+253,system,gauge_band,Pirani housing band 36,1,True,643.2410958225232,
+254,system,gauge_connector,Pirani electrical connector,1,True,1244.0706908215582,
+255,system,gauge_elbow,Penning protective KF25 elbow,1,True,14268.854463529258,Reference R25 centreline elbow. Protects sensor from direct target line of sight; actual orientation per selected gauge manual.
+256,system,connection_seal,Penning rear port joint face seal,1,True,1360.9379375351286,"Nominal FKM/centering envelope, not supplier seal CAD."
+257,system,kf_clamp,Penning rear port joint clamp left,1,True,4201.943461055496,Split KF clamp outline; detailed purchased hardware/actuator simplified.
+258,system,kf_clamp,Penning rear port joint clamp right,1,True,4201.943461053769,Split KF clamp outline; detailed purchased hardware/actuator simplified.
+259,system,connection_seal,Penning gauge joint face seal,1,True,1360.9379375351286,"Nominal FKM/centering envelope, not supplier seal CAD."
+260,system,kf_clamp,Penning gauge joint clamp left,1,True,4201.943461055687,Split KF clamp outline; detailed purchased hardware/actuator simplified.
+261,system,kf_clamp,Penning gauge joint clamp right,1,True,4201.943461053826,Split KF clamp outline; detailed purchased hardware/actuator simplified.
+262,system,gauge_stem,Penning KF25 sensor stem,1,True,4632.287406080322,
+263,system,gauge_penning,Penning gauge reference housing,1,True,248355.46563688753,"Generic Penning sensor envelope, D58 x94; exact make/model not supplied. Not a metrology or magnetic-clearance qualification."
+264,system,gauge_band,Penning housing band -50,1,True,841.1614329986878,
+265,system,gauge_band,Penning housing band 36,1,True,841.1614329986878,
+266,system,gauge_connector,Penning electrical connector,1,True,1244.0706908215582,
+267,system,connection_seal,MFC chamber KF25 joint face seal,1,True,1360.9379375351284,"Nominal FKM/centering envelope, not supplier seal CAD."
+268,system,kf_clamp,MFC chamber KF25 joint clamp left,1,True,4201.943461055685,Split KF clamp outline; detailed purchased hardware/actuator simplified.
+269,system,kf_clamp,MFC chamber KF25 joint clamp right,1,True,4201.9434610538265,Split KF clamp outline; detailed purchased hardware/actuator simplified.
+270,system,mfc_out_adapter,KF25 to quarter-inch female VCR adapter body,2,True,7113.431455574356,"Functional reference envelope; nominal total face-to-face34.544 per ANCORP1.36in configuration, supplier selection pending."
+271,system,vcr_out_nut,MFC outlet female VCR swivel nut,1,True,2305.5841903120636,Female mating connection around MFC male face seal; external thread detail simplified.
+272,system,vcr_gasket,MFC outlet VCR metal gasket,1,True,59.594756001539736,Nominal visual gasket envelope; actual gasket specification per fittings.
+273,system,mfc_body,MFC stainless flow body,1,True,73462.71014000592,"HORIBA SEC-E440J-style reference: VCR face-to-face124, body76.2, width38, nominal height115. Ports male VCR on both ends as instructed."
+274,system,mfc_electronics,MFC electronics housing,1,True,224698.56000000006,
+275,system,mfc_male_vcr,MFC male VCR outlet,1,True,1915.582193535603,Nominal quarter-inch male VCR port; supplier face/bead/thread tolerances not modeled.
+276,system,mfc_male_vcr,MFC male VCR inlet,1,True,1915.5821935356012,Nominal quarter-inch male VCR port; supplier face/bead/thread tolerances not modeled.
+277,system,mfc_signal,MFC top signal connector,1,True,4704.000000000001,
+278,system,mfc_bracket,Rear MFC support shelf,1,True,17120.478435956007,Mounting layout only; bracket load/weld/fasteners not validated.
+279,system,mfc_bracket,MFC shelf gusset -30,1,True,2421.249999999053,
+280,system,mfc_bracket,MFC shelf gusset 27.5,1,True,2421.249999999053,
+281,system,mfc_mount_screw,MFC mount screw 221.38600000000002,1,True,164.93361431346352,Nominal M4 envelope.
+282,system,mfc_mount_screw,MFC mount screw 259.486,1,True,164.93361431346338,Nominal M4 envelope.
+283,system,vcr_gasket,MFC inlet VCR metal gasket,1,True,59.59475600154197,
+284,system,vcr_in_nut,MFC inlet female VCR swivel nut,1,True,2978.4065730787306,
+285,system,vcr_npt_adapter,Female VCR to quarter-inch female NPT adapter,1,True,5457.284772596352,Adapter-assembly reference from prior chat; SS-4-WVCR-7-4 cited body requires compatible swivel nut/gland. End geometry illustrative.
+286,system,push_body,Quarter-inch male NPT to6mm push fitting body,1,True,3905.1785612984036,6mm OD tube x1/4 male NPT interface; Amazon B09H4RL894 selected in prior chat. Parker W68LF-6M-4 was reference. Pressure/gas compatibility not verified.
+287,system,push_collet,6mm push fitting release collet,1,True,338.25528101202,Gas-supply boundary of this model. No tube beyond push fitting.
+288,system,connection_seal,Right spare 75 face seal,1,True,1360.9379375351286,"Nominal FKM/centering envelope, not supplier seal CAD."
+289,system,kf_clamp,Right spare 75 clamp left,1,True,4201.943461055497,Split KF clamp outline; detailed purchased hardware/actuator simplified.
+290,system,kf_clamp,Right spare 75 clamp right,1,True,4201.94346105377,Split KF clamp outline; detailed purchased hardware/actuator simplified.
+291,system,blank_cap,Right spare KF25 blank cap 75,1,True,5396.148930819684,
+292,system,connection_seal,Right spare 225 face seal,1,True,1360.9379375351277,"Nominal FKM/centering envelope, not supplier seal CAD."
+293,system,kf_clamp,Right spare 225 clamp left,1,True,4201.943461055499,Split KF clamp outline; detailed purchased hardware/actuator simplified.
+294,system,kf_clamp,Right spare 225 clamp right,1,True,4201.943461053774,Split KF clamp outline; detailed purchased hardware/actuator simplified.
+295,system,blank_cap,Right spare KF25 blank cap 225,1,True,5396.148930819684,
+296,utilities,gas_insert,6 mm OD gas tube - seated end,1,True,719.4875495251497,"OD6 ID4; socket mouthY360.196; nominal engagement16mm is illustrative, vendor insertion depth still required."
+297,utilities,gas_line,Argon supply tube - 6 mm OD,1,True,10882.697951111802,"Actual modeled OD6; material, pressure rating and regulator/push fitting compatibility to select."
+298,utilities,cylinder,Representative argon cylinder,1,True,12546735.660274819,"Representative cylinder only, not a supplier pressure-vessel model."
+299,utilities,cylinder,Cylinder foot,1,True,177657.06456050684,
+300,utilities,regulator,Cylinder valve,1,True,29335.438155364805,
+301,utilities,regulator,Representative argon regulator,1,True,92683.1853071798,
+302,utilities,regulator,Regulator gauge 605,1,True,18246.37013204952,
+303,utilities,regulator_dial,Regulator dial 605,1,True,1134.1149479459152,
+304,utilities,regulator,Regulator gauge 640,1,True,18246.37013204952,
+305,utilities,regulator_dial,Regulator dial 640,1,True,1134.1149479459152,
+306,utilities,chiller1,Cooling system 1 cabinet,1,True,18480000.0,"Representative envelope; cooling duty, pump flow and water quality not selected."
+307,utilities,chiller1,Cooling system 1 display,1,True,9450.0,
+308,utilities,chiller1,Chiller 1 vent -250,1,True,1529.9999999999998,
+309,utilities,chiller1,Chiller 1 vent -235,1,True,1529.9999999999998,
+310,utilities,chiller1,Chiller 1 vent -220,1,True,1529.9999999999998,
+311,utilities,chiller1,Chiller 1 vent -205,1,True,1529.9999999999998,
+312,utilities,chiller1,Chiller 1 vent -190,1,True,1529.9999999999998,
+313,utilities,chiller1,Chiller 1 vent -175,1,True,1529.9999999999998,
+314,utilities,chiller1,Chiller 1 vent -160,1,True,1529.9999999999998,
+315,utilities,chiller1,Chiller 1 vent -145,1,True,1529.9999999999998,
+316,utilities,chiller1,Chiller 1 vent -130,1,True,1529.9999999999998,
+317,utilities,chiller2,Cooling system 2 cabinet,1,True,18480000.0,"Representative envelope; cooling duty, pump flow and water quality not selected."
+318,utilities,chiller2,Cooling system 2 display,1,True,9450.0,
+319,utilities,chiller2,Chiller 2 vent -250,1,True,1529.9999999999998,
+320,utilities,chiller2,Chiller 2 vent -235,1,True,1529.9999999999998,
+321,utilities,chiller2,Chiller 2 vent -220,1,True,1529.9999999999998,
+322,utilities,chiller2,Chiller 2 vent -205,1,True,1529.9999999999998,
+323,utilities,chiller2,Chiller 2 vent -190,1,True,1529.9999999999998,
+324,utilities,chiller2,Chiller 2 vent -175,1,True,1529.9999999999998,
+325,utilities,chiller2,Chiller 2 vent -160,1,True,1529.9999999999998,
+326,utilities,chiller2,Chiller 2 vent -145,1,True,1529.9999999999998,
+327,utilities,chiller2,Chiller 2 vent -130,1,True,1529.9999999999998,
+328,utilities,gun_water,Gun cooling supply,1,True,5510.224033481331,Representative flexible extension; nominal4mm OD matches current gun hoses. Service loop and bend/flow suitability not qualified. R05 upper endpoint follows raised gun.
+329,utilities,gun_water,Gun cooling return,1,True,5583.78056635507,Representative flexible extension; nominal4mm OD matches current gun hoses. Service loop and bend/flow suitability not qualified. R05 upper endpoint follows raised gun.
+330,utilities,turbo_water,Turbo cooling supply,1,True,20097.472203663507,"Nominal OD9/ID6 reinforced-hose reference loop; pump stub connections require selected hose/adapters, no supplier seating claim."
+331,utilities,turbo_water,Turbo cooling return,1,True,30740.018844383078,"Nominal OD9/ID6 reinforced-hose reference loop; pump stub connections require selected hose/adapters, no supplier seating claim."
+332,utilities,power,Representative DC or RF power supply,1,True,7488000.0,Representative supply. DC option or RF option with suitable matching network; ratings and interlocks not selected.
+333,utilities,power_display,Power supply display,1,True,13200.0,
+334,utilities,power,Power control 470,1,True,5428.672105403162,
+335,utilities,power,Power control 520,1,True,5428.6721054031605,
+336,utilities,matching,RF matching network - RF configuration only,1,True,1710000.0,RF-only representative matching network. DC configuration bypasses this enclosure.
+337,utilities,power_cable,RF supply to matching network cable,1,True,2336.081523354371,"Representative cable; connector, impedance and power rating pending."
+338,utilities,power_cable,Power cable to gun coax,1,True,18014.70500988284,"OD5 study allowance continues existing coax at(0,-4.5,453); RF shown via matching network, DC bypass described. R05 upper endpoint follows raised gun; RF300W is selected source rating, not qualified gun rating."
+339,utilities,earth,Representative protective earth bond,1,True,7215.61394556048,Representative protective bonding connection. Grounding/RF return scheme requires electrical design.

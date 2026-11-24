@@ -1,0 +1,32 @@
+{
+  "eye_mm": [
+    0,
+    -400,
+    20
+  ],
+  "window_centre_z_mm": 105,
+  "clear_aperture_mm": 70,
+  "observation_ring_radius_mm": 20,
+  "ring_below_target_mm": 5,
+  "results": [
+    {
+      "gap_mm": 75,
+      "ring_samples": 72,
+      "through_window": 72,
+      "unobstructed": 43
+    },
+    {
+      "gap_mm": 100,
+      "ring_samples": 72,
+      "through_window": 72,
+      "unobstructed": 55
+    },
+    {
+      "gap_mm": 150,
+      "ring_samples": 72,
+      "through_window": 31,
+      "unobstructed": 31
+    }
+  ],
+  "scope": "Geometric access only. No plasma brightness or coating prediction."
+}

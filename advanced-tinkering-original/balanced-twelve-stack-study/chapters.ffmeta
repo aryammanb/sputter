@@ -1,0 +1,37 @@
+;FFMETADATA1
+title=Twelve stack magnetron - mechanical comparison
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=26600
+title=Same gun envelope, revised cooling head
+[CHAPTER]
+TIMEBASE=1/1000
+START=26600
+END=55000
+title=The proposed standard magnet pack
+[CHAPTER]
+TIMEBASE=1/1000
+START=55000
+END=79200
+title=Why enlarging only the hole fails
+[CHAPTER]
+TIMEBASE=1/1000
+START=79200
+END=107200
+title=Cooling body: move the water annulus
+[CHAPTER]
+TIMEBASE=1/1000
+START=107200
+END=137400
+title=Backplate: two new seals and moved ports
+[CHAPTER]
+TIMEBASE=1/1000
+START=137400
+END=164500
+title=Yoke and coolant routes follow the ports
+[CHAPTER]
+TIMEBASE=1/1000
+START=164500
+END=198300
+title=Local head redesign, not a new whole gun

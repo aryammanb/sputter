@@ -1,0 +1,8 @@
+{
+  "video_seconds": 201.25,
+  "video_bytes": 21283003,
+  "archive_bytes": 54021231,
+  "chapters": 7,
+  "numerical_checks_passed": true,
+  "full_video_decode_passed": true
+}

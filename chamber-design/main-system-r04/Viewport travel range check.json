@@ -1,0 +1,114 @@
+{
+  "viewport_z_mm": 105,
+  "ring_radius_mm": 20,
+  "ring_below_target_mm": 5,
+  "eye_y_mm": -400,
+  "results": [
+    {
+      "gap_mm": 75,
+      "eye_z_mm": -20,
+      "through_aperture": 0,
+      "clear_samples": 0,
+      "total_samples": 72
+    },
+    {
+      "gap_mm": 75,
+      "eye_z_mm": 0,
+      "through_aperture": 25,
+      "clear_samples": 0,
+      "total_samples": 72
+    },
+    {
+      "gap_mm": 75,
+      "eye_z_mm": 20,
+      "through_aperture": 72,
+      "clear_samples": 37,
+      "total_samples": 72
+    },
+    {
+      "gap_mm": 75,
+      "eye_z_mm": 40,
+      "through_aperture": 72,
+      "clear_samples": 25,
+      "total_samples": 72
+    },
+    {
+      "gap_mm": 75,
+      "eye_z_mm": 60,
+      "through_aperture": 72,
+      "clear_samples": 0,
+      "total_samples": 72
+    },
+    {
+      "gap_mm": 100,
+      "eye_z_mm": -20,
+      "through_aperture": 72,
+      "clear_samples": 72,
+      "total_samples": 72
+    },
+    {
+      "gap_mm": 100,
+      "eye_z_mm": 0,
+      "through_aperture": 72,
+      "clear_samples": 57,
+      "total_samples": 72
+    },
+    {
+      "gap_mm": 100,
+      "eye_z_mm": 20,
+      "through_aperture": 72,
+      "clear_samples": 47,
+      "total_samples": 72
+    },
+    {
+      "gap_mm": 100,
+      "eye_z_mm": 40,
+      "through_aperture": 72,
+      "clear_samples": 39,
+      "total_samples": 72
+    },
+    {
+      "gap_mm": 100,
+      "eye_z_mm": 60,
+      "through_aperture": 72,
+      "clear_samples": 29,
+      "total_samples": 72
+    },
+    {
+      "gap_mm": 150,
+      "eye_z_mm": -20,
+      "through_aperture": 72,
+      "clear_samples": 72,
+      "total_samples": 72
+    },
+    {
+      "gap_mm": 150,
+      "eye_z_mm": 0,
+      "through_aperture": 72,
+      "clear_samples": 72,
+      "total_samples": 72
+    },
+    {
+      "gap_mm": 150,
+      "eye_z_mm": 20,
+      "through_aperture": 31,
+      "clear_samples": 31,
+      "total_samples": 72
+    },
+    {
+      "gap_mm": 150,
+      "eye_z_mm": 40,
+      "through_aperture": 7,
+      "clear_samples": 7,
+      "total_samples": 72
+    },
+    {
+      "gap_mm": 150,
+      "eye_z_mm": 60,
+      "through_aperture": 0,
+      "clear_samples": 0,
+      "total_samples": 72
+    }
+  ],
+  "scope": "Geometric access only; assumes rigid axial gun movement, no plasma brightness or coating prediction."
+}
