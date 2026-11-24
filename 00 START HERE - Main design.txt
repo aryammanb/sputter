@@ -1,0 +1,55 @@
+SPUTTER - START HERE
+Organized 24 November 2026
+
+ARGON FLOW CONTROL ENGINEERING
+Owner selects200sccm MFC. Exact model/Ar calibration remain to verify.
+About42mTorr is a plausible ignition trial pressure, not a guaranteed
+strike threshold or a measured system pressure.50mTorr is not a universal
+minimum. Check installed pressure, low-flow accuracy and pump gas-load limits.
+Current selection and engineering assessment: chamber-design/Argon MFC selection R03 - 200 sccm.txt
+R01/R02 range recommendations are superseded. No CAD/layout change.
+
+MAIN DESIGN: UPDATED ADVANCED TINKERING - LATEST TWELVE-STACK UPDATE
+Open "01 MAIN DESIGN - Updated Advanced Tinkering".
+Then open "01 Latest updated design - twelve-stack" and its "01 MAIN ASSEMBLY" shortcut.
+
+This is the latest updated Advanced Tinkering design found in this workspace
+(23 November 2026). It builds on the combined R03 assembly with the revised
+twelve-stack magnetic head, copper cooler, closure, yoke and coolant routing.
+The complete proposed assembly contains 141 component instances.
+
+The main folder also provides the current CAD package, narrated changes,
+component change register, geometry checks, magnetic simulation and the
+updated copper-joint explanation.
+
+R03 is the PREVIOUS BASELINE. Its older "Current" filenames are historical.
+The main folder labels that baseline separately.
+
+FOLDER GUIDE
+01 MAIN DESIGN - Updated Advanced Tinkering
+    Clear entry point to the latest design and its supporting materials.
+advanced-tinkering-original
+    Source workspace for BOTH the original reconstruction AND subsequent
+    Advanced Tinkering updates. Its historical folder name does not mean the
+    latest design is the original reconstruction. Original paths are retained
+    to preserve CAD dependencies, scripts and existing links.
+90 ARCHIVE - Earlier designs and working files
+    Earlier KF25/R02-R09 designs, the separate fresh-design branch, older BOM,
+    videos, scripts, visualizations and intermediate working files.
+
+Shortcuts open the original source files; no duplicate master CAD was created.
+Keep the main folder and source workspace together. Use the CAD ZIP when
+sharing the design. Organization manifest.json records every relocated item.
+
+DESIGN STATUS
+The latest STEP remains a mechanical study, with named/color-coded solids;
+it is not a native SolidWorks assembly with editable mates.
+The copper-joint video illustrates proposed bonding regions. The notes say
+the O-ring grooves still need revision into specified bonding lands; that
+joining proposal is not a newer completed CAD assembly.
+Read the linked design notes and simulation assessment for their current scope.
+
+LATEST GUN CAD REVISION: R06 - M5 COOLANT FITTINGS
+See 01 MAIN DESIGN - Updated Advanced Tinkering/06 Latest coolant fittings R06.txt.
+Native SolidWorks gun and backplate; updated complete-system STEP context.
+R05 target/clamp retained; original R05 files preserved.

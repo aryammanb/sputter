@@ -13,9 +13,9 @@ Supplier CAD, manuals, catalogs and drawings remain third-party reference materi
 | Selected target/clamp | `chamber-design/target-clamp-r05/` notes and dimensional checks |
 | Chamber vendor scope | `chamber-design/chamber-supplier-package/` CB01 scope, interface schedule and source references |
 | Turbo/controller | Saved manual and procurement records; full-system supplier reference directory |
-| MFC dimensional reference | Saved HORIBA drawing and R03 selection note |
+| MFC dimensional reference | Legacy HORIBA drawing (reference only) and R04 500 sccm selection note |
 | Magnetic formulation/materials | Original `Simulation assessment.txt`, solver B-H data and requirements |
-| Procurement selections/quotes | Unchanged workbook, readable cell/CSV exports and selected support records |
+| Procurement selections/quotes | Current workbook, readable cell/CSV exports and selected support records |
 
 URLs in the original notes and workbook are recorded sourcing references as of the project work. This repository preparation does not reverify current seller availability, quotations, exchange rates or published specifications. Prices in the documentation are dated planning records.
 

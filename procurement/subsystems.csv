@@ -10,17 +10,17 @@ No.,Subsystem,Review status,Component estimate (₹),Notes
 4,Substrate stage and shutter,Local fabrication + stock,2500,SS304 stage and bent shutter fabrication only. Hand screw/O-ring/nuts already in stock; supports inCB01. No separate actuator.
 5,Vacuum pumping,80V bundle and supply selected,167208,USD799 EXT70/EXDC80 two-pump lot; one installed/one spare. Toolworld OWON SPM8205 selected; HV2-150 + local plumbing. Import costs excluded.
 6,Pressure measurement,Local supplier selected,60000,"Alfa Technovac: PiraniINR20000; PenningINR40000, per user. GST/controller/cable scope unconfirmed; chamber-sideKF25 hardware inCB01."
-7,Argon supply and flow control,Sources selected; qualification pending,81934.4,Local cylinder/regulator; userAr200sccmHORIBA+KF25/VCR adapter; PE-D20 selected; priorNPT/push chain restored. Local allowances added.50mTorr ignition/range qualification pending.
+7,Argon supply and flow control,Sources selected; qualification pending,86024,STEC SEC-4400MC-G2 Ar 500 sccm USD329; PE-D20 retained USD230.01. Owner-built perfboard adapter and shielded cable within existing INR2500 allowance. Fittings compatible per owner; exact G2 wiring and electrical checks before power-up.
 8,Gun water cooling,Local sourcing; checks pending,45600,"CW-5000 higher-head gun loop; 300 W heat basis, 0.5 L/min target. Flow, pressure, electrical isolation and thermal qualification pending."
 9,Turbo water cooling,Local sourcing; checks pending,41500,"Independent CW-5000 turbo loop; 15 C, 0.5 L/min commissioning target. Manufacturer minimum: 0.25 L/min at 15 C. Local allowances."
 10,Electrical power and controls,"Supply, controls and wiring budgeted",301500,"Omicron 200 W supply + matching network INR235000 provisional; controls/wiring/RF connections INR66500 allowance. Elecmec Controls, Mumbai, sourcing candidate. See tab 10 for contact and scope."
 11,Frame and equipment supports,Local fabrication budgeted,45000,"Welded steel frame, shelves, supports, feet and guards. Unity Fabricators, Thane, sourcing candidate. Final drawings/load checks pending. Contact and cost breakdown in tab 11."
 12,"Installation, commissioning and spares",Allowances with sourcing routes,30500,"Vent/gas shutoff, gun leak service, RF commissioning, spares and tools. See tab 12."
-Equipment and installation subtotal,,,944392.4,
+Equipment and installation subtotal,,,948482,
 Initial-build scope budgeted. Equipment prices include allowances; freight/tax reserves and contingency are shown below.,,,,
 "Freight, tax and clearance reserves",,,70000,Replace with actual freight/taxes; avoid overlap with tax-inclusive component prices.
-Contingency on equipment / installation,,0.1,94439.24,For quote variation and incidental omissions. Separate from freight/tax reserves.
-Total planning budget,,,1108831.6400000001,
+Contingency on equipment / installation,,0.1,94848.20000000001,For quote variation and incidental omissions. Separate from freight/tax reserves.
+Total planning budget,,,1113330.2,
 ,Online purchase,Exact product buying link and applicable order quantity,,
 ,Local purchase,"Mumbai supplier / type of shop, then quote or receipt",,
 ,Custom vendor order,"CAD/drawing reference, material, quantity and release status",,

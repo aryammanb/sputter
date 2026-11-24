@@ -10,7 +10,7 @@ The authority for this snapshot is [design/current.json](../design/current.json)
 | Target/clamp | [R05 notes](../chamber-design/target-clamp-r05/READ%20FIRST%20-%20Clamp%20R05.txt) | D50.8 × 3.175 target, revised shoulder/lip, M3×10 screws |
 | Chamber supplier handoff | [CB01 scope](../chamber-design/chamber-supplier-package/CB01%20frozen%20layout%20and%20supplier%20scope.txt) | Frozen interfaces and single vendor package; quote/manufacturing release pending |
 | Procurement | [Workbook](../procurement/Sputter%20system%20procurement.xlsx) | Latest saved selections and planning allowances |
-| Gas selection | [MFC R03](../chamber-design/Argon%20MFC%20selection%20R03%20-%20200%20sccm.txt) | Owner-selected 200 sccm; model/calibration pending |
+| Gas selection | [MFC R04](../chamber-design/Argon%20MFC%20selection%20R04%20-%20500%20sccm.txt) | Owner-selected STEC SEC-4400MC-G2 Ar 500 sccm; calibration/interfaces pending |
 | Field | [Current assessment](../simulations/current-target-r06/README.md) | Saved FEM field sampled at the current target plane |
 | Explanations | [Current media](../media/README.md) | R06 STEP-derived views with current selections called out |
 
@@ -27,7 +27,7 @@ The authority for this snapshot is [design/current.json](../design/current.json)
 ## Known representation mismatches
 
 - The context RV3 shape is a legacy reference with an invalid solid. Procurement selects INDOVAC HV2-150. Its replacement geometry remains pending.
-- The MFC housing is a dimensional reference; owner selection is 200 sccm, with exact model and Ar calibration unconfirmed.
+- The legacy MFC housing is a dimensional reference. Current selection is STEC SEC-4400MC-G2 Ar 500 sccm. Fittings are accepted as compatible by the owner; PE-D20 with an owner-built perfboard adapter and shielded cable is selected. Exact G2 pin mapping, electrical checks, envelope and calibration remain to verify.
 - Chillers, power equipment, gauge housings and some fittings are representative. Final supplier dimensions, connectors and ratings need checking.
 - R06 native SolidWorks deliverable is the gun only. The full system is STEP context, not a native mated system assembly.
 - R04 and earlier videos describe older target/fitting geometry. The current library contains newly rendered R06 explanations instead.

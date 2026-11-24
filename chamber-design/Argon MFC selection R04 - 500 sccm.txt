@@ -1,0 +1,52 @@
+ARGON MFC - OWNER SELECTION R04
+25 November 2026
+
+SELECTED COMPONENT
+One STEC SEC-4400MC-G2, argon 500 sccm full scale, replaces the previous
+SEC-E440J / 200 sccm procurement selection. Owner-selected listing:
+https://www.ebay.com/itm/336158416300
+Seller: Old Stocks Europe. Listed USD329.00, new open box / NOS, with
+inspection certificate; listing specifies 1/4 inch ports and Ar gas.
+These are seller claims, not independent calibration or receipt evidence.
+The supplied screenshot says seller away until 29 November 2026.
+
+PROCUREMENT EFFECT
+AR03: USD329 x existing planning INR90/USD = INR29,610.
+Increase over previous USD318.06 selection: INR984.60.
+Argon subsystem: INR86,024. Equipment/installation: INR948,482.
+Freight/tax reserve unchanged INR70,000; 10% contingency INR94,848.20.
+Total planning budget: INR1,113,330.20. Recheck freight/tax and final quote.
+
+CONTROLLER, FITTINGS AND OWNER-BUILT INTERCONNECTION
+Owner accepts existing fitting compatibility. Retain VCR/KF25 and inlet fittings.
+Retain HORIBA STEC PE-D20: USD230.01 current listing (previous USD195.51
+sale allowance superseded), https://www.ebay.com/itm/174099551751.
+SEC-4400 family +/-15 V supply and analog interfaces support this selection.
+Set readout full scale to 500 sccm. No separate MFC power supply required.
+Owner will assemble a passive perfboard adapter with 2 m shielded cable.
+AR12 INR2500 existing allowance covers the complete assembly: perfboard,
+MFC mating D-sub 9-pin connector and M3 hardware, PE-D20 mating connector
+DDK 57-30240(R1), cable, enclosure, headers/terminals, fixings and strain relief.
+No branded SC-EDH cable purchase or separate duplicate cable charge.
+Confirm connector gender and exact SEC-4400MC-G2 pin mapping before wiring.
+Keep power/signal returns separate per manufacturer instructions. Continuity
+check all connections; measure unloaded supply voltage/polarity before MFC
+connection. This records an assembly plan, not a tested cable or final pinout.
+PE-D20 reference:
+https://static.horiba.com/fileadmin/Horiba/Semiconductor/Resources/Manual_Downloads/PE-D20_I031047100G.pdf
+
+LOW-FLOW QUALIFICATION
+Verify inspection certificate against nameplate, Ar calibration/standard
+conditions, valve leakage, pressure rating and intended low-flow operation.
+No CAD envelope or mounting dimensions changed from listing alone.
+Larger full scale supplies more flow headroom, but low-flow performance must
+be checked. Example only: 2-100% FS and +/-1% FS at 500 sccm would imply
+10-500 sccm and +/-5 sccm; these are NOT this unit's confirmed specifications.
+
+ILLUSTRATIVE PRESSURE CALCULATION
+Retain R03 0 C standard-flow reference, 20 C gas and Q=0.018124*flow_sccm.
+At 500 sccm: Q=9.062 mbar L/s. At illustrative effective speed 65 L/s,
+p=Q/S=0.1394 mbar, approximately104.6 mTorr. Actual installed Ar pumping
+speed is unverified. This is not a guaranteed or permitted operating point.
+Establish turbo gas-load, backing-pressure and drive limits before full flow.
+R01-R03 remain historical calculations; R04 controls current MFC selection.

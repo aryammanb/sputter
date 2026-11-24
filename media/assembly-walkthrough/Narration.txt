@@ -1,0 +1,110 @@
+Complete assembly
+This walkthrough uses the actual current R zero six CAD assembly. We will build up the chamber and follow the mechanical connections, keeping the sputter gun itself assembled.
+
+Chamber support frame
+The chamber sits on four risers above the system base plate. The lower ties connect the risers. This leaves space for the turbo underneath, while the frame carries the chamber load.
+
+Chamber shell
+The floor, three walls, roof and front loading frame form the welded chamber. Watch their mating edges come together. These are welded plates, so there are no invented shell fastening bolts.
+
+Chamber weld-on ports
+The bottom ISO sixty three neck receives the turbo. The roof K F twenty five neck receives the gun gland. Three rear connections serve gas and gauges; two right-side connections remain spare.
+
+Door, hinges & seal
+The door carries its own hinge leaves. They align with the fixed chamber barrels around the two vertical hinge pins. The door swings about that shared axis and closes against the front frame gasket.
+
+Viewport assembly
+At the front door, the gasket, glass and retaining bezel stack along the viewing axis. Six retainer screws enter the modeled blind holes in the door. The clear opening remains seventy millimetres.
+
+Baffle & substrate stage
+Inside the chamber, the deposition baffle seats over its two spacers and around the four stage posts. The removable stage then rests on those posts, with the substrate on top.
+
+Shutter screw & blade
+The bent shutter sits inside the chamber. Turning the top screw rotates the shutter blade above the substrate. The nuts stay fixed; they are not the operating handle. The washer and top seal also stay stationary.
+
+Compression fitting
+Here is the actual modeled gland assembly, separated into its body, tube seal, follower and threaded cap. The lower K F face seal and clamp form a different joint from the tube compression seal.
+
+Seat the fitting body
+Place the face seal between the roof flange and the fitting body. The body lowers onto that seal. The compression cap remains loose while the chamber-side joint is assembled.
+
+Secure the KF clamp
+The two clamp jaws swing around their modeled hinge and close around the mating flange rims. The wing nut secures the clamp. This fixes the gland body to the chamber roof.
+
+Feed the gun tube upward
+Feed the gun service tube upward through the loose gland, from the chamber side. The large gun head stays below the roof. This axial close-up shows the tube engagement, rather than claiming a complete handling path through the door.
+
+Set the gun height
+With the cap loose and the gun supported, the entire gun slides axially. The fixed gland body does not move. The modeled target to substrate range is seventy five to one hundred and fifty millimetres; here it returns to one hundred.
+
+Tighten the compression cap
+Hold the gun tube still while the cap turns clockwise, viewed from above, and advances down the body thread. The cap grips through the follower and tube seal. The tube does not turn with the cap.
+
+Compression fitting · section
+Only the fitting is sectioned here. The cap shoulder bears on the follower above the tube O ring. The lower K F face seal remains separate and stationary. The threads and seal seats shown are the existing CAD details; their dimensions still require purchased-part verification.
+
+Loosen, slide, retighten
+For repositioning, the cap loosens, the supported gun slides, and the cap tightens again. The K F clamp stays closed throughout. The modeled cap travel and number of turns illustrate the mechanism; they are not a specified tightening torque.
+
+Turbo inlet & face seal
+At the chamber underside, the ISO sixty three face seal sits between the chamber and turbo inlet flanges. The pump approaches along their common axis. The chamber stand carries the chamber independently.
+
+ISO63 claw clamps
+Four double-claw clamps engage the two flange rims. Their screws tighten while the pump and mating flanges stay fixed. These are the actual clamp and screw solids in the assembly.
+
+Foreline connections
+The turbo outlet is K F sixteen in this reference. An adapter takes it to the K F twenty five hose. Follow the hose to the backing pump inlet, where another face seal and split clamp complete the connection.
+
+Pirani & Penning connections
+The two lower rear ports receive K F elbows, then the gauge stems and bodies. Each flange joint has its own centering seal and split clamp. The elbows turn the gauges down, away from direct target exposure.
+
+Mass flow controller support
+The mass flow controller has a separate shelf and gussets at the rear. Its two mounting screws locate the flow body on that shelf, so the gas fitting does not have to serve as the controller support.
+
+MFC outlet to chamber
+The chamber-side K F joint carries the outlet adapter. Its female V C R nut meets the controller male outlet, with a metal gasket between the mating faces. Watch the gasket seat before the swivel nut advances.
+
+MFC inlet fittings
+At the inlet, the second V C R metal gasket sits between the controller face and the female adapter. That adapter carries the N P T to six millimetre push fitting. The fitting chain closes from the controller outward.
+
+Gas tube insertion
+The actual six millimetre tube slides into the push fitting collet. The CAD shows sixteen millimetres of engagement as an illustrative value. The purchased fitting determines the required insertion depth.
+
+Argon supply route
+The tube continues back to the regulator and argon cylinder. This is the existing CAD route into the controller inlet; the controller outlet then connects directly to the upper rear chamber port.
+
+Gun cooling connections
+The two external cooling lines continue from the existing gun hoses at the top of the stem. Follow the supply and return to the gun cooling unit. The gun stays assembled throughout this connection view.
+
+Turbo cooling connections
+The second cooling loop connects to the two cooler stubs on the turbo. The CAD preserves the separate supply and return route to its own cooling cabinet. The cabinet and hose endpoints are existing layout references.
+
+RF supply, matching & earth
+The RF cable runs from the source through the matching network, then to the gun coax at the top of the stem. The separate protective earth lead bonds the system structure. Follow the modeled cable endpoints.
+
+Load the substrate
+The tool coats a substrate with a thin film of target material. After venting, open the door and place the substrate on the stage. The shutter is parked for access. Close the door before evacuation.
+
+Evacuate the chamber
+The closed chamber is evacuated through the bottom connection, turbo and backing pump. This is the actual pumping route in the CAD. Pressure measurement determines when the next process step can begin.
+
+Admit regulated argon
+Regulated argon enters through the mass flow controller and the upper rear chamber port. Gas admission and pumping establish the process conditions. The flow controller meters gas; the gauges measure chamber pressure.
+
+Shutter closed · target conditioning
+R F power sustains an argon discharge. Argon ions strike the target and eject target material. With the shutter closed, the blade intercepts that material above the substrate. The target can condition before the sample is exposed.
+
+Shutter screw · opening
+This top view temporarily hides the complete gun so the shutter movement is visible. Turn the top screw to swing the blade away from the substrate. The nuts stay fixed. This opens the path from the source to the sample.
+
+Shutter open · substrate coating
+With the shutter parked, sputtered target material reaches the substrate and builds a thin film. The source remains above the fixed stage. The shutter controls the coating interval without moving either the substrate or the gun.
+
+Shutter screw · closing
+Turn the screw back to bring the blade over the substrate; the nuts remain stationary. Closing the shutter ends direct exposure from the source. The source is then switched off before the controlled shutdown and vent sequence.
+
+Vent, open & unload
+After the source is off and the pumping system has completed its shutdown and vent sequence, open the door and remove the coated substrate. This completes the high-level cycle: load, evacuate, admit gas, condition, coat and unload.
+
+Complete assembly
+The assembly is now shown together: chamber, gun gland, stage, shutter, pumps, gas control, cooling and RF services. The gun remains complete. Purchased-equipment envelopes and unresolved supplier interfaces are retained exactly as they exist in the current CAD.

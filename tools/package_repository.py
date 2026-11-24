@@ -7,7 +7,7 @@ from pathlib import Path
 import hashlib, json, shutil
 
 ROOT=Path(__file__).resolve().parents[1]
-ROOTS=['chamber-design','advanced-tinkering-original','90 ARCHIVE - Earlier designs and working files']
+ROOTS=['chamber-design','advanced-tinkering-original','90 ARCHIVE - Earlier designs and working files','01 MAIN DESIGN - Updated Advanced Tinkering']
 EXT={'.py','.ps1','.csv','.json','.txt','.md','.step','.sldprt','.sldasm','.slddrw','.stl','.dxf','.npz','.msh','.log','.pdf','.svg','.html','.srt','.ffmeta','.ffmetadata','.bin'}
 SKIP={'node_modules','.git','__pycache__','browser-profile','browser-check','video','tools'}
 ZIP_NAMES={'Coolant fittings R06 - SolidWorks CAD package.zip','CB01 supplier handoff.zip','Stage and shutter - local fabrication.zip'}
@@ -26,18 +26,28 @@ def selected(path):
     if path.suffix=='.bin' and path.name not in {'mesh.bin','actual-assembly-mesh.bin','fitting-mesh.bin'}:return False
     return True
 
+def media_payload(path):
+    rel = path.relative_to(ROOT/'media')
+    if 'render' in rel.parts:
+        return False
+    # Retain finished exports, scripts' metadata and contact sheets, not frame QA.
+    if path.suffix.lower() in {'.jpg', '.png'} and len(rel.parts) > 1:
+        return 'contact-sheet' in path.name or path.name == '8x-qa.jpg'
+    return path.suffix.lower() not in {'.wav', '.tmp'}
+
+
 def main():
     support=ROOT/'procurement/support';support.mkdir(parents=True,exist_ok=True)
     source=ROOT/'outputs/01a209eb-c119-74d1-bef5-c610f57d428f'
     for name in ['gun_procurement_data.json','Target thickness interface check.json','EXDC80 80V manual.pdf','Mean Well NPP-450 specification.pdf']:
-        if (source/name).exists():shutil.copy2(source/name,support/name)
+        if (source/name).exists() and not (support/name).exists():shutil.copy2(source/name,support/name)
     files=[]
     for folder in ROOTS:
         files.extend(p for p in (ROOT/folder).rglob('*') if p.is_file() and selected(p))
     for folder in ['docs','design','procurement','media','simulations','tools','.github','validation']:
         if (ROOT/folder).exists():
-            files.extend(p for p in (ROOT/folder).rglob('*') if p.is_file() and not any(x in p.relative_to(ROOT).parts for x in ['.work','__pycache__']) and p.name not in ['file-manifest.json','local-stage-paths.txt','repository-check.json','media-check.json','cad-check.json'])
-    for name in ['README.md','CHANGELOG.md','.gitignore','.gitattributes','requirements-engineering.txt']:
+            files.extend(p for p in (ROOT/folder).rglob('*') if p.is_file() and not any(x in p.relative_to(ROOT).parts for x in ['.work','__pycache__']) and (folder != 'media' or media_payload(p)) and p.name not in ['file-manifest.json','local-stage-paths.txt','repository-check.json','media-check.json','cad-check.json'])
+    for name in ['README.md','CHANGELOG.md','.gitignore','.gitattributes','requirements-engineering.txt','00 START HERE - Main design.txt','Sputter v2.pptx']:
         files.append(ROOT/name)
     files=sorted(set(files),key=lambda p:p.relative_to(ROOT).as_posix())
     for p in files:

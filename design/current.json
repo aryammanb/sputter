@@ -26,13 +26,13 @@
   ],
   "known_mismatches": [
     "Legacy RV3 context geometry is not selected INDOVAC HV2-150 backing pump",
-    "MFC envelope does not establish exact 200 sccm model/Ar calibration",
+    "Legacy MFC envelope does not establish SEC-4400MC-G2 dimensions; fittings accepted by owner, adapter wiring checks pending",
     "Chiller and power cabinet envelopes do not establish selected vendor dimensions",
     "Saved original magnetic results used 2 mm target; current assessment resamples at 3.175 mm target"
   ],
   "superseded": [
     "Root Windows shortcut guides are historical navigation, not current repository authority",
     "R04 videos and prior magnetron videos predate current target/fittings",
-    "Argon MFC R01/R02 range recommendations superseded by owner-selected 200 sccm R03"
+    "Argon MFC R01-R03 selections superseded by owner-selected STEC SEC-4400MC-G2 500 sccm R04"
   ]
 }

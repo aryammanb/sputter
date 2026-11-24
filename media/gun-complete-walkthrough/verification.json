@@ -1,0 +1,17 @@
+{
+  "duration_seconds": 1066.87,
+  "frames": 25605,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "chapters": 60,
+  "component_instances_covered": 141,
+  "silent_has_no_audio": true,
+  "narrated_has_audio": true,
+  "both_versions_have_identical_picture_streams": true,
+  "source_hash_matches": true,
+  "silent_bytes": 38469751,
+  "narrated_bytes": 49550985
+}

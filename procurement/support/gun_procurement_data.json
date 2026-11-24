@@ -1046,7 +1046,7 @@
       "Fixed stage/baffle supports"
     ]
   },
-  "partial_system_subtotal_INR": 944392.4,
+  "partial_system_subtotal_INR": 948482,
   "system_estimate_complete": true,
   "gun_mount_package": {
     "selected_ebay_url": "https://www.ebay.com/itm/198508082866",
@@ -1530,22 +1530,22 @@
       ]
     ],
     "price_source": "User estimates 24 Nov 2026",
-    "recorded_partial_subtotal_INR": 81934.4,
+    "recorded_partial_subtotal_INR": 86024,
     "GST_included": null,
     "cylinder_price_basis": null,
-    "MFC_tubing_fittings": "Selected items + local allowances; used-unit and flow-range qualifications pending",
+    "MFC_tubing_fittings": "Fitting compatibility accepted by owner. PE-D20 retained; owner-built perfboard adapter and shielded cable selected. Exact G2 pin mapping and assembly electrical checks pending.",
     "additional_rows": [
       [
         "AR03",
         "Argon mass flow controller",
-        "HORIBA STEC SEC-E440J; Ar200sccm; used",
+        "STEC SEC-4400MC-G2; Ar 500 sccm; new open box / NOS",
         1,
         "Online purchase",
-        "https://www.ebay.com/itm/206686435579",
-        "User selection; USD318.06 screenshot",
-        318.06,
+        "https://www.ebay.com/itm/336158416300",
+        "Owner selection 25 Nov 2026; listing USD329.00",
+        "329",
         "USD",
-        "Nameplate Ar200SCCM, N2CF1.385. Set readout full scale200sccm; do not multiply label flow again byCF. Verify actual male1/4VCR ports, inlet pressure and calibration."
+        "Seller lists Ar 500 sccm and inspection certificate. Fitting compatibility accepted by owner. Verify certificate, pressure rating and low-flow performance. Readout FS 500 sccm; shipping/taxes extra as applicable."
       ],
       [
         "AR04",
@@ -1557,7 +1557,7 @@
         "User selection; USD45.36 screenshot",
         45.36,
         "USD",
-        "Select exactKF25/1/4VCRFemale variant. Require complete female nut/gland assembly. ChamberKF25 clamp/centeringseal alreadyCB01. VCR metal gasket inAR07."
+        "KF25/1/4 VCR female adapter retained; fitting compatibility accepted by owner. Require complete female nut/gland. Chamber KF25 seal/clamp in CB01; fresh VCR gasket in AR07."
       ],
       [
         "AR05",
@@ -1569,7 +1569,7 @@
         "Recovered earlier selection; USD169.23 listing",
         169.23,
         "USD",
-        "Price from indexed supplier listing; direct page403. This is a BODY, not guaranteed complete femaleVCR connection; includeAR06 nut andAR07 gasket. Manufacturer:https://products.swagelok.com/en/c/straights/p/SS-4-WVCR-7-4"
+        "Inlet body retained; fitting compatibility accepted by owner. BODY only: AR06 nut and AR07 gasket needed. Manufacturer: https://products.swagelok.com/en/c/straights/p/SS-4-WVCR-7-4"
       ],
       [
         "AR06",
@@ -1634,26 +1634,26 @@
       [
         "AR11",
         "MFC power/setpoint/readout unit",
-        "HORIBA PE-D20; integrated+15/-15V supply and0-5V control",
+        "HORIBA STEC PE-D20; integrated +/-15 V supply, analog setpoint and readout",
         1,
         "Online purchase",
         "https://www.ebay.com/itm/174099551751",
-        "Assistant selected; observedUSD195.51 sale",
-        195.51,
+        "Retained selection; listing USD230.01 checked 25 Nov 2026",
+        230.01,
         "USD",
-        "Used listing observedUSD195.51 (regular230.01); recheck atorder. E440J manual explicitly listsPE-D20 andSC-EDH cable. SetFS200sccm; no extra standalonePSU or externalknob charged."
+        "Retain PE-D20 based on SEC-4400 family +/-15 V power and 0-5 V analog interface match. Set full scale to 500 sccm. Use owner-built AR12 adapter. Exact G2 pin mapping and assembled wiring to verify before power-up; no separate MFC PSU."
       ],
       [
         "AR12",
-        "MFC interconnection cable",
-        "SC-EDH compatible9-pin cable,2m",
+        "MFC perfboard adapter and shielded cable",
+        "Owner-built passive perfboard adapter; PE-D20 24-pin to MFC D-sub 9-pin; 2 m shielded cable",
         1,
-        "Custom vendor order",
-        "Local electronics/instrumentation cable vendor",
-        "Planning allowance; wiring specification pending",
+        "Owner assembly + local purchase",
+        "Local electronics shop: perfboard, mating connectors, shielded cable, enclosure and strain relief",
+        "Existing INR2500 allowance retained for complete adapter/cable assembly; actual costs pending",
         2500,
         "INR",
-        "Pin-to-pin map from exactHORIBA manuals, notgenericDB9 serialcable. MFC pins4 and7 separate returns joined atsource; +15V>=60mA,-15V>=150mA. IncludeM3 mating screws, shield andcontinuitytest. Check PE-D20 includes cable before ordering."
+        "Include perfboard, MFC mating D-sub 9-pin connector with M3 hardware, PE-D20 mating DDK 57-30240(R1), 2 m shielded multicore cable, enclosure, terminals/headers, fixings and strain relief. No branded SC-EDH purchase. Exact G2 pin mapping, connector gender, separate power/signal returns, continuity and unloaded supply polarity/voltage checks required before connection."
       ],
       [
         "AR13",
@@ -1680,16 +1680,17 @@
         "Use onNPT taperedjoint only, per fittinginstructions. VCRuses freshmetalgaskets; regulator sealingseat per supplier."
       ]
     ],
-    "recorded_subtotal_INR": 81934.4,
+    "recorded_subtotal_INR": 86024,
     "MFC_selection": {
-      "model": "HORIBA SEC-E440J",
+      "model": "STEC SEC-4400MC-G2",
       "gas": "Ar",
-      "full_scale_sccm": 200,
-      "url": "https://www.ebay.com/itm/206686435579",
-      "price_USD": 318.06,
-      "source": "Latest explicit user selection",
-      "ignition50mTorr": "Not established; separate R02 proposes300sccm fordirectpumping",
-      "control_unit": "HORIBA PE-D20 +SC-EDH-compatible cable"
+      "full_scale_sccm": 500,
+      "url": "https://www.ebay.com/itm/336158416300",
+      "price_USD": 329,
+      "source": "Owner selection 25 November 2026; seller listing and supplied screenshot",
+      "ignition50mTorr": "Not established; R04 illustrative calculation only",
+      "control_unit": "HORIBA STEC PE-D20; USD230.01 listing checked 25 November 2026; 500 sccm full scale",
+      "interconnection": "Owner-built perfboard adapter, PE-D20 24-pin DDK 57-30240(R1) mate to MFC D-sub 9-pin, 2 m shielded cable; exact G2 pin mapping to verify; complete assembly within INR2500 allowance"
     }
   },
   "cooling_packages": [
@@ -2206,7 +2207,7 @@
     "landed_cost_reserves_inr": 70000
   },
   "completion_basis": "Initial-build procurement planning: all known subsystems allocated with supplier or sourcing route. Allowances are not quotes; engineering release and performance qualification not complete.",
-  "total_planning_budget_INR": 1108831.6400000001,
+  "total_planning_budget_INR": 1113330.2,
   "contingency_rate": 0.1,
-  "contingency_INR": 94439.24
+  "contingency_INR": 94848.2
 }

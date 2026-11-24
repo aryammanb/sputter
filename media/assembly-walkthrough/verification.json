@@ -1,0 +1,17 @@
+{
+  "decode_passed": true,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frames": 14377,
+  "duration_seconds": 599.04,
+  "narration_present": true,
+  "subtitles": false,
+  "chapter_count": 37,
+  "source_hash_matches": true,
+  "mean_audio_db": -21.1,
+  "peak_audio_db": -0.3,
+  "bytes": 29629456
+}

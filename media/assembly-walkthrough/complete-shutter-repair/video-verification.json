@@ -1,0 +1,19 @@
+{
+  "duration_seconds": 239.61,
+  "frames": 14377,
+  "fps": 60,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "audio_tracks": 0,
+  "chapters": 37,
+  "shot_order_and_timing_unchanged": true,
+  "motion_verification": "Screw, nuts, washer and blade coupled; O-ring stationary and compressed. See motion-verification.json.",
+  "screw_rotation_witness_mark": true,
+  "review_times_seconds": [
+    48.0,
+    48.4,
+    49.1
+  ]
+}

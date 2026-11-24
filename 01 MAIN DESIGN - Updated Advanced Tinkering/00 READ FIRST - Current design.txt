@@ -1,0 +1,75 @@
+LATEST UPDATE - TARGET CLAMP R05 - 24 November 2026
+The main assembly/CAD/notes shortcuts now point to the revised gun for the VritraTech aluminium 2 inch x0.125 inch target. The full chamber assembly and revised part are in chamber-design/target-clamp-r05. Earlier video and magnetic results predate this target-thickness revision; read the R05 notes.
+
+PREVIOUS DESIGN GUIDE
+MAIN DESIGN - UPDATED ADVANCED TINKERING
+Latest update: twelve-stack design, 23 November 2026
+
+ARGON MFC SELECTION - 25 NOVEMBER 2026
+Owner selects STEC SEC-4400MC-G2 Ar 500 sccm MFC. Calibration/interfaces remain to verify.
+About42mTorr is a plausible ignition trial pressure, not a guaranteed
+strike threshold or a measured system pressure.50mTorr is not a universal
+minimum. Check installed pressure, low-flow accuracy and pump gas-load limits.
+Current selection and engineering assessment: ../chamber-design/Argon MFC selection R04 - 500 sccm.txt
+R01/R02 range recommendations are superseded. No CAD/layout change.
+
+PUMPING LAYOUT SELECTED - 24 NOVEMBER 2026
+    Chamber -> EXT70 -> one rotary vane pump suction. The direct arrangement
+    is the current baseline; no separate roughing bypass is selected.
+    Diagram-only reference: ../chamber-design/plumbing-reference/
+    Vacuum plumbing - flowcharts only.png (Option A).
+
+01 Latest updated design - twelve-stack
+    Main assembly STEP (141 component instances), CAD ZIP, narrated changes,
+    design notes, component change register and geometry verification.
+02 Magnetic simulation and copper joint
+    Simulation assessment, model/results, narrated field assessment and the
+    newer copper-joint explanation. The bonding lands are a proposed next
+    machining revision, not completed geometry in the main STEP.
+03 R03 baseline - previous combined design
+    Earlier 129-component combined assembly and full exploded walkthrough.
+    Used as the baseline for the latest twelve-stack update.
+
+04 Chamber purchased parts and references.csv
+    Supplemental chamber parts list, including items not modeled in the gun.
+    CH-001: use Lesker QF25XVC100 as the reference for the KF25 / 1-inch tube
+    compression feedthrough; planned purchase is eBay item 198508082866.
+    The eBay fitting's manufacturer/model and exact dimensions are unconfirmed.
+
+FULL SYSTEM R03 - 24 NOVEMBER 2026
+    See ../chamber-design/full-system-r03 for the latest complete-system CAD
+    and integrated walkthrough. Includes EXT70 exterior/ISO63 clamps, KF25
+    foreline hose, supplier RV3 pump model, rear gauges, and the MFC adapter
+    chain through the6 mm push fitting. Gun-height animation is integrated.
+    This supersedes R01/R02 as the complete-system layout reference.
+    Supplier RV3 topology issue and unverified reference envelopes are noted.
+
+COMPRESSION FITTING R02 - EARLIER STANDALONE REVIEW
+    See ../chamber-design/compression-fitting-r02 for the separate body,
+    helical threaded cap, follower, O-ring and opening KF clamp, plus updated
+    full chamber STEP states and a standalone assembly/adjustment animation.
+    Thread/seat/clamp details are illustrative pending purchased hardware.
+    The R01 full narrated walkthrough is unchanged, pending this review.
+
+COMPLETE CHAMBER R01 - 24 NOVEMBER 2026
+    See ../chamber-design/complete-chamber-r01 for the full chamber assembly,
+    door-open and door-closed STEP states, dimensioned narrated walkthrough,
+    separate bent shutter, stage, top plate and turbo flange, plus checks.
+    This supersedes the isolated top-plate layout as the chamber reference.
+    Mechanical concept; supplier sealing interfaces and pressure sizing remain
+    to verify. Gun source CAD is unchanged.
+
+EARLIER CHAMBER TOP PLATE CONCEPT
+    See ../chamber-design/top-plate-r01 for the preliminary drawing and STEP
+    roof/neck models. The full 25.4 mm tube passage through the KF25 flange
+    and centering seal remains unresolved; this is not a fabrication release.
+
+CAD and supporting-media entries are Windows shortcuts to the preserved source files under
+advanced-tinkering-original. Edit those originals through the shortcuts.
+The historical source-folder name does not identify the current revision.
+The latest mechanical notes predate the subsequent magnetic simulation;
+consult the linked simulation assessment for that later work.
+
+See the root "00 START HERE - Main design.txt" for the full folder guide.
+Organization manifest.json records source paths and archive moves.
+

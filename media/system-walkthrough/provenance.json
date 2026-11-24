@@ -1,0 +1,121 @@
+{
+  "source": "chamber-design\\coolant-fitting-r06\\Complete sputter system R06.step",
+  "source_sha256": "971f43bbf35aac5e4eeb17a2b6edb6c5199202011bafa2bf4becddfdcac4720f",
+  "resolution": [
+    1440,
+    810
+  ],
+  "fps": 24,
+  "duration_seconds": 131,
+  "audio": false,
+  "subtitles": false,
+  "gun_internal_disassembly": false,
+  "chapters": [
+    {
+      "label": "Sputter system",
+      "start_seconds": 0,
+      "duration_seconds": 7
+    },
+    {
+      "label": "Support frame",
+      "start_seconds": 7,
+      "duration_seconds": 5
+    },
+    {
+      "label": "Vacuum chamber",
+      "start_seconds": 12,
+      "duration_seconds": 6
+    },
+    {
+      "label": "Loading door",
+      "start_seconds": 18,
+      "duration_seconds": 8
+    },
+    {
+      "label": "Viewport",
+      "start_seconds": 26,
+      "duration_seconds": 5
+    },
+    {
+      "label": "Substrate stage",
+      "start_seconds": 31,
+      "duration_seconds": 7
+    },
+    {
+      "label": "Pump baffle",
+      "start_seconds": 38,
+      "duration_seconds": 5
+    },
+    {
+      "label": "Sputter gun",
+      "start_seconds": 43,
+      "duration_seconds": 8
+    },
+    {
+      "label": "Rotary shutter",
+      "start_seconds": 51,
+      "duration_seconds": 7
+    },
+    {
+      "label": "Turbo pump",
+      "start_seconds": 58,
+      "duration_seconds": 8
+    },
+    {
+      "label": "Backing pump & foreline",
+      "start_seconds": 66,
+      "duration_seconds": 7
+    },
+    {
+      "label": "Pressure gauges",
+      "start_seconds": 73,
+      "duration_seconds": 7
+    },
+    {
+      "label": "Argon supply",
+      "start_seconds": 80,
+      "duration_seconds": 6
+    },
+    {
+      "label": "Mass flow controller",
+      "start_seconds": 86,
+      "duration_seconds": 8
+    },
+    {
+      "label": "Spare vacuum ports",
+      "start_seconds": 94,
+      "duration_seconds": 5
+    },
+    {
+      "label": "Gun cooling loop",
+      "start_seconds": 99,
+      "duration_seconds": 7
+    },
+    {
+      "label": "Turbo cooling loop",
+      "start_seconds": 106,
+      "duration_seconds": 7
+    },
+    {
+      "label": "RF supply & matching network",
+      "start_seconds": 113,
+      "duration_seconds": 7
+    },
+    {
+      "label": "Protective earth",
+      "start_seconds": 120,
+      "duration_seconds": 4
+    },
+    {
+      "label": "Sputter system",
+      "start_seconds": 124,
+      "duration_seconds": 7
+    }
+  ],
+  "notes": [
+    "Assembly-level CAD illustration; docking offsets are illustrative, not a service procedure.",
+    "RV3 backing pump is historical reference geometry; selected pump is INDOVAC HV2-150.",
+    "MFC and utility cabinets are reference envelopes; exact vendor geometry is pending.",
+    "Door rotates about modeled hinge axis; shutter rotates about modeled shaft."
+  ]
+}

@@ -23,7 +23,7 @@ def main():
         writer=csv.writer(f);writer.writerow(['instance','group','role','source_name','solid_count','valid','volume_mm3','note'])
         for i,q in enumerate(register,1):writer.writerow([i,q['group'],q['role'],q['name'],q['solid_count'],q['valid'],q['volume_mm3'],q['note']])
     assessment=json.loads((ROOT/'simulations/current-target-r06/assessment.json').read_text())['current']
-    manifest={'snapshot_date':'2026-11-24','design_status':'Nominal mechanical and procurement study; not a fabrication/operation release','gun_revision':'R06','target_clamp_revision':'R05','system_layout_revision':'R04 with R05/R06 gun integration','selected_target':{'material':'Al 99.99%','diameter_mm':50.8,'thickness_mm':3.175},'current_files':{'gun_step':R06+'Magnetron R06.step','system_step':R06+'Complete sputter system R06.step','native_gun':R06+'SolidWorks R06/Magnetron R06 - M5 coolant fittings.SLDASM','native_package':R06+'Coolant fittings R06 - SolidWorks CAD package.zip','procurement':'procurement/Sputter system procurement.xlsx','chamber_supplier_scope':'chamber-design/chamber-supplier-package/CB01 frozen layout and supplier scope.txt','field_assessment':'simulations/current-target-r06/assessment.json','media_provenance':'media/provenance.json'},'current_media':['media/01-current-system.mp4','media/02-current-gun.mp4','media/03-current-field-and-evidence.mp4'],'known_mismatches':['Legacy RV3 context geometry is not selected INDOVAC HV2-150 backing pump','MFC envelope does not establish exact 200 sccm model/Ar calibration','Chiller and power cabinet envelopes do not establish selected vendor dimensions','Saved original magnetic results used 2 mm target; current assessment resamples at 3.175 mm target'],'superseded':['Root Windows shortcut guides are historical navigation, not current repository authority','R04 videos and prior magnetron videos predate current target/fittings','Argon MFC R01/R02 range recommendations superseded by owner-selected 200 sccm R03']}
+    manifest={'snapshot_date':'2026-11-24','design_status':'Nominal mechanical and procurement study; not a fabrication/operation release','gun_revision':'R06','target_clamp_revision':'R05','system_layout_revision':'R04 with R05/R06 gun integration','selected_target':{'material':'Al 99.99%','diameter_mm':50.8,'thickness_mm':3.175},'current_files':{'gun_step':R06+'Magnetron R06.step','system_step':R06+'Complete sputter system R06.step','native_gun':R06+'SolidWorks R06/Magnetron R06 - M5 coolant fittings.SLDASM','native_package':R06+'Coolant fittings R06 - SolidWorks CAD package.zip','procurement':'procurement/Sputter system procurement.xlsx','chamber_supplier_scope':'chamber-design/chamber-supplier-package/CB01 frozen layout and supplier scope.txt','field_assessment':'simulations/current-target-r06/assessment.json','media_provenance':'media/provenance.json'},'current_media':['media/01-current-system.mp4','media/02-current-gun.mp4','media/03-current-field-and-evidence.mp4'],'known_mismatches':['Legacy RV3 context geometry is not selected INDOVAC HV2-150 backing pump','Legacy MFC envelope does not establish SEC-4400MC-G2 dimensions; fittings accepted by owner, adapter wiring checks pending','Chiller and power cabinet envelopes do not establish selected vendor dimensions','Saved original magnetic results used 2 mm target; current assessment resamples at 3.175 mm target'],'superseded':['Root Windows shortcut guides are historical navigation, not current repository authority','R04 videos and prior magnetron videos predate current target/fittings','Argon MFC R01-R03 selections superseded by owner-selected STEC SEC-4400MC-G2 500 sccm R04']}
     write('design/current.json',json.dumps(manifest,indent=2))
     write('README.md',f'''
 # Sputter deposition system
@@ -71,9 +71,9 @@ All three are freshly rendered explanations of the current snapshot, with synthe
 | Magnetic circuit | 2 × D20 × 10 N42 centre; 12 outer stacks of 2 × D6 × 10 N42 on PCD58 |
 | Gun coolant fitting | 2 × SMC KQG2S04-M5; gasket sealing remains to qualify |
 | Pumping selection | Chamber → EXT70 / EXDC80 → INDOVAC HV2-150; direct foreline |
-| MFC selection | 200 sccm full scale; exact model/Ar calibration unconfirmed |
+| MFC selection | STEC SEC-4400MC-G2; Ar 500 sccm; calibration/interfaces to verify |
 | RF source selection | Omicron 200 W supply + matching network; provisional procurement basis |
-| Planning budget | INR 1,108,831.64, including allowances, reserve and contingency; not a supplier quotation |
+| Planning budget | INR 1,113,330.20, including allowances, reserve and contingency; not a supplier quotation |
 
 ## Evidence boundaries
 
@@ -83,7 +83,7 @@ The original nonlinear FEM study assumed a 2 mm nonmagnetic target. The new asse
 
 ## Repository contents
 
-`design/` selects the current artifacts. `docs/` explains design and evidence. `procurement/` contains the unchanged workbook and readable exports. `media/` contains current rendered explanations. `simulations/` contains the current-plane assessment. `chamber-design/` and `advanced-tinkering-original/` preserve the engineering sources at their original relative paths. `90 ARCHIVE - Earlier designs and working files/` preserves earlier studies for traceability.
+`design/` selects the current artifacts. `docs/` explains design and evidence. `procurement/` contains the current procurement workbook and readable exports. `media/` contains current rendered explanations. `simulations/` contains the current-plane assessment. `chamber-design/` and `advanced-tinkering-original/` preserve the engineering sources at their original relative paths. `90 ARCHIVE - Earlier designs and working files/` preserves earlier studies for traceability.
 
 Historical directory names and filenames containing “Current” do not override [design/current.json](design/current.json). Start with that selection and this README. Original notes are retained as dated evidence and can contain superseded selections.
 
@@ -102,7 +102,7 @@ The authority for this snapshot is [design/current.json](../design/current.json)
 | Target/clamp | {link('R05 notes',R05+'READ FIRST - Clamp R05.txt')} | D50.8 × 3.175 target, revised shoulder/lip, M3×10 screws |
 | Chamber supplier handoff | {link('CB01 scope','chamber-design/chamber-supplier-package/CB01 frozen layout and supplier scope.txt')} | Frozen interfaces and single vendor package; quote/manufacturing release pending |
 | Procurement | [Workbook](../procurement/Sputter%20system%20procurement.xlsx) | Latest saved selections and planning allowances |
-| Gas selection | {link('MFC R03','chamber-design/Argon MFC selection R03 - 200 sccm.txt')} | Owner-selected 200 sccm; model/calibration pending |
+| Gas selection | {link('MFC R04','chamber-design/Argon MFC selection R04 - 500 sccm.txt')} | Owner-selected STEC SEC-4400MC-G2 Ar 500 sccm; calibration/interfaces pending |
 | Field | [Current assessment](../simulations/current-target-r06/README.md) | Saved FEM field sampled at the current target plane |
 | Explanations | [Current media](../media/README.md) | R06 STEP-derived views with current selections called out |
 
@@ -119,7 +119,7 @@ The authority for this snapshot is [design/current.json](../design/current.json)
 ## Known representation mismatches
 
 - The context RV3 shape is a legacy reference with an invalid solid. Procurement selects INDOVAC HV2-150. Its replacement geometry remains pending.
-- The MFC housing is a dimensional reference; owner selection is 200 sccm, with exact model and Ar calibration unconfirmed.
+- The legacy MFC housing is a dimensional reference. Current selection is STEC SEC-4400MC-G2 Ar 500 sccm. Fittings are accepted as compatible by the owner; PE-D20 with an owner-built perfboard adapter and shielded cable is selected. Exact G2 pin mapping, electrical checks, envelope and calibration remain to verify.
 - Chillers, power equipment, gauge housings and some fittings are representative. Final supplier dimensions, connectors and ratings need checking.
 - R06 native SolidWorks deliverable is the gun only. The full system is STEP context, not a native mated system assembly.
 - R04 and earlier videos describe older target/fitting geometry. The current library contains newly rendered R06 explanations instead.
@@ -137,7 +137,7 @@ The adjustable magnetron points down toward a fixed substrate stage inside a nom
 ```mermaid
 flowchart LR
   Ar[Argon cylinder] --> Reg[Regulator / isolation]
-  Reg --> MFC[200 sccm MFC]
+  Reg --> MFC[500 sccm Ar MFC]
   MFC --> C[12 L chamber]
   C --> T[EXT70 turbo / EXDC80]
   T --> B[INDOVAC HV2-150 backing pump]
@@ -252,9 +252,9 @@ Actual coolant flow at installed head, pressure limits, heat transfer, target co
 
 The selected route is chamber → EXT70 → one rotary vane pump, with no separate roughing bypass. Procurement selects INDOVAC HV2-150. The RV3 solid in context remains a legacy reference and has a known topology defect. The turbo exterior is reconstructed reference geometry; the outlet adapter depends on the actual received port.
 
-The owner-selected MFC range is 200 sccm. Exact model, gas calibration, valve/interface configuration and low-flow accuracy remain to verify. For the recorded 0 °C standard flow reference and 20 °C gas assumption, throughput is `Q = 0.018124 × flow_sccm` mbar·L/s. At 200 sccm, Q≈3.6248 mbar·L/s. With effective speed 65 L/s, p≈41.83 mTorr. The 65 L/s example uses an N2 rating; actual installed Ar pumping speed is unverified. Pressure follows installed speed, conductance and gas load, and must be measured.
+The owner-selected MFC is STEC SEC-4400MC-G2, listed for Ar 500 sccm. Gas calibration, valve/interface configuration and low-flow accuracy remain to verify. For the recorded 0 °C standard flow reference and 20 °C gas assumption, throughput is `Q = 0.018124 × flow_sccm` mbar·L/s. At 500 sccm, Q≈9.062 mbar·L/s. With effective speed 65 L/s, p≈104.6 mTorr. The 65 L/s example uses an N2 rating; actual installed Ar pumping speed is unverified. Pressure follows installed speed, conductance and gas load, and must be measured.
 
-About 42 mTorr is an ignition trial idea, not an established threshold or a guaranteed maximum. Turbo gas load, backing pressure and drive power limits must be checked before commanding full flow. Consider low-flow accuracy at intended deposition flows. Evidence: {link('MFC R03 engineering assessment','chamber-design/Argon MFC selection R03 - 200 sccm.txt')} and procurement tabs 05/07.
+The earlier 42 mTorr ignition trial idea remains unqualified. The new 500 sccm range adds flow headroom; it does not establish an ignition threshold or an allowable full-flow operating point. Turbo gas load, backing pressure and drive power limits must be checked before commanding full flow. Consider low-flow accuracy at intended deposition flows. Evidence: {link('MFC R04 engineering assessment','chamber-design/Argon MFC selection R04 - 500 sccm.txt')} and procurement tabs 05/07.
 
 ## Chamber, window, stage and mounting
 
@@ -289,7 +289,7 @@ Dates identify the supplied project snapshot, not a claim that a part was ordere
 | D08 | Direct turbo-to-backing route | Current selected one-pump topology; no separate roughing bypass. | MFC R03 and plumbing reference |
 | D09 | EXT70/EXDC80 two-pump lot | One installed, one spare; selected 80 V supply recorded separately. | Procurement tab 05 |
 | D10 | INDOVAC HV2-150 backing pump | Local sourcing selection; old RV3 model remains reference only. | Procurement tab 05 |
-| D11 | 200 sccm MFC | Owner selection supersedes R01/R02 range recommendations; Ar calibration and low-flow qualification pending. | MFC R03 |
+| D11 | STEC SEC-4400MC-G2, Ar 500 sccm MFC | Owner selection supersedes R01-R03; fittings accepted by owner, PE-D20 retained and perfboard adapter selected; exact wiring, calibration and low-flow checks pending. | MFC R04 |
 | D12 | Independent gun/turbo cooling loops | Separate flow/temperature duties and planned isolation checks. | Procurement tabs 08/09 |
 | D13 | 200 W RF source + matcher | Current source selection supersedes earlier 300 W operating idea; old cooling basis retained. | Procurement tab 10 |
 | D14 | Viewport centre Z105 | Improves sampled sightlines below the target; does not predict glow or all-height visibility. | R04/R05 ray checks |
@@ -312,7 +312,7 @@ Dates identify the supplied project snapshot, not a claim that a part was ordere
 | Current target resampling | [Current results](../simulations/current-target-r06/README.md) | 3.175 mm target, 0.25 mm above face |
 | Geometry/interference | R05/R06 Boolean checks and native export/reference checks | Nominal CAD, classified thread overlaps |
 | Viewport ray tracing | R04/R05 sampled observation rings | Geometric sightlines at defined eyes/gaps |
-| Gas throughput / pressure | MFC R01–R03 calculations | R03 selection is current; actual effective Ar speed unknown |
+| Gas throughput / pressure | MFC R01–R04 calculations | R04 500 sccm selection is current; actual effective Ar speed unknown |
 
 ## Original magnetic model
 
@@ -453,9 +453,9 @@ Supplier CAD, manuals, catalogs and drawings remain third-party reference materi
 | Selected target/clamp | `chamber-design/target-clamp-r05/` notes and dimensional checks |
 | Chamber vendor scope | `chamber-design/chamber-supplier-package/` CB01 scope, interface schedule and source references |
 | Turbo/controller | Saved manual and procurement records; full-system supplier reference directory |
-| MFC dimensional reference | Saved HORIBA drawing and R03 selection note |
+| MFC dimensional reference | Legacy HORIBA drawing (reference only) and R04 500 sccm selection note |
 | Magnetic formulation/materials | Original `Simulation assessment.txt`, solver B-H data and requirements |
-| Procurement selections/quotes | Unchanged workbook, readable cell/CSV exports and selected support records |
+| Procurement selections/quotes | Current workbook, readable cell/CSV exports and selected support records |
 
 URLs in the original notes and workbook are recorded sourcing references as of the project work. This repository preparation does not reverify current seller availability, quotations, exchange rates or published specifications. Prices in the documentation are dated planning records.
 
@@ -491,7 +491,7 @@ R06 updates coolant fittings/backplate to SMC M5 hardware. R05 fits the 3.175 mm
     write('procurement/README.md',f'''
 # Procurement and cost plan
 
-**Snapshot: 24 November 2026.** [Original workbook](Sputter%20system%20procurement.xlsx) is preserved byte-for-byte. Its SHA-256 and export checks are in [export-report.json](export-report.json). The workbook is the source of procurement selections and saved planning values. These are not purchase orders, proof of receipt, or newly verified quotes.
+**Updated: 25 November 2026 (MFC selection).** [Current workbook](Sputter%20system%20procurement.xlsx) includes the owner-selected 500 sccm MFC and recalculated totals. Its SHA-256 and export checks are in [export-report.json](export-report.json). The workbook is the source of procurement selections and saved planning values. These are not purchase orders, proof of receipt, or newly verified quotes.
 
 ## Saved planning budget (INR)
 
@@ -501,10 +501,10 @@ R06 updates coolant fittings/backplate to SMC M5 hardware. R05 fits the 3.175 mm
 
 | Budget layer | Saved amount (INR) |
 |---|---:|
-| Equipment and installation | 944,392.40 |
+| Equipment and installation | 948,482.00 |
 | Freight, tax and clearance reserve | 70,000.00 |
-| Contingency, 10% of equipment/installation | 94,439.24 |
-| Total planning budget | **1,108,831.64** |
+| Contingency, 10% of equipment/installation | 94,848.20 |
+| Total planning budget | **1,113,330.20** |
 
 The budget includes provisional allowances. Do not add reserve twice to prices already including tax. Replace allowances with actual scope-matched quotes and freight/tax records when available. Supplier/contact information and sourcing links remain in the workbook and exports. No messages or orders were sent as part of this repository work.
 
@@ -514,7 +514,7 @@ The budget includes provisional allowances. Do not add reserve twice to prices a
 - Target: VritraTech Al99.99%, D50.8×3.175. R05 clamp and M3×10 screws retained.
 - Internal gun fittings: 2× SMC KQG2S04-M5, reflected in R06. Catalog-envelope geometry does not establish pressurized coolant-in-vacuum suitability.
 - Pumping: EXT70/EXDC80 lot, one installed and one spare; INDOVAC HV2-150 backing pump. RV3 remains an old CAD reference only. Selected driver supply is OWON SPM8205; exact driver compatibility and settings need verification.
-- MFC: owner-selected 200 sccm. Exact model, Ar calibration and actual vendor interface must be confirmed despite older HORIBA/model shorthand in saved notes.
+- MFC: owner-selected STEC SEC-4400MC-G2, Ar 500 sccm, USD329.00. Fittings accepted as compatible by owner. Retain PE-D20 at checked USD230.01; owner-built perfboard adapter and 2 m shielded cable replace branded SC-EDH purchase within the existing INR2,500 allowance. Verify exact G2 pin mapping, continuity and supply voltage/polarity before connecting; calibration and low-flow performance remain to qualify.
 - RF: provisional Omicron 200 W source plus matching network. The cooling plan's retained 300 W basis is not an operating power selection.
 - Gun/turbo cooling: separate loops with installed duty/flow/isolation qualification still pending.
 
@@ -524,7 +524,7 @@ The budget includes provisional allowances. Do not add reserve twice to prices a
 |---|---|---|
 {tabs}
 
-CSV values are the saved OOXML caches. A missing cache stays blank, not zero. Cell JSON preserves formula text and cached values separately. Exporting does not recalculate Excel, change formulas or verify native Excel behavior. Existing formatting, hyperlinks and styles remain in the unchanged XLSX; CSVs are data views.
+CSV values are the saved OOXML caches. A missing cache stays blank, not zero. Cell JSON preserves formula text and cached values separately. Exporting does not recalculate Excel, change formulas or verify native Excel behavior. Existing workbook layout and styles are retained; CSVs are data views.
 
 ## CAD and supplier records
 

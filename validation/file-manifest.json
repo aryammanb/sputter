@@ -18,6 +18,36 @@
       "sha256": "abf50865e5e11964656c38dc786337a7a89f5fd44141bf72959bd93b39d25676"
     },
     {
+      "path": "00 START HERE - Main design.txt",
+      "bytes": 2987,
+      "sha256": "01dbd3c0616973ce81a2f9e413c561ec12915001ef4901eadf0ce348d69a7efa"
+    },
+    {
+      "path": "01 MAIN DESIGN - Updated Advanced Tinkering/00 READ FIRST - Current design.txt",
+      "bytes": 4528,
+      "sha256": "c33e31f7f6deaf2fb88cf6f558b2ab46ac59a0f50a0576677907a6fcb4c8dbd3"
+    },
+    {
+      "path": "01 MAIN DESIGN - Updated Advanced Tinkering/04 Chamber purchased parts and references.csv",
+      "bytes": 1032,
+      "sha256": "3678871e9e3f8b8a767de202bee8d3b5ef43bb131f18b344f471c05dae10f4ba"
+    },
+    {
+      "path": "01 MAIN DESIGN - Updated Advanced Tinkering/05 Latest target clamp R05.txt",
+      "bytes": 508,
+      "sha256": "632f9db1fbff562a01d94460cc621eb9824b6e6de21aba1410e84d18fc5d3e39"
+    },
+    {
+      "path": "01 MAIN DESIGN - Updated Advanced Tinkering/06 Latest coolant fittings R06.txt",
+      "bytes": 662,
+      "sha256": "7e2da123f40b6a0189fd223337aa72b3cde08bef98a4ebfbff1c70fc609898cf"
+    },
+    {
+      "path": "01 MAIN DESIGN - Updated Advanced Tinkering/Organization manifest.json",
+      "bytes": 19252,
+      "sha256": "705ef489d7deea52bedf1472b356dfed38f33a9e09a702ba64658917cdaea7b1"
+    },
+    {
       "path": "90 ARCHIVE - Earlier designs and working files/.export-r06-video.ps1",
       "bytes": 2031,
       "sha256": "de104aa1f6bb4c4d236b07e59fa84eeb882c7f5b0813e604c30c2e333fd39ecf"
@@ -2954,8 +2984,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 5469,
-      "sha256": "50175de124d618eeb39809d780f236a0301b97bdaeffac7ca15234e6be8c1858"
+      "bytes": 5485,
+      "sha256": "f0a26fe27ed26869ece0175be3234745e48e344d18727ad7077c7c2fba73af77"
+    },
+    {
+      "path": "Sputter v2.pptx",
+      "bytes": 49738989,
+      "sha256": "d0e0ac0e9ff61f36c6782a2c77d241e3d9c5619a593368877afc33ecfcad0549"
     },
     {
       "path": "advanced-tinkering-original/00 SOURCE WORKSPACE - Read first.txt",
@@ -5356,6 +5391,11 @@
       "path": "chamber-design/Argon MFC selection R03 - 200 sccm.txt",
       "bytes": 4152,
       "sha256": "71de2ed64730af7a79d6347450e30c991c92f446a6855ba97c17806a4348e9c3"
+    },
+    {
+      "path": "chamber-design/Argon MFC selection R04 - 500 sccm.txt",
+      "bytes": 3105,
+      "sha256": "985365b668092fa734dfe52685b2bc2a9f6d73dc3e79d4dd3970124036b3853f"
     },
     {
       "path": "chamber-design/Argon MFC sizing and specification R01.txt",
@@ -9534,8 +9574,8 @@
     },
     {
       "path": "design/current.json",
-      "bytes": 1919,
-      "sha256": "2f2538a07a830d79b30c23c4e979c5c5a9d2e69ae23f72190653e0c3fe216f0b"
+      "bytes": 1982,
+      "sha256": "30ef4c7fc8556df098157acbb908baf2c0c9b675e126d0d74e2ab6a61b445f95"
     },
     {
       "path": "docs/cad.md",
@@ -9544,18 +9584,18 @@
     },
     {
       "path": "docs/current-design.md",
-      "bytes": 3957,
-      "sha256": "8200aaabd59c0d8c20a80793173271ff7940c125f265b722167daa922f28c196"
+      "bytes": 4177,
+      "sha256": "99340b0f2931048e9609b80ca61028332a8195441add31af86350fe7c73064c5"
     },
     {
       "path": "docs/decisions.md",
-      "bytes": 3099,
-      "sha256": "e09d26a38e14c4e983e86e0b44cb8d37a3b28e5f35883d161cef71c54d90ee84"
+      "bytes": 3180,
+      "sha256": "cfe278a0ea7e609f83bffe0e334efc0fbb4bb16bd9e3182d6d9e4f77d6b45366"
     },
     {
       "path": "docs/engineering.md",
-      "bytes": 7829,
-      "sha256": "d80646711b21e18581d0a08b4bfbe7071cd3bc2bee5c5e817c51a73754227e0b"
+      "bytes": 7939,
+      "sha256": "881875b4477ab9114861275b945f474af3394c0d4ab1f1ab676d0bb2007456f7"
     },
     {
       "path": "docs/reproducibility.md",
@@ -9564,18 +9604,18 @@
     },
     {
       "path": "docs/simulations.md",
-      "bytes": 4783,
-      "sha256": "45b0262817e139b1826908b94842eda4ef5400dba151e6fd602639901b8bfeb3"
+      "bytes": 4792,
+      "sha256": "e63750871ad55fe0e7890a48f764cc829414c3a6bfd1fa383edb4a14eee12587"
     },
     {
       "path": "docs/sources.md",
-      "bytes": 2273,
-      "sha256": "324788e93a0c15b6aa70d09ffed1835454edba5f0acc0d9c70fbb3d1d8cf69c1"
+      "bytes": 2298,
+      "sha256": "a19333ce3ea5c74eea489a7f66eee6b90957b102a7c888a101fa5952bc2698a4"
     },
     {
       "path": "docs/system.md",
-      "bytes": 3109,
-      "sha256": "e106e1cb407416b08c5d69269929db6d3b4a177b7eb774429ea627baa4d3a5a2"
+      "bytes": 3112,
+      "sha256": "e1abc1a2aecf124b6f8bf6f6900db2d7db0da419ef276e759fdcfbe11e9e48ef"
     },
     {
       "path": "docs/verification.md",
@@ -9614,8 +9654,188 @@
     },
     {
       "path": "media/README.md",
-      "bytes": 1866,
-      "sha256": "28f9b1fa633427dac2aba8b264ea578c91a42dc85f2c527ced521f4c6e603b46"
+      "bytes": 3380,
+      "sha256": "831eccf0f0407ca1c1c8d723de7cb1644e025f08b5564b24aa61eb6428b6e503"
+    },
+    {
+      "path": "media/assembly-walkthrough/Assembly narration.txt",
+      "bytes": 6716,
+      "sha256": "ef6735608264e544556a594a657e19c1110a399dbf014092bdede17cf5807357"
+    },
+    {
+      "path": "media/assembly-walkthrough/Before shutter correction.mp4",
+      "bytes": 29576690,
+      "sha256": "61177f7c6256fd7b1f6e537c7a542d9e9f18ae9d81fd16a5fe01fa5c49e12e3f"
+    },
+    {
+      "path": "media/assembly-walkthrough/Narration.txt",
+      "bytes": 8722,
+      "sha256": "a82beb5e67ab3356f6aa1f07008d486b97a719dc9a412509e5befbf1391fc3f4"
+    },
+    {
+      "path": "media/assembly-walkthrough/README.md",
+      "bytes": 3614,
+      "sha256": "4c87102c792f203a93d471f29454b19703ddfb75a69a46598d0510959463980d"
+    },
+    {
+      "path": "media/assembly-walkthrough/Sputter R06 - assembly details.mp4",
+      "bytes": 24738631,
+      "sha256": "a7a2982f85c8bcba1894ee381bcce056365c73fcddd97448b6e237f556b9bc83"
+    },
+    {
+      "path": "media/assembly-walkthrough/Sputter R06 - corrected shutter.mp4",
+      "bytes": 29629456,
+      "sha256": "a7e034db93e2447feede391e9616f9a365b81af84c72c5ab7dc3daad9599f3c0"
+    },
+    {
+      "path": "media/assembly-walkthrough/Sputter R06 - mechanical assembly walkthrough.mp4",
+      "bytes": 29629456,
+      "sha256": "a7e034db93e2447feede391e9616f9a365b81af84c72c5ab7dc3daad9599f3c0"
+    },
+    {
+      "path": "media/assembly-walkthrough/Sputter R06 - silent 4 minute walkthrough v2.mp4",
+      "bytes": 16690964,
+      "sha256": "1799df1d3d601db7fc6fa4fb3afdfc8404154c9a39fd13e9b45aa775eba4e1d7"
+    },
+    {
+      "path": "media/assembly-walkthrough/Sputter R06 - silent 4 minute walkthrough.mp4",
+      "bytes": 16690964,
+      "sha256": "1799df1d3d601db7fc6fa4fb3afdfc8404154c9a39fd13e9b45aa775eba4e1d7"
+    },
+    {
+      "path": "media/assembly-walkthrough/assembly-contact-sheet.jpg",
+      "bytes": 365361,
+      "sha256": "778e2d37b43cc5a06cab5652db48e0386acac88e89ddc766683a65bd274ccbd1"
+    },
+    {
+      "path": "media/assembly-walkthrough/assembly-only-provenance.json",
+      "bytes": 5837,
+      "sha256": "b661fb04654686c3cb72fc1df69a919679719fc426841477300a5369a6a178a1"
+    },
+    {
+      "path": "media/assembly-walkthrough/before-shutter-correction.json",
+      "bytes": 7585,
+      "sha256": "989611dc0ce22e1ae29eb2a7406e14efef3b06d990edc9ab2c706e9205b2eef3"
+    },
+    {
+      "path": "media/assembly-walkthrough/compact-provenance.json",
+      "bytes": 8147,
+      "sha256": "567e771a61ec20126f19560f98327f41d9814fb8d88690e3c74a03d30621ce81"
+    },
+    {
+      "path": "media/assembly-walkthrough/compact-verification.json",
+      "bytes": 287,
+      "sha256": "36ed7aad3f431f0793f38e8da270f35e29938b58d715718f838946fb125c9b95"
+    },
+    {
+      "path": "media/assembly-walkthrough/complete-shutter-repair/Before complete shutter rotation.mp4",
+      "bytes": 18116608,
+      "sha256": "fc4beeacf5632643c8e2590ef7194091f01a813a3ed82798d81e563f781c6532"
+    },
+    {
+      "path": "media/assembly-walkthrough/complete-shutter-repair/Complete shutter rotation - silent.mp4",
+      "bytes": 2184809,
+      "sha256": "0c029f13d49f845f90fd8c111a94554fd617568d850cce07da1e50a7fd47e1dd"
+    },
+    {
+      "path": "media/assembly-walkthrough/complete-shutter-repair/before-compact-provenance.json",
+      "bytes": 7954,
+      "sha256": "a62e91eebe279598027cc0c697afe7e3328742832327bdf1135ef69ca73ad19f"
+    },
+    {
+      "path": "media/assembly-walkthrough/complete-shutter-repair/chapters.ffmeta",
+      "bytes": 3132,
+      "sha256": "13fa91f7657bba9e98ab9fd11543d24f6e6c8104a08c885691e8d47e636c62ba"
+    },
+    {
+      "path": "media/assembly-walkthrough/complete-shutter-repair/motion-verification.json",
+      "bytes": 2307,
+      "sha256": "b67c8d93e1e1b0b35cd145be9ee3f60ca9cfbf6e735d55b9b2943dd7bcdcda1e"
+    },
+    {
+      "path": "media/assembly-walkthrough/complete-shutter-repair/timing.json",
+      "bytes": 1057,
+      "sha256": "8b8e4b482c4f730f161bbf4c99ba5945a3f13db090dd6680bef2aa708e14825f"
+    },
+    {
+      "path": "media/assembly-walkthrough/complete-shutter-repair/video-verification.json",
+      "bytes": 438,
+      "sha256": "4d298381f7b2872ec08ea6cf8970f443cd911937b0061560441288a06c338afc"
+    },
+    {
+      "path": "media/assembly-walkthrough/encoded-assembly-contact-sheet.jpg",
+      "bytes": 480425,
+      "sha256": "e8646100d3c40fc974761ed711688533e65bdb08ff40d4e9361d80c8de4f5ee8"
+    },
+    {
+      "path": "media/assembly-walkthrough/operation/Narration.txt",
+      "bytes": 1961,
+      "sha256": "81ff2a316fa7c59b8d05e287b5c62aa37d14e99361ab71d525a11380c8533533"
+    },
+    {
+      "path": "media/assembly-walkthrough/operation/Sputter R06 - mechanical assembly walkthrough.mp4",
+      "bytes": 5982534,
+      "sha256": "97c819d6aba3721fe4e36f84fd6136988648caf846a459a3df1dfadbed767008"
+    },
+    {
+      "path": "media/assembly-walkthrough/operation/assembly-contact-sheet.jpg",
+      "bytes": 119466,
+      "sha256": "863ffca1ca5dc01668bd8089c43f87d4c5978837abc3903238d559690cb3e15a"
+    },
+    {
+      "path": "media/assembly-walkthrough/operation/provenance.json",
+      "bytes": 2439,
+      "sha256": "5130eafe5840008345fc30499e8882567c71787491d4173018937ace95574061"
+    },
+    {
+      "path": "media/assembly-walkthrough/operation/shots.json",
+      "bytes": 3587,
+      "sha256": "cacc8cb287c139f9441137fbac372a45520f76c968c84a29a6c8f59d61907524"
+    },
+    {
+      "path": "media/assembly-walkthrough/provenance.json",
+      "bytes": 7720,
+      "sha256": "8ee41c4365397aade26e9878fd123c01e0199b26975ec275c8ce733997847d3a"
+    },
+    {
+      "path": "media/assembly-walkthrough/shots.json",
+      "bytes": 12512,
+      "sha256": "3d4d1a42630b05dcd0cff0f4c5647a03add1ec991483b7bdc29cdfd7ed21b210"
+    },
+    {
+      "path": "media/assembly-walkthrough/shutter-repair/Narration.txt",
+      "bytes": 1485,
+      "sha256": "efac2762a25127cf4c58de697f36f3aa46733d146041da82011cca614b45b2f0"
+    },
+    {
+      "path": "media/assembly-walkthrough/shutter-repair/Sputter R06 - mechanical assembly walkthrough.mp4",
+      "bytes": 3844486,
+      "sha256": "2c82a8713edb2a58aa2b468ada8bea98e1db1c726cd3cad7f35b9127808bd0c1"
+    },
+    {
+      "path": "media/assembly-walkthrough/shutter-repair/assembly-contact-sheet.jpg",
+      "bytes": 80897,
+      "sha256": "b860e374623b73dcccd9c9ec784c3f3ad49408284e3836602b6f4c1351911cd5"
+    },
+    {
+      "path": "media/assembly-walkthrough/shutter-repair/motion-verification.json",
+      "bytes": 2330,
+      "sha256": "ba11995ffb36294c887b5e354d58cc3982dc67330352212f5640373c9202efa1"
+    },
+    {
+      "path": "media/assembly-walkthrough/shutter-repair/provenance.json",
+      "bytes": 2058,
+      "sha256": "5add8b72ba7d1edbd58dd6162b46f2ff03f02a4475748694c251d6cc1b15f27d"
+    },
+    {
+      "path": "media/assembly-walkthrough/shutter-repair/shots.json",
+      "bytes": 2714,
+      "sha256": "575dc7dbaf465a2d599a55395b5a2f7a33bde7612189faaf510f09b9f18206d4"
+    },
+    {
+      "path": "media/assembly-walkthrough/verification.json",
+      "bytes": 324,
+      "sha256": "ba9826580622eeeea3f9e2c6aef56e9ae784392d40d36187e542bb1e0f5c1e07"
     },
     {
       "path": "media/chamber.mp4",
@@ -9666,6 +9886,121 @@
       "path": "media/field.srt",
       "bytes": 1159,
       "sha256": "12e4710e8c6794807f2dafa5ba6a58d579e0f53a93aa0088002b3577c6816b57"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/8x-edit.json",
+      "bytes": 17321,
+      "sha256": "d0e4b26e916b4fda53929c4fffbaf4a38e6d2252c79ec48fc77e352b3ed6c585"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/8x-qa.jpg",
+      "bytes": 69549,
+      "sha256": "c6760d5a6757ea1c4557e9cfde5f48290042741e31cfd6eb7ca33f1f5f133cc2"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/8x-verification.json",
+      "bytes": 221,
+      "sha256": "3067bfe74c9413d6702408457e9d362c587ddf31df153b96f30b0f6ff960dc9f"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/Component coverage.csv",
+      "bytes": 29322,
+      "sha256": "cd5e5c76131c5731607aa516e2da7f55d606309461c36d206e5d4694bfbc79ec"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/Narration.txt",
+      "bytes": 16297,
+      "sha256": "28985781650d7c3bfb42cb1d23aed6454cc025dc5604b5a469be0237cce7a26a"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/R06 sputter gun - 8x faster silent walkthrough.mp4",
+      "bytes": 12148716,
+      "sha256": "6c413bc8f5a3f21217570331755f002fb8ba9cbb5c2c4d2c10894e0b583ef559"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/R06 sputter gun - complete narrated walkthrough.mp4",
+      "bytes": 49550985,
+      "sha256": "e6a535f0bb1f5ca43bdda1fa27c2a5eb183d8bce48927f915695e0abbfe5183a"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/R06 sputter gun - complete silent walkthrough.mp4",
+      "bytes": 38469751,
+      "sha256": "da4b8dd7d4d46d0ee3084f7ba90926fb8b00398c822e5accc06ba48c1e528de8"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/R06 sputter gun - slower compact walkthrough.mp4",
+      "bytes": 15257194,
+      "sha256": "e5c415d3834efeeab81a2bca452eea2840a664966d31667ecea4a68bf18c5020"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/README.md",
+      "bytes": 2827,
+      "sha256": "4eeab972b78a6ff1f08962f336a6464e44335634329b8cff9d08aeda8b925aed"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/coax-ground-explained.html",
+      "bytes": 9685,
+      "sha256": "7382f1ea1d75d428a6ebc09506f77af1988c19d87b844c961b0da3dbeeb05d70"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/component-coverage.json",
+      "bytes": 50732,
+      "sha256": "d39800146de7776b970b29df5c505323e784221e91f3dd0a90c5e41283a8e08c"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/contact-sheet.jpg",
+      "bytes": 788229,
+      "sha256": "39c7babcd18e8e5b90542ae1f88abf11568a2ff851771ac766b9461f6490e1a4"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/provenance.json",
+      "bytes": 11648,
+      "sha256": "2b87bfede8e92f292c67f6f2ed2ab1bc7c97bbc7ca7aee471b235232d0f5d2de"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/shots.json",
+      "bytes": 63483,
+      "sha256": "21a1c3648ad037e2dc820f9373e6535daa22d77ebe9b33f47fd112f0f5a66d14"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/slower-verification.json",
+      "bytes": 123,
+      "sha256": "3aea857c2c04204b6b72a5ad2bcbb578af817211770f631bbdc749ec56887dab"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/verification.json",
+      "bytes": 385,
+      "sha256": "138754633a610594f093e034ede9d6371ddb14b02d7fe67eb56dd0bf731f2fb4"
+    },
+    {
+      "path": "media/gun-large-exploded/R06 gun - large assembled to exploded 4K.mp4",
+      "bytes": 16149418,
+      "sha256": "cabc5c0bbf9ed7b580af802fab769b684ea92cf89c0a0270187c0ccfd0ba2c62"
+    },
+    {
+      "path": "media/gun-large-exploded/provenance.json",
+      "bytes": 26882,
+      "sha256": "fccea9f273a5051d2e1becd6635bf287720af0ec3b0408e9130e3ec532cf0c5f"
+    },
+    {
+      "path": "media/gun-large-exploded/verification.json",
+      "bytes": 195,
+      "sha256": "82fc1681fff8961eada08e0813856c2f5d7bc415d710672cfb290042c3e95a27"
+    },
+    {
+      "path": "media/gun-ordered-explosion/R06 gun - ordered axial explosion 4K.mp4",
+      "bytes": 7797045,
+      "sha256": "f25cd42092204dbc007acc86df0c8c709cf60b4439fffd7e45293d7b27533289"
+    },
+    {
+      "path": "media/gun-ordered-explosion/provenance.json",
+      "bytes": 20949,
+      "sha256": "66a9eacf57ab79987a06eb01e3949fd96e9268742de3e2ea30d91018afc74550"
+    },
+    {
+      "path": "media/gun-ordered-explosion/verification.json",
+      "bytes": 193,
+      "sha256": "530f9cc720604e2446a4a49b978b31ab8e173da9c9c1758c90b09f5c03b0ce15"
     },
     {
       "path": "media/gun.mp4",
@@ -9726,6 +10061,36 @@
       "path": "media/r06-view-mesh.npz",
       "bytes": 10360024,
       "sha256": "ae7e8f6a69395bc1f051a88d25d19cdfe451618a3c019d3b1a171945b3698997"
+    },
+    {
+      "path": "media/system-walkthrough/README.md",
+      "bytes": 1402,
+      "sha256": "7a18c9a5d9d66eff8ba37d6687dc8740c7ae1c9e0025ba1ee638a62a8d654bab"
+    },
+    {
+      "path": "media/system-walkthrough/Sputter system - silent CAD walkthrough.mp4",
+      "bytes": 5711684,
+      "sha256": "f9d91e783e9b535ea48f880f4d78e966d41c2685943f18ca99d07cc959fcb913"
+    },
+    {
+      "path": "media/system-walkthrough/contact-sheet.jpg",
+      "bytes": 130666,
+      "sha256": "6d9f7576e40dd61524d25d80f7b46e72d90e921bd4d7db7e437ca270316eb0f0"
+    },
+    {
+      "path": "media/system-walkthrough/encoded-contact-sheet.jpg",
+      "bytes": 138277,
+      "sha256": "3e834338bc921bccb9488f8294e0a6d6eb0fe8a22a7d375711f431342fffb584"
+    },
+    {
+      "path": "media/system-walkthrough/provenance.json",
+      "bytes": 2898,
+      "sha256": "1e27ad573dfb51feecffaa52acdff656af76d1ed4133c3149f29dfd2afac4a40"
+    },
+    {
+      "path": "media/system-walkthrough/verification.json",
+      "bytes": 229,
+      "sha256": "b930db34532f613a7952459f9e71d95c674acde326e726c89bd5e52cd01517c6"
     },
     {
       "path": "media/system.mp4",
@@ -9799,13 +10164,13 @@
     },
     {
       "path": "procurement/07-argon-and-flow-control.cells.json",
-      "bytes": 11151,
-      "sha256": "3e4c684e545b2e361670ccef9ba4565de9a0f4a6abff4f6b59e4aefbcb0c562f"
+      "bytes": 11725,
+      "sha256": "06b06079c9e806ec99665467f20a45c6676a467e24730b8f8d9b9bedab5745b7"
     },
     {
       "path": "procurement/07-argon-and-flow-control.csv",
-      "bytes": 6889,
-      "sha256": "e5eadc5efbfa836b7c1995ea2620f2338b99f60cf945b95eb0603430c2da5418"
+      "bytes": 7467,
+      "sha256": "27af58929186f5626664e81654b275bf5ff91bf230816bdedccf1d9e0056bd80"
     },
     {
       "path": "procurement/08-gun-water-cooling.cells.json",
@@ -9859,18 +10224,18 @@
     },
     {
       "path": "procurement/README.md",
-      "bytes": 5893,
-      "sha256": "3a03314ad1ef21817d01db580947bcf4c36bab53d9bfbba2cbec73e9ac488402"
+      "bytes": 6175,
+      "sha256": "79c35fa3f536ced38bcda9841b4b671349b19cb6c370b0f27b0409ef50962c07"
     },
     {
       "path": "procurement/Sputter system procurement.xlsx",
-      "bytes": 66097,
-      "sha256": "e35c767d488a1a7a59e3450c539a8d899a5813b82df458945ac9671ba4097a57"
+      "bytes": 66240,
+      "sha256": "8b200ac936c075262d6430fd898f70369e334163df7c245654b14fca0d27e416"
     },
     {
       "path": "procurement/export-report.json",
-      "bytes": 3495,
-      "sha256": "0dac022b1f467e96b96d46fc804452c3dad5c012abff662af59a553b84c3f9b4"
+      "bytes": 3583,
+      "sha256": "952de39223bae8ab422176db11941b365f70a66c172b262d742c4c67d791c27e"
     },
     {
       "path": "procurement/needs-your-input.cells.json",
@@ -9894,13 +10259,13 @@
     },
     {
       "path": "procurement/subsystems.cells.json",
-      "bytes": 10464,
-      "sha256": "f61f1edf6c5de4d47a32bb197fde1aa15cecc1260e5130f77034f7ee799bb747"
+      "bytes": 10512,
+      "sha256": "77333c84a3e185087e530d291a13ef24dd83f50c7dd35050f48754075fede242"
     },
     {
       "path": "procurement/subsystems.csv",
-      "bytes": 7112,
-      "sha256": "9326268e56c31e7a34df0b026eb20300b97df6b6f4fadebd9db87ff6f8b723b7"
+      "bytes": 7164,
+      "sha256": "29e6f47f91125ec62848bac22e82b9280449215f417ef16998e76dd4b6d500e8"
     },
     {
       "path": "procurement/support/EXDC80 80V manual.pdf",
@@ -9919,8 +10284,8 @@
     },
     {
       "path": "procurement/support/gun_procurement_data.json",
-      "bytes": 91168,
-      "sha256": "5557ec9163caf6fe16fa1aa58196cbc7ac2d4009d400e730419c7b4a057d2977"
+      "bytes": 91986,
+      "sha256": "e8ac1d7333abce410ad45693a5c71f6185120e07cd471063eca78f6ac26454cf"
     },
     {
       "path": "requirements-engineering.txt",
@@ -9953,14 +10318,39 @@
       "sha256": "a729a38c177582f6915a58c8268a23107db28edb0f955907834c59791fdeccbc"
     },
     {
+      "path": "tools/build_assembly_walkthrough.py",
+      "bytes": 35185,
+      "sha256": "c674ab5ebea393701d61689e22bb80d200144cc6404b9fdc484e08a009c2c153"
+    },
+    {
       "path": "tools/build_current_media.py",
       "bytes": 19022,
       "sha256": "3f79cf8993f5043082d81d5677671761229e475a6ecc8663a1eb40a195850a4d"
     },
     {
       "path": "tools/build_documentation.py",
-      "bytes": 53978,
-      "sha256": "8cbbc41b25a841ec2c74879ff6c80a471ab3c5b9d898cef3c204e077ce913acb"
+      "bytes": 54787,
+      "sha256": "f44c2da6c8a74f165bb77a6fce743405e3475d12edc879a6ea97c455dd90f5a6"
+    },
+    {
+      "path": "tools/build_gun_walkthrough.py",
+      "bytes": 43098,
+      "sha256": "27d0364806c9bbed44ad4601b468c4d01cf768fbbdfcb562921f0178aa0fbc22"
+    },
+    {
+      "path": "tools/build_large_gun_explosion.py",
+      "bytes": 5629,
+      "sha256": "eff95ee875a3b877f2fedf99529a26ef7cafe9f2db646b0a0e39976dd34be476"
+    },
+    {
+      "path": "tools/build_ordered_gun_explosion.py",
+      "bytes": 5363,
+      "sha256": "3dd0e4395792c13d11cc5418bd77fbc8a3b4ab5696d3d673a46682735b5d36ef"
+    },
+    {
+      "path": "tools/build_silent_walkthrough.py",
+      "bytes": 12964,
+      "sha256": "a9bb9d8565ae4c5e56ad7c15fe8c4535b479702c46a18619d5621487c5f3271a"
     },
     {
       "path": "tools/check_cad_media.py",
@@ -9973,14 +10363,54 @@
       "sha256": "23ce7d2ce87504966cbd1a6844b71cd1fe28ca2291c6db04854771060cb2874a"
     },
     {
+      "path": "tools/finish_gun_coax_views.py",
+      "bytes": 2880,
+      "sha256": "f4e9fe6f83faec1575f4ac2b0809a192ec0c9e0e766d23c5cf81fffc06709c27"
+    },
+    {
+      "path": "tools/integrate_compact_shutter.py",
+      "bytes": 3059,
+      "sha256": "ad6c174bc255e154625719cef6e68be077be20c74061033746a949e44db27b3a"
+    },
+    {
+      "path": "tools/integrate_operation_walkthrough.py",
+      "bytes": 3391,
+      "sha256": "baa976e7c3c510549c9b4c8afcb391b543a260e7065a9c7b78fd7c6ed6b38d42"
+    },
+    {
+      "path": "tools/integrate_shutter_correction.py",
+      "bytes": 3352,
+      "sha256": "f0d79f56a809b25513198016d4474837e9af180b0698860e3fa385c455f77d4f"
+    },
+    {
+      "path": "tools/make_compact_walkthrough.py",
+      "bytes": 2603,
+      "sha256": "b7fdcbe1cbdf2863074860d4c8730c1d2987e4441756537795f247b1f829312c"
+    },
+    {
       "path": "tools/package_repository.py",
-      "bytes": 4132,
-      "sha256": "3e50eb2d43cfd5272f859329172a2c0789f0ccf4ed225f337cab74d82be53b7e"
+      "bytes": 4768,
+      "sha256": "d3c126293cb1507fc248fcb4a6272ee2170be6cf632c1442cb2f181da3197924"
     },
     {
       "path": "tools/reassess_current_field.py",
       "bytes": 4930,
       "sha256": "dfada02c5e68974e84e7eb473e53296e330208a43d5466ee70d2674b42fc3232"
+    },
+    {
+      "path": "tools/render_full_chamber.py",
+      "bytes": 4932,
+      "sha256": "1b6b269d4b1f004057028e88297ab7aa3604256f2752c37e3b5b9d0cbefaceb7"
+    },
+    {
+      "path": "tools/repair_compact_shutter.py",
+      "bytes": 1642,
+      "sha256": "e24ebe05ec302eb507a8b9fb304468ebf011e669cb2ae19a72a5aaffd4ed820f"
+    },
+    {
+      "path": "tools/speed_gun_walkthrough.py",
+      "bytes": 3163,
+      "sha256": "1c13a917fa0b49618399059ed426dd834083fcb55a1fa6dcf1f8340d541bdf91"
     },
     {
       "path": "tools/validate_repository.py",
@@ -9991,6 +10421,11 @@
       "path": "validation/README.md",
       "bytes": 1263,
       "sha256": "d96ebb1504c50b86a47a70dbe367a6cecd6dc38424dcef9857d6e1bc3b7ced34"
+    },
+    {
+      "path": "validation/ext70-performance.png",
+      "bytes": 156770,
+      "sha256": "8957e93108a984259dd0f96e3a762399ccbf3b7b91368914c22679f9e48c8d7d"
     }
   ]
 }

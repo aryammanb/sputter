@@ -5,7 +5,7 @@ The adjustable magnetron points down toward a fixed substrate stage inside a nom
 ```mermaid
 flowchart LR
   Ar[Argon cylinder] --> Reg[Regulator / isolation]
-  Reg --> MFC[200 sccm MFC]
+  Reg --> MFC[500 sccm Ar MFC]
   MFC --> C[12 L chamber]
   C --> T[EXT70 turbo / EXDC80]
   T --> B[INDOVAC HV2-150 backing pump]

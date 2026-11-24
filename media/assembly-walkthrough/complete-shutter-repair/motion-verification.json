@@ -1,0 +1,110 @@
+[
+  {
+    "shot": "shutter_install",
+    "position": 0.7,
+    "whole_assembly_coupled": true,
+    "O_ring_stationary": true
+  },
+  {
+    "shot": "shutter_install",
+    "position": 0.84,
+    "whole_assembly_coupled": true,
+    "O_ring_stationary": true
+  },
+  {
+    "shot": "shutter_install",
+    "position": 0.95,
+    "whole_assembly_coupled": true,
+    "O_ring_stationary": true
+  },
+  {
+    "shot": "op_load",
+    "position": 0.7,
+    "whole_assembly_coupled": true,
+    "O_ring_stationary": true
+  },
+  {
+    "shot": "op_load",
+    "position": 0.84,
+    "whole_assembly_coupled": true,
+    "O_ring_stationary": true
+  },
+  {
+    "shot": "op_load",
+    "position": 0.95,
+    "whole_assembly_coupled": true,
+    "O_ring_stationary": true
+  },
+  {
+    "shot": "op_sweep",
+    "position": 0.7,
+    "whole_assembly_coupled": true,
+    "O_ring_stationary": true
+  },
+  {
+    "shot": "op_sweep",
+    "position": 0.84,
+    "whole_assembly_coupled": true,
+    "O_ring_stationary": true
+  },
+  {
+    "shot": "op_sweep",
+    "position": 0.95,
+    "whole_assembly_coupled": true,
+    "O_ring_stationary": true
+  },
+  {
+    "shot": "op_deposit",
+    "position": 0.7,
+    "whole_assembly_coupled": true,
+    "O_ring_stationary": true
+  },
+  {
+    "shot": "op_deposit",
+    "position": 0.84,
+    "whole_assembly_coupled": true,
+    "O_ring_stationary": true
+  },
+  {
+    "shot": "op_deposit",
+    "position": 0.95,
+    "whole_assembly_coupled": true,
+    "O_ring_stationary": true
+  },
+  {
+    "shot": "op_stop",
+    "position": 0.7,
+    "whole_assembly_coupled": true,
+    "O_ring_stationary": true
+  },
+  {
+    "shot": "op_stop",
+    "position": 0.84,
+    "whole_assembly_coupled": true,
+    "O_ring_stationary": true
+  },
+  {
+    "shot": "op_stop",
+    "position": 0.95,
+    "whole_assembly_coupled": true,
+    "O_ring_stationary": true
+  },
+  {
+    "shot": "op_unload",
+    "position": 0.7,
+    "whole_assembly_coupled": true,
+    "O_ring_stationary": true
+  },
+  {
+    "shot": "op_unload",
+    "position": 0.84,
+    "whole_assembly_coupled": true,
+    "O_ring_stationary": true
+  },
+  {
+    "shot": "op_unload",
+    "position": 0.95,
+    "whole_assembly_coupled": true,
+    "O_ring_stationary": true
+  }
+]

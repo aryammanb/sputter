@@ -1,0 +1,13 @@
+﻿LATEST COOLANT FITTING REVISION: R06
+
+Native gun assembly:
+C:\Users\Aryamman\Documents\ChatGPT\sputter\chamber-design\coolant-fitting-r06\SolidWorks R06\Magnetron R06 - M5 coolant fittings.SLDASM
+
+Complete system STEP context:
+C:\Users\Aryamman\Documents\ChatGPT\sputter\chamber-design\coolant-fitting-r06\Complete sputter system R06.step
+
+SolidWorks CAD package:
+C:\Users\Aryamman\Documents\ChatGPT\sputter\chamber-design\coolant-fitting-r06\Coolant fittings R06 - SolidWorks CAD package.zip
+
+SMC KQG2S04-M5 selected; backplate now has native passage/tap-drill cut features
+and M5x0.8 thread callouts. R05 target/clamp retained. Seal qualification pending.

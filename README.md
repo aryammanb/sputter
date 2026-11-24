@@ -43,9 +43,9 @@ All three are freshly rendered explanations of the current snapshot, with synthe
 | Magnetic circuit | 2 × D20 × 10 N42 centre; 12 outer stacks of 2 × D6 × 10 N42 on PCD58 |
 | Gun coolant fitting | 2 × SMC KQG2S04-M5; gasket sealing remains to qualify |
 | Pumping selection | Chamber → EXT70 / EXDC80 → INDOVAC HV2-150; direct foreline |
-| MFC selection | 200 sccm full scale; exact model/Ar calibration unconfirmed |
+| MFC selection | STEC SEC-4400MC-G2; Ar 500 sccm; calibration/interfaces to verify |
 | RF source selection | Omicron 200 W supply + matching network; provisional procurement basis |
-| Planning budget | INR 1,108,831.64, including allowances, reserve and contingency; not a supplier quotation |
+| Planning budget | INR 1,113,330.20, including allowances, reserve and contingency; not a supplier quotation |
 
 ## Evidence boundaries
 
@@ -55,7 +55,7 @@ The original nonlinear FEM study assumed a 2 mm nonmagnetic target. The new asse
 
 ## Repository contents
 
-`design/` selects the current artifacts. `docs/` explains design and evidence. `procurement/` contains the unchanged workbook and readable exports. `media/` contains current rendered explanations. `simulations/` contains the current-plane assessment. `chamber-design/` and `advanced-tinkering-original/` preserve the engineering sources at their original relative paths. `90 ARCHIVE - Earlier designs and working files/` preserves earlier studies for traceability.
+`design/` selects the current artifacts. `docs/` explains design and evidence. `procurement/` contains the current procurement workbook and readable exports. `media/` contains current rendered explanations. `simulations/` contains the current-plane assessment. `chamber-design/` and `advanced-tinkering-original/` preserve the engineering sources at their original relative paths. `90 ARCHIVE - Earlier designs and working files/` preserves earlier studies for traceability.
 
 Historical directory names and filenames containing “Current” do not override [design/current.json](design/current.json). Start with that selection and this README. Original notes are retained as dated evidence and can contain superseded selections.
 

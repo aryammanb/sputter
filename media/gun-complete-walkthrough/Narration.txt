@@ -1,0 +1,179 @@
+R06 sputter gun
+This is the complete current R zero six gun, including all one hundred and forty one modeled component instances. We will open it, examine the small parts as well as the main bodies, follow its connections, and assemble it again.
+
+Complete exploded assembly
+The exploded view separates the actual component solids. The target and clamp sit at the front, followed by the cooling and magnetic head, spacer, insulation and grounded body. The service tube carries the hoses and coax. Fasteners and seals remain individual parts.
+
+Dark-space cap
+The front dark-space cap belongs to the grounded shield. It surrounds the live target clamp while leaving the target opening exposed. We separate the cap to show its actual seating relationship and the gap to the live assembly.
+
+Front guard screws ×6
+Six small radial screws secure the front guard. Each screw follows its own radial receiving axis. All six instances are shown; these are separate from the twelve screws that hold the target clamp.
+
+Grounded shield tube
+The grounded shield tube surrounds the source head. Moving it aside exposes the internal stack without changing any part geometry. This outer shield is not itself the complete atmosphere-to-vacuum seal; the face seals inside the body provide that boundary.
+
+Shield-to-body screws ×3
+Three further radial screws attach the shield tube to the grounded body. They are a different size and position from the six front-cap screws. Their radial approach is shown with the actual receiving geometry.
+
+Target and floating clamp
+The target sits against the copper cooling body. The revised clamp presses at its outer front edge. The twelve screws retain the floating clamp arrangement. The animation separates the target, clamp and screws so their order and contact faces can be seen.
+
+Aluminium target
+The current consumable is a fifty point eight millimetre diameter aluminium target, three point one seven five millimetres thick. Its back contacts the copper body. Its exposed front is the surface from which the discharge removes material.
+
+R05 target clamp
+A section through the actual revised clamp reveals its pressure lip and aperture. The lip retains the thicker target at its edge. This is the R zero five clamp retained in R zero six, not the earlier clamp for a two millimetre target.
+
+Target clamp screws ×12
+All twelve target screws are modeled individually. Their heads sit in the clamp counterbores and their shanks enter the copper receiving holes. The current nominal length is M three by ten. Thread envelopes and illustrative turning do not specify an installation torque.
+
+Copper cooling body
+The copper cooling body supports the target and transfers heat toward its internal coolant passage. We remove the backplate and target to expose both interfaces. The copper shape is the current CAD solid, including its magnet wells, drilled ports and screw holes.
+
+Coolant passage · section
+This section opens the actual copper passage rather than inventing an internal channel. The coolant space lies between its sealing lands. It is separated from the magnet wells and the chamber vacuum. The routing geometry does not by itself establish flow or thermal performance.
+
+Water O-rings ×2
+Two individual O rings seal the coolant interface: an inner ring and an outer ring. Each seats on its own land between the copper parts. Both are shown separately. Their installed CAD shapes represent compression; this is not an elastomer deformation simulation.
+
+R06 copper backplate
+The copper backplate closes the cooling body and carries the two revised coolant ports. In R zero six each port has a three millimetre flow passage and a four point two millimetre tap-drill feature. M five threading is specified, but helical teeth are not modeled.
+
+Backplate screws ×12
+Twelve nominal M three by sixteen screws close the backplate joint. Watch the separate fastener pattern move toward the existing copper receiving holes. This set closes the copper assembly and is distinct from the longer spacer attachment screws.
+
+Steel magnetic return yoke
+The steel yoke sits behind the magnets and provides the magnetic return path. Its two larger openings provide clearance around the coolant fittings, while another passage accommodates the live terminal connection. The yoke separates here so those interfaces are visible.
+
+Yoke screw
+This small M four by ten fastener is the modeled yoke attachment. It is easy to miss in a whole-gun view, so it has its own close-up. The source thread-envelope contact is retained; this view does not resolve its manufacturing detail.
+
+Centre magnets ×2
+The centre stack contains two twenty by ten millimetre N forty two discs. They occupy the centre well between the copper head and yoke. Their target-facing polarity is north. The two individual discs separate so the stack is visible.
+
+Outer magnets · 12 stacks, 24 discs
+The outer ring contains twelve positions, each with two six by ten millimetre N forty two discs: twenty four individual outer magnets. Each stack seats in its own blind well. Their south poles face the target, opposite to the centre stack.
+
+Magnetic circuit
+Together, the centre and outer poles shape the field near the target. The steel yoke forms the return path. Copper and target context are made translucent in this explanatory view. This shows the magnetic construction, not a simulated plasma or a proof of balanced operation.
+
+Live spacer
+The spacer joins the copper head to the insulation and grounded-body stack. Its shoulder, central opening and receiving holes are retained from the source geometry. The spacer belongs to the live side, so the later insulating interfaces are important.
+
+Copper-to-spacer O-ring
+This separate face O ring lies between the copper head and the spacer. It is not one of the two coolant rings. It seals a different interface in the atmosphere-to-vacuum boundary, and is therefore shown as its own part.
+
+Head-to-spacer screws ×12
+Twelve long M three by thirty five screws connect the spacer and copper head. All twelve are visible as separate instances. This pattern is independent of the backplate screws and the insulated screws that later connect the grounded body.
+
+Main PTFE isolator
+The main PTFE isolator sits between the live spacer and grounded body. Its faces participate in the sealing stack while its insulating material separates the two metal bodies. We section the actual part to expose the steps and mating surfaces.
+
+Isolator face O-rings ×2
+Two further O rings seal the two sides of the main isolator. One belongs to the spacer-side interface; the other belongs to the grounded-body interface. Keeping these separate explains why the large PTFE ring and the elastomer seals have different jobs.
+
+PTFE screw shoulder sleeve
+This is one of the small PTFE screw insulators. The shank sleeve, bearing shoulder, screw-head guard and outward lip are one continuous part. There is no separate cap or guard fastener. The recessed opening remains accessible to the screw tool.
+
+Insulated screw · section
+A section through one real fastener position shows the metal screw inside its PTFE sleeve. The screw threads into the live spacer. The sleeve separates its shank and recessed head from the grounded body. The small insulator must be understood together with the main PTFE ring.
+
+PTFE screw sleeves ×12
+Now all twelve screw sleeves are shown in their actual positions. Each enters a corresponding body pocket from the head side. The larger lip stays outside the opening. This view includes every sleeve, rather than replacing the repeated pattern with a single example.
+
+Insulated body screws ×12
+These twelve metal M three by thirty five screws pass through the insulating sleeves and into the spacer. They are metal load-carrying screws, not PTFE screws. The sleeves stay seated as the screws approach their receiving holes. Actual preload and PTFE creep remain engineering considerations.
+
+Grounded body / Boden
+The grounded body, also called the Boden in the source files, carries the service-tube joint, shield attachment and internal ground carrier. Its cone, pockets and seal faces are all part of the actual CAD solid. The live spacer is isolated from it by the PTFE stack.
+
+RF ground carrier and saddle
+The small conductive carrier supports the cable shield clamp. Its shaped saddle seats against the grounded body, and its mounting tab has a dedicated anchor. This close-up retains the actual formed geometry and attachment holes.
+
+Blind ground-anchor screw
+The M three by six ground-anchor screw enters a blind receiving pilot in the grounded body. It holds the carrier saddle at its contact seat. The animation follows the inclined attachment direction instead of treating this screw as an axial head-stack fastener.
+
+Coax shield spring clamp
+The spring clamp contacts the exposed coax shield, where the outer jacket has ended. Its contact transfers the braid to the grounded carrier. The modeled spring shape and overlap are an installed envelope, not a spring-contact simulation.
+
+Shield-clamp screw and nut
+The shield clamp has its own small M three by four mounting screw and a separate nut. Both are shown here with the carrier and clamp. These are distinct from the larger blind screw that anchors the carrier to the body.
+
+RF shield / grounded return path
+This is the modeled shield connection path: exposed braid to spring clamp, carrier and grounded body. The body still needs its external verified ground bond. The compression O ring around the service tube is not assumed to be the electrical bond.
+
+Copper terminal stand-off
+On the live side, a copper stand-off passes through the existing yoke opening and contacts the copper backplate. It brings the terminal connection to the rear of the yoke without inventing a slot through the magnetic return plate.
+
+M4 ring terminal
+The centre conductor terminates at a ring lug. Its eye seats over the live stand-off and is retained by the terminal screw. The lug in the CAD is a catalogue-dimension study envelope; actual crimp deformation is not modeled.
+
+Live terminal screw
+The M four by twenty terminal screw clamps the ring lug and stand-off onto the copper backplate. This is the separate live attachment. Its nominal screw shaft and receiving bore do not provide a validated thread-strength or torque rating.
+
+RF centre / live path
+Follow the live path from the coax centre to the ring lug, stand-off and copper backplate, then through the copper head to the target. This view isolates the actual conducting parts. The shield connection belongs to the other path.
+
+Coaxial cable · actual CAD section
+The cable has four separately modeled layers. This short section is cut from the actual routed cable: outer jacket, shield, centre dielectric and centre conductor. They separate radially here and return to their concentric arrangement.
+
+Coax outer jacket
+Outer protection ends before the exposed shield contact band. The actual layer is shown on its own and then returned to the cable section; its geometry is not replaced by a generic diagram.
+
+Coax shield
+Outer conductor contacts the grounded spring clamp. The actual layer is shown on its own and then returned to the cable section; its geometry is not replaced by a generic diagram.
+
+Coax centre dielectric
+Separates the live centre conductor from the grounded shield. The actual layer is shown on its own and then returned to the cable section; its geometry is not replaced by a generic diagram.
+
+Coax centre conductor
+Carries the live RF connection to the ring terminal. The actual layer is shown on its own and then returned to the cable section; its geometry is not replaced by a generic diagram.
+
+Extra dielectric guard sleeve
+The added dielectric guard sleeve covers the protected centre tail beyond the braid termination. It is a separate modeled part, distinct from the coax original centre dielectric. Its material and electrical rating remain to be selected and verified.
+
+Complete coax termination
+The complete termination brings the two paths together without shorting them. The jacket stops before the braid clamp. The protected centre continues through its guard to the live lug. The grounded carrier and live terminal stay physically separate in the actual model.
+
+One-inch service tube and neck
+The one-inch service tube carries the two coolant hoses and coax through the head joint. Its flange neck retains the source capture geometry and transitions to the twenty five point four millimetre outer tube. Moving it aside reveals the actual routed services.
+
+Head / service-tube joint
+The tube joins the head through a separate flange capture. The centering ring, O ring, clamp halves and six screws are individual modeled parts. This is the head joint, distinct from the chamber roof compression gland shown in the system video.
+
+Head-joint centering ring
+The centering ring locates the mating head joint and supports its seal. It is a separate part, not a feature merged into the service tube. The source uses a reference standard-form joint rather than an approved purchased assembly.
+
+Head-joint O-ring
+This O ring seals the service-tube joint around the centering ring. It is separate from the body face rings and the coolant seals previously shown. The actual installed CAD seal envelope is retained.
+
+Head clamp halves ×2
+Two clamp halves capture the mating flange geometry. They approach from opposite sides of the joint, preserving their actual source profiles. The centering ring and O ring remain inside the captured stack.
+
+Head clamp screws ×6
+Six nominal M five by twenty screws close the clamp arrangement. All six are shown separately. Their heads and shafts follow the modeled holes, with thread helices intentionally absent from these nominal fastener solids.
+
+R06 coolant fitting bodies ×2
+Two S M C K Q G two S zero four M five fitting bodies seat in the revised backplate ports and pass through the yoke openings. They use their specified gasket seating interface. The visible envelopes do not expose invented internal valve details.
+
+Coolant release rings ×2
+Each coolant fitting has its own separately modeled release ring. These are not screw nuts or additional threaded adapters. They belong to the push-in tube interface; actual internal retention details follow the purchased fitting.
+
+Coolant hoses ×2
+The two four millimetre outside-diameter hoses are independent routed solids. They pass through the service tube to the two head fittings. Their existing bends and insertion segments are retained; the final tube material and allowable bend radius still need supplier confirmation.
+
+Hose-to-fitting engagement
+This close-up follows the tube ends as they enter the fitting collets. The existing CAD includes an extended insertion segment for the R zero six fitting. The modeled engagement demonstrates the connection; it does not simulate hidden gripping teeth or establish a leak-tight joint.
+
+Complete cooling connection
+The cooling connection now reads as one path: supply hose and fitting, backplate port, copper water passage, then the other port, fitting and return hose. The two water O rings contain that interface. The gun thermal and leak performance still require qualification.
+
+All gun seals
+This final seal review includes every gun O ring: two coolant rings, the copper-to-spacer ring, two isolator face rings and the head-joint ring. Each closes a different interface. Keeping the parts separate is essential to understanding the pressure and coolant boundaries.
+
+Gun reassembly
+The complete exploded gun returns to its checked assembly positions. Every repeated screw, magnet disc, sleeve and separate small connector part is included. The motion explains mating relationships rather than certifying a collision-free workshop procedure.
+
+Complete R06 gun
+The assembled gun combines the consumable target, copper cooling head, magnetic circuit, PTFE isolation, separate RF centre and shield paths, routed services and grounded guards. This walkthrough explains the full current CAD design. Electrical, thermal, pressure and manufacturing qualification remain separate engineering work.

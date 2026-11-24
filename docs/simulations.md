@@ -13,7 +13,7 @@
 | Current target resampling | [Current results](../simulations/current-target-r06/README.md) | 3.175 mm target, 0.25 mm above face |
 | Geometry/interference | R05/R06 Boolean checks and native export/reference checks | Nominal CAD, classified thread overlaps |
 | Viewport ray tracing | R04/R05 sampled observation rings | Geometric sightlines at defined eyes/gaps |
-| Gas throughput / pressure | MFC R01–R03 calculations | R03 selection is current; actual effective Ar speed unknown |
+| Gas throughput / pressure | MFC R01–R04 calculations | R04 500 sccm selection is current; actual effective Ar speed unknown |
 
 ## Original magnetic model
 

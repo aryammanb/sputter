@@ -1,0 +1,3201 @@
+[
+  {
+    "key": "complete",
+    "label": "R06 sputter gun",
+    "detail": "141 CAD components \u2022 target, cooling, magnets, insulation, services and shields",
+    "primary": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "context": [],
+    "mode": "orbit",
+    "moves": {},
+    "az": -62,
+    "el": 24,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 14,
+    "speech": "This is the complete current R zero six gun, including all one hundred and forty one modeled component instances. We will open it, examine the small parts as well as the main bodies, follow its connections, and assemble it again."
+  },
+  {
+    "key": "exploded",
+    "label": "Complete exploded assembly",
+    "detail": "All component instances remain present; offsets reveal the assembly hierarchy",
+    "primary": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "context": [],
+    "mode": "overall",
+    "moves": {},
+    "az": -62,
+    "el": 24,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 18,
+    "speech": "The exploded view separates the actual component solids. The target and clamp sit at the front, followed by the cooling and magnetic head, spacer, insulation and grounded body. The service tube carries the hoses and coax. Fasteners and seals remain individual parts."
+  },
+  {
+    "key": "front_guard",
+    "label": "Dark-space cap",
+    "detail": "Grounded front guard surrounds the live target clamp",
+    "primary": [
+      116
+    ],
+    "context": [
+      121,
+      102,
+      103
+    ],
+    "mode": "lift",
+    "moves": {
+      "116": [
+        0,
+        0,
+        -30
+      ]
+    },
+    "az": -62,
+    "el": -18,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "The front dark-space cap belongs to the grounded shield. It surrounds the live target clamp while leaving the target opening exposed. We separate the cap to show its actual seating relationship and the gap to the live assembly."
+  },
+  {
+    "key": "cap_screws",
+    "label": "Front guard screws \u00d76",
+    "detail": "Radial screws attach the dark-space cap to the grounded shield",
+    "primary": [
+      115,
+      117,
+      118,
+      119,
+      120,
+      123
+    ],
+    "context": [
+      116,
+      121
+    ],
+    "mode": "lift",
+    "moves": {
+      "115": [
+        -7.025035251026201e-14,
+        -22.0,
+        0.0
+      ],
+      "117": [
+        18.983092656455337,
+        11.119451119386756,
+        0.0
+      ],
+      "118": [
+        6.737692483353762e-14,
+        22.0,
+        0.0
+      ],
+      "119": [
+        -18.983092656454968,
+        11.119451119387389,
+        0.0
+      ],
+      "120": [
+        -18.983092656455018,
+        -11.119451119387307,
+        0.0
+      ],
+      "123": [
+        18.983092656455263,
+        -11.119451119386879,
+        0.0
+      ]
+    },
+    "az": -62,
+    "el": -12,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "Six small radial screws secure the front guard. Each screw follows its own radial receiving axis. All six instances are shown; these are separate from the twelve screws that hold the target clamp."
+  },
+  {
+    "key": "shield",
+    "label": "Grounded shield tube",
+    "detail": "Surrounds the head; the inner pressure boundary is formed by the sealed body stack",
+    "primary": [
+      121
+    ],
+    "context": [
+      34,
+      35,
+      36,
+      58,
+      126,
+      93,
+      103,
+      102,
+      29,
+      33,
+      54,
+      94,
+      99,
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13,
+      16,
+      17,
+      20,
+      21,
+      23,
+      24,
+      30,
+      31,
+      37,
+      39,
+      41,
+      42,
+      43,
+      44,
+      46,
+      47,
+      116
+    ],
+    "mode": "lift",
+    "moves": {
+      "121": [
+        -145,
+        0,
+        0
+      ]
+    },
+    "az": -62,
+    "el": 24,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "The grounded shield tube surrounds the source head. Moving it aside exposes the internal stack without changing any part geometry. This outer shield is not itself the complete atmosphere-to-vacuum seal; the face seals inside the body provide that boundary."
+  },
+  {
+    "key": "shield_screws",
+    "label": "Shield-to-body screws \u00d73",
+    "detail": "Three radial screws connect the shield tube to the grounded body",
+    "primary": [
+      122,
+      124,
+      125
+    ],
+    "context": [
+      121,
+      126
+    ],
+    "mode": "lift",
+    "moves": {
+      "122": [
+        -18.96842370989049,
+        -11.14445610884911,
+        0.0
+      ],
+      "124": [
+        7.587404967865517e-14,
+        22.0,
+        0.0
+      ],
+      "125": [
+        18.968423709891066,
+        -11.144456108848132,
+        0.0
+      ]
+    },
+    "az": -62,
+    "el": 24,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "Three further radial screws attach the shield tube to the grounded body. They are a different size and position from the six front-cap screws. Their radial approach is shown with the actual receiving geometry."
+  },
+  {
+    "key": "target_stack",
+    "label": "Target and floating clamp",
+    "detail": "Target seats against copper; the pressure lip retains its front edge",
+    "primary": [
+      103,
+      102,
+      101,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114
+    ],
+    "context": [
+      34
+    ],
+    "mode": "lift",
+    "moves": {
+      "103": [
+        0,
+        0,
+        -22
+      ],
+      "102": [
+        0,
+        0,
+        -45
+      ],
+      "101": [
+        0,
+        0,
+        -62
+      ],
+      "104": [
+        0,
+        0,
+        -62
+      ],
+      "105": [
+        0,
+        0,
+        -62
+      ],
+      "106": [
+        0,
+        0,
+        -62
+      ],
+      "107": [
+        0,
+        0,
+        -62
+      ],
+      "108": [
+        0,
+        0,
+        -62
+      ],
+      "109": [
+        0,
+        0,
+        -62
+      ],
+      "110": [
+        0,
+        0,
+        -62
+      ],
+      "111": [
+        0,
+        0,
+        -62
+      ],
+      "112": [
+        0,
+        0,
+        -62
+      ],
+      "113": [
+        0,
+        0,
+        -62
+      ],
+      "114": [
+        0,
+        0,
+        -62
+      ]
+    },
+    "az": -62,
+    "el": -25,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 16,
+    "speech": "The target sits against the copper cooling body. The revised clamp presses at its outer front edge. The twelve screws retain the floating clamp arrangement. The animation separates the target, clamp and screws so their order and contact faces can be seen."
+  },
+  {
+    "key": "target",
+    "label": "Aluminium target",
+    "detail": "\u00d850.8 \u00d7 3.175 mm \u2022 the consumable surface from which material is sputtered",
+    "primary": [
+      103
+    ],
+    "context": [
+      34,
+      102
+    ],
+    "mode": "lift",
+    "moves": {
+      "103": [
+        0,
+        0,
+        -26
+      ]
+    },
+    "az": -62,
+    "el": -30,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "The current consumable is a fifty point eight millimetre diameter aluminium target, three point one seven five millimetres thick. Its back contacts the copper body. Its exposed front is the surface from which the discharge removes material."
+  },
+  {
+    "key": "clamp_lip",
+    "label": "R05 target clamp",
+    "detail": "Pressure lip bears on the target edge; central aperture exposes the target face",
+    "primary": [
+      102
+    ],
+    "context": [
+      103
+    ],
+    "mode": "lift",
+    "moves": {
+      "102": [
+        0,
+        0,
+        -25
+      ]
+    },
+    "az": -62,
+    "el": -8,
+    "section": {
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "origin": [
+        0,
+        0,
+        0
+      ]
+    },
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "A section through the actual revised clamp reveals its pressure lip and aperture. The lip retains the thicker target at its edge. This is the R zero five clamp retained in R zero six, not the earlier clamp for a two millimetre target."
+  },
+  {
+    "key": "target_fasteners",
+    "label": "Target clamp screws \u00d712",
+    "detail": "M3 \u00d710 screws enter the copper body through the clamp counterbores",
+    "primary": [
+      101,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114
+    ],
+    "context": [
+      34,
+      102,
+      103
+    ],
+    "mode": "fasteners",
+    "moves": {
+      "101": [
+        0,
+        0,
+        -26
+      ],
+      "104": [
+        0,
+        0,
+        -26
+      ],
+      "105": [
+        0,
+        0,
+        -26
+      ],
+      "106": [
+        0,
+        0,
+        -26
+      ],
+      "107": [
+        0,
+        0,
+        -26
+      ],
+      "108": [
+        0,
+        0,
+        -26
+      ],
+      "109": [
+        0,
+        0,
+        -26
+      ],
+      "110": [
+        0,
+        0,
+        -26
+      ],
+      "111": [
+        0,
+        0,
+        -26
+      ],
+      "112": [
+        0,
+        0,
+        -26
+      ],
+      "113": [
+        0,
+        0,
+        -26
+      ],
+      "114": [
+        0,
+        0,
+        -26
+      ]
+    },
+    "az": -62,
+    "el": -24,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "All twelve target screws are modeled individually. Their heads sit in the clamp counterbores and their shanks enter the copper receiving holes. The current nominal length is M three by ten. Thread envelopes and illustrative turning do not specify an installation torque.",
+    "ghost_context": true
+  },
+  {
+    "key": "copper",
+    "label": "Copper cooling body",
+    "detail": "Conducts heat away from the target and contains the coolant passage",
+    "primary": [
+      34
+    ],
+    "context": [
+      103,
+      35
+    ],
+    "mode": "lift",
+    "moves": {
+      "103": [
+        0,
+        0,
+        -24
+      ],
+      "35": [
+        0,
+        0,
+        28
+      ]
+    },
+    "az": -62,
+    "el": 36,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "The copper cooling body supports the target and transfers heat toward its internal coolant passage. We remove the backplate and target to expose both interfaces. The copper shape is the current CAD solid, including its magnet wells, drilled ports and screw holes."
+  },
+  {
+    "key": "water_channel",
+    "label": "Coolant passage \u00b7 section",
+    "detail": "Water passage stays separate from the magnet wells and surrounding vacuum",
+    "primary": [
+      34
+    ],
+    "context": [
+      35,
+      29,
+      33
+    ],
+    "mode": "lift",
+    "moves": {
+      "35": [
+        0,
+        0,
+        25
+      ],
+      "29": [
+        0,
+        0,
+        12
+      ],
+      "33": [
+        0,
+        0,
+        12
+      ]
+    },
+    "az": -62,
+    "el": 22,
+    "section": {
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "origin": [
+        0,
+        0,
+        0
+      ]
+    },
+    "fit_primary": false,
+    "minimum_seconds": 16,
+    "speech": "This section opens the actual copper passage rather than inventing an internal channel. The coolant space lies between its sealing lands. It is separated from the magnet wells and the chamber vacuum. The routing geometry does not by itself establish flow or thermal performance."
+  },
+  {
+    "key": "water_rings",
+    "label": "Water O-rings \u00d72",
+    "detail": "Inner and outer face rings contain the coolant at the backplate interface",
+    "primary": [
+      29,
+      33
+    ],
+    "context": [
+      34,
+      35
+    ],
+    "mode": "lift",
+    "moves": {
+      "33": [
+        0,
+        0,
+        10
+      ],
+      "29": [
+        0,
+        0,
+        19
+      ],
+      "35": [
+        0,
+        0,
+        32
+      ]
+    },
+    "az": -62,
+    "el": 45,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "Two individual O rings seal the coolant interface: an inner ring and an outer ring. Each seats on its own land between the copper parts. Both are shown separately. Their installed CAD shapes represent compression; this is not an elastomer deformation simulation.",
+    "ghost_context": true
+  },
+  {
+    "key": "backplate",
+    "label": "R06 copper backplate",
+    "detail": "Closes the cooling passage and carries the two revised M5 coolant ports",
+    "primary": [
+      35
+    ],
+    "context": [
+      34,
+      29,
+      33
+    ],
+    "mode": "lift",
+    "moves": {
+      "35": [
+        0,
+        0,
+        32
+      ]
+    },
+    "az": -62,
+    "el": 42,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "The copper backplate closes the cooling body and carries the two revised coolant ports. In R zero six each port has a three millimetre flow passage and a four point two millimetre tap-drill feature. M five threading is specified, but helical teeth are not modeled."
+  },
+  {
+    "key": "backplate_screws",
+    "label": "Backplate screws \u00d712",
+    "detail": "M3 \u00d716 fasteners close the copper backplate joint",
+    "primary": [
+      4,
+      5,
+      6,
+      11,
+      14,
+      15,
+      18,
+      25,
+      27,
+      38,
+      40,
+      45
+    ],
+    "context": [
+      34,
+      35,
+      29,
+      33
+    ],
+    "mode": "fasteners",
+    "moves": {
+      "4": [
+        0,
+        0,
+        26
+      ],
+      "5": [
+        0,
+        0,
+        26
+      ],
+      "6": [
+        0,
+        0,
+        26
+      ],
+      "11": [
+        0,
+        0,
+        26
+      ],
+      "14": [
+        0,
+        0,
+        26
+      ],
+      "15": [
+        0,
+        0,
+        26
+      ],
+      "18": [
+        0,
+        0,
+        26
+      ],
+      "25": [
+        0,
+        0,
+        26
+      ],
+      "27": [
+        0,
+        0,
+        26
+      ],
+      "38": [
+        0,
+        0,
+        26
+      ],
+      "40": [
+        0,
+        0,
+        26
+      ],
+      "45": [
+        0,
+        0,
+        26
+      ]
+    },
+    "az": -62,
+    "el": 42,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "Twelve nominal M three by sixteen screws close the backplate joint. Watch the separate fastener pattern move toward the existing copper receiving holes. This set closes the copper assembly and is distinct from the longer spacer attachment screws.",
+    "ghost_context": true
+  },
+  {
+    "key": "yoke",
+    "label": "Steel magnetic return yoke",
+    "detail": "Rear magnetic return path; openings clear the coolant fittings and live terminal",
+    "primary": [
+      36
+    ],
+    "context": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13,
+      16,
+      17,
+      20,
+      21,
+      23,
+      24,
+      30,
+      31,
+      37,
+      39,
+      41,
+      42,
+      43,
+      44,
+      46,
+      47,
+      35
+    ],
+    "mode": "lift",
+    "moves": {
+      "36": [
+        0,
+        0,
+        36
+      ]
+    },
+    "az": -62,
+    "el": 45,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "The steel yoke sits behind the magnets and provides the magnetic return path. Its two larger openings provide clearance around the coolant fittings, while another passage accommodates the live terminal connection. The yoke separates here so those interfaces are visible."
+  },
+  {
+    "key": "yoke_screw",
+    "label": "Yoke screw",
+    "detail": "Single M4 \u00d710 screw at the modeled yoke attachment",
+    "primary": [
+      32
+    ],
+    "context": [
+      36,
+      35
+    ],
+    "mode": "fasteners",
+    "moves": {
+      "32": [
+        0,
+        0,
+        24
+      ]
+    },
+    "az": -62,
+    "el": 40,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "This small M four by ten fastener is the modeled yoke attachment. It is easy to miss in a whole-gun view, so it has its own close-up. The source thread-envelope contact is retained; this view does not resolve its manufacturing detail.",
+    "ghost_context": true
+  },
+  {
+    "key": "centre_magnets",
+    "label": "Centre magnets \u00d72",
+    "detail": "Two \u00d820 \u00d710 mm discs form the centre stack; north pole faces the target",
+    "primary": [
+      37,
+      39
+    ],
+    "context": [
+      34,
+      36
+    ],
+    "mode": "lift",
+    "moves": {
+      "37": [
+        0,
+        0,
+        28
+      ],
+      "39": [
+        0,
+        0,
+        44
+      ],
+      "36": [
+        0,
+        0,
+        72
+      ]
+    },
+    "az": -62,
+    "el": 40,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "The centre stack contains two twenty by ten millimetre N forty two discs. They occupy the centre well between the copper head and yoke. Their target-facing polarity is north. The two individual discs separate so the stack is visible."
+  },
+  {
+    "key": "outer_magnets",
+    "label": "Outer magnets \u00b7 12 stacks, 24 discs",
+    "detail": "Two \u00d86 \u00d710 mm discs per position; outer target-facing poles oppose the centre",
+    "primary": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13,
+      16,
+      17,
+      20,
+      21,
+      23,
+      24,
+      30,
+      31,
+      41,
+      42,
+      43,
+      44,
+      46,
+      47
+    ],
+    "context": [
+      34,
+      36
+    ],
+    "mode": "lift",
+    "moves": {
+      "36": [
+        0,
+        0,
+        72
+      ],
+      "0": [
+        0,
+        0,
+        48
+      ],
+      "1": [
+        0,
+        0,
+        30
+      ],
+      "2": [
+        0,
+        0,
+        48
+      ],
+      "3": [
+        0,
+        0,
+        30
+      ],
+      "7": [
+        0,
+        0,
+        48
+      ],
+      "8": [
+        0,
+        0,
+        30
+      ],
+      "9": [
+        0,
+        0,
+        48
+      ],
+      "10": [
+        0,
+        0,
+        30
+      ],
+      "12": [
+        0,
+        0,
+        48
+      ],
+      "13": [
+        0,
+        0,
+        30
+      ],
+      "16": [
+        0,
+        0,
+        48
+      ],
+      "17": [
+        0,
+        0,
+        30
+      ],
+      "20": [
+        0,
+        0,
+        48
+      ],
+      "21": [
+        0,
+        0,
+        30
+      ],
+      "23": [
+        0,
+        0,
+        48
+      ],
+      "24": [
+        0,
+        0,
+        30
+      ],
+      "30": [
+        0,
+        0,
+        48
+      ],
+      "31": [
+        0,
+        0,
+        30
+      ],
+      "41": [
+        0,
+        0,
+        48
+      ],
+      "42": [
+        0,
+        0,
+        30
+      ],
+      "43": [
+        0,
+        0,
+        48
+      ],
+      "44": [
+        0,
+        0,
+        30
+      ],
+      "46": [
+        0,
+        0,
+        48
+      ],
+      "47": [
+        0,
+        0,
+        30
+      ]
+    },
+    "az": -62,
+    "el": 66,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 16,
+    "speech": "The outer ring contains twelve positions, each with two six by ten millimetre N forty two discs: twenty four individual outer magnets. Each stack seats in its own blind well. Their south poles face the target, opposite to the centre stack."
+  },
+  {
+    "key": "magnetic_layout",
+    "label": "Magnetic circuit",
+    "detail": "Opposed centre and outer poles shape the field above the target; steel returns the flux",
+    "primary": [
+      0,
+      1,
+      2,
+      3,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13,
+      16,
+      17,
+      20,
+      21,
+      23,
+      24,
+      30,
+      31,
+      37,
+      39,
+      41,
+      42,
+      43,
+      44,
+      46,
+      47,
+      36
+    ],
+    "context": [
+      34,
+      103
+    ],
+    "mode": "magnetic",
+    "moves": {},
+    "az": -62,
+    "el": -28,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 14,
+    "speech": "Together, the centre and outer poles shape the field near the target. The steel yoke forms the return path. Copper and target context are made translucent in this explanatory view. This shows the magnetic construction, not a simulated plasma or a proof of balanced operation."
+  },
+  {
+    "key": "spacer",
+    "label": "Live spacer",
+    "detail": "Connects the copper head to the insulated body stack",
+    "primary": [
+      58
+    ],
+    "context": [
+      34,
+      54,
+      93
+    ],
+    "mode": "lift",
+    "moves": {
+      "58": [
+        0,
+        0,
+        32
+      ],
+      "93": [
+        0,
+        0,
+        65
+      ]
+    },
+    "az": -62,
+    "el": 14,
+    "section": {
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "origin": [
+        0,
+        0,
+        0
+      ]
+    },
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "The spacer joins the copper head to the insulation and grounded-body stack. Its shoulder, central opening and receiving holes are retained from the source geometry. The spacer belongs to the live side, so the later insulating interfaces are important."
+  },
+  {
+    "key": "head_seal",
+    "label": "Copper-to-spacer O-ring",
+    "detail": "Face seal closes the copper / spacer interface",
+    "primary": [
+      54
+    ],
+    "context": [
+      34,
+      58
+    ],
+    "mode": "lift",
+    "moves": {
+      "54": [
+        0,
+        0,
+        18
+      ],
+      "58": [
+        0,
+        0,
+        42
+      ]
+    },
+    "az": -62,
+    "el": 36,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "This separate face O ring lies between the copper head and the spacer. It is not one of the two coolant rings. It seals a different interface in the atmosphere-to-vacuum boundary, and is therefore shown as its own part."
+  },
+  {
+    "key": "head_fasteners",
+    "label": "Head-to-spacer screws \u00d712",
+    "detail": "Long M3 \u00d735 screws attach the spacer to the copper head",
+    "primary": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      55,
+      56,
+      57,
+      59,
+      60,
+      61
+    ],
+    "context": [
+      58,
+      34,
+      54
+    ],
+    "mode": "fasteners",
+    "moves": {
+      "48": [
+        0,
+        0,
+        32
+      ],
+      "49": [
+        0,
+        0,
+        32
+      ],
+      "50": [
+        0,
+        0,
+        32
+      ],
+      "51": [
+        0,
+        0,
+        32
+      ],
+      "52": [
+        0,
+        0,
+        32
+      ],
+      "53": [
+        0,
+        0,
+        32
+      ],
+      "55": [
+        0,
+        0,
+        32
+      ],
+      "56": [
+        0,
+        0,
+        32
+      ],
+      "57": [
+        0,
+        0,
+        32
+      ],
+      "59": [
+        0,
+        0,
+        32
+      ],
+      "60": [
+        0,
+        0,
+        32
+      ],
+      "61": [
+        0,
+        0,
+        32
+      ]
+    },
+    "az": -62,
+    "el": 40,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "Twelve long M three by thirty five screws connect the spacer and copper head. All twelve are visible as separate instances. This pattern is independent of the backplate screws and the insulated screws that later connect the grounded body.",
+    "ghost_context": true
+  },
+  {
+    "key": "ptfe_ring",
+    "label": "Main PTFE isolator",
+    "detail": "Separates live spacer from grounded body while carrying the face-seal stack",
+    "primary": [
+      93
+    ],
+    "context": [
+      58,
+      126,
+      94,
+      99
+    ],
+    "mode": "lift",
+    "moves": {
+      "93": [
+        0,
+        0,
+        28
+      ],
+      "126": [
+        0,
+        0,
+        65
+      ]
+    },
+    "az": -62,
+    "el": 16,
+    "section": {
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "origin": [
+        0,
+        0,
+        0
+      ]
+    },
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "The main PTFE isolator sits between the live spacer and grounded body. Its faces participate in the sealing stack while its insulating material separates the two metal bodies. We section the actual part to expose the steps and mating surfaces."
+  },
+  {
+    "key": "isolator_rings",
+    "label": "Isolator face O-rings \u00d72",
+    "detail": "One ring seals to the spacer; the other seals to the grounded body",
+    "primary": [
+      94,
+      99
+    ],
+    "context": [
+      93,
+      58,
+      126
+    ],
+    "mode": "lift",
+    "moves": {
+      "94": [
+        0,
+        0,
+        12
+      ],
+      "93": [
+        0,
+        0,
+        26
+      ],
+      "99": [
+        0,
+        0,
+        40
+      ],
+      "126": [
+        0,
+        0,
+        65
+      ]
+    },
+    "az": -62,
+    "el": 30,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "Two further O rings seal the two sides of the main isolator. One belongs to the spacer-side interface; the other belongs to the grounded-body interface. Keeping these separate explains why the large PTFE ring and the elastomer seals have different jobs.",
+    "ghost_context": true
+  },
+  {
+    "key": "ptfe_sleeve",
+    "label": "PTFE screw shoulder sleeve",
+    "detail": "One machined part: shank sleeve, bearing shoulder, recessed-head guard and outward lip",
+    "primary": [
+      74
+    ],
+    "context": [
+      75
+    ],
+    "mode": "lift",
+    "moves": {
+      "74": [
+        0,
+        0,
+        0
+      ],
+      "75": [
+        0,
+        0,
+        30
+      ]
+    },
+    "az": -62,
+    "el": 30,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 15,
+    "speech": "This is one of the small PTFE screw insulators. The shank sleeve, bearing shoulder, screw-head guard and outward lip are one continuous part. There is no separate cap or guard fastener. The recessed opening remains accessible to the screw tool."
+  },
+  {
+    "key": "sleeve_section",
+    "label": "Insulated screw \u00b7 section",
+    "detail": "Live metal screw enters the spacer; PTFE separates its shank and head from grounded metal",
+    "primary": [
+      74,
+      75
+    ],
+    "context": [
+      126,
+      93,
+      58
+    ],
+    "mode": "lift",
+    "moves": {
+      "75": [
+        0,
+        0,
+        23
+      ]
+    },
+    "az": -85,
+    "el": 15,
+    "section": {
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "origin": [
+        0,
+        27.975088681015997,
+        0
+      ]
+    },
+    "fit_primary": true,
+    "minimum_seconds": 16,
+    "speech": "A section through one real fastener position shows the metal screw inside its PTFE sleeve. The screw threads into the live spacer. The sleeve separates its shank and recessed head from the grounded body. The small insulator must be understood together with the main PTFE ring."
+  },
+  {
+    "key": "all_sleeves",
+    "label": "PTFE screw sleeves \u00d712",
+    "detail": "All twelve sleeves fit their corresponding body pockets; lips remain outside the holes",
+    "primary": [
+      74,
+      77,
+      79,
+      81,
+      83,
+      84,
+      85,
+      90,
+      92,
+      95,
+      97,
+      100
+    ],
+    "context": [
+      126
+    ],
+    "mode": "lift",
+    "moves": {
+      "74": [
+        0,
+        0,
+        35
+      ],
+      "77": [
+        0,
+        0,
+        35
+      ],
+      "79": [
+        0,
+        0,
+        35
+      ],
+      "81": [
+        0,
+        0,
+        35
+      ],
+      "83": [
+        0,
+        0,
+        35
+      ],
+      "84": [
+        0,
+        0,
+        35
+      ],
+      "85": [
+        0,
+        0,
+        35
+      ],
+      "90": [
+        0,
+        0,
+        35
+      ],
+      "92": [
+        0,
+        0,
+        35
+      ],
+      "95": [
+        0,
+        0,
+        35
+      ],
+      "97": [
+        0,
+        0,
+        35
+      ],
+      "100": [
+        0,
+        0,
+        35
+      ]
+    },
+    "az": -62,
+    "el": 52,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "Now all twelve screw sleeves are shown in their actual positions. Each enters a corresponding body pocket from the head side. The larger lip stays outside the opening. This view includes every sleeve, rather than replacing the repeated pattern with a single example."
+  },
+  {
+    "key": "insulated_screws",
+    "label": "Insulated body screws \u00d712",
+    "detail": "Metal M3 \u00d735 screws pass through the sleeves and main isolator into the live spacer",
+    "primary": [
+      75,
+      76,
+      78,
+      80,
+      82,
+      86,
+      87,
+      88,
+      89,
+      91,
+      96,
+      98
+    ],
+    "context": [
+      74,
+      77,
+      79,
+      81,
+      83,
+      84,
+      85,
+      90,
+      92,
+      95,
+      97,
+      100,
+      126,
+      93,
+      58
+    ],
+    "mode": "fasteners",
+    "moves": {
+      "75": [
+        0,
+        0,
+        35
+      ],
+      "76": [
+        0,
+        0,
+        35
+      ],
+      "78": [
+        0,
+        0,
+        35
+      ],
+      "80": [
+        0,
+        0,
+        35
+      ],
+      "82": [
+        0,
+        0,
+        35
+      ],
+      "86": [
+        0,
+        0,
+        35
+      ],
+      "87": [
+        0,
+        0,
+        35
+      ],
+      "88": [
+        0,
+        0,
+        35
+      ],
+      "89": [
+        0,
+        0,
+        35
+      ],
+      "91": [
+        0,
+        0,
+        35
+      ],
+      "96": [
+        0,
+        0,
+        35
+      ],
+      "98": [
+        0,
+        0,
+        35
+      ]
+    },
+    "az": -62,
+    "el": 44,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "These twelve metal M three by thirty five screws pass through the insulating sleeves and into the spacer. They are metal load-carrying screws, not PTFE screws. The sleeves stay seated as the screws approach their receiving holes. Actual preload and PTFE creep remain engineering considerations.",
+    "ghost_context": true
+  },
+  {
+    "key": "body",
+    "label": "Grounded body / Boden",
+    "detail": "Supports the service-tube joint, shield attachment and internal RF ground carrier",
+    "primary": [
+      126
+    ],
+    "context": [
+      93,
+      58
+    ],
+    "mode": "lift",
+    "moves": {
+      "126": [
+        0,
+        0,
+        38
+      ]
+    },
+    "az": -62,
+    "el": 18,
+    "section": {
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "origin": [
+        0,
+        0,
+        0
+      ]
+    },
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "The grounded body, also called the Boden in the source files, carries the service-tube joint, shield attachment and internal ground carrier. Its cone, pockets and seal faces are all part of the actual CAD solid. The live spacer is isolated from it by the PTFE stack."
+  },
+  {
+    "key": "ground_carrier",
+    "label": "RF ground carrier and saddle",
+    "detail": "Conductive carrier seats on the grounded body and supports the shield clamp",
+    "primary": [
+      129
+    ],
+    "context": [
+      128,
+      130,
+      131,
+      132,
+      126
+    ],
+    "mode": "lift",
+    "moves": {
+      "129": [
+        0,
+        25,
+        -15
+      ]
+    },
+    "az": -145,
+    "el": 22,
+    "section": {
+      "normal": [
+        1,
+        0,
+        0
+      ],
+      "origin": [
+        0,
+        0,
+        0
+      ]
+    },
+    "fit_primary": true,
+    "minimum_seconds": 12,
+    "speech": "The small conductive carrier supports the cable shield clamp. Its shaped saddle seats against the grounded body, and its mounting tab has a dedicated anchor. This close-up retains the actual formed geometry and attachment holes.",
+    "ghost_context": true
+  },
+  {
+    "key": "ground_anchor",
+    "label": "Blind ground-anchor screw",
+    "detail": "M3 \u00d76 screw secures the carrier to the grounded body",
+    "primary": [
+      132
+    ],
+    "context": [
+      129,
+      126
+    ],
+    "mode": "lift",
+    "moves": {
+      "132": [
+        0,
+        13,
+        -13
+      ]
+    },
+    "az": -145,
+    "el": 20,
+    "section": {
+      "normal": [
+        1,
+        0,
+        0
+      ],
+      "origin": [
+        0,
+        0,
+        0
+      ]
+    },
+    "fit_primary": true,
+    "minimum_seconds": 12,
+    "speech": "The M three by six ground-anchor screw enters a blind receiving pilot in the grounded body. It holds the carrier saddle at its contact seat. The animation follows the inclined attachment direction instead of treating this screw as an axial head-stack fastener.",
+    "ghost_context": true
+  },
+  {
+    "key": "shield_clamp",
+    "label": "Coax shield spring clamp",
+    "detail": "Spring contact grips the exposed braid; jacket ends before the contact band",
+    "primary": [
+      128
+    ],
+    "context": [
+      129,
+      137
+    ],
+    "mode": "lift",
+    "moves": {
+      "128": [
+        18,
+        0,
+        0
+      ]
+    },
+    "az": -62,
+    "el": 25,
+    "section": {
+      "window": [
+        184,
+        208
+      ]
+    },
+    "fit_primary": true,
+    "minimum_seconds": 12,
+    "speech": "The spring clamp contacts the exposed coax shield, where the outer jacket has ended. Its contact transfers the braid to the grounded carrier. The modeled spring shape and overlap are an installed envelope, not a spring-contact simulation."
+  },
+  {
+    "key": "clamp_hardware",
+    "label": "Shield-clamp screw and nut",
+    "detail": "Small M3 \u00d74 screw and separate nut retain the clamp on its carrier",
+    "primary": [
+      130,
+      131
+    ],
+    "context": [
+      128,
+      129
+    ],
+    "mode": "lift",
+    "moves": {
+      "130": [
+        0,
+        -16,
+        0
+      ],
+      "131": [
+        0,
+        12,
+        0
+      ]
+    },
+    "az": -62,
+    "el": 30,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "The shield clamp has its own small M three by four mounting screw and a separate nut. Both are shown here with the carrier and clamp. These are distinct from the larger blind screw that anchors the carrier to the body."
+  },
+  {
+    "key": "ground_path",
+    "label": "RF shield / grounded return path",
+    "detail": "Coax shield \u2192 spring clamp \u2192 carrier \u2192 grounded body",
+    "primary": [
+      128,
+      129,
+      130,
+      131,
+      132,
+      137
+    ],
+    "context": [
+      126
+    ],
+    "mode": "static",
+    "moves": {},
+    "az": -145,
+    "el": 26,
+    "section": {
+      "window": [
+        184,
+        210
+      ],
+      "normal": [
+        1,
+        0,
+        0
+      ],
+      "origin": [
+        0,
+        0,
+        0
+      ]
+    },
+    "fit_primary": true,
+    "minimum_seconds": 14,
+    "speech": "This is the modeled shield connection path: exposed braid to spring clamp, carrier and grounded body. The body still needs its external verified ground bond. The compression O ring around the service tube is not assumed to be the electrical bond.",
+    "ghost_context": true
+  },
+  {
+    "key": "live_standoff",
+    "label": "Copper terminal stand-off",
+    "detail": "Passes through the yoke opening and contacts the copper backplate",
+    "primary": [
+      133
+    ],
+    "context": [
+      35,
+      36
+    ],
+    "mode": "lift",
+    "moves": {
+      "133": [
+        0,
+        0,
+        24
+      ]
+    },
+    "az": -145,
+    "el": 25,
+    "section": {
+      "normal": [
+        1,
+        0,
+        0
+      ],
+      "origin": [
+        0,
+        0,
+        0
+      ]
+    },
+    "fit_primary": true,
+    "minimum_seconds": 12,
+    "speech": "On the live side, a copper stand-off passes through the existing yoke opening and contacts the copper backplate. It brings the terminal connection to the rear of the yoke without inventing a slot through the magnetic return plate.",
+    "ghost_context": true
+  },
+  {
+    "key": "live_lug",
+    "label": "M4 ring terminal",
+    "detail": "Centre conductor terminates in the lug; the eye seats on the live stand-off",
+    "primary": [
+      135
+    ],
+    "context": [
+      133,
+      134,
+      139,
+      140
+    ],
+    "mode": "lift",
+    "moves": {
+      "135": [
+        0,
+        0,
+        16
+      ]
+    },
+    "az": -62,
+    "el": 28,
+    "section": {
+      "window": [
+        159,
+        193
+      ]
+    },
+    "fit_primary": true,
+    "minimum_seconds": 12,
+    "speech": "The centre conductor terminates at a ring lug. Its eye seats over the live stand-off and is retained by the terminal screw. The lug in the CAD is a catalogue-dimension study envelope; actual crimp deformation is not modeled."
+  },
+  {
+    "key": "live_screw",
+    "label": "Live terminal screw",
+    "detail": "M4 \u00d720 screw clamps the lug and stand-off to the copper backplate",
+    "primary": [
+      134
+    ],
+    "context": [
+      133,
+      135,
+      35
+    ],
+    "mode": "fasteners",
+    "moves": {
+      "134": [
+        0,
+        0,
+        26
+      ]
+    },
+    "az": -62,
+    "el": 22,
+    "section": null,
+    "fit_primary": true,
+    "minimum_seconds": 12,
+    "speech": "The M four by twenty terminal screw clamps the ring lug and stand-off onto the copper backplate. This is the separate live attachment. Its nominal screw shaft and receiving bore do not provide a validated thread-strength or torque rating.",
+    "ghost_context": true
+  },
+  {
+    "key": "live_path",
+    "label": "RF centre / live path",
+    "detail": "Centre conductor \u2192 lug \u2192 stand-off \u2192 backplate \u2192 target",
+    "primary": [
+      133,
+      134,
+      135,
+      139,
+      35,
+      34,
+      103
+    ],
+    "context": [
+      140
+    ],
+    "mode": "static",
+    "moves": {},
+    "az": -62,
+    "el": -12,
+    "section": {
+      "window": [
+        130,
+        190
+      ]
+    },
+    "fit_primary": false,
+    "minimum_seconds": 14,
+    "speech": "Follow the live path from the coax centre to the ring lug, stand-off and copper backplate, then through the copper head to the target. This view isolates the actual conducting parts. The shield connection belongs to the other path."
+  },
+  {
+    "key": "coax_layers",
+    "label": "Coaxial cable \u00b7 actual CAD section",
+    "detail": "Outer jacket / shield / dielectric / centre conductor",
+    "primary": [
+      136,
+      137,
+      138,
+      139
+    ],
+    "context": [],
+    "mode": "layers",
+    "moves": {},
+    "az": -62,
+    "el": 45,
+    "section": {
+      "window": [
+        438,
+        442
+      ]
+    },
+    "fit_primary": false,
+    "minimum_seconds": 14,
+    "speech": "The cable has four separately modeled layers. This short section is cut from the actual routed cable: outer jacket, shield, centre dielectric and centre conductor. They separate radially here and return to their concentric arrangement."
+  },
+  {
+    "key": "jacket",
+    "label": "Coax outer jacket",
+    "detail": "Outer protection ends before the exposed shield contact band",
+    "primary": [
+      136
+    ],
+    "context": [
+      137,
+      138,
+      139
+    ],
+    "mode": "layers",
+    "moves": {
+      "136": [
+        7,
+        0,
+        0
+      ]
+    },
+    "az": -62,
+    "el": 42,
+    "section": {
+      "window": [
+        438,
+        442
+      ]
+    },
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "Outer protection ends before the exposed shield contact band. The actual layer is shown on its own and then returned to the cable section; its geometry is not replaced by a generic diagram."
+  },
+  {
+    "key": "braid",
+    "label": "Coax shield",
+    "detail": "Outer conductor contacts the grounded spring clamp",
+    "primary": [
+      137
+    ],
+    "context": [
+      136,
+      138,
+      139
+    ],
+    "mode": "layers",
+    "moves": {
+      "137": [
+        7,
+        0,
+        0
+      ]
+    },
+    "az": -62,
+    "el": 42,
+    "section": {
+      "window": [
+        438,
+        442
+      ]
+    },
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "Outer conductor contacts the grounded spring clamp. The actual layer is shown on its own and then returned to the cable section; its geometry is not replaced by a generic diagram."
+  },
+  {
+    "key": "dielectric",
+    "label": "Coax centre dielectric",
+    "detail": "Separates the live centre conductor from the grounded shield",
+    "primary": [
+      138
+    ],
+    "context": [
+      136,
+      137,
+      139
+    ],
+    "mode": "layers",
+    "moves": {
+      "138": [
+        7,
+        0,
+        0
+      ]
+    },
+    "az": -62,
+    "el": 42,
+    "section": {
+      "window": [
+        438,
+        442
+      ]
+    },
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "Separates the live centre conductor from the grounded shield. The actual layer is shown on its own and then returned to the cable section; its geometry is not replaced by a generic diagram."
+  },
+  {
+    "key": "conductor",
+    "label": "Coax centre conductor",
+    "detail": "Carries the live RF connection to the ring terminal",
+    "primary": [
+      139
+    ],
+    "context": [
+      136,
+      137,
+      138
+    ],
+    "mode": "layers",
+    "moves": {
+      "139": [
+        7,
+        0,
+        0
+      ]
+    },
+    "az": -62,
+    "el": 42,
+    "section": {
+      "window": [
+        438,
+        442
+      ]
+    },
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "Carries the live RF connection to the ring terminal. The actual layer is shown on its own and then returned to the cable section; its geometry is not replaced by a generic diagram."
+  },
+  {
+    "key": "guard",
+    "label": "Extra dielectric guard sleeve",
+    "detail": "Protects the centre tail beyond the shield termination",
+    "primary": [
+      140
+    ],
+    "context": [
+      138,
+      139,
+      135
+    ],
+    "mode": "lift",
+    "moves": {
+      "140": [
+        -9,
+        0,
+        0
+      ]
+    },
+    "az": -62,
+    "el": 30,
+    "section": {
+      "window": [
+        174,
+        191
+      ]
+    },
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "The added dielectric guard sleeve covers the protected centre tail beyond the braid termination. It is a separate modeled part, distinct from the coax original centre dielectric. Its material and electrical rating remain to be selected and verified."
+  },
+  {
+    "key": "coax_termination",
+    "label": "Complete coax termination",
+    "detail": "Shield terminates on ground; protected centre continues to the live copper terminal",
+    "primary": [
+      136,
+      137,
+      138,
+      139,
+      140,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135
+    ],
+    "context": [
+      126,
+      36,
+      35
+    ],
+    "mode": "termination",
+    "moves": {},
+    "az": -62,
+    "el": 22,
+    "section": {
+      "window": [
+        157,
+        222
+      ]
+    },
+    "fit_primary": false,
+    "minimum_seconds": 16,
+    "speech": "The complete termination brings the two paths together without shorting them. The jacket stops before the braid clamp. The protected centre continues through its guard to the live lug. The grounded carrier and live terminal stay physically separate in the actual model."
+  },
+  {
+    "key": "service_tube",
+    "label": "One-inch service tube and neck",
+    "detail": "\u00d825.4 mm service tube carries two hoses and the coax through the head joint",
+    "primary": [
+      127
+    ],
+    "context": [
+      62,
+      63,
+      136,
+      137,
+      138,
+      139,
+      140,
+      126
+    ],
+    "mode": "lift",
+    "moves": {
+      "127": [
+        75,
+        0,
+        0
+      ]
+    },
+    "az": -62,
+    "el": 12,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "The one-inch service tube carries the two coolant hoses and coax through the head joint. Its flange neck retains the source capture geometry and transitions to the twenty five point four millimetre outer tube. Moving it aside reveals the actual routed services."
+  },
+  {
+    "key": "head_joint",
+    "label": "Head / service-tube joint",
+    "detail": "Separate flange capture, centering ring, O-ring and clamp halves",
+    "primary": [
+      127,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ],
+    "context": [
+      126
+    ],
+    "mode": "lift",
+    "moves": {
+      "127": [
+        0,
+        0,
+        45
+      ],
+      "69": [
+        0,
+        0,
+        15
+      ],
+      "71": [
+        0,
+        0,
+        25
+      ]
+    },
+    "az": -62,
+    "el": 32,
+    "section": {
+      "window": [
+        202,
+        275
+      ]
+    },
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "The tube joins the head through a separate flange capture. The centering ring, O ring, clamp halves and six screws are individual modeled parts. This is the head joint, distinct from the chamber roof compression gland shown in the system video."
+  },
+  {
+    "key": "centering",
+    "label": "Head-joint centering ring",
+    "detail": "Locates the mating joint and supports the O-ring",
+    "primary": [
+      69
+    ],
+    "context": [
+      71,
+      127,
+      126
+    ],
+    "mode": "lift",
+    "moves": {
+      "69": [
+        0,
+        0,
+        16
+      ]
+    },
+    "az": -62,
+    "el": 35,
+    "section": {
+      "window": [
+        202,
+        245
+      ]
+    },
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "The centering ring locates the mating head joint and supports its seal. It is a separate part, not a feature merged into the service tube. The source uses a reference standard-form joint rather than an approved purchased assembly.",
+    "ghost_context": true
+  },
+  {
+    "key": "joint_seal",
+    "label": "Head-joint O-ring",
+    "detail": "Seals the tube / body joint around the centering ring",
+    "primary": [
+      71
+    ],
+    "context": [
+      69,
+      127,
+      126
+    ],
+    "mode": "lift",
+    "moves": {
+      "71": [
+        0,
+        0,
+        20
+      ]
+    },
+    "az": -62,
+    "el": 36,
+    "section": {
+      "window": [
+        202,
+        250
+      ]
+    },
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "This O ring seals the service-tube joint around the centering ring. It is separate from the body face rings and the coolant seals previously shown. The actual installed CAD seal envelope is retained.",
+    "ghost_context": true
+  },
+  {
+    "key": "clamp_halves",
+    "label": "Head clamp halves \u00d72",
+    "detail": "Two source clamp halves capture the mating flange geometry",
+    "primary": [
+      64,
+      65
+    ],
+    "context": [
+      127,
+      126,
+      69,
+      71
+    ],
+    "mode": "lift",
+    "moves": {
+      "64": [
+        0,
+        30,
+        0
+      ],
+      "65": [
+        0,
+        -30,
+        0
+      ]
+    },
+    "az": -62,
+    "el": 28,
+    "section": {
+      "window": [
+        200,
+        250
+      ]
+    },
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "Two clamp halves capture the mating flange geometry. They approach from opposite sides of the joint, preserving their actual source profiles. The centering ring and O ring remain inside the captured stack."
+  },
+  {
+    "key": "clamp_bolts",
+    "label": "Head clamp screws \u00d76",
+    "detail": "M5 \u00d720 screws close the clamp arrangement around the head joint",
+    "primary": [
+      66,
+      67,
+      68,
+      70,
+      72,
+      73
+    ],
+    "context": [
+      127,
+      126,
+      64,
+      65,
+      69,
+      71
+    ],
+    "mode": "fasteners",
+    "moves": {
+      "66": [
+        0,
+        0,
+        26
+      ],
+      "67": [
+        0,
+        0,
+        26
+      ],
+      "68": [
+        0,
+        0,
+        26
+      ],
+      "70": [
+        0,
+        0,
+        26
+      ],
+      "72": [
+        0,
+        0,
+        26
+      ],
+      "73": [
+        0,
+        0,
+        26
+      ]
+    },
+    "az": -62,
+    "el": 36,
+    "section": {
+      "window": [
+        200,
+        270
+      ]
+    },
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "Six nominal M five by twenty screws close the clamp arrangement. All six are shown separately. Their heads and shafts follow the modeled holes, with thread helices intentionally absent from these nominal fastener solids.",
+    "ghost_context": true
+  },
+  {
+    "key": "fitting_bodies",
+    "label": "R06 coolant fitting bodies \u00d72",
+    "detail": "SMC KQG2S04-M5 bodies seat in the two backplate ports",
+    "primary": [
+      19,
+      22
+    ],
+    "context": [
+      35,
+      36
+    ],
+    "mode": "lift",
+    "moves": {
+      "19": [
+        0,
+        0,
+        26
+      ],
+      "22": [
+        0,
+        0,
+        26
+      ]
+    },
+    "az": -62,
+    "el": 42,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "Two S M C K Q G two S zero four M five fitting bodies seat in the revised backplate ports and pass through the yoke openings. They use their specified gasket seating interface. The visible envelopes do not expose invented internal valve details."
+  },
+  {
+    "key": "release_rings",
+    "label": "Coolant release rings \u00d72",
+    "detail": "Separate collets provide the push-in tube interface",
+    "primary": [
+      26,
+      28
+    ],
+    "context": [
+      19,
+      22
+    ],
+    "mode": "lift",
+    "moves": {
+      "26": [
+        0,
+        0,
+        15
+      ],
+      "28": [
+        0,
+        0,
+        15
+      ]
+    },
+    "az": -62,
+    "el": 38,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "Each coolant fitting has its own separately modeled release ring. These are not screw nuts or additional threaded adapters. They belong to the push-in tube interface; actual internal retention details follow the purchased fitting."
+  },
+  {
+    "key": "hoses",
+    "label": "Coolant hoses \u00d72",
+    "detail": "Two routed 4 mm OD hoses carry supply and return through the service tube",
+    "primary": [
+      62,
+      63
+    ],
+    "context": [
+      19,
+      22,
+      26,
+      28,
+      127
+    ],
+    "mode": "lift",
+    "moves": {
+      "62": [
+        45,
+        0,
+        0
+      ],
+      "63": [
+        -45,
+        0,
+        0
+      ]
+    },
+    "az": -62,
+    "el": 12,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "The two four millimetre outside-diameter hoses are independent routed solids. They pass through the service tube to the two head fittings. Their existing bends and insertion segments are retained; the final tube material and allowable bend radius still need supplier confirmation."
+  },
+  {
+    "key": "hose_insert",
+    "label": "Hose-to-fitting engagement",
+    "detail": "Tube ends slide axially into their fitting collets",
+    "primary": [
+      62,
+      63,
+      19,
+      22,
+      26,
+      28
+    ],
+    "context": [
+      35,
+      36
+    ],
+    "mode": "lift",
+    "moves": {
+      "62": [
+        0,
+        0,
+        24
+      ],
+      "63": [
+        0,
+        0,
+        24
+      ]
+    },
+    "az": -62,
+    "el": 28,
+    "section": {
+      "window": [
+        153,
+        205
+      ]
+    },
+    "fit_primary": false,
+    "minimum_seconds": 12,
+    "speech": "This close-up follows the tube ends as they enter the fitting collets. The existing CAD includes an extended insertion segment for the R zero six fitting. The modeled engagement demonstrates the connection; it does not simulate hidden gripping teeth or establish a leak-tight joint."
+  },
+  {
+    "key": "water_path",
+    "label": "Complete cooling connection",
+    "detail": "Supply hose \u2192 backplate port \u2192 copper passage \u2192 return port and hose",
+    "primary": [
+      62,
+      63,
+      19,
+      22,
+      26,
+      28,
+      35,
+      34,
+      29,
+      33
+    ],
+    "context": [
+      36
+    ],
+    "mode": "water_path",
+    "moves": {},
+    "az": -62,
+    "el": 22,
+    "section": {
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "window": [
+        136,
+        205
+      ]
+    },
+    "fit_primary": false,
+    "minimum_seconds": 14,
+    "speech": "The cooling connection now reads as one path: supply hose and fitting, backplate port, copper water passage, then the other port, fitting and return hose. The two water O rings contain that interface. The gun thermal and leak performance still require qualification."
+  },
+  {
+    "key": "seal_stack",
+    "label": "All gun seals",
+    "detail": "Two coolant rings, copper/spacer ring, two isolator rings, and head-joint ring",
+    "primary": [
+      29,
+      33,
+      54,
+      94,
+      99,
+      71
+    ],
+    "context": [
+      34,
+      35,
+      58,
+      93,
+      126,
+      69
+    ],
+    "mode": "seal_stack",
+    "moves": {},
+    "az": -62,
+    "el": 22,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 15,
+    "speech": "This final seal review includes every gun O ring: two coolant rings, the copper-to-spacer ring, two isolator face rings and the head-joint ring. Each closes a different interface. Keeping the parts separate is essential to understanding the pressure and coolant boundaries."
+  },
+  {
+    "key": "reassembly",
+    "label": "Gun reassembly",
+    "detail": "All 141 component instances return to their checked R06 assembly positions",
+    "primary": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "context": [],
+    "mode": "reassemble",
+    "moves": {},
+    "az": -62,
+    "el": 24,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 20,
+    "speech": "The complete exploded gun returns to its checked assembly positions. Every repeated screw, magnet disc, sleeve and separate small connector part is included. The motion explains mating relationships rather than certifying a collision-free workshop procedure."
+  },
+  {
+    "key": "complete_end",
+    "label": "Complete R06 gun",
+    "detail": "Target / cooling / magnetic circuit / electrical isolation / RF connections / grounded shielding",
+    "primary": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "context": [],
+    "mode": "orbit",
+    "moves": {},
+    "az": -62,
+    "el": 24,
+    "section": null,
+    "fit_primary": false,
+    "minimum_seconds": 16,
+    "speech": "The assembled gun combines the consumable target, copper cooling head, magnetic circuit, PTFE isolation, separate RF centre and shield paths, routed services and grounded guards. This walkthrough explains the full current CAD design. Electrical, thermal, pressure and manufacturing qualification remain separate engineering work."
+  }
+]

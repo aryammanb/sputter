@@ -1,0 +1,556 @@
+{
+  "source": "D:\\sputter\\media\\gun-complete-walkthrough\\R06 sputter gun - complete silent walkthrough.mp4",
+  "video": "D:\\sputter\\media\\gun-complete-walkthrough\\R06 sputter gun - 8x faster silent walkthrough.mp4",
+  "source_seconds": 1066.875,
+  "duration_seconds": 133.36666666666667,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "audio": false,
+  "shots_retained": 60,
+  "chapters": [
+    {
+      "key": "complete",
+      "label": "R06 sputter gun",
+      "start_seconds": 0,
+      "duration_seconds": 2.1666666666666665,
+      "source_frames": 416,
+      "retained_source_frames": 416,
+      "motion_speed": 8.0
+    },
+    {
+      "key": "exploded",
+      "label": "Complete exploded assembly",
+      "start_seconds": 2.1666666666666665,
+      "duration_seconds": 2.5885416666666665,
+      "source_frames": 497,
+      "retained_source_frames": 370,
+      "motion_speed": 5.955734406438632
+    },
+    {
+      "key": "front_guard",
+      "label": "Dark-space cap",
+      "start_seconds": 4.755208333333333,
+      "duration_seconds": 1.9947916666666667,
+      "source_frames": 383,
+      "retained_source_frames": 290,
+      "motion_speed": 6.057441253263708
+    },
+    {
+      "key": "cap_screws",
+      "label": "Front guard screws \u00d76",
+      "start_seconds": 6.749999999999999,
+      "duration_seconds": 1.890625,
+      "source_frames": 363,
+      "retained_source_frames": 275,
+      "motion_speed": 6.0606060606060606
+    },
+    {
+      "key": "shield",
+      "label": "Grounded shield tube",
+      "start_seconds": 8.640625,
+      "duration_seconds": 2.28125,
+      "source_frames": 438,
+      "retained_source_frames": 329,
+      "motion_speed": 6.0091324200913245
+    },
+    {
+      "key": "shield_screws",
+      "label": "Shield-to-body screws \u00d73",
+      "start_seconds": 10.921875,
+      "duration_seconds": 1.8802083333333333,
+      "source_frames": 361,
+      "retained_source_frames": 273,
+      "motion_speed": 6.049861495844875
+    },
+    {
+      "key": "target_stack",
+      "label": "Target and floating clamp",
+      "start_seconds": 12.802083333333334,
+      "duration_seconds": 2.3697916666666665,
+      "source_frames": 455,
+      "retained_source_frames": 341,
+      "motion_speed": 5.9956043956043965
+    },
+    {
+      "key": "target",
+      "label": "Aluminium target",
+      "start_seconds": 15.171875,
+      "duration_seconds": 2.2083333333333335,
+      "source_frames": 424,
+      "retained_source_frames": 319,
+      "motion_speed": 6.018867924528301
+    },
+    {
+      "key": "clamp_lip",
+      "label": "R05 target clamp",
+      "start_seconds": 17.380208333333332,
+      "duration_seconds": 2.140625,
+      "source_frames": 411,
+      "retained_source_frames": 309,
+      "motion_speed": 6.014598540145985
+    },
+    {
+      "key": "target_fasteners",
+      "label": "Target clamp screws \u00d712",
+      "start_seconds": 19.520833333333332,
+      "duration_seconds": 2.3697916666666665,
+      "source_frames": 455,
+      "retained_source_frames": 341,
+      "motion_speed": 5.9956043956043965
+    },
+    {
+      "key": "copper",
+      "label": "Copper cooling body",
+      "start_seconds": 21.890624999999996,
+      "duration_seconds": 2.390625,
+      "source_frames": 459,
+      "retained_source_frames": 345,
+      "motion_speed": 6.0130718954248366
+    },
+    {
+      "key": "water_channel",
+      "label": "Coolant passage \u00b7 section",
+      "start_seconds": 24.281249999999996,
+      "duration_seconds": 2.4739583333333335,
+      "source_frames": 475,
+      "retained_source_frames": 356,
+      "motion_speed": 5.99578947368421
+    },
+    {
+      "key": "water_rings",
+      "label": "Water O-rings \u00d72",
+      "start_seconds": 26.75520833333333,
+      "duration_seconds": 2.4739583333333335,
+      "source_frames": 475,
+      "retained_source_frames": 356,
+      "motion_speed": 5.99578947368421
+    },
+    {
+      "key": "backplate",
+      "label": "R06 copper backplate",
+      "start_seconds": 29.22916666666666,
+      "duration_seconds": 2.3697916666666665,
+      "source_frames": 455,
+      "retained_source_frames": 341,
+      "motion_speed": 5.9956043956043965
+    },
+    {
+      "key": "backplate_screws",
+      "label": "Backplate screws \u00d712",
+      "start_seconds": 31.598958333333325,
+      "duration_seconds": 2.171875,
+      "source_frames": 417,
+      "retained_source_frames": 315,
+      "motion_speed": 6.043165467625899
+    },
+    {
+      "key": "yoke",
+      "label": "Steel magnetic return yoke",
+      "start_seconds": 33.77083333333332,
+      "duration_seconds": 2.296875,
+      "source_frames": 441,
+      "retained_source_frames": 331,
+      "motion_speed": 6.00453514739229
+    },
+    {
+      "key": "yoke_screw",
+      "label": "Yoke screw",
+      "start_seconds": 36.06770833333332,
+      "duration_seconds": 2.1822916666666665,
+      "source_frames": 419,
+      "retained_source_frames": 315,
+      "motion_speed": 6.014319809069213
+    },
+    {
+      "key": "centre_magnets",
+      "label": "Centre magnets \u00d72",
+      "start_seconds": 38.249999999999986,
+      "duration_seconds": 2.2239583333333335,
+      "source_frames": 427,
+      "retained_source_frames": 320,
+      "motion_speed": 5.995316159250585
+    },
+    {
+      "key": "outer_magnets",
+      "label": "Outer magnets \u00b7 12 stacks, 24 discs",
+      "start_seconds": 40.473958333333314,
+      "duration_seconds": 2.3229166666666665,
+      "source_frames": 446,
+      "retained_source_frames": 335,
+      "motion_speed": 6.008968609865471
+    },
+    {
+      "key": "magnetic_layout",
+      "label": "Magnetic circuit",
+      "start_seconds": 42.796874999999986,
+      "duration_seconds": 2.5989583333333335,
+      "source_frames": 499,
+      "retained_source_frames": 373,
+      "motion_speed": 5.979959919839679
+    },
+    {
+      "key": "spacer",
+      "label": "Live spacer",
+      "start_seconds": 45.39583333333332,
+      "duration_seconds": 2.2864583333333335,
+      "source_frames": 439,
+      "retained_source_frames": 330,
+      "motion_speed": 6.013667425968109
+    },
+    {
+      "key": "head_seal",
+      "label": "Copper-to-spacer O-ring",
+      "start_seconds": 47.68229166666666,
+      "duration_seconds": 1.9479166666666667,
+      "source_frames": 374,
+      "retained_source_frames": 283,
+      "motion_speed": 6.053475935828876
+    },
+    {
+      "key": "head_fasteners",
+      "label": "Head-to-spacer screws \u00d712",
+      "start_seconds": 49.63020833333332,
+      "duration_seconds": 2.0572916666666665,
+      "source_frames": 395,
+      "retained_source_frames": 298,
+      "motion_speed": 6.035443037974684
+    },
+    {
+      "key": "ptfe_ring",
+      "label": "Main PTFE isolator",
+      "start_seconds": 51.687499999999986,
+      "duration_seconds": 2.2604166666666665,
+      "source_frames": 434,
+      "retained_source_frames": 326,
+      "motion_speed": 6.009216589861752
+    },
+    {
+      "key": "isolator_rings",
+      "label": "Isolator face O-rings \u00d72",
+      "start_seconds": 53.94791666666665,
+      "duration_seconds": 2.2916666666666665,
+      "source_frames": 440,
+      "retained_source_frames": 330,
+      "motion_speed": 6.0
+    },
+    {
+      "key": "ptfe_sleeve",
+      "label": "PTFE screw shoulder sleeve",
+      "start_seconds": 56.239583333333314,
+      "duration_seconds": 2.3541666666666665,
+      "source_frames": 452,
+      "retained_source_frames": 338,
+      "motion_speed": 5.982300884955753
+    },
+    {
+      "key": "sleeve_section",
+      "label": "Insulated screw \u00b7 section",
+      "start_seconds": 58.59374999999998,
+      "duration_seconds": 2.5052083333333335,
+      "source_frames": 481,
+      "retained_source_frames": 360,
+      "motion_speed": 5.987525987525987
+    },
+    {
+      "key": "all_sleeves",
+      "label": "PTFE screw sleeves \u00d712",
+      "start_seconds": 61.098958333333314,
+      "duration_seconds": 2.4166666666666665,
+      "source_frames": 464,
+      "retained_source_frames": 347,
+      "motion_speed": 5.982758620689656
+    },
+    {
+      "key": "insulated_screws",
+      "label": "Insulated body screws \u00d712",
+      "start_seconds": 63.515624999999986,
+      "duration_seconds": 2.7552083333333335,
+      "source_frames": 529,
+      "retained_source_frames": 393,
+      "motion_speed": 5.943289224952741
+    },
+    {
+      "key": "body",
+      "label": "Grounded body / Boden",
+      "start_seconds": 66.27083333333333,
+      "duration_seconds": 2.609375,
+      "source_frames": 501,
+      "retained_source_frames": 375,
+      "motion_speed": 5.9880239520958085
+    },
+    {
+      "key": "ground_carrier",
+      "label": "RF ground carrier and saddle",
+      "start_seconds": 68.88020833333333,
+      "duration_seconds": 2.1145833333333335,
+      "source_frames": 406,
+      "retained_source_frames": 306,
+      "motion_speed": 6.029556650246305
+    },
+    {
+      "key": "ground_anchor",
+      "label": "Blind ground-anchor screw",
+      "start_seconds": 70.99479166666666,
+      "duration_seconds": 2.2604166666666665,
+      "source_frames": 434,
+      "retained_source_frames": 326,
+      "motion_speed": 6.009216589861752
+    },
+    {
+      "key": "shield_clamp",
+      "label": "Coax shield spring clamp",
+      "start_seconds": 73.25520833333333,
+      "duration_seconds": 2.2135416666666665,
+      "source_frames": 425,
+      "retained_source_frames": 320,
+      "motion_speed": 6.023529411764707
+    },
+    {
+      "key": "clamp_hardware",
+      "label": "Shield-clamp screw and nut",
+      "start_seconds": 75.46875,
+      "duration_seconds": 1.9010416666666667,
+      "source_frames": 365,
+      "retained_source_frames": 277,
+      "motion_speed": 6.071232876712328
+    },
+    {
+      "key": "ground_path",
+      "label": "RF shield / grounded return path",
+      "start_seconds": 77.36979166666666,
+      "duration_seconds": 2.25,
+      "source_frames": 432,
+      "retained_source_frames": 432,
+      "motion_speed": 8.0
+    },
+    {
+      "key": "live_standoff",
+      "label": "Copper terminal stand-off",
+      "start_seconds": 79.61979166666666,
+      "duration_seconds": 1.9010416666666667,
+      "source_frames": 365,
+      "retained_source_frames": 277,
+      "motion_speed": 6.071232876712328
+    },
+    {
+      "key": "live_lug",
+      "label": "M4 ring terminal",
+      "start_seconds": 81.52083333333331,
+      "duration_seconds": 2.0416666666666665,
+      "source_frames": 392,
+      "retained_source_frames": 296,
+      "motion_speed": 6.040816326530613
+    },
+    {
+      "key": "live_screw",
+      "label": "Live terminal screw",
+      "start_seconds": 83.56249999999999,
+      "duration_seconds": 2.0833333333333335,
+      "source_frames": 400,
+      "retained_source_frames": 302,
+      "motion_speed": 6.04
+    },
+    {
+      "key": "live_path",
+      "label": "RF centre / live path",
+      "start_seconds": 85.64583333333331,
+      "duration_seconds": 2.1354166666666665,
+      "source_frames": 410,
+      "retained_source_frames": 410,
+      "motion_speed": 8.0
+    },
+    {
+      "key": "coax_layers",
+      "label": "Coaxial cable \u00b7 actual CAD section",
+      "start_seconds": 87.78124999999999,
+      "duration_seconds": 2.1770833333333335,
+      "source_frames": 418,
+      "retained_source_frames": 314,
+      "motion_speed": 6.009569377990431
+    },
+    {
+      "key": "jacket",
+      "label": "Coax outer jacket",
+      "start_seconds": 89.95833333333331,
+      "duration_seconds": 1.7552083333333333,
+      "source_frames": 337,
+      "retained_source_frames": 257,
+      "motion_speed": 6.100890207715134
+    },
+    {
+      "key": "braid",
+      "label": "Coax shield",
+      "start_seconds": 91.71354166666664,
+      "duration_seconds": 1.6822916666666667,
+      "source_frames": 323,
+      "retained_source_frames": 247,
+      "motion_speed": 6.117647058823529
+    },
+    {
+      "key": "dielectric",
+      "label": "Coax centre dielectric",
+      "start_seconds": 93.39583333333331,
+      "duration_seconds": 1.71875,
+      "source_frames": 330,
+      "retained_source_frames": 253,
+      "motion_speed": 6.133333333333333
+    },
+    {
+      "key": "conductor",
+      "label": "Coax centre conductor",
+      "start_seconds": 95.11458333333331,
+      "duration_seconds": 1.6666666666666667,
+      "source_frames": 320,
+      "retained_source_frames": 245,
+      "motion_speed": 6.125
+    },
+    {
+      "key": "guard",
+      "label": "Extra dielectric guard sleeve",
+      "start_seconds": 96.78124999999999,
+      "duration_seconds": 2.25,
+      "source_frames": 432,
+      "retained_source_frames": 324,
+      "motion_speed": 6.0
+    },
+    {
+      "key": "coax_termination",
+      "label": "Complete coax termination",
+      "start_seconds": 99.03124999999999,
+      "duration_seconds": 2.3333333333333335,
+      "source_frames": 448,
+      "retained_source_frames": 336,
+      "motion_speed": 6.0
+    },
+    {
+      "key": "service_tube",
+      "label": "One-inch service tube and neck",
+      "start_seconds": 101.36458333333333,
+      "duration_seconds": 2.2552083333333335,
+      "source_frames": 433,
+      "retained_source_frames": 326,
+      "motion_speed": 6.0230946882217085
+    },
+    {
+      "key": "head_joint",
+      "label": "Head / service-tube joint",
+      "start_seconds": 103.61979166666666,
+      "duration_seconds": 2.15625,
+      "source_frames": 414,
+      "retained_source_frames": 311,
+      "motion_speed": 6.009661835748792
+    },
+    {
+      "key": "centering",
+      "label": "Head-joint centering ring",
+      "start_seconds": 105.77604166666666,
+      "duration_seconds": 2.0208333333333335,
+      "source_frames": 388,
+      "retained_source_frames": 294,
+      "motion_speed": 6.061855670103093
+    },
+    {
+      "key": "joint_seal",
+      "label": "Head-joint O-ring",
+      "start_seconds": 107.79687499999999,
+      "duration_seconds": 1.8229166666666667,
+      "source_frames": 350,
+      "retained_source_frames": 267,
+      "motion_speed": 6.102857142857142
+    },
+    {
+      "key": "clamp_halves",
+      "label": "Head clamp halves \u00d72",
+      "start_seconds": 109.61979166666666,
+      "duration_seconds": 1.8958333333333333,
+      "source_frames": 364,
+      "retained_source_frames": 276,
+      "motion_speed": 6.065934065934067
+    },
+    {
+      "key": "clamp_bolts",
+      "label": "Head clamp screws \u00d76",
+      "start_seconds": 111.51562499999999,
+      "duration_seconds": 2.0833333333333335,
+      "source_frames": 400,
+      "retained_source_frames": 302,
+      "motion_speed": 6.04
+    },
+    {
+      "key": "fitting_bodies",
+      "label": "R06 coolant fitting bodies \u00d72",
+      "start_seconds": 113.59895833333331,
+      "duration_seconds": 2.28125,
+      "source_frames": 438,
+      "retained_source_frames": 329,
+      "motion_speed": 6.0091324200913245
+    },
+    {
+      "key": "release_rings",
+      "label": "Coolant release rings \u00d72",
+      "start_seconds": 115.88020833333331,
+      "duration_seconds": 2.0208333333333335,
+      "source_frames": 388,
+      "retained_source_frames": 294,
+      "motion_speed": 6.061855670103093
+    },
+    {
+      "key": "hoses",
+      "label": "Coolant hoses \u00d72",
+      "start_seconds": 117.90104166666664,
+      "duration_seconds": 2.4010416666666665,
+      "source_frames": 461,
+      "retained_source_frames": 344,
+      "motion_speed": 5.969631236442517
+    },
+    {
+      "key": "hose_insert",
+      "label": "Hose-to-fitting engagement",
+      "start_seconds": 120.30208333333331,
+      "duration_seconds": 2.390625,
+      "source_frames": 459,
+      "retained_source_frames": 345,
+      "motion_speed": 6.0130718954248366
+    },
+    {
+      "key": "water_path",
+      "label": "Complete cooling connection",
+      "start_seconds": 122.69270833333331,
+      "duration_seconds": 2.546875,
+      "source_frames": 489,
+      "retained_source_frames": 365,
+      "motion_speed": 5.971370143149285
+    },
+    {
+      "key": "seal_stack",
+      "label": "All gun seals",
+      "start_seconds": 125.23958333333331,
+      "duration_seconds": 2.40625,
+      "source_frames": 462,
+      "retained_source_frames": 346,
+      "motion_speed": 5.991341991341991
+    },
+    {
+      "key": "reassembly",
+      "label": "Gun reassembly",
+      "start_seconds": 127.64583333333331,
+      "duration_seconds": 2.5,
+      "source_frames": 480,
+      "retained_source_frames": 406,
+      "motion_speed": 6.7666666666666675
+    },
+    {
+      "key": "complete_end",
+      "label": "Complete R06 gun",
+      "start_seconds": 130.14583333333331,
+      "duration_seconds": 3.2135416666666665,
+      "source_frames": 617,
+      "retained_source_frames": 617,
+      "motion_speed": 8.0
+    }
+  ],
+  "edit": "Trimmed stationary holds and accelerated retained ranges to eight times shorter overall; every original shot retained."
+}

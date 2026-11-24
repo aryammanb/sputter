@@ -1,0 +1,70 @@
+{
+  "source": "chamber-design\\coolant-fitting-r06\\Complete sputter system R06.step",
+  "source_sha256": "971f43bbf35aac5e4eeb17a2b6edb6c5199202011bafa2bf4becddfdcac4720f",
+  "geometry": "Exact tessellated R06 component solids; no substituted geometry",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "duration_seconds": 131.04166666666666,
+  "component_instances": 339,
+  "chapters": [
+    {
+      "key": "op_load",
+      "label": "Load the substrate",
+      "start_seconds": 0,
+      "duration_seconds": 16.375
+    },
+    {
+      "key": "op_pump",
+      "label": "Evacuate the chamber",
+      "start_seconds": 16.375,
+      "duration_seconds": 15.166666666666666
+    },
+    {
+      "key": "op_gas",
+      "label": "Admit regulated argon",
+      "start_seconds": 31.541666666666664,
+      "duration_seconds": 16.416666666666668
+    },
+    {
+      "key": "op_condition",
+      "label": "Shutter closed \u00b7 target conditioning",
+      "start_seconds": 47.95833333333333,
+      "duration_seconds": 18.833333333333332
+    },
+    {
+      "key": "op_sweep",
+      "label": "Substrate shutter \u00b7 opening",
+      "start_seconds": 66.79166666666666,
+      "duration_seconds": 15.0
+    },
+    {
+      "key": "op_deposit",
+      "label": "Shutter open \u00b7 substrate coating",
+      "start_seconds": 81.79166666666666,
+      "duration_seconds": 16.375
+    },
+    {
+      "key": "op_stop",
+      "label": "Close the shutter \u00b7 end exposure",
+      "start_seconds": 98.16666666666666,
+      "duration_seconds": 14.541666666666666
+    },
+    {
+      "key": "op_unload",
+      "label": "Vent, open & unload",
+      "start_seconds": 112.70833333333333,
+      "duration_seconds": 18.333333333333332
+    }
+  ],
+  "narration": "Windows Microsoft David Desktop, synthetic",
+  "reference_walkthrough": "chamber-design/main-system-r04/Complete sputter system R04 - main walkthrough.mp4",
+  "notes": [
+    "Exploded construction views illustrate mating relationships; no collision-free handling path or weld procedure is certified.",
+    "Only the compression fitting is sectioned. Gun internals are never exposed or disassembled.",
+    "Fitting thread pitch/turn count and seal details are the pre-existing illustrative CAD, not purchased-part specifications.",
+    "RV3, MFC, cabinets and other purchased reference envelopes are unchanged from the source CAD."
+  ]
+}

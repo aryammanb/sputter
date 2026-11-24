@@ -41,8 +41,8 @@
     "A13": "7",
     "B13": "Argon supply and flow control",
     "C13": "Sources selected; qualification pending",
-    "D13": "81934.4",
-    "E13": "Local cylinder/regulator; userAr200sccmHORIBA+KF25/VCR adapter; PE-D20 selected; priorNPT/push chain restored. Local allowances added.50mTorr ignition/range qualification pending.",
+    "D13": "86024",
+    "E13": "STEC SEC-4400MC-G2 Ar 500 sccm USD329; PE-D20 retained USD230.01. Owner-built perfboard adapter and shielded cable within existing INR2500 allowance. Fittings compatible per owner; exact G2 wiring and electrical checks before power-up.",
     "A14": "8",
     "B14": "Gun water cooling",
     "C14": "Local sourcing; checks pending",
@@ -69,17 +69,17 @@
     "D18": "30500",
     "E18": "Vent/gas shutoff, gun leak service, RF commissioning, spares and tools. See tab 12.",
     "A19": "Equipment and installation subtotal",
-    "D19": "944392.4",
+    "D19": "948482",
     "A20": "Initial-build scope budgeted. Equipment prices include allowances; freight/tax reserves and contingency are shown below.",
     "A21": "Freight, tax and clearance reserves",
     "D21": "70000",
     "E21": "Replace with actual freight/taxes; avoid overlap with tax-inclusive component prices.",
     "A22": "Contingency on equipment / installation",
     "C22": "0.1",
-    "D22": "94439.24",
+    "D22": "94848.20000000001",
     "E22": "For quote variation and incidental omissions. Separate from freight/tax reserves.",
     "A23": "Total planning budget",
-    "D23": "1108831.6400000001",
+    "D23": "1113330.2",
     "B24": "Online purchase",
     "C24": "Exact product buying link and applicable order quantity",
     "B25": "Local purchase",
@@ -158,7 +158,7 @@
     },
     "D13": {
       "formula": "'07 Argon and flow control'!I5",
-      "cached_value": "81934.4"
+      "cached_value": "86024"
     },
     "D14": {
       "formula": "'08 Gun water cooling'!I5",
@@ -182,7 +182,7 @@
     },
     "D19": {
       "formula": "SUM(D7:D18)",
-      "cached_value": "944392.4"
+      "cached_value": "948482"
     },
     "D21": {
       "formula": "'12 Installation and reserves'!I6",
@@ -190,11 +190,11 @@
     },
     "D22": {
       "formula": "D19*C22",
-      "cached_value": "94439.24"
+      "cached_value": "94848.20000000001"
     },
     "D23": {
       "formula": "SUM(D19,D21:D22)",
-      "cached_value": "1108831.6400000001"
+      "cached_value": "1113330.2"
     },
     "D47": {
       "formula": "D8",

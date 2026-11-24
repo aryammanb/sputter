@@ -1,0 +1,1166 @@
+{
+  "video": "D:\\sputter\\media\\gun-large-exploded\\R06 gun - large assembled to exploded 4K.mp4",
+  "source": "chamber-design\\coolant-fitting-r06\\Complete sputter system R06.step",
+  "source_sha256": "971f43bbf35aac5e4eeb17a2b6edb6c5199202011bafa2bf4becddfdcac4720f",
+  "resolution": [
+    3840,
+    2160
+  ],
+  "fps": 24,
+  "duration_seconds": 32,
+  "component_instances": 141,
+  "audio": false,
+  "visible_text": false,
+  "camera": "Landscape orientation, dynamically fitted to actual projected part bounds; 5.5% framing margin.",
+  "layout": "Each of the 141 unchanged CAD solids receives a non-overlapping projected slot in the final exploded view. No part scaling or substitute geometry.",
+  "framing_samples": [
+    {
+      "time": 0,
+      "explosion_fraction": 0,
+      "width_fraction": 0.947867298578199,
+      "height_fraction": 0.6520498081799142
+    },
+    {
+      "time": 11,
+      "explosion_fraction": 0.5,
+      "width_fraction": 0.9454255159360653,
+      "height_fraction": 0.9478672985781992
+    },
+    {
+      "time": 24,
+      "explosion_fraction": 1,
+      "width_fraction": 0.947867298578199,
+      "height_fraction": 0.9414848576141672
+    }
+  ],
+  "components": [
+    {
+      "name": "Gun 001 outermag",
+      "exploded_translation_mm": [
+        165.96244076156938,
+        141.63070306475322,
+        223.5779208910392
+      ]
+    },
+    {
+      "name": "Gun 002 outermag",
+      "exploded_translation_mm": [
+        149.4111386730918,
+        231.60451806448643,
+        384.63445223098313
+      ]
+    },
+    {
+      "name": "Gun 003 outermag",
+      "exploded_translation_mm": [
+        140.66887331401279,
+        67.7742417352172,
+        57.415734088749105
+      ]
+    },
+    {
+      "name": "Gun 004 outermag",
+      "exploded_translation_mm": [
+        142.32400357085527,
+        58.77685997434173,
+        52.31008051672758
+      ]
+    },
+    {
+      "name": "Gun 005 backbolts",
+      "exploded_translation_mm": [
+        175.91508725507572,
+        -40.784260234770855,
+        -146.4735508782052
+      ]
+    },
+    {
+      "name": "Gun 006 backbolts",
+      "exploded_translation_mm": [
+        168.16172584605695,
+        15.255868799998147,
+        -1.3049389590088545
+      ]
+    },
+    {
+      "name": "Gun 007 backbolts",
+      "exploded_translation_mm": [
+        189.09971539372623,
+        -29.954127831539168,
+        -63.520058021278054
+      ]
+    },
+    {
+      "name": "Gun 008 outermag",
+      "exploded_translation_mm": [
+        132.96822514923423,
+        145.25591302781098,
+        163.15530735770463
+      ]
+    },
+    {
+      "name": "Gun 009 outermag",
+      "exploded_translation_mm": [
+        131.31309491516055,
+        154.25329466491382,
+        188.26096072192504
+      ]
+    },
+    {
+      "name": "Gun 010 outermag",
+      "exploded_translation_mm": [
+        129.65796463554923,
+        134.2506765495619,
+        193.3666145017477
+      ]
+    },
+    {
+      "name": "Gun 011 outermag",
+      "exploded_translation_mm": [
+        128.00283440147552,
+        143.2480581866647,
+        218.47226786596812
+      ]
+    },
+    {
+      "name": "Gun 012 backbolts",
+      "exploded_translation_mm": [
+        184.55509790696476,
+        55.603996861157796,
+        -22.043311953368445
+      ]
+    },
+    {
+      "name": "Gun 013 outermag",
+      "exploded_translation_mm": [
+        144.84191994407445,
+        173.73496552436927,
+        284.00053326368703
+      ]
+    },
+    {
+      "name": "Gun 014 outermag",
+      "exploded_translation_mm": [
+        143.18678974611433,
+        182.73234696515678,
+        309.10618629831475
+      ]
+    },
+    {
+      "name": "Gun 015 backbolts",
+      "exploded_translation_mm": [
+        172.70634333281842,
+        35.098798489625445,
+        -42.78168502691844
+      ]
+    },
+    {
+      "name": "Gun 016 backbolts",
+      "exploded_translation_mm": [
+        173.6427783158196,
+        -44.737460915750844,
+        -125.73517759184296
+      ]
+    },
+    {
+      "name": "Gun 017 outermag",
+      "exploded_translation_mm": [
+        135.30731055627942,
+        150.62808454538623,
+        238.68357399256325
+      ]
+    },
+    {
+      "name": "Gun 018 outermag",
+      "exploded_translation_mm": [
+        133.6521803509894,
+        159.62546602601924,
+        263.78922709408727
+      ]
+    },
+    {
+      "name": "Gun 019 backbolts",
+      "exploded_translation_mm": [
+        207.6776241789114,
+        -42.30652652262654,
+        -84.25843114329552
+      ]
+    },
+    {
+      "name": "SMC KQG2S04-M5 body 18",
+      "exploded_translation_mm": [
+        123.78237034388849,
+        20.405116740455426,
+        -4.00047747158624
+      ]
+    },
+    {
+      "name": "Gun 021 outermag",
+      "exploded_translation_mm": [
+        197.0137430571703,
+        76.77162349609269,
+        72.52138766077064
+      ]
+    },
+    {
+      "name": "Gun 022 outermag",
+      "exploded_translation_mm": [
+        195.3586128003278,
+        85.76900525696814,
+        97.6270412327922
+      ]
+    },
+    {
+      "name": "SMC KQG2S04-M5 body -18",
+      "exploded_translation_mm": [
+        157.5736683108362,
+        32.41174601041025,
+        16.1573847976684
+      ]
+    },
+    {
+      "name": "Gun 024 outermag",
+      "exploded_translation_mm": [
+        189.81821908910769,
+        80.26638707972991,
+        102.73269490871428
+      ]
+    },
+    {
+      "name": "Gun 025 outermag",
+      "exploded_translation_mm": [
+        163.33613566108534,
+        224.224491549295,
+        354.42314584169156
+      ]
+    },
+    {
+      "name": "Gun 026 backbolts",
+      "exploded_translation_mm": [
+        216.31763527836623,
+        54.08173061615374,
+        40.171807289267456
+      ]
+    },
+    {
+      "name": "SMC KQG2S04-M5 release ring 18",
+      "exploded_translation_mm": [
+        170.52118430383408,
+        -30.107762818696447,
+        -126.30593045363985
+      ]
+    },
+    {
+      "name": "Gun 028 backbolts",
+      "exploded_translation_mm": [
+        233.16023201130952,
+        -95.91572169089665,
+        -187.95029689318727
+      ]
+    },
+    {
+      "name": "SMC KQG2S04-M5 release ring -18",
+      "exploded_translation_mm": [
+        205.45802350482126,
+        -24.328360537594996,
+        -116.60292450903327
+      ]
+    },
+    {
+      "name": "Gun 030 waterseal",
+      "exploded_translation_mm": [
+        -66.26820639437085,
+        143.0226778474014,
+        372.12208827167564
+      ]
+    },
+    {
+      "name": "Gun 031 outermag",
+      "exploded_translation_mm": [
+        161.6810054725493,
+        262.2218729388527,
+        359.52879879030985
+      ]
+    },
+    {
+      "name": "Gun 032 outermag",
+      "exploded_translation_mm": [
+        188.16308890057167,
+        118.26376846928758,
+        127.83834785733254
+      ]
+    },
+    {
+      "name": "Gun 033 yokebolt",
+      "exploded_translation_mm": [
+        177.34822347425313,
+        42.5838822944142,
+        -15.371957750896856
+      ]
+    },
+    {
+      "name": "Gun 034 waterseal",
+      "exploded_translation_mm": [
+        109.45483289591262,
+        17.66883985284622,
+        37.52893984093802
+      ]
+    },
+    {
+      "name": "Gun 035 cooler",
+      "exploded_translation_mm": [
+        -134.5744434081419,
+        5.615110372199538,
+        219.75017411764588
+      ]
+    },
+    {
+      "name": "Gun copper backplate R06 M5 coolant ports",
+      "exploded_translation_mm": [
+        -159.9456237574849,
+        86.7345568232725,
+        356.1875019396336
+      ]
+    },
+    {
+      "name": "Gun 037 yoke",
+      "exploded_translation_mm": [
+        -165.1051560047168,
+        113.55228379901824,
+        389.64558884876453
+      ]
+    },
+    {
+      "name": "Gun 038 centermag",
+      "exploded_translation_mm": [
+        101.69506250771217,
+        40.708936605746274,
+        71.297298888116
+      ]
+    },
+    {
+      "name": "Gun 039 backbolts",
+      "exploded_translation_mm": [
+        218.58994421762233,
+        58.03493129713375,
+        19.43343400290519
+      ]
+    },
+    {
+      "name": "Gun 040 centermag",
+      "exploded_translation_mm": [
+        104.02949500293835,
+        28.01882942674264,
+        59.991949406179586
+      ]
+    },
+    {
+      "name": "Gun 041 backbolts",
+      "exploded_translation_mm": [
+        209.9499329201979,
+        6.194401338637441,
+        -104.99680415813711
+      ]
+    },
+    {
+      "name": "Gun 042 outermag",
+      "exploded_translation_mm": [
+        159.73809189948915,
+        150.75853161263836,
+        148.04965436608168
+      ]
+    },
+    {
+      "name": "Gun 043 outermag",
+      "exploded_translation_mm": [
+        141.5316595481542,
+        249.7297284059443,
+        324.2118393329425
+      ]
+    },
+    {
+      "name": "Gun 044 outermag",
+      "exploded_translation_mm": [
+        131.99705014569946,
+        218.85232062066584,
+        268.8948801956112
+      ]
+    },
+    {
+      "name": "Gun 045 outermag",
+      "exploded_translation_mm": [
+        125.37652934652915,
+        254.84184642366137,
+        339.3174924010183
+      ]
+    },
+    {
+      "name": "Gun 046 backbolts",
+      "exploded_translation_mm": [
+        230.88792326583453,
+        -39.015595147067586,
+        -167.21192384011923
+      ]
+    },
+    {
+      "name": "Gun 047 outermag",
+      "exploded_translation_mm": [
+        175.8932221011142,
+        137.87588670893493,
+        132.94400129800582
+      ]
+    },
+    {
+      "name": "Gun 048 outermag",
+      "exploded_translation_mm": [
+        227.2350989319497,
+        -59.58264814717093,
+        -200.7799038996609
+      ]
+    },
+    {
+      "name": "Gun 049 headbolts",
+      "exploded_translation_mm": [
+        195.88639629950703,
+        10.171338390086984,
+        -101.21440070966469
+      ]
+    },
+    {
+      "name": "Gun 050 headbolts",
+      "exploded_translation_mm": [
+        154.76744034347894,
+        -84.03025996565017,
+        -207.20651133238565
+      ]
+    },
+    {
+      "name": "Gun 051 headbolts",
+      "exploded_translation_mm": [
+        181.33984631088353,
+        -113.71177171320912,
+        -170.4937004290245
+      ]
+    },
+    {
+      "name": "Gun 052 headbolts",
+      "exploded_translation_mm": [
+        185.13532026225167,
+        -45.794187925924156,
+        -205.13335174495015
+      ]
+    },
+    {
+      "name": "Gun 053 headbolts",
+      "exploded_translation_mm": [
+        196.91026922636104,
+        32.22023568770249,
+        37.34420016452799
+      ]
+    },
+    {
+      "name": "Gun 054 headbolts",
+      "exploded_translation_mm": [
+        168.68271647333256,
+        240.0494994741517,
+        349.101057265736
+      ]
+    },
+    {
+      "name": "Gun 055 headseal",
+      "exploded_translation_mm": [
+        -151.36665590996597,
+        62.118484462883124,
+        314.59091990780195
+      ]
+    },
+    {
+      "name": "Gun 056 headbolts",
+      "exploded_translation_mm": [
+        97.45086795711293,
+        156.01474454781913,
+        245.1821053578957
+      ]
+    },
+    {
+      "name": "Gun 057 headbolts",
+      "exploded_translation_mm": [
+        89.40356417494004,
+        221.896287474164,
+        273.162911596363
+      ]
+    },
+    {
+      "name": "Gun 058 headbolts",
+      "exploded_translation_mm": [
+        189.31931846366763,
+        117.76007226569203,
+        106.62350126325407
+      ]
+    },
+    {
+      "name": "Gun 059 spacer",
+      "exploded_translation_mm": [
+        -126.73850386846767,
+        -29.75397119577365,
+        140.288097495327
+      ]
+    },
+    {
+      "name": "Gun 060 headbolts",
+      "exploded_translation_mm": [
+        93.65539242752277,
+        220.92216292488445,
+        279.8217557249507
+      ]
+    },
+    {
+      "name": "Gun 061 headbolts",
+      "exploded_translation_mm": [
+        93.19903872399414,
+        124.57732074317096,
+        238.52326096666454
+      ]
+    },
+    {
+      "name": "Gun 062 headbolts",
+      "exploded_translation_mm": [
+        192.09092056450518,
+        -45.882792929238335,
+        -66.57475153842995
+      ]
+    },
+    {
+      "name": "Gun 063 hoses",
+      "exploded_translation_mm": [
+        -39.45575645723112,
+        -41.606997972754385,
+        -92.85318006238204
+      ]
+    },
+    {
+      "name": "Gun 064 hoses",
+      "exploded_translation_mm": [
+        134.2044699934915,
+        -61.437838213492505,
+        -247.3161334912791
+      ]
+    },
+    {
+      "name": "Gun 065 kfclamps",
+      "exploded_translation_mm": [
+        -8.315431161952198,
+        -140.53641197688907,
+        -165.37821698862354
+      ]
+    },
+    {
+      "name": "Gun 066 kfclamps",
+      "exploded_translation_mm": [
+        -16.377656467920545,
+        -103.17748957483884,
+        -130.83830468522999
+      ]
+    },
+    {
+      "name": "Gun 067 kfbolts",
+      "exploded_translation_mm": [
+        151.75506359698065,
+        72.01716702280045,
+        12.432200480714325
+      ]
+    },
+    {
+      "name": "Gun 068 kfbolts",
+      "exploded_translation_mm": [
+        131.5599428332019,
+        57.6437242721818,
+        38.667539343187485
+      ]
+    },
+    {
+      "name": "Gun 069 kfbolts",
+      "exploded_translation_mm": [
+        105.61559617190875,
+        134.52339515284646,
+        117.37355559303754
+      ]
+    },
+    {
+      "name": "Gun 070 kfcenter",
+      "exploded_translation_mm": [
+        98.2442171783131,
+        52.0164053339948,
+        32.89597496727928
+      ]
+    },
+    {
+      "name": "Gun 071 kfbolts",
+      "exploded_translation_mm": [
+        154.62967628933092,
+        36.39060971662535,
+        -13.803138583908728
+      ]
+    },
+    {
+      "name": "Gun 072 kfseal",
+      "exploded_translation_mm": [
+        112.15172525171748,
+        6.65565787784106,
+        -47.78353694655216
+      ]
+    },
+    {
+      "name": "Gun 073 kfbolts",
+      "exploded_translation_mm": [
+        128.68533019031597,
+        113.27028130946596,
+        64.90287795637104
+      ]
+    },
+    {
+      "name": "Gun 074 kfbolts",
+      "exploded_translation_mm": [
+        108.49020884750509,
+        98.89683793774665,
+        91.13821668132026
+      ]
+    },
+    {
+      "name": "Gun 075 cups",
+      "exploded_translation_mm": [
+        123.99420326091611,
+        41.44873010225761,
+        70.13778091947145
+      ]
+    },
+    {
+      "name": "Gun 076 basebolts",
+      "exploded_translation_mm": [
+        182.74660662399916,
+        47.015065352370165,
+        42.4838502079311
+      ]
+    },
+    {
+      "name": "Gun 077 basebolts",
+      "exploded_translation_mm": [
+        187.78396426327734,
+        -87.01903615954703,
+        -165.35405051319643
+      ]
+    },
+    {
+      "name": "Gun 078 cups",
+      "exploded_translation_mm": [
+        202.55335916626814,
+        -86.72634972849366,
+        -208.55869189547073
+      ]
+    },
+    {
+      "name": "Gun 079 basebolts",
+      "exploded_translation_mm": [
+        200.57715088519944,
+        23.48572403362642,
+        -26.79545072632745
+      ]
+    },
+    {
+      "name": "Gun 080 cups",
+      "exploded_translation_mm": [
+        71.01744886656265,
+        187.88595212899457,
+        204.86477605460962
+      ]
+    },
+    {
+      "name": "Gun 081 basebolts",
+      "exploded_translation_mm": [
+        108.96588634122664,
+        106.01539767784236,
+        111.76315222821931
+      ]
+    },
+    {
+      "name": "Gun 082 cups",
+      "exploded_translation_mm": [
+        60.66298967045717,
+        137.52263280119402,
+        137.50127932716512
+      ]
+    },
+    {
+      "name": "Gun 083 basebolts",
+      "exploded_translation_mm": [
+        93.71052036868872,
+        186.60316580271285,
+        312.9422114382601
+      ]
+    },
+    {
+      "name": "Gun 084 cups",
+      "exploded_translation_mm": [
+        122.43348003443285,
+        -46.18530006482071,
+        -174.87694343176656
+      ]
+    },
+    {
+      "name": "Gun 085 cups",
+      "exploded_translation_mm": [
+        80.42508306968593,
+        171.6421762041275,
+        305.91001917848246
+      ]
+    },
+    {
+      "name": "Gun 086 cups",
+      "exploded_translation_mm": [
+        64.35350743804311,
+        61.510593084673815,
+        103.8195297077161
+      ]
+    },
+    {
+      "name": "Gun 087 basebolts",
+      "exploded_translation_mm": [
+        97.50599490936585,
+        242.40011250837068,
+        278.3025608850145
+      ]
+    },
+    {
+      "name": "Gun 088 basebolts",
+      "exploded_translation_mm": [
+        176.39753825259655,
+        51.30758127837109,
+        -61.43510161748135
+      ]
+    },
+    {
+      "name": "Gun 089 basebolts",
+      "exploded_translation_mm": [
+        115.41000505871318,
+        164.86249762139087,
+        146.40280350681422
+      ]
+    },
+    {
+      "name": "Gun 090 basebolts",
+      "exploded_translation_mm": [
+        153.23680781351447,
+        -32.525830225348045,
+        -167.42720934954093
+      ]
+    },
+    {
+      "name": "Gun 091 cups",
+      "exploded_translation_mm": [
+        129.8145151218136,
+        -106.7882117793155,
+        -242.24044050294688
+      ]
+    },
+    {
+      "name": "Gun 092 basebolts",
+      "exploded_translation_mm": [
+        111.61452923263607,
+        129.54473879117444,
+        181.04245350925336
+      ]
+    },
+    {
+      "name": "Gun 093 cups",
+      "exploded_translation_mm": [
+        63.63641367893791,
+        151.58031394398913,
+        272.228272121596
+      ]
+    },
+    {
+      "name": "Gun 094 isolator",
+      "exploded_translation_mm": [
+        -120.11130796186667,
+        -65.20539468715857,
+        63.68298273093379
+      ]
+    },
+    {
+      "name": "Gun 095 upper62",
+      "exploded_translation_mm": [
+        -3.303909710642845,
+        -149.14156253594842,
+        -156.4382119715913
+      ]
+    },
+    {
+      "name": "Gun 096 cups",
+      "exploded_translation_mm": [
+        195.17232411873277,
+        -26.12343823060089,
+        -141.19519518794237
+      ]
+    },
+    {
+      "name": "Gun 097 basebolts",
+      "exploded_translation_mm": [
+        233.4616466354088,
+        -53.15824914301872,
+        -202.06685990127357
+      ]
+    },
+    {
+      "name": "Gun 098 cups",
+      "exploded_translation_mm": [
+        112.92265012355492,
+        157.58449587468544,
+        171.18302826831552
+      ]
+    },
+    {
+      "name": "Gun 099 basebolts",
+      "exploded_translation_mm": [
+        156.17828053971277,
+        247.3921700375255,
+        284.96140647446214
+      ]
+    },
+    {
+      "name": "Gun 100 lower62",
+      "exploded_translation_mm": [
+        0.5829069464513967,
+        -170.27051237368283,
+        -198.3614922746893
+      ]
+    },
+    {
+      "name": "Gun 101 cups",
+      "exploded_translation_mm": [
+        87.80611816623535,
+        207.94781488422328,
+        238.54652394270047
+      ]
+    },
+    {
+      "name": "Gun 102 targetbolts R05 M3x10",
+      "exploded_translation_mm": [
+        206.48283357219992,
+        142.76661511353836,
+        205.49835283636537
+      ]
+    },
+    {
+      "name": "Gun target clamp R05 for3.175mm aluminium",
+      "exploded_translation_mm": [
+        -140.40973174138986,
+        36.79392063391148,
+        280.92731426063114
+      ]
+    },
+    {
+      "name": "Gun aluminium target D50.8 x3.175",
+      "exploded_translation_mm": [
+        -61.97339275379558,
+        126.5517061266687,
+        354.75178927406944
+      ]
+    },
+    {
+      "name": "Gun 105 targetbolts R05 M3x10",
+      "exploded_translation_mm": [
+        210.06545156378903,
+        143.99682642444785,
+        172.8013605869691
+      ]
+    },
+    {
+      "name": "Gun 106 targetbolts R05 M3x10",
+      "exploded_translation_mm": [
+        194.33876246622262,
+        191.14130414028202,
+        221.84684957053543
+      ]
+    },
+    {
+      "name": "Gun 107 targetbolts R05 M3x10",
+      "exploded_translation_mm": [
+        188.94641618152747,
+        133.33047383893313,
+        107.40737958244617
+      ]
+    },
+    {
+      "name": "Gun 108 targetbolts R05 M3x10",
+      "exploded_translation_mm": [
+        166.44958320040803,
+        143.0681289967653,
+        123.75587468360968
+      ]
+    },
+    {
+      "name": "Gun 109 targetbolts R05 M3x10",
+      "exploded_translation_mm": [
+        135.97891110941902,
+        200.8789605847818,
+        238.19534614023797
+      ]
+    },
+    {
+      "name": "Gun 110 targetbolts R05 M3x10",
+      "exploded_translation_mm": [
+        134.58269380158103,
+        134.25916954344405,
+        156.4528646677024
+      ]
+    },
+    {
+      "name": "Gun 111 targetbolts R05 M3x10",
+      "exploded_translation_mm": [
+        131.00007578722312,
+        133.0289583563072,
+        189.14985712489985
+      ]
+    },
+    {
+      "name": "Gun 112 targetbolts R05 M3x10",
+      "exploded_translation_mm": [
+        134.18760223308422,
+        154.04807454881282,
+        254.54384270994052
+      ]
+    },
+    {
+      "name": "Gun 113 targetbolts R05 M3x10",
+      "exploded_translation_mm": [
+        164.65827331189905,
+        75.53171980201653,
+        140.1043682088926
+      ]
+    },
+    {
+      "name": "Gun 114 targetbolts R05 M3x10",
+      "exploded_translation_mm": [
+        190.73772369814085,
+        46.31875364447083,
+        91.05888314023574
+      ]
+    },
+    {
+      "name": "Gun 115 targetbolts R05 M3x10",
+      "exploded_translation_mm": [
+        188.9648358372182,
+        163.7857309933126,
+        270.8923392796431
+      ]
+    },
+    {
+      "name": "Gun 116 upperbolts",
+      "exploded_translation_mm": [
+        173.11802171990098,
+        100.81075107394686,
+        55.434033334476766
+      ]
+    },
+    {
+      "name": "Gun 117 darkcap",
+      "exploded_translation_mm": [
+        -104.87353571725495,
+        -137.63192530067448,
+        -3.5216577423683653
+      ]
+    },
+    {
+      "name": "Gun 118 upperbolts",
+      "exploded_translation_mm": [
+        75.92846432304228,
+        118.04594842436134,
+        240.17702316807203
+      ]
+    },
+    {
+      "name": "Gun 119 upperbolts",
+      "exploded_translation_mm": [
+        173.81820921582909,
+        -6.558462907262438,
+        43.064065020677255
+      ]
+    },
+    {
+      "name": "Gun 120 upperbolts",
+      "exploded_translation_mm": [
+        225.50714756676598,
+        -21.79701931623788,
+        -25.208145506776553
+      ]
+    },
+    {
+      "name": "Gun 121 upperbolts",
+      "exploded_translation_mm": [
+        160.23750606847,
+        174.14308625125878,
+        251.10042127552308
+      ]
+    },
+    {
+      "name": "Gun 122 shieldtube",
+      "exploded_translation_mm": [
+        -90.51158836047287,
+        -184.96701439712407,
+        -130.99035526749762
+      ]
+    },
+    {
+      "name": "Gun 123 lowerbolts",
+      "exploded_translation_mm": [
+        189.60569277492317,
+        20.42983572684388,
+        -77.1477353299645
+      ]
+    },
+    {
+      "name": "Gun 124 upperbolts",
+      "exploded_translation_mm": [
+        139.9526581078681,
+        21.78493836318781,
+        -35.51563356362558
+      ]
+    },
+    {
+      "name": "Gun 125 lowerbolts",
+      "exploded_translation_mm": [
+        119.65162240873298,
+        86.04004500672798,
+        158.8557479728714
+      ]
+    },
+    {
+      "name": "Gun 126 lowerbolts",
+      "exploded_translation_mm": [
+        102.25925122220137,
+        27.463928381527236,
+        -64.8775699897973
+      ]
+    },
+    {
+      "name": "Gun 127 base",
+      "exploded_translation_mm": [
+        -112.1212085525394,
+        -100.32836863677593,
+        -13.028073909199845
+      ]
+    },
+    {
+      "name": "Gun 128 kftube",
+      "exploded_translation_mm": [
+        -50.324569604152906,
+        68.71060430332015,
+        79.22694739483805
+      ]
+    },
+    {
+      "name": "Gun 129 rfground",
+      "exploded_translation_mm": [
+        152.81697119509369,
+        -16.147720580260593,
+        -99.16142318798131
+      ]
+    },
+    {
+      "name": "Gun 130 rfground",
+      "exploded_translation_mm": [
+        149.9934008822305,
+        3.269756227860526,
+        -85.80526780695487
+      ]
+    },
+    {
+      "name": "Gun 131 rfground",
+      "exploded_translation_mm": [
+        184.04054173679359,
+        85.88051323241932,
+        20.509694760063944
+      ]
+    },
+    {
+      "name": "Gun 132 rfground",
+      "exploded_translation_mm": [
+        182.25037510702506,
+        89.35181860456312,
+        31.13805020932716
+      ]
+    },
+    {
+      "name": "Gun 133 rfground",
+      "exploded_translation_mm": [
+        174.89753551854594,
+        57.92618881299731,
+        -33.51543984890984
+      ]
+    },
+    {
+      "name": "Gun 134 rfhot",
+      "exploded_translation_mm": [
+        180.4120843166825,
+        -1.952204039895257,
+        -48.48129874381604
+      ]
+    },
+    {
+      "name": "Gun 135 rfhot",
+      "exploded_translation_mm": [
+        185.8507237912702,
+        -26.97787856850772,
+        -91.51294678752353
+      ]
+    },
+    {
+      "name": "Gun 136 rfhot",
+      "exploded_translation_mm": [
+        143.03314941293098,
+        0.6858445412584118,
+        -27.652646367807062
+      ]
+    },
+    {
+      "name": "Gun 137 coax",
+      "exploded_translation_mm": [
+        88.7731818294446,
+        -74.24605442946456,
+        -267.42297268412494
+      ]
+    },
+    {
+      "name": "Gun 138 coax",
+      "exploded_translation_mm": [
+        66.90207551927404,
+        44.46478565947276,
+        -63.59282753045183
+      ]
+    },
+    {
+      "name": "Gun 139 coax",
+      "exploded_translation_mm": [
+        46.076840382196096,
+        -92.80879398534054,
+        -246.99108125193243
+      ]
+    },
+    {
+      "name": "Gun 140 coax",
+      "exploded_translation_mm": [
+        23.462243136898913,
+        27.272746725584813,
+        -40.500717205647355
+      ]
+    },
+    {
+      "name": "Gun 141 coax",
+      "exploded_translation_mm": [
+        178.66652887821678,
+        24.341229396561168,
+        -45.279747884047715
+      ]
+    }
+  ]
+}

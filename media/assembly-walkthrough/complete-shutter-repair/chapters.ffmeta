@@ -1,0 +1,187 @@
+;FFMETADATA1
+title=Sputter R06 - silent system walkthrough
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=5383
+title=Complete assembly
+[CHAPTER]
+TIMEBASE=1/1000
+START=5383
+END=11133
+title=Chamber support frame
+[CHAPTER]
+TIMEBASE=1/1000
+START=11133
+END=17933
+title=Chamber shell
+[CHAPTER]
+TIMEBASE=1/1000
+START=17933
+END=24150
+title=Chamber weld-on ports
+[CHAPTER]
+TIMEBASE=1/1000
+START=24150
+END=30550
+title=Door, hinges & seal
+[CHAPTER]
+TIMEBASE=1/1000
+START=30550
+END=36750
+title=Viewport assembly
+[CHAPTER]
+TIMEBASE=1/1000
+START=36750
+END=42750
+title=Baffle & substrate stage
+[CHAPTER]
+TIMEBASE=1/1000
+START=42750
+END=49517
+title=Shutter screw & blade
+[CHAPTER]
+TIMEBASE=1/1000
+START=49517
+END=55567
+title=Compression fitting
+[CHAPTER]
+TIMEBASE=1/1000
+START=55567
+END=60917
+title=Seat the fitting body
+[CHAPTER]
+TIMEBASE=1/1000
+START=60917
+END=66250
+title=Secure the KF clamp
+[CHAPTER]
+TIMEBASE=1/1000
+START=66250
+END=73033
+title=Feed the gun tube upward
+[CHAPTER]
+TIMEBASE=1/1000
+START=73033
+END=80250
+title=Set the gun height
+[CHAPTER]
+TIMEBASE=1/1000
+START=80250
+END=86450
+title=Tighten the compression cap
+[CHAPTER]
+TIMEBASE=1/1000
+START=86450
+END=94483
+title=Compression fitting · section
+[CHAPTER]
+TIMEBASE=1/1000
+START=94483
+END=102067
+title=Loosen, slide, retighten
+[CHAPTER]
+TIMEBASE=1/1000
+START=102067
+END=108533
+title=Turbo inlet & face seal
+[CHAPTER]
+TIMEBASE=1/1000
+START=108533
+END=114150
+title=ISO63 claw clamps
+[CHAPTER]
+TIMEBASE=1/1000
+START=114150
+END=120650
+title=Foreline connections
+[CHAPTER]
+TIMEBASE=1/1000
+START=120650
+END=127467
+title=Pirani & Penning connections
+[CHAPTER]
+TIMEBASE=1/1000
+START=127467
+END=133200
+title=Mass flow controller support
+[CHAPTER]
+TIMEBASE=1/1000
+START=133200
+END=139883
+title=MFC outlet to chamber
+[CHAPTER]
+TIMEBASE=1/1000
+START=139883
+END=146633
+title=MFC inlet fittings
+[CHAPTER]
+TIMEBASE=1/1000
+START=146633
+END=152833
+title=Gas tube insertion
+[CHAPTER]
+TIMEBASE=1/1000
+START=152833
+END=158517
+title=Argon supply route
+[CHAPTER]
+TIMEBASE=1/1000
+START=158517
+END=164467
+title=Gun cooling connections
+[CHAPTER]
+TIMEBASE=1/1000
+START=164467
+END=170717
+title=Turbo cooling connections
+[CHAPTER]
+TIMEBASE=1/1000
+START=170717
+END=176950
+title=RF supply, matching & earth
+[CHAPTER]
+TIMEBASE=1/1000
+START=176950
+END=183500
+title=Load the substrate
+[CHAPTER]
+TIMEBASE=1/1000
+START=183500
+END=189567
+title=Evacuate the chamber
+[CHAPTER]
+TIMEBASE=1/1000
+START=189567
+END=196133
+title=Admit regulated argon
+[CHAPTER]
+TIMEBASE=1/1000
+START=196133
+END=203667
+title=Shutter closed · target conditioning
+[CHAPTER]
+TIMEBASE=1/1000
+START=203667
+END=210267
+title=Shutter screw · opening
+[CHAPTER]
+TIMEBASE=1/1000
+START=210267
+END=216817
+title=Shutter open · substrate coating
+[CHAPTER]
+TIMEBASE=1/1000
+START=216817
+END=223367
+title=Shutter screw · closing
+[CHAPTER]
+TIMEBASE=1/1000
+START=223367
+END=230700
+title=Vent, open & unload
+[CHAPTER]
+TIMEBASE=1/1000
+START=230700
+END=239617
+title=Complete assembly

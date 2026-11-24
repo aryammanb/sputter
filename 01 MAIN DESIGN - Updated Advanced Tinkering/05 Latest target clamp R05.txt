@@ -1,0 +1,11 @@
+LATEST TARGET / CLAMP REVISION: R05
+
+C:\Users\Aryamman\Documents\ChatGPT\sputter\chamber-design\target-clamp-r05\READ FIRST - Clamp R05.txt
+
+Current complete system:
+C:\Users\Aryamman\Documents\ChatGPT\sputter\chamber-design\target-clamp-r05\Complete sputter system R05.step
+
+Current gun:
+C:\Users\Aryamman\Documents\ChatGPT\sputter\chamber-design\target-clamp-r05\Latest magnetron R05 - aluminium3.175mm.step
+
+Earlier R04 video and previous twelve-stack CAD predate this target-thickness change.

@@ -1,0 +1,1384 @@
+{
+  "source_component_instances": 141,
+  "shots": 60,
+  "all_components_explicitly_covered": true,
+  "components": [
+    {
+      "index": 0,
+      "name": "Gun 001 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-10 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "Gun 002 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-10 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "Gun 003 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-6 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "Gun 004 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-6 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "Gun 005 backbolts",
+      "role": "gun_backbolts",
+      "source_note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-6 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "backplate_screws"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "Gun 006 backbolts",
+      "role": "gun_backbolts",
+      "source_note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-8 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "backplate_screws"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "Gun 007 backbolts",
+      "role": "gun_backbolts",
+      "source_note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-9 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "backplate_screws"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "Gun 008 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-5 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "Gun 009 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-5 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "Gun 010 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-7 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "Gun 011 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-7 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "Gun 012 backbolts",
+      "role": "gun_backbolts",
+      "source_note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-4 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "backplate_screws"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "Gun 013 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-9 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "Gun 014 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-9 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "Gun 015 backbolts",
+      "role": "gun_backbolts",
+      "source_note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-5 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "backplate_screws"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "Gun 016 backbolts",
+      "role": "gun_backbolts",
+      "source_note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-7 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "backplate_screws"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "Gun 017 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-8 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "Gun 018 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-8 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "Gun 019 backbolts",
+      "role": "gun_backbolts",
+      "source_note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-10 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "backplate_screws"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "SMC KQG2S04-M5 body 18",
+      "role": "gun_fittings",
+      "source_note": "Purchased fitting envelope: OD9, overall17.1, above-seat14.1, M5x0.8, internal2mmhex. External dimensions fromSMC; hidden internal valve/seal details not manufacturer CAD. Assembly gasket compression atseat is represented, notqualified.",
+      "dedicated_shots": [
+        "fitting_bodies",
+        "hose_insert",
+        "water_path"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "Gun 021 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-12 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "Gun 022 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-12 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "SMC KQG2S04-M5 body -18",
+      "role": "gun_fittings",
+      "source_note": "Purchased fitting envelope: OD9, overall17.1, above-seat14.1, M5x0.8, internal2mmhex. External dimensions fromSMC; hidden internal valve/seal details not manufacturer CAD. Assembly gasket compression atseat is represented, notqualified.",
+      "dedicated_shots": [
+        "fitting_bodies",
+        "hose_insert",
+        "water_path"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "Gun 024 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-11 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "Gun 025 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-11 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "Gun 026 backbolts",
+      "role": "gun_backbolts",
+      "source_note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-12 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "backplate_screws"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "SMC KQG2S04-M5 release ring 18",
+      "role": "gun_fittings",
+      "source_note": "Purchased fitting envelope: OD9, overall17.1, above-seat14.1, M5x0.8, internal2mmhex. External dimensions fromSMC; hidden internal valve/seal details not manufacturer CAD. Assembly gasket compression atseat is represented, notqualified.",
+      "dedicated_shots": [
+        "release_rings",
+        "hose_insert",
+        "water_path"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "Gun 028 backbolts",
+      "role": "gun_backbolts",
+      "source_note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-11 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "backplate_screws"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "SMC KQG2S04-M5 release ring -18",
+      "role": "gun_fittings",
+      "source_note": "Purchased fitting envelope: OD9, overall17.1, above-seat14.1, M5x0.8, internal2mmhex. External dimensions fromSMC; hidden internal valve/seal details not manufacturer CAD. Assembly gasket compression atseat is represented, notqualified.",
+      "dedicated_shots": [
+        "release_rings",
+        "hose_insert",
+        "water_path"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "Gun 030 waterseal",
+      "role": "gun_waterseal",
+      "source_note": "01 Original cathode cooling and magnets-1/AT O-ring ID35x2 installed-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "water_rings",
+        "water_path",
+        "seal_stack"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "Gun 031 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-1 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "Gun 032 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-1 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "Gun 033 yokebolt",
+      "role": "gun_yokebolt",
+      "source_note": "01 Original cathode cooling and magnets-1/AT M4x10 socket-head study-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "yoke_screw"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "Gun 034 waterseal",
+      "role": "gun_waterseal",
+      "source_note": "01 Original cathode cooling and magnets-1/AT O-ring ID14p5x2 installed-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "water_rings",
+        "water_path",
+        "seal_stack"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "Gun 035 cooler",
+      "role": "gun_cooler",
+      "source_note": "01 Original cathode cooling and magnets-1/Kuehlkoerper-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "copper",
+        "water_channel",
+        "live_path",
+        "water_path"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "Gun copper backplate R06 M5 coolant ports",
+      "role": "gun_closure",
+      "source_note": "Two M5x0.8 gasket-sealed ports at X+/-18. Native SolidWorks features: D3 flow passage through; D4.2 tap drill5mm; M5x0.8 full thread4mm callout. OldD7.95 counterbores removed. Tapped thread represented by minor bore, not helical teeth.",
+      "dedicated_shots": [
+        "backplate",
+        "live_path",
+        "water_path"
+      ]
+    },
+    {
+      "index": 36,
+      "name": "Gun 037 yoke",
+      "role": "gun_yoke",
+      "source_note": "01 Original cathode cooling and magnets-1/Magnet Joke-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "yoke",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "Gun 038 centermag",
+      "role": "gun_centermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT center magnet D12x10 N45-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "centre_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 38,
+      "name": "Gun 039 backbolts",
+      "role": "gun_backbolts",
+      "source_note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "backplate_screws"
+      ]
+    },
+    {
+      "index": 39,
+      "name": "Gun 040 centermag",
+      "role": "gun_centermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT center magnet D12x10 N45-2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "centre_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 40,
+      "name": "Gun 041 backbolts",
+      "role": "gun_backbolts",
+      "source_note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-3 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "backplate_screws"
+      ]
+    },
+    {
+      "index": 41,
+      "name": "Gun 042 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-3 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 42,
+      "name": "Gun 043 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-3 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 43,
+      "name": "Gun 044 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-4 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 44,
+      "name": "Gun 045 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-4 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 45,
+      "name": "Gun 046 backbolts",
+      "role": "gun_backbolts",
+      "source_note": "01 Original cathode cooling and magnets-1/AT M3x16 socket-head study-2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "backplate_screws"
+      ]
+    },
+    {
+      "index": 46,
+      "name": "Gun 047 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-2 / stack disc 1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 47,
+      "name": "Gun 048 outermag",
+      "role": "gun_outermag",
+      "source_note": "01 Original cathode cooling and magnets-1/AT outer magnet D8x20 N45-2 / stack disc 2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "outer_magnets",
+        "magnetic_layout"
+      ]
+    },
+    {
+      "index": 48,
+      "name": "Gun 049 headbolts",
+      "role": "gun_headbolts",
+      "source_note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_fasteners"
+      ]
+    },
+    {
+      "index": 49,
+      "name": "Gun 050 headbolts",
+      "role": "gun_headbolts",
+      "source_note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-6 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_fasteners"
+      ]
+    },
+    {
+      "index": 50,
+      "name": "Gun 051 headbolts",
+      "role": "gun_headbolts",
+      "source_note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-9 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_fasteners"
+      ]
+    },
+    {
+      "index": 51,
+      "name": "Gun 052 headbolts",
+      "role": "gun_headbolts",
+      "source_note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-3 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_fasteners"
+      ]
+    },
+    {
+      "index": 52,
+      "name": "Gun 053 headbolts",
+      "role": "gun_headbolts",
+      "source_note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-11 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_fasteners"
+      ]
+    },
+    {
+      "index": 53,
+      "name": "Gun 054 headbolts",
+      "role": "gun_headbolts",
+      "source_note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-12 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_fasteners"
+      ]
+    },
+    {
+      "index": 54,
+      "name": "Gun 055 headseal",
+      "role": "gun_headseal",
+      "source_note": "02 Original spacer and copper attachment-1/AT O-ring ID76x2 installed-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_seal",
+        "seal_stack"
+      ]
+    },
+    {
+      "index": 55,
+      "name": "Gun 056 headbolts",
+      "role": "gun_headbolts",
+      "source_note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-7 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_fasteners"
+      ]
+    },
+    {
+      "index": 56,
+      "name": "Gun 057 headbolts",
+      "role": "gun_headbolts",
+      "source_note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-4 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_fasteners"
+      ]
+    },
+    {
+      "index": 57,
+      "name": "Gun 058 headbolts",
+      "role": "gun_headbolts",
+      "source_note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_fasteners"
+      ]
+    },
+    {
+      "index": 58,
+      "name": "Gun 059 spacer",
+      "role": "gun_spacer",
+      "source_note": "02 Original spacer and copper attachment-1/Abstandshalter-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "spacer"
+      ]
+    },
+    {
+      "index": 59,
+      "name": "Gun 060 headbolts",
+      "role": "gun_headbolts",
+      "source_note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-5 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_fasteners"
+      ]
+    },
+    {
+      "index": 60,
+      "name": "Gun 061 headbolts",
+      "role": "gun_headbolts",
+      "source_note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-8 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_fasteners"
+      ]
+    },
+    {
+      "index": 61,
+      "name": "Gun 062 headbolts",
+      "role": "gun_headbolts",
+      "source_note": "02 Original spacer and copper attachment-1/AT M3x35 socket-head study-10 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_fasteners"
+      ]
+    },
+    {
+      "index": 62,
+      "name": "Gun 063 hoses",
+      "role": "gun_hoses",
+      "source_note": "4mmOD/2.5mmID coolant tube extended toY-24.0, giving12.6mm nominal insertion fromcolletY-36.6. Existing bend retained; supplier tubing bend-radius qualification remainspending.",
+      "dedicated_shots": [
+        "hoses",
+        "hose_insert",
+        "water_path"
+      ]
+    },
+    {
+      "index": 63,
+      "name": "Gun 064 hoses",
+      "role": "gun_hoses",
+      "source_note": "4mmOD/2.5mmID coolant tube extended toY-24.0, giving12.6mm nominal insertion fromcolletY-36.6. Existing bend retained; supplier tubing bend-radius qualification remainspending.",
+      "dedicated_shots": [
+        "hoses",
+        "hose_insert",
+        "water_path"
+      ]
+    },
+    {
+      "index": 64,
+      "name": "Gun 065 kfclamps",
+      "role": "gun_kfclamps",
+      "source_note": "06 Original clamp and reference KF16 tube-1/AT original flange clamp half-2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_joint",
+        "clamp_halves"
+      ]
+    },
+    {
+      "index": 65,
+      "name": "Gun 066 kfclamps",
+      "role": "gun_kfclamps",
+      "source_note": "06 Original clamp and reference KF16 tube-1/AT original flange clamp half-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_joint",
+        "clamp_halves"
+      ]
+    },
+    {
+      "index": 66,
+      "name": "Gun 067 kfbolts",
+      "role": "gun_kfbolts",
+      "source_note": "06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_joint",
+        "clamp_bolts"
+      ]
+    },
+    {
+      "index": 67,
+      "name": "Gun 068 kfbolts",
+      "role": "gun_kfbolts",
+      "source_note": "06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-4 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_joint",
+        "clamp_bolts"
+      ]
+    },
+    {
+      "index": 68,
+      "name": "Gun 069 kfbolts",
+      "role": "gun_kfbolts",
+      "source_note": "06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-5 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_joint",
+        "clamp_bolts"
+      ]
+    },
+    {
+      "index": 69,
+      "name": "Gun 070 kfcenter",
+      "role": "gun_kfcenter",
+      "source_note": "06 Original clamp and reference KF16 tube-1/REF KF16 centering ring fitted-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_joint",
+        "centering"
+      ]
+    },
+    {
+      "index": 70,
+      "name": "Gun 071 kfbolts",
+      "role": "gun_kfbolts",
+      "source_note": "06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-6 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_joint",
+        "clamp_bolts"
+      ]
+    },
+    {
+      "index": 71,
+      "name": "Gun 072 kfseal",
+      "role": "gun_kfseal",
+      "source_note": "06 Original clamp and reference KF16 tube-1/REF KF16 O-ring installed envelope-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_joint",
+        "joint_seal",
+        "seal_stack"
+      ]
+    },
+    {
+      "index": 72,
+      "name": "Gun 073 kfbolts",
+      "role": "gun_kfbolts",
+      "source_note": "06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-3 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_joint",
+        "clamp_bolts"
+      ]
+    },
+    {
+      "index": 73,
+      "name": "Gun 074 kfbolts",
+      "role": "gun_kfbolts",
+      "source_note": "06 Original clamp and reference KF16 tube-1/AT M5x20 socket-head study-2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "head_joint",
+        "clamp_bolts"
+      ]
+    },
+    {
+      "index": 74,
+      "name": "Gun 075 cups",
+      "role": "gun_cups",
+      "source_note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-11 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "ptfe_sleeve",
+        "sleeve_section",
+        "all_sleeves"
+      ]
+    },
+    {
+      "index": 75,
+      "name": "Gun 076 basebolts",
+      "role": "gun_basebolts",
+      "source_note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-11 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "sleeve_section",
+        "insulated_screws"
+      ]
+    },
+    {
+      "index": 76,
+      "name": "Gun 077 basebolts",
+      "role": "gun_basebolts",
+      "source_note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-10 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "insulated_screws"
+      ]
+    },
+    {
+      "index": 77,
+      "name": "Gun 078 cups",
+      "role": "gun_cups",
+      "source_note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-12 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "all_sleeves"
+      ]
+    },
+    {
+      "index": 78,
+      "name": "Gun 079 basebolts",
+      "role": "gun_basebolts",
+      "source_note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-12 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "insulated_screws"
+      ]
+    },
+    {
+      "index": 79,
+      "name": "Gun 080 cups",
+      "role": "gun_cups",
+      "source_note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-4 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "all_sleeves"
+      ]
+    },
+    {
+      "index": 80,
+      "name": "Gun 081 basebolts",
+      "role": "gun_basebolts",
+      "source_note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-7 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "insulated_screws"
+      ]
+    },
+    {
+      "index": 81,
+      "name": "Gun 082 cups",
+      "role": "gun_cups",
+      "source_note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-5 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "all_sleeves"
+      ]
+    },
+    {
+      "index": 82,
+      "name": "Gun 083 basebolts",
+      "role": "gun_basebolts",
+      "source_note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-9 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "insulated_screws"
+      ]
+    },
+    {
+      "index": 83,
+      "name": "Gun 084 cups",
+      "role": "gun_cups",
+      "source_note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-6 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "all_sleeves"
+      ]
+    },
+    {
+      "index": 84,
+      "name": "Gun 085 cups",
+      "role": "gun_cups",
+      "source_note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-10 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "all_sleeves"
+      ]
+    },
+    {
+      "index": 85,
+      "name": "Gun 086 cups",
+      "role": "gun_cups",
+      "source_note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-8 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "all_sleeves"
+      ]
+    },
+    {
+      "index": 86,
+      "name": "Gun 087 basebolts",
+      "role": "gun_basebolts",
+      "source_note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-4 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "insulated_screws"
+      ]
+    },
+    {
+      "index": 87,
+      "name": "Gun 088 basebolts",
+      "role": "gun_basebolts",
+      "source_note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-3 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "insulated_screws"
+      ]
+    },
+    {
+      "index": 88,
+      "name": "Gun 089 basebolts",
+      "role": "gun_basebolts",
+      "source_note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-5 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "insulated_screws"
+      ]
+    },
+    {
+      "index": 89,
+      "name": "Gun 090 basebolts",
+      "role": "gun_basebolts",
+      "source_note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-6 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "insulated_screws"
+      ]
+    },
+    {
+      "index": 90,
+      "name": "Gun 091 cups",
+      "role": "gun_cups",
+      "source_note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-7 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "all_sleeves"
+      ]
+    },
+    {
+      "index": 91,
+      "name": "Gun 092 basebolts",
+      "role": "gun_basebolts",
+      "source_note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-8 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "insulated_screws"
+      ]
+    },
+    {
+      "index": 92,
+      "name": "Gun 093 cups",
+      "role": "gun_cups",
+      "source_note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-9 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "all_sleeves"
+      ]
+    },
+    {
+      "index": 93,
+      "name": "Gun 094 isolator",
+      "role": "gun_isolator",
+      "source_note": "03 Original PTFE isolation and base-1/Isolator-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "ptfe_ring"
+      ]
+    },
+    {
+      "index": 94,
+      "name": "Gun 095 upper62",
+      "role": "gun_upper62",
+      "source_note": "03 Original PTFE isolation and base-1/AT O-ring ID62x2 installed-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "isolator_rings",
+        "seal_stack"
+      ]
+    },
+    {
+      "index": 95,
+      "name": "Gun 096 cups",
+      "role": "gun_cups",
+      "source_note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "all_sleeves"
+      ]
+    },
+    {
+      "index": 96,
+      "name": "Gun 097 basebolts",
+      "role": "gun_basebolts",
+      "source_note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "insulated_screws"
+      ]
+    },
+    {
+      "index": 97,
+      "name": "Gun 098 cups",
+      "role": "gun_cups",
+      "source_note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "all_sleeves"
+      ]
+    },
+    {
+      "index": 98,
+      "name": "Gun 099 basebolts",
+      "role": "gun_basebolts",
+      "source_note": "03 Original PTFE isolation and base-1/AT M3x35 socket-head study-2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "insulated_screws"
+      ]
+    },
+    {
+      "index": 99,
+      "name": "Gun 100 lower62",
+      "role": "gun_lower62",
+      "source_note": "03 Original PTFE isolation and base-1/AT O-ring ID62x2 installed-2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "isolator_rings",
+        "seal_stack"
+      ]
+    },
+    {
+      "index": 100,
+      "name": "Gun 101 cups",
+      "role": "gun_cups",
+      "source_note": "03 Original PTFE isolation and base-1/AT PTFE screw shoulder sleeve fitted-3 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "all_sleeves"
+      ]
+    },
+    {
+      "index": 101,
+      "name": "Gun 102 targetbolts R05 M3x10",
+      "role": "gun_targetbolts",
+      "source_note": "R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "target_stack",
+        "target_fasteners"
+      ]
+    },
+    {
+      "index": 102,
+      "name": "Gun target clamp R05 for3.175mm aluminium",
+      "role": "gun_clamp",
+      "source_note": "Central pressure lip revised; contact shoulderY3.175; apertureD47.8; front envelopeY5 and outer screw interface retained. R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "target_stack",
+        "clamp_lip"
+      ]
+    },
+    {
+      "index": 103,
+      "name": "Gun aluminium target D50.8 x3.175",
+      "role": "gun_target",
+      "source_note": "Selected VritraTech99.99% aluminium,2in x0.125in. https://www.vritratech.com/store/product/aluminium-al-sputtering-target/ R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "target_stack",
+        "target",
+        "live_path"
+      ]
+    },
+    {
+      "index": 104,
+      "name": "Gun 105 targetbolts R05 M3x10",
+      "role": "gun_targetbolts",
+      "source_note": "R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "target_stack",
+        "target_fasteners"
+      ]
+    },
+    {
+      "index": 105,
+      "name": "Gun 106 targetbolts R05 M3x10",
+      "role": "gun_targetbolts",
+      "source_note": "R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "target_stack",
+        "target_fasteners"
+      ]
+    },
+    {
+      "index": 106,
+      "name": "Gun 107 targetbolts R05 M3x10",
+      "role": "gun_targetbolts",
+      "source_note": "R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "target_stack",
+        "target_fasteners"
+      ]
+    },
+    {
+      "index": 107,
+      "name": "Gun 108 targetbolts R05 M3x10",
+      "role": "gun_targetbolts",
+      "source_note": "R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "target_stack",
+        "target_fasteners"
+      ]
+    },
+    {
+      "index": 108,
+      "name": "Gun 109 targetbolts R05 M3x10",
+      "role": "gun_targetbolts",
+      "source_note": "R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "target_stack",
+        "target_fasteners"
+      ]
+    },
+    {
+      "index": 109,
+      "name": "Gun 110 targetbolts R05 M3x10",
+      "role": "gun_targetbolts",
+      "source_note": "R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "target_stack",
+        "target_fasteners"
+      ]
+    },
+    {
+      "index": 110,
+      "name": "Gun 111 targetbolts R05 M3x10",
+      "role": "gun_targetbolts",
+      "source_note": "R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "target_stack",
+        "target_fasteners"
+      ]
+    },
+    {
+      "index": 111,
+      "name": "Gun 112 targetbolts R05 M3x10",
+      "role": "gun_targetbolts",
+      "source_note": "R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "target_stack",
+        "target_fasteners"
+      ]
+    },
+    {
+      "index": 112,
+      "name": "Gun 113 targetbolts R05 M3x10",
+      "role": "gun_targetbolts",
+      "source_note": "R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "target_stack",
+        "target_fasteners"
+      ]
+    },
+    {
+      "index": 113,
+      "name": "Gun 114 targetbolts R05 M3x10",
+      "role": "gun_targetbolts",
+      "source_note": "R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "target_stack",
+        "target_fasteners"
+      ]
+    },
+    {
+      "index": 114,
+      "name": "Gun 115 targetbolts R05 M3x10",
+      "role": "gun_targetbolts",
+      "source_note": "R05 nominal M3x10 replaces M3x8, same head seatY1; tipY-9. Verify full useful M3x0.5 thread toY-9 and pilot bottomY-10. R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "target_stack",
+        "target_fasteners"
+      ]
+    },
+    {
+      "index": 115,
+      "name": "Gun 116 upperbolts",
+      "role": "gun_upperbolts",
+      "source_note": "05 Original grounded shield-1/AT M3x6 socket-head study-5 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "cap_screws"
+      ]
+    },
+    {
+      "index": 116,
+      "name": "Gun 117 darkcap",
+      "role": "gun_darkcap",
+      "source_note": "05 Original grounded shield-1/Dunkelraumabschirmung-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "front_guard"
+      ]
+    },
+    {
+      "index": 117,
+      "name": "Gun 118 upperbolts",
+      "role": "gun_upperbolts",
+      "source_note": "05 Original grounded shield-1/AT M3x6 socket-head study-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "cap_screws"
+      ]
+    },
+    {
+      "index": 118,
+      "name": "Gun 119 upperbolts",
+      "role": "gun_upperbolts",
+      "source_note": "05 Original grounded shield-1/AT M3x6 socket-head study-2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "cap_screws"
+      ]
+    },
+    {
+      "index": 119,
+      "name": "Gun 120 upperbolts",
+      "role": "gun_upperbolts",
+      "source_note": "05 Original grounded shield-1/AT M3x6 socket-head study-3 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "cap_screws"
+      ]
+    },
+    {
+      "index": 120,
+      "name": "Gun 121 upperbolts",
+      "role": "gun_upperbolts",
+      "source_note": "05 Original grounded shield-1/AT M3x6 socket-head study-4 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "cap_screws"
+      ]
+    },
+    {
+      "index": 121,
+      "name": "Gun 122 shieldtube",
+      "role": "gun_shieldtube",
+      "source_note": "05 Original grounded shield-1/Groundshield Rohr-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "shield"
+      ]
+    },
+    {
+      "index": 122,
+      "name": "Gun 123 lowerbolts",
+      "role": "gun_lowerbolts",
+      "source_note": "05 Original grounded shield-1/AT M4x8 socket-head study-2 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "shield_screws"
+      ]
+    },
+    {
+      "index": 123,
+      "name": "Gun 124 upperbolts",
+      "role": "gun_upperbolts",
+      "source_note": "05 Original grounded shield-1/AT M3x6 socket-head study-6 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "cap_screws"
+      ]
+    },
+    {
+      "index": 124,
+      "name": "Gun 125 lowerbolts",
+      "role": "gun_lowerbolts",
+      "source_note": "05 Original grounded shield-1/AT M4x8 socket-head study-1 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "shield_screws"
+      ]
+    },
+    {
+      "index": 125,
+      "name": "Gun 126 lowerbolts",
+      "role": "gun_lowerbolts",
+      "source_note": "05 Original grounded shield-1/AT M4x8 socket-head study-3 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "shield_screws"
+      ]
+    },
+    {
+      "index": 126,
+      "name": "Gun 127 base",
+      "role": "gun_base",
+      "source_note": "R02 Boden - internal blind ground anchor R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "body"
+      ]
+    },
+    {
+      "index": 127,
+      "name": "Gun 128 kftube",
+      "role": "gun_kftube",
+      "source_note": "R02 KF16 neck to one inch service tube R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "service_tube",
+        "head_joint"
+      ]
+    },
+    {
+      "index": 128,
+      "name": "Gun 129 rfground",
+      "role": "gun_rfground",
+      "source_note": "REF icotek SKL3-6 36202 installed study R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "shield_clamp",
+        "ground_path",
+        "coax_termination"
+      ]
+    },
+    {
+      "index": 129,
+      "name": "Gun 130 rfground",
+      "role": "gun_rfground",
+      "source_note": "R02 Ground carrier and conformal saddle R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "ground_carrier",
+        "ground_path",
+        "coax_termination"
+      ]
+    },
+    {
+      "index": 130,
+      "name": "Gun 131 rfground",
+      "role": "gun_rfground",
+      "source_note": "R02 M3x4 clamp mounting screw R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "clamp_hardware",
+        "ground_path",
+        "coax_termination"
+      ]
+    },
+    {
+      "index": 131,
+      "name": "Gun 132 rfground",
+      "role": "gun_rfground",
+      "source_note": "R02 M3 clamp nut envelope R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "clamp_hardware",
+        "ground_path",
+        "coax_termination"
+      ]
+    },
+    {
+      "index": 132,
+      "name": "Gun 133 rfground",
+      "role": "gun_rfground",
+      "source_note": "R02 M3x6 blind ground anchor screw R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "ground_anchor",
+        "ground_path",
+        "coax_termination"
+      ]
+    },
+    {
+      "index": 133,
+      "name": "Gun 134 rfhot",
+      "role": "gun_rfhot",
+      "source_note": "R02 Copper terminal stand-off D6p5 L12p5 R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "live_standoff",
+        "live_path",
+        "coax_termination"
+      ]
+    },
+    {
+      "index": 134,
+      "name": "Gun 135 rfhot",
+      "role": "gun_rfhot",
+      "source_note": "R02 M4x20 live terminal screw R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "live_screw",
+        "live_path",
+        "coax_termination"
+      ]
+    },
+    {
+      "index": 135,
+      "name": "Gun 136 rfhot",
+      "role": "gun_rfhot",
+      "source_note": "REF TE323086 M4 ring terminal study R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "live_lug",
+        "live_path",
+        "coax_termination"
+      ]
+    },
+    {
+      "index": 136,
+      "name": "Gun 137 coax",
+      "role": "gun_coax",
+      "source_note": "R02 Continuous coax outer jacket R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "coax_layers",
+        "jacket",
+        "coax_termination"
+      ]
+    },
+    {
+      "index": 137,
+      "name": "Gun 138 coax",
+      "role": "gun_coax",
+      "source_note": "R02 Continuous coax shield R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "ground_path",
+        "coax_layers",
+        "braid",
+        "coax_termination"
+      ]
+    },
+    {
+      "index": 138,
+      "name": "Gun 139 coax",
+      "role": "gun_coax",
+      "source_note": "R02 Continuous center dielectric R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "coax_layers",
+        "dielectric",
+        "coax_termination"
+      ]
+    },
+    {
+      "index": 139,
+      "name": "Gun 140 coax",
+      "role": "gun_coax",
+      "source_note": "R02 RF center conductor R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "live_path",
+        "coax_layers",
+        "conductor",
+        "coax_termination"
+      ]
+    },
+    {
+      "index": 140,
+      "name": "Gun 141 coax",
+      "role": "gun_coax",
+      "source_note": "R02 Additional dielectric guard sleeve R05 default gun datum raised1.175mm to retain100mm target/substrate gap.",
+      "dedicated_shots": [
+        "guard",
+        "coax_termination"
+      ]
+    }
+  ]
+}

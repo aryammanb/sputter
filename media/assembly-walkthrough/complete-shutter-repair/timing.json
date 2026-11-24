@@ -1,0 +1,42 @@
+{
+  "chapters": [
+    {
+      "key": "shutter_install",
+      "label": "Shutter screw & blade",
+      "start_seconds": 0,
+      "duration_seconds": 6.766666666666667
+    },
+    {
+      "key": "op_load",
+      "label": "Load the substrate",
+      "start_seconds": 6.766666666666667,
+      "duration_seconds": 6.55
+    },
+    {
+      "key": "op_sweep",
+      "label": "Shutter screw \u00b7 opening",
+      "start_seconds": 13.316666666666666,
+      "duration_seconds": 6.6
+    },
+    {
+      "key": "op_deposit",
+      "label": "Shutter open \u00b7 substrate coating",
+      "start_seconds": 19.916666666666664,
+      "duration_seconds": 6.55
+    },
+    {
+      "key": "op_stop",
+      "label": "Shutter screw \u00b7 closing",
+      "start_seconds": 26.466666666666665,
+      "duration_seconds": 6.55
+    },
+    {
+      "key": "op_unload",
+      "label": "Vent, open & unload",
+      "start_seconds": 33.016666666666666,
+      "duration_seconds": 7.333333333333333
+    }
+  ],
+  "fps": 60,
+  "duration_seconds": 40.35
+}

@@ -14,7 +14,7 @@ Dates identify the supplied project snapshot, not a claim that a part was ordere
 | D08 | Direct turbo-to-backing route | Current selected one-pump topology; no separate roughing bypass. | MFC R03 and plumbing reference |
 | D09 | EXT70/EXDC80 two-pump lot | One installed, one spare; selected 80 V supply recorded separately. | Procurement tab 05 |
 | D10 | INDOVAC HV2-150 backing pump | Local sourcing selection; old RV3 model remains reference only. | Procurement tab 05 |
-| D11 | 200 sccm MFC | Owner selection supersedes R01/R02 range recommendations; Ar calibration and low-flow qualification pending. | MFC R03 |
+| D11 | STEC SEC-4400MC-G2, Ar 500 sccm MFC | Owner selection supersedes R01-R03; fittings accepted by owner, PE-D20 retained and perfboard adapter selected; exact wiring, calibration and low-flow checks pending. | MFC R04 |
 | D12 | Independent gun/turbo cooling loops | Separate flow/temperature duties and planned isolation checks. | Procurement tabs 08/09 |
 | D13 | 200 W RF source + matcher | Current source selection supersedes earlier 300 W operating idea; old cooling basis retained. | Procurement tab 10 |
 | D14 | Viewport centre Z105 | Improves sampled sightlines below the target; does not predict glow or all-height visibility. | R04/R05 ray checks |

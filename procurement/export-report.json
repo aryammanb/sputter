@@ -1,7 +1,7 @@
 {
-  "source": "outputs/01a209eb-c119-74d1-bef5-c610f57d428f/Sputter system procurement.xlsx",
-  "sha256": "e35c767d488a1a7a59e3450c539a8d899a5813b82df458945ac9671ba4097a57",
-  "method": "Original workbook copied unchanged; CSVs use saved values. Formula text and cached values exported separately. No new recalculation claimed.",
+  "source": "procurement/Sputter system procurement.xlsx",
+  "sha256": "8b200ac936c075262d6430fd898f70369e334163df7c245654b14fca0d27e416",
+  "method": "Owner-selected 500 sccm MFC, retained PE-D20 and owner-built perfboard adapter updated with Artifact Tool on 25 November 2026. Recalculated, rendered and exported; CSVs retain saved values and JSON separates formulas/caches. Native Excel execution not tested.",
   "sheets": [
     {
       "sheet": "01 Sputter gun",
