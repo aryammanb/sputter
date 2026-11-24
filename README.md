@@ -1,8 +1,6 @@
 # Sputter deposition system
 
-A compact, adjustable magnetron sputtering system: a 12 L chamber, a 2-inch aluminium target, a twelve-stack magnetic head, turbomolecular pumping, argon flow control, and independent gun/turbo cooling loops.
-
-**Current snapshot: 24 November 2026.** Gun **R06**, target/clamp **R05**, integrated into the **R04** system layout. The design is a nominal engineering study. Fabrication release, sealing qualification and machine commissioning remain open.
+A compact, adjustable RF magnetron sputtering system
 
 ![Current R06 system](media/system.png)
 
