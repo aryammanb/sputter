@@ -52,6 +52,20 @@ Sam Zeloof's introductions are a useful starting point for understanding the vac
 1. **[High Vacuum Chamber Basics, Part 1](https://www.youtube.com/watch?v=iZ9ieSHOZsg)**
 2. **[High Vacuum Chamber Basics, Part 2 — Atmospheric to 1e-6 Torr Pumpdown Procedure](https://www.youtube.com/watch?v=vOBUx9HtMi4)**
 
+## Project status
+
+The end-to-end design is ready and documented. A component list has been prepared, with each part assigned a procurement route:
+
+| Route | Status |
+|---|---|
+| **Custom order** | Vendors identified for specialized parts; CAD models and specifications are ready to send after final review. |
+| **Procure online** | Purchase links identified, including suppliers in India and the US. |
+| **Procure locally** | Parts identified for offline sourcing. |
+
+The design files and [procurement list](procurement/README.md) are available in this repository.
+
+**Next steps:** complete the design review with a peer from the HackerFab team, then start or delegate procurement and building.
+
 ## Start here
 
 | What you need | Open |

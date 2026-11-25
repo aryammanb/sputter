@@ -2989,8 +2989,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 8950,
-      "sha256": "b5f59fbf13605c66e19f2645348a829996236d47588a559fae8adfcc9ef6595f"
+      "bytes": 9661,
+      "sha256": "7d5f0d0eeb7f287f6f7cd75923563b4647afc2a732cb98a075857b42056b4d5b"
     },
     {
       "path": "Sputter v2.pptx",
@@ -9604,8 +9604,8 @@
     },
     {
       "path": "docs/design.md",
-      "bytes": 12354,
-      "sha256": "b33ba213c82ba76bd37e12cd5e7859f815b0901233e8e04f5089c951a465a537"
+      "bytes": 10587,
+      "sha256": "4d1c9005100d8c9169821060da448e9fd5594e9c4e5c1fac4612e080140aa2a7"
     },
     {
       "path": "docs/engineering.md",
@@ -10444,13 +10444,13 @@
     },
     {
       "path": "tools/templates/README.md",
-      "bytes": 8856,
-      "sha256": "68d715673cf61287a90f199a574394fd25f8a95acad89066c791928a0cbb7bd5"
+      "bytes": 9553,
+      "sha256": "37ca8a9cf3c8f2ea55e1350e6d94b006814490397ccd84661103f7c7d5fa00e4"
     },
     {
       "path": "tools/templates/design.md",
-      "bytes": 12354,
-      "sha256": "b33ba213c82ba76bd37e12cd5e7859f815b0901233e8e04f5089c951a465a537"
+      "bytes": 10587,
+      "sha256": "4d1c9005100d8c9169821060da448e9fd5594e9c4e5c1fac4612e080140aa2a7"
     },
     {
       "path": "tools/validate_repository.py",
