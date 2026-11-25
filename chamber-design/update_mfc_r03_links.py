@@ -2,7 +2,6 @@ from pathlib import Path
 
 base = Path(__file__).resolve().parent.parent
 targets = [
-    ('00 START HERE - Main design.txt', 'ARGON FLOW CONTROL ENGINEERING', 'MAIN DESIGN:'),
     ('01 MAIN DESIGN - Updated Advanced Tinkering/00 READ FIRST - Current design.txt', 'ARGON MFC SIZING - 24 NOVEMBER 2026', 'PUMPING LAYOUT SELECTED'),
     ('chamber-design/target-clamp-r05/READ FIRST - Clamp R05.txt', 'GAS FLOW ENGINEERING ADDENDUM', 'Target procurement:'),
     ('chamber-design/main-system-r04/README.txt', 'LATER GAS FLOW ENGINEERING ADDENDUM - 24 NOVEMBER 2026', 'Open Complete sputter system'),
@@ -26,4 +25,4 @@ for name in ['Argon MFC sizing and specification R01.txt', 'Argon MFC sizing and
               'All earlier range recommendations below are superseded by R03.\n\n')
     if notice not in text:
         path.write_text(notice + text, encoding='utf-8')
-print('Updated four project guides and marked R01/R02 selections superseded.')
+print('Updated three project guides and marked R01/R02 selections superseded.')

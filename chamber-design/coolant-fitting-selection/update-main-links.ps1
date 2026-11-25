@@ -19,4 +19,3 @@ $base\Coolant fittings R06 - SolidWorks CAD package.zip
 SMC KQG2S04-M5 selected; backplate now has native passage/tap-drill cut features
 and M5x0.8 thread callouts. R05 target/clamp retained. Seal qualification pending.
 "@ | Set-Content '01 MAIN DESIGN - Updated Advanced Tinkering/06 Latest coolant fittings R06.txt' -Encoding utf8
-Add-Content '00 START HERE - Main design.txt' -Value "`r`nLATEST GUN CAD REVISION: R06 - M5 COOLANT FITTINGS`r`nSee 01 MAIN DESIGN - Updated Advanced Tinkering/06 Latest coolant fittings R06.txt.`r`nNative SolidWorks gun and backplate; updated complete-system STEP context.`r`nR05 target/clamp retained; original R05 files preserved." -Encoding utf8

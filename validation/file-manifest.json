@@ -18,14 +18,9 @@
       "sha256": "abf50865e5e11964656c38dc786337a7a89f5fd44141bf72959bd93b39d25676"
     },
     {
-      "path": "00 START HERE - Main design.txt",
-      "bytes": 2987,
-      "sha256": "01dbd3c0616973ce81a2f9e413c561ec12915001ef4901eadf0ce348d69a7efa"
-    },
-    {
       "path": "01 MAIN DESIGN - Updated Advanced Tinkering/00 READ FIRST - Current design.txt",
-      "bytes": 4528,
-      "sha256": "c33e31f7f6deaf2fb88cf6f558b2ab46ac59a0f50a0576677907a6fcb4c8dbd3"
+      "bytes": 4529,
+      "sha256": "d20ec15efc97b5b48ba2df30f65622a8dc40a057b099da902040e2f1f3685c4b"
     },
     {
       "path": "01 MAIN DESIGN - Updated Advanced Tinkering/04 Chamber purchased parts and references.csv",
@@ -184,8 +179,8 @@
     },
     {
       "path": "90 ARCHIVE - Earlier designs and working files/00 ARCHIVE GUIDE.txt",
-      "bytes": 653,
-      "sha256": "ab8002f713b5213961ea16a9a8cb54442b44cbc0807bbb81dc2dde118649090b"
+      "bytes": 629,
+      "sha256": "6efa44a787156d2d92be53edba3c2d416c8b32a209ce5cbb051c240f92c7c69d"
     },
     {
       "path": "90 ARCHIVE - Earlier designs and working files/BOM.md",
@@ -8829,8 +8824,8 @@
     },
     {
       "path": "chamber-design/coolant-fitting-selection/update-main-links.ps1",
-      "bytes": 1726,
-      "sha256": "ab7557adcd61279c14ef19d2e3b68b283176b974a3b7fbd8338072462aef8a0f"
+      "bytes": 1375,
+      "sha256": "4fc4ef3e9fb03270c6bd47de93456f26cd66be1d0fb24a3e1c8ac4d3414cbbc2"
     },
     {
       "path": "chamber-design/full-system-r03/CAD verification.json",
@@ -9569,8 +9564,8 @@
     },
     {
       "path": "chamber-design/update_mfc_r03_links.py",
-      "bytes": 2094,
-      "sha256": "91eacc20d07f2c9cb4dd5eac21a34e7fe1f89f7fb00720a35edda663322498e1"
+      "bytes": 2004,
+      "sha256": "14331e8cba6a876951c05182c0a19539fae830f740a8d6c426d2ad79a73d0ff3"
     },
     {
       "path": "design/current-component-register.csv",
@@ -10419,8 +10414,8 @@
     },
     {
       "path": "tools/package_repository.py",
-      "bytes": 5213,
-      "sha256": "b0738bf56c2057f5b445f7fb89f01de2287949128f1a3183595b2b43abd2dde6"
+      "bytes": 5179,
+      "sha256": "8511193441cc47eb004a3691ef3cb0066d160791d2b5b76fb6b0599738a59168"
     },
     {
       "path": "tools/reassess_current_field.py",

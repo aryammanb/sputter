@@ -52,7 +52,7 @@ def main():
     for folder in ['docs','design','procurement','media','simulations','tools','.github','validation']:
         if (ROOT/folder).exists():
             files.extend(p for p in (ROOT/folder).rglob('*') if p.is_file() and not any(x in p.relative_to(ROOT).parts for x in ['.work','__pycache__']) and (folder != 'media' or media_payload(p)) and p.name not in ['file-manifest.json','local-stage-paths.txt','repository-check.json','media-check.json','cad-check.json'])
-    for name in ['README.md','CHANGELOG.md','.gitignore','.gitattributes','requirements-engineering.txt','00 START HERE - Main design.txt','Sputter v2.pptx']:
+    for name in ['README.md','CHANGELOG.md','.gitignore','.gitattributes','requirements-engineering.txt','Sputter v2.pptx']:
         files.append(ROOT/name)
     files=sorted(set(files),key=lambda p:p.relative_to(ROOT).as_posix())
     for p in files:

@@ -70,6 +70,6 @@ The historical source-folder name does not identify the current revision.
 The latest mechanical notes predate the subsequent magnetic simulation;
 consult the linked simulation assessment for that later work.
 
-See the root "00 START HERE - Main design.txt" for the full folder guide.
+See the root README.md for the project overview and current reading paths.
 Organization manifest.json records source paths and archive moves.
 
