@@ -1,6 +1,8 @@
-# Reproduction and package checks
+# Reproducing the work
 
-## Obtain the complete snapshot
+You can read the project without rebuilding anything. Use [System architecture and CAD](design.md) for the selected files and current walkthroughs, [Parts and procurement](../procurement/README.md) for the workbook and exports, and [Engineering and simulations](engineering.md) for the calculations.
+
+## Obtain and check the repository
 
 ```sh
 git clone https://github.com/aryammanb/sputter.git
@@ -12,7 +14,7 @@ The repository uses ordinary Git files, without Git LFS pointers or external sub
 
 ## Read without a CAD license
 
-Markdown, CSV, JSON and transcripts work directly in GitHub. Use a STEP-capable viewer for neutral CAD. Native SLDASM/SLDPRT editing requires a compatible SolidWorks installation; neutral STEP does not preserve native feature history. MP4 files use H.264 video/AAC audio and English subtitle tracks.
+Markdown, CSV, JSON and transcripts work directly in GitHub. Use a STEP-capable viewer for neutral CAD. Native SLDASM/SLDPRT editing requires a compatible SolidWorks installation; neutral STEP does not preserve native feature history. The currently selected system and gun walkthroughs are silent H.264 MP4s. Older narrated exports have separate audio/subtitle arrangements; they are retained as historical records.
 
 ## Dependencies and generated artifacts
 
@@ -23,12 +25,14 @@ Commands for the new reproducible layer, from the repository root:
 ```sh
 python tools/export_procurement.py
 python tools/reassess_current_field.py
-python tools/build_current_media.py
 python tools/build_documentation.py
+python tools/package_repository.py
 python tools/validate_repository.py
 ```
 
-`export_procurement.py` reads the checked-in XLSX and creates CSV plus cell/formula records without modifying/recalculating the workbook. Formula results are the workbook's saved caches. `reassess_current_field.py` requires the saved fine nominal field and produces the new target-plane assessment and plots. `build_current_media.py` imports the exact R06 system STEP, creates a view mesh, and renders the current media. It uses Windows System.Speech/Microsoft David for synthetic narration; its transient WAVs/encoder files stay under ignored `tools/.work`. The checked-in mesh is an export convenience, not authoritative engineering geometry.
+`export_procurement.py` reads the checked-in XLSX and creates CSV plus cell/formula records without modifying/recalculating the workbook. Formula results are the workbook's saved caches. `reassess_current_field.py` requires the saved fine nominal field and produces the new target-plane assessment and plots. The selected existing walkthroughs and eight essential stills are listed in [current render assets](../design/current-render-assets.json); no video rendering is needed to read or validate them. `build_current_media.py` is the earlier narrated-review renderer and does not reproduce the later corrected system/gun edits. Their historical authoring scripts and correction records remain alongside the assets. The checked-in mesh is a viewing convenience, not authoritative engineering geometry.
+
+The main reader guides are maintained as Markdown templates under `tools/templates/`; `build_documentation.py` copies them to their published paths. Keep the template and published page aligned when editing. For example, the combined design page is sourced from `tools/templates/design.md`.
 
 ## Original FEM reruns
 

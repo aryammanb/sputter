@@ -19,4 +19,4 @@ Dates identify the supplied project snapshot, not a claim that a part was ordere
 | D13 | 200 W RF source + matcher | Current source selection supersedes earlier 300 W operating idea; old cooling basis retained. | Procurement tab 10 |
 | D14 | Viewport centre Z105 | Improves sampled sightlines below the target; does not predict glow or all-height visibility. | R04/R05 ray checks |
 | D15 | Fixed stage and manually rotated shutter | Local fabrication + existing stock; no motor/actuator purchase selected. | Stage/shutter fabrication record |
-| D16 | R06 media derived from exact latest STEP | Avoids presenting R04 or older magnetron media as current. | [Media provenance](../media/provenance.json) |
+| D16 | Existing corrected R06 walkthroughs and essential stills | One combined architecture/CAD guide; eight views, corrected shutter/coax exports and no new videos. | [Current render assets](../design/current-render-assets.json) |

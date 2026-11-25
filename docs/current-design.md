@@ -1,6 +1,6 @@
 # Current design and revision control
 
-The authority for this snapshot is [design/current.json](../design/current.json), dated 24 November 2026. “Latest” is determined by engineering revisions and recorded selections, not by a filename or filesystem timestamp.
+The authority for this snapshot is [design/current.json](../design/current.json), with a 24 November 2026 mechanical snapshot and 25 November procurement updates. “Latest” is determined by engineering revisions and recorded selections, not by a filename or filesystem timestamp.
 
 | Layer | Current artifact | What it establishes |
 |---|---|---|
@@ -35,4 +35,4 @@ The authority for this snapshot is [design/current.json](../design/current.json)
 
 ## Updating this repository
 
-For a new revision, update CAD and its geometry evidence first, update procurement interfaces, then regenerate media and applicable calculations. Change `design/current.json`, document the change in `CHANGELOG.md`, rebuild file hashes and run repository validation. A new export or new screenshot alone does not establish a new engineered revision.
+For a new revision, update CAD and its geometry evidence first, update procurement interfaces, then update applicable calculations and select matching current renders. Create replacement media only when needed; a documentation edit does not require new videos. Change `design/current.json`, document the change in `CHANGELOG.md`, rebuild file hashes and run repository validation. A new export or new screenshot alone does not establish a new engineered revision.

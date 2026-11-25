@@ -1,6 +1,24 @@
-# Procurement and cost plan
+# Parts and procurement
 
 **Updated: 25 November 2026 (MFC selection).** [Current workbook](Sputter%20system%20procurement.xlsx) includes the owner-selected 500 sccm MFC and recalculated totals. Its SHA-256 and export checks are in [export-report.json](export-report.json). The workbook is the source of procurement selections and saved planning values. These are not purchase orders, proof of receipt, or newly verified quotes.
+
+## How procurement is organized
+
+The component list is prepared and grouped into three routes, matching the project-status slide in the presentation:
+
+| Route | What is ready | What follows the review |
+|---|---|---|
+| **Custom order** | Specialized vendors identified; CAD and specifications prepared | Confirm the drawing, material, tolerances, included hardware and acceptance requirements, then request the final manufacturing quote |
+| **Procure online** | Links identified for Indian and US sources | Confirm the exact variant, condition, included accessories and landed cost before ordering |
+| **Procure locally** | Parts and local sourcing routes identified | Confirm specifications, quantities, availability and price with the supplier |
+
+**Next steps:** review the entire design and component selection part by part, then start the procurement and manufacturing process. Follow [Review before building](../docs/verification.md) while checking the workbook against the [CAD and interfaces](../docs/design.md).
+
+## Using the workbook
+
+Start with **Subsystems** for the system totals, then open the relevant numbered tab for individual parts and sources. **Settled sourcing** records the selected routes; **Needs your input** preserves unresolved questions. Review the actual rows rather than treating a tab name as purchasing approval. Check package inclusions before placing separate orders for fittings, seals or mounting hardware.
+
+The workbook is the editable procurement record. The CSV and cell/formula exports below let readers inspect it in GitHub without Excel. Recorded prices and allowances remain planning values until replaced by scope-matched quotes and actual costs.
 
 ## Saved planning budget (INR)
 

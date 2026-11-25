@@ -1,6 +1,6 @@
 # System architecture and CAD
 
-[System layout](#system-layout) · [CAD downloads](#cad-downloads) · [Current walkthroughs](#current-walkthroughs) · [Chamber and shutter](#chamber-and-shutter) · [Gun and services](#gun-and-services) · [Dimensions and editing](#dimensions-and-editing) · [Design limits](#design-limits)
+[System layout](#system-layout) · [CAD downloads](#cad-downloads) · [Current walkthroughs](#current-walkthroughs) · [Chamber and shutter](#chamber-and-shutter) · [Gun and services](#gun-and-services) · [Dimensions and editing](#dimensions-and-editing)
 
 ## System layout
 
@@ -24,7 +24,22 @@ flowchart LR
   TCool[Turbo cooling loop] --> T
   C --> Gauges[Pirani / Penning measurement]
 ```
-.
+
+## Current specifications and selections
+
+| Item | Current basis |
+|---|---|
+| Chamber interior | 200 × 200 × 300 mm; 12 L gross |
+| Target | Al 99.99%, D50.8 × 3.175 mm; VritraTech selection |
+| Target/substrate gap | 75–150 mm adjustment; 100 mm default |
+| Stage / substrate | D90 × 6 mm / 50 × 50 × 1 mm |
+| Magnetic circuit | 2 × D20 × 10 N42 centre; 12 outer stacks of 2 × D6 × 10 N42 on PCD58 |
+| Gun coolant fitting | 2 × SMC KQG2S04-M5; gasket sealing remains to qualify |
+| Pumping selection | Chamber → EXT70 / EXDC80 → INDOVAC HV2-150; direct foreline |
+| MFC selection | STEC SEC-4400MC-G2; Ar 500 sccm; calibration/interfaces to verify |
+| RF source selection | Omicron 200 W supply + matching network; provisional procurement basis |
+
+The [procurement guide](../procurement/README.md) holds the planning budget and sourcing details. Full design reasoning and the distinction between CAD, calculations and measured performance are in [Engineering and simulations](engineering.md).
 
 ## CAD downloads
 

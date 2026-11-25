@@ -1,6 +1,36 @@
-# Engineering dossier
+# Engineering and simulations
 
-This dossier explains the reasoning supported by the supplied records. Detailed dimensions and checks remain linked so a reviewer can inspect the original evidence. The machine remains a prototype engineering study.
+This guide explains why Sputter v2 takes its current form, then links the calculations and design records behind those choices. Start with the [system architecture and CAD](design.md) for the physical layout, or the [part-by-part review](verification.md) if you are preparing to build.
+
+## Goals and lessons from v1
+
+The [project presentation](../Sputter%20v2.pptx), especially slides 2–6, sets out the motivation. Our earlier lab-built sputter worked, but exposed live parts, improvised target cooling, demanding gasket/PEEK-screw sealing, deposition-related arcing and difficult sample loading made it hard to maintain. Conductive-epoxy assembly made repairs and target changes awkward. Vacuum performance and environmental control were also concerns, and the source was DC-only.
+
+V2 aims for reliable, repeatable operation with minimal intervention, so the system can eventually support coursework. It also attempts to address gaps across existing open builds, drawing on their useful design ideas and documenting the complete system and its parts.
+
+| Goal | Current design response |
+|---|---|
+| Easier sample loading | Hinged front door, fixed stage and manually operated shutter |
+| Easier target changes and maintenance | Removable target clamp and a modular, serviceable gun |
+| Integrated cooling and electrical separation | Copper cooling body, separate cooling loops, grounded shielding and PTFE isolation |
+| Compact, adjustable geometry | 200 × 200 × 300 mm chamber with a 75–150 mm target/substrate gap |
+| Broader deposition capability | RF supply and matching network in place of the earlier DC-only source |
+| Practical sourcing and future integration | Custom, online and local procurement routes; modular layout intended for the lab cleanroom and later fab-in-a-box integration |
+
+These are design objectives and proposed responses. Their effectiveness will be established through review, fabrication and measured commissioning.
+
+## Reading the evidence
+
+- [Simulation and calculation evidence](simulations.md): magnetic model, target-plane assessment, numerical checks and analyses not yet supplied.
+- [Decision register](decisions.md): selected components and the consequences of those choices.
+- [Current design and revisions](current-design.md): authoritative files and remaining CAD/procurement mismatches.
+- [Review before building](verification.md): next decisions and physical checks.
+
+## Scope of the current build
+
+The compact cuboidal chamber was chosen for loading access and to accommodate the gun, stage, shutter and adjustable throw distance. The first build uses direct turbo-to-backing pumping, manual shutter operation and a fixed substrate stage. A throttle valve, separate roughing path, motorized shutter/door and substrate rotation are possible later improvements, as discussed in slide 18; they are not included in the current selection.
+
+Changing magnet strengths to explore balanced and unbalanced configurations is a future experiment. The current pole-area ratio is a design candidate, rather than proof of magnetic balance. Cooling and actual magnet temperature must be checked rather than inferred from a nominal temperature limit.
 
 ## Magnetron and magnetic return circuit
 
@@ -53,3 +83,9 @@ Nominal shell thickness, seals, welds, window stress and door closure are not su
 Procurement selects a provisional Omicron 200 W RF source and matching network. Earlier 300 W language is superseded as an operating selection. Connector/coax insulation, matched-side voltage/current, cathode isolation, protective earth/RF bonds and water-loop isolation remain engineering checks. A nominal SMA mechanical envelope does not establish suitability for this source.
 
 The controls budget includes emergency stop, door switch, flow/temperature inputs, pressure interface and RF permit logic. A proposed permit requires door closed, suitable measured pressure, healthy gun cooling and reset emergency circuit. Loss of a required condition must remove RF permission; reset must not automatically restart it. Final fault handling and turbo run-down behavior depend on the actual equipment. No completed wiring schematic or assessed safety performance level is claimed.
+
+## CAD and calculation boundaries
+
+The current gun has 141 component instances. The context model has 339 instances, represented by 406 solids. The complete context retains a known defective legacy RV3 supplier solid, and several purchased components are illustrative envelopes. The selected backing pump is HV2-150, not RV3.
+
+The original nonlinear FEM study assumed a 2 mm nonmagnetic target. The new assessment resamples its saved field at the current 3.175 mm target plane: mean parallel field **86.43 mT**, 82.96–89.53 mT on the sampled B-normal zero contour at 0.25 mm above the target. This is a calculated magnetic result with stated material assumptions. It does not establish discharge performance, balanced topology, deposition uniformity, coolant integrity or a thermal/power rating.

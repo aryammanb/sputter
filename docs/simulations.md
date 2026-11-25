@@ -1,5 +1,9 @@
 # Simulation and calculation evidence
 
+This page collects the evidence behind the design; [Engineering and simulations](engineering.md) explains the project goals and choices. The magnetic study informs the first prototype, while measured operation and film quality remain future work.
+
+The presentation describes the intended magnetron arrangement and illustrative flow/pressure reasoning. The records below distinguish those design intentions from solved results and measurements. In particular, pole-area ratio does not establish balance, and a calculated pressure does not establish ignition or an allowed turbo operating point.
+
 ## What exists
 
 | Work | Evidence and scope | Current applicability |

@@ -1,6 +1,26 @@
-# Verification, qualification and release gates
+# Review before building
 
 Completed checks are evidence of their stated scope. They do not release the machine for fabrication or operation.
+
+## Next steps
+
+Review the entire design and component selection part by part, then start the procurement and manufacturing process. The design and procurement list are prepared; the next task is to review them together, including interfaces between parts.
+
+Use the [system/CAD guide](design.md), [gun component register](../design/current-component-register.csv), [procurement workbook](../procurement/Sputter%20system%20procurement.xlsx) and [decision register](decisions.md) side by side.
+
+| Review step | What to record |
+|---|---|
+| Confirm the part and its purpose | Current revision, quantity, material/model and role in the assembly |
+| Check each connection | Mating dimensions, seals, fasteners, electrical/gas/coolant interfaces and access for maintenance |
+| Review the selected source | Custom, online or local route; exact variant, included hardware, condition and quoted scope |
+| Check the evidence and open questions | Relevant CAD/calculation/manual, remaining assumptions and the person resolving each question |
+| Agree the handoff | Accepted selection, final drawing/specification or purchase description, and receiving/inspection requirements |
+
+Start with the gun and target/clamp, then work through the chamber and mounting, stage/shutter, pumping, gauges, argon/MFC, cooling, RF/controls and supports. Check the current 500 sccm MFC, PE-D20 adapter, HV2-150 pump and RF source against the older reference envelopes in the CAD.
+
+Once the review is complete, send the agreed custom-part packages to manufacturers and start online/local procurement. Resolve any remaining questions affecting a part before ordering or manufacturing it. Keep quotes, substitutions, receipts and inspection results with the relevant procurement record.
+
+## Engineering checks to close
 
 | Area | Supplied evidence | Required next evidence |
 |---|---|---|

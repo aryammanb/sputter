@@ -66,46 +66,16 @@ The design files and [procurement list](procurement/README.md) are available in 
 
 **Next steps:** review the entire design and component selection part by part, then start the procurement and manufacturing process.
 
-## Start here
+## Explore the project
 
-| What you need | Open |
+| Page | What you will find |
 |---|---|
-| Explore the system, CAD and rendered views | [System architecture and CAD](docs/design.md) |
-| Identify the latest files and revision boundaries | [Current design](docs/current-design.md) · [machine-readable selection](design/current.json) |
-| Download the current CAD | [Complete system STEP](chamber-design/coolant-fitting-r06/Complete%20sputter%20system%20R06.step) · [Gun STEP](chamber-design/coolant-fitting-r06/Magnetron%20R06.step) |
-| Edit the current gun in SolidWorks | [Native CAD package](chamber-design/coolant-fitting-r06/Coolant%20fittings%20R06%20-%20SolidWorks%20CAD%20package.zip) · [CAD guide](docs/design.md#cad-downloads) |
-| Buy and fabricate parts | [Procurement guide and budget](procurement/README.md) · [workbook](procurement/Sputter%20system%20procurement.xlsx) |
-| Understand the engineering decisions | [Decision register](docs/decisions.md) · [Engineering dossier](docs/engineering.md) |
-| Review calculations and simulations | [Simulation evidence](docs/simulations.md) · [Current target-plane assessment](simulations/current-target-r06/README.md) |
-| Inspect current component instances | [R06 component register](design/current-component-register.csv) |
-| Plan the remaining work | [Verification and release gates](docs/verification.md) |
-| Reproduce or check this snapshot | [Reproduction guide](docs/reproducibility.md) · [Validation report](validation/README.md) |
+| [System architecture and CAD](docs/design.md) | How the system fits together, essential renders, current videos and design files |
+| [Parts and procurement](procurement/README.md) | Component selections, sourcing routes, workbook and planning budget |
+| [Engineering and simulations](docs/engineering.md) | Design goals, decisions, calculations and supporting evidence |
+| [Review before building](docs/verification.md) | The part-by-part review and outstanding checks before procurement, manufacturing and operation |
+| [Reproducing the work](docs/reproducibility.md) | How to obtain the files, inspect the scripts and validate the repository |
 
-## Key dimensions and selections
-
-| Item | Current basis |
-|---|---|
-| Chamber interior | 200 × 200 × 300 mm; 12 L gross |
-| Target | Al 99.99%, D50.8 × 3.175 mm; VritraTech selection |
-| Target/substrate gap | 75–150 mm adjustment; 100 mm default |
-| Stage / substrate | D90 × 6 mm / 50 × 50 × 1 mm |
-| Magnetic circuit | 2 × D20 × 10 N42 centre; 12 outer stacks of 2 × D6 × 10 N42 on PCD58 |
-| Gun coolant fitting | 2 × SMC KQG2S04-M5; gasket sealing remains to qualify |
-| Pumping selection | Chamber → EXT70 / EXDC80 → INDOVAC HV2-150; direct foreline |
-| MFC selection | STEC SEC-4400MC-G2; Ar 500 sccm; calibration/interfaces to verify |
-| RF source selection | Omicron 200 W supply + matching network; provisional procurement basis |
-| Planning budget | INR 1,113,330.20, including allowances, reserve and contingency; not a supplier quotation |
-
-## Evidence boundaries
-
-The current gun has 141 component instances. The context model has 339 instances, represented by 406 solids. The complete context retains a known defective legacy RV3 supplier solid, and several purchased components are illustrative envelopes. The selected backing pump is HV2-150, not RV3.
-
-The original nonlinear FEM study assumed a 2 mm nonmagnetic target. The new assessment resamples its saved field at the current 3.175 mm target plane: mean parallel field **86.43 mT**, 82.96–89.53 mT on the sampled B-normal zero contour at 0.25 mm above the target. This is a calculated magnetic result with stated material assumptions. It does not establish discharge performance, balanced topology, deposition uniformity, coolant integrity or a thermal/power rating.
-
-## Repository contents
-
-`design/` selects the current artifacts. `docs/` explains design and evidence. `procurement/` contains the current procurement workbook and readable exports. `media/` contains current rendered explanations. `simulations/` contains the current-plane assessment. `chamber-design/` and `advanced-tinkering-original/` preserve the engineering sources at their original relative paths. `90 ARCHIVE - Earlier designs and working files/` preserves earlier studies for traceability.
-
-Historical directory names and filenames containing “Current” do not override [design/current.json](design/current.json). Start with that selection and this README. Original notes are retained as dated evidence and can contain superseded selections.
+The v2 design is documented; final review, manufacturing and commissioning remain ahead. CAD checks and simulations support the design but do not establish measured machine performance.
 
 No open-source license has been assigned. Third-party supplier CAD, drawings, manuals and the original reconstruction references retain their respective rights. See [attribution and source handling](docs/sources.md).

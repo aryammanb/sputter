@@ -1,8 +1,8 @@
 {
   "snapshot": "2026-11-24",
   "passed": true,
-  "file_count": 2093,
-  "local_links_checked": 132,
+  "file_count": 2101,
+  "local_links_checked": 143,
   "workbook_tabs": 13,
   "workbook_cached_error_count": 0,
   "scope": "Package hashes, selected artifact presence, authored relative links, source geometry/field hashes and saved workbook export. No new physical tests or Excel recalculation.",

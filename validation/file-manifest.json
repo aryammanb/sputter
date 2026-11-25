@@ -2989,8 +2989,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 9665,
-      "sha256": "df8e7a2e2e4d01cdfe8878ac270a9d0f7e90ff44e0df11cb88c92d96cce89024"
+      "bytes": 6660,
+      "sha256": "d9b6abb3dd66092abe4684f9536debf9e039d2e2d9c1e707838d5d4fba119d4e"
     },
     {
       "path": "Sputter v2.pptx",
@@ -9594,38 +9594,38 @@
     },
     {
       "path": "docs/current-design.md",
-      "bytes": 4269,
-      "sha256": "d08ef0bed9fb0e561561c0176766cd099134e8f06c2e70f815213e1808f6fd8d"
+      "bytes": 4441,
+      "sha256": "2dfda50cb088319f5f4389f641ce1ac40a2b11817663a7e275dc9d2e586d04ca"
     },
     {
       "path": "docs/decisions.md",
-      "bytes": 3180,
-      "sha256": "cfe278a0ea7e609f83bffe0e334efc0fbb4bb16bd9e3182d6d9e4f77d6b45366"
+      "bytes": 3254,
+      "sha256": "30c74f268750290ef4e096009c7b7be6f08fc795b6974d036b265ed4049e085d"
     },
     {
       "path": "docs/design.md",
-      "bytes": 10587,
-      "sha256": "4d1c9005100d8c9169821060da448e9fd5594e9c4e5c1fac4612e080140aa2a7"
+      "bytes": 11578,
+      "sha256": "86cd89852c295fd8d9760d75d5d452b4dcf057f5ef29da0f51cbfe832bfb5b27"
     },
     {
       "path": "docs/engineering.md",
-      "bytes": 7939,
-      "sha256": "881875b4477ab9114861275b945f474af3394c0d4ab1f1ab676d0bb2007456f7"
+      "bytes": 11752,
+      "sha256": "6d597e1bff4739f8f86070a1475b044b2a152c067ae49d67842caeee3590b295"
     },
     {
       "path": "docs/reproducibility.md",
-      "bytes": 4490,
-      "sha256": "48ebd5cac0b7e9c7b14a77e4de00c2113e691ce62315a83c77656d976205d1cd"
+      "bytes": 5351,
+      "sha256": "1e6104dd1fbe238b59ad1722ac1197e4cb77ec28011954660f750206f1591150"
     },
     {
       "path": "docs/simulations.md",
-      "bytes": 4792,
-      "sha256": "e63750871ad55fe0e7890a48f764cc829414c3a6bfd1fa383edb4a14eee12587"
+      "bytes": 5391,
+      "sha256": "a24d4ef3d398fb4b8e422625097078e20a2fca483c82de707b5e85bca63319de"
     },
     {
       "path": "docs/sources.md",
-      "bytes": 2298,
-      "sha256": "a19333ce3ea5c74eea489a7f66eee6b90957b102a7c888a101fa5952bc2698a4"
+      "bytes": 3569,
+      "sha256": "c5c29a235ef99019419af99328a0586db0c0c7a3b10906c21cecb01f03622764"
     },
     {
       "path": "docs/system.md",
@@ -9634,8 +9634,8 @@
     },
     {
       "path": "docs/verification.md",
-      "bytes": 3995,
-      "sha256": "344c66b2cb321467fba83c65be278fd3e5527a3258be0a263af2cfc607c3f9a7"
+      "bytes": 5780,
+      "sha256": "da0b92955955eb4299b7bca6f673d391ba82e6b535b751438f7fe95264ccfa47"
     },
     {
       "path": "media/01-current-system-transcript.txt",
@@ -10254,8 +10254,8 @@
     },
     {
       "path": "procurement/README.md",
-      "bytes": 6210,
-      "sha256": "22da8ac89917e19291e44ef8bb20c824102f2b0f1e7931f1770639ad9af173a4"
+      "bytes": 7916,
+      "sha256": "2e2aefd0d1d2ac3e9c0982386acddc29e80d73f8c1d234c0abe23f392b0e16e6"
     },
     {
       "path": "procurement/Sputter system procurement.xlsx",
@@ -10359,8 +10359,8 @@
     },
     {
       "path": "tools/build_documentation.py",
-      "bytes": 40223,
-      "sha256": "dfd34cd66d1d991aa885c321fba548a734cc8608e47063926f400c2ea0deaa9c"
+      "bytes": 7205,
+      "sha256": "9834fac5cda7369ffd86018ac6f1221a9b4f901c6353e538cc2ec332d3cbaae2"
     },
     {
       "path": "tools/build_gun_walkthrough.py",
@@ -10444,13 +10444,53 @@
     },
     {
       "path": "tools/templates/README.md",
-      "bytes": 9557,
-      "sha256": "6521dd5283757dddee206d418d75cc834975664aad6e9421b88aa2483af92c73"
+      "bytes": 6582,
+      "sha256": "43f0bf357f1caee4806954d58ed6960326c031c64d0022c2524979a96c7a36cf"
+    },
+    {
+      "path": "tools/templates/current-design.md",
+      "bytes": 4403,
+      "sha256": "f9f4c064e2ad0535523baa7b92d9c372e3d1e14909058098325032fac3b29832"
+    },
+    {
+      "path": "tools/templates/decisions.md",
+      "bytes": 3232,
+      "sha256": "c18cafbc589c6509465f409b3cf505fc2694705a4db1e43f56779b331c8c0c94"
     },
     {
       "path": "tools/templates/design.md",
-      "bytes": 10587,
-      "sha256": "4d1c9005100d8c9169821060da448e9fd5594e9c4e5c1fac4612e080140aa2a7"
+      "bytes": 11578,
+      "sha256": "86cd89852c295fd8d9760d75d5d452b4dcf057f5ef29da0f51cbfe832bfb5b27"
+    },
+    {
+      "path": "tools/templates/engineering.md",
+      "bytes": 11661,
+      "sha256": "7dce38443ffd22d88582ab35ce0a557dc5cf82cf7b060d0c26b2f05b78285fbd"
+    },
+    {
+      "path": "tools/templates/procurement.md",
+      "bytes": 7835,
+      "sha256": "19d73f591c21ccce984634f5a8cc809df83047ccd6b42d48b4c0bbc6417a55ec"
+    },
+    {
+      "path": "tools/templates/reproducibility.md",
+      "bytes": 5293,
+      "sha256": "f5caf651a013044aa6eb588aa0f08f104fca110c2d768c8e8b367f8ced109429"
+    },
+    {
+      "path": "tools/templates/simulations.md",
+      "bytes": 5341,
+      "sha256": "49a10fd77a87febc9accb9cd811b536995932956aa240dce3686684d7cae8e79"
+    },
+    {
+      "path": "tools/templates/sources.md",
+      "bytes": 3537,
+      "sha256": "5164e1637ed02d1db8447fd6b02c2a977ef9f1e3ae7b98dbcdb0ba909aa79666"
+    },
+    {
+      "path": "tools/templates/verification.md",
+      "bytes": 5725,
+      "sha256": "96b5d2670a3e60fc697986734646e86fd9f9a4919543024047abaea4c980b462"
     },
     {
       "path": "tools/validate_repository.py",
