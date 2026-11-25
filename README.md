@@ -79,3 +79,7 @@ The design files and [procurement list](procurement/README.md) are available in 
 The v2 design is documented; final review, manufacturing and commissioning remain ahead. CAD checks and simulations support the design but do not establish measured machine performance.
 
 No open-source license has been assigned. Third-party supplier CAD, drawings, manuals and the original reconstruction references retain their respective rights. See [attribution and source handling](docs/sources.md).
+
+## AI use in repo
+
+A lot of AI has been used in the documentation and component csv's. This was mostly to save time - I intend to review and rewrite most things myself when I get time. Apologies if you encounter slop!
