@@ -51,8 +51,6 @@ Sam Zeloof's introductions are a useful starting point for understanding the vac
 1. **[High Vacuum Chamber Basics, Part 1](https://www.youtube.com/watch?v=iZ9ieSHOZsg)**
 2. **[High Vacuum Chamber Basics, Part 2 — Atmospheric to 1e-6 Torr Pumpdown Procedure](https://www.youtube.com/watch?v=vOBUx9HtMi4)**
 
-**Our vacuum-system animation — in progress.** A link will be added here when it is ready.
-
 ## Start here
 
 | What you need | Open |
