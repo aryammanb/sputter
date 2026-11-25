@@ -7,7 +7,7 @@ from pathlib import Path
 import hashlib, json, shutil
 
 ROOT=Path(__file__).resolve().parents[1]
-ROOTS=['chamber-design','advanced-tinkering-original','90 ARCHIVE - Earlier designs and working files']
+ROOTS=['chamber-design','advanced-tinkering-original','archive']
 EXT={'.py','.ps1','.csv','.json','.txt','.md','.step','.sldprt','.sldasm','.slddrw','.stl','.dxf','.npz','.msh','.log','.pdf','.svg','.html','.srt','.ffmeta','.ffmetadata','.bin'}
 SKIP={'node_modules','.git','__pycache__','browser-profile','browser-check','video','tools'}
 ZIP_NAMES={'Coolant fittings R06 - SolidWorks CAD package.zip','CB01 supplier handoff.zip','Stage and shutter - local fabrication.zip'}
@@ -21,7 +21,7 @@ def selected(path):
     if path.name in ZIP_NAMES:return True
     if path.name in IMAGE_NAMES:return True
     # Keep the early educational animation linked from the beginner README.
-    if rel.as_posix() == '90 ARCHIVE - Earlier designs and working files/visualizations/sputtering-explainer/magnetron-sputtering-explained.mp4':return True
+    if rel.as_posix() == 'archive/visualizations/sputtering-explainer/magnetron-sputtering-explained.mp4':return True
     # Third-party original video/code download tools and repetitive frame renders stay local.
     if path.suffix.lower() not in EXT:return False
     if path.name.startswith('Encoded') or path.name.endswith('.inspect.ndjson'):return False
