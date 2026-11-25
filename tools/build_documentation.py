@@ -52,6 +52,8 @@ Sputtering systems combine high voltage, RF power, vacuum, compressed gas and wa
 
 Sputtering deposits a thin coating onto a sample. Energetic argon ions strike a source material (the **target**), releasing atoms that collect on the surface being coated (the **substrate**).
 
+Watch [Sputtering: what is it and how does sputter deposition work?](https://www.youtube.com/watch?v=-lm0Y3Hyw-Q), an introductory animation by Korvus Technology. Then explore our own animations below.
+
 ### Start with our animations
 
 1. **[How sputtering works — 2:14](90%20ARCHIVE%20-%20Earlier%20designs%20and%20working%20files/visualizations/sputtering-explainer/magnetron-sputtering-explained.mp4).** Our silent, captioned introduction follows the process from loading and pumping down to admitting argon, forming a plasma and coating a sample. It illustrates an earlier concept; its gun, throttle valve and separate roughing route differ from the current design.
