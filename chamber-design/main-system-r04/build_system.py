@@ -2,7 +2,7 @@ from pathlib import Path
 import json,math,struct,csv
 import numpy as np
 import cadquery as cq
-P=Path(__file__).resolve().parent;B=P.parent/'full-system-r03';src=B/'build_system.py';env={'__file__':str(src),'__name__':'r04base'}
+P=Path(__file__).resolve().parent;B=P.parent.parent/'archive/chamber-design/full-system-r03';src=B/'build_system.py';env={'__file__':str(src),'__name__':'r04base'}
 exec(compile(src.read_text().split("for title,da,sa in")[0],str(src),'exec'),env)
 items=env['items'];V=cq.Vector
 box,cyl,ann,bb,oriented=[env[k] for k in ['box','cyl','ann','bb','oriented']]

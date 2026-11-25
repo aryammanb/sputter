@@ -16,7 +16,7 @@ As recorded in slide 20, ChatGPT assisted with research and ideation, SolidWorks
 
 | Topic | Local evidence |
 |---|---|
-| R06 fitting selection | `chamber-design/coolant-fitting-selection/` catalog and selection record |
+| R06 fitting selection | `chamber-design/references/coolant-fitting-selection/` catalog and selection record |
 | Current backplate/native CAD | `chamber-design/coolant-fitting-r06/` checks and notes |
 | Selected target/clamp | `chamber-design/target-clamp-r05/` notes and dimensional checks |
 | Chamber vendor scope | `chamber-design/chamber-supplier-package/` CB01 scope, interface schedule and source references |

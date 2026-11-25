@@ -28,8 +28,8 @@ with (P/'Dimension schedule.csv').open('w',newline='',encoding='utf-8-sig') as f
  for k,v in d['dimensions_mm'].items():
   if k!='hose_path_samples':w.writerow([k,json.dumps(v),'mm unless specified; reference/provisional status in parts list'])
 S=P/'Separate assemblies';shutil.copy2(P.parent.parent/'advanced-tinkering-original'/'balanced-twelve-stack-study'/'Proposed twelve stack mechanical study.step',S/'Latest twelve-stack gun.step')
-for name in ['Refined compression fitting - assembled.step','Refined compression fitting - exploded.step']:shutil.copy2(P.parent/'compression-fitting-r02'/name,S/name)
-for name in ['Bent shutter.step','Top plate.step','Substrate stage.step']:shutil.copy2(P.parent/'complete-chamber-r01'/'Separate parts'/name,S/name)
-shutil.copy2(P.parent/'complete-chamber-r01'/'Dimension and clearance report.json',P/'Inherited internal clearance checks.json')
-shutil.copy2(P.parent/'full-system-r03'/'Purchased component references.csv',P/'Purchased component references.csv')
+for name in ['Refined compression fitting - assembled.step','Refined compression fitting - exploded.step']:shutil.copy2(P.parent.parent/'archive/chamber-design/compression-fitting-r02'/name,S/name)
+for name in ['Bent shutter.step','Top plate.step','Substrate stage.step']:shutil.copy2(P.parent.parent/'archive/chamber-design/complete-chamber-r01'/'Separate parts'/name,S/name)
+shutil.copy2(P.parent.parent/'archive/chamber-design/complete-chamber-r01'/'Dimension and clearance report.json',P/'Inherited internal clearance checks.json')
+shutil.copy2(P.parent.parent/'archive/chamber-design/full-system-r03'/'Purchased component references.csv',P/'Purchased component references.csv')
 print('CAD verification and separate assemblies complete',flush=True)

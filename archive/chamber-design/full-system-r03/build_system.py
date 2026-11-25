@@ -2,7 +2,7 @@ from pathlib import Path
 import json,math,struct,csv,time
 import numpy as np
 import cadquery as cq
-P=Path(__file__).resolve().parent;ROOT=P.parent.parent;V=cq.Vector
+P=Path(__file__).resolve().parent;ROOT=P.parents[2];V=cq.Vector
 base=P.parent/'complete-chamber-r01'/'build_assembly.py'
 env={'__file__':str(base),'__name__':'system_base'}
 exec(compile(base.read_text().split('outparts=P/')[0],str(base),'exec'),env)

@@ -1,6 +1,6 @@
 from pathlib import Path
 import json,cadquery as cq
-ROOT=Path.cwd();P=ROOT/'chamber-design/gun-mount-procurement-check';F=ROOT/'chamber-design/compression-fitting-r02';m=json.loads((F/'fitting-parts.json').read_text());ss=cq.importers.importStep(str(F/'Refined compression fitting - assembled.step')).val().Solids();tube=cq.importers.importStep(str(ROOT/'advanced-tinkering-original/integrated-single-coax-r02/generated/R02 KF16 neck to one inch service tube.step')).val().rotate((0,0,0),(1,0,0),-90).translate((0,0,144.175));checks=[]
+ROOT=Path.cwd();P=ROOT/'chamber-design/references/gun-mount-procurement-check';F=ROOT/'archive/chamber-design/compression-fitting-r02';m=json.loads((F/'fitting-parts.json').read_text());ss=cq.importers.importStep(str(F/'Refined compression fitting - assembled.step')).val().Solids();tube=cq.importers.importStep(str(ROOT/'advanced-tinkering-original/integrated-single-coax-r02/generated/R02 KF16 neck to one inch service tube.step')).val().rotate((0,0,0),(1,0,0),-90).translate((0,0,144.175));checks=[]
 for gap in [75,100,150]:
  q=tube.translate((0,0,gap-100));d={}
  for rec,s in zip(m,ss):

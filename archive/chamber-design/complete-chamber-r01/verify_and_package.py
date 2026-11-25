@@ -22,7 +22,7 @@ for name in ['Complete chamber - door closed shutter closed.step','Complete cham
 print('Both STEP assembly states reimported and all solids valid',flush=True)
 
 # Verify source target plane and stage support contact from actual exported solids.
-target=cq.importers.importStep(str(P.parent.parent/'advanced-tinkering-original'/'balanced-twelve-stack-study'/'Proposed twelve stack mechanical study.step')).val()
+target=cq.importers.importStep(str(P.parents[2]/'advanced-tinkering-original'/'balanced-twelve-stack-study'/'Proposed twelve stack mechanical study.step')).val()
 candidates=[]
 for s in target.Solids():
  b=s.BoundingBox()

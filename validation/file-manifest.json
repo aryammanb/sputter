@@ -2653,6 +2653,491 @@
       "sha256": "2f03ce906d48d79da7b248052729b06b4e72f54c2715ff8e7c9172aa8895dedc"
     },
     {
+      "path": "archive/chamber-design/Argon MFC selection R03 - 200 sccm.txt",
+      "bytes": 4152,
+      "sha256": "71de2ed64730af7a79d6347450e30c991c92f446a6855ba97c17806a4348e9c3"
+    },
+    {
+      "path": "archive/chamber-design/Argon MFC sizing and specification R01.txt",
+      "bytes": 9508,
+      "sha256": "6b53e36b755af8eb6d3ebfc12174f6442cdd93c27a3ccfe2400ff1ae9888c168"
+    },
+    {
+      "path": "archive/chamber-design/Argon MFC sizing and specification R02.txt",
+      "bytes": 8289,
+      "sha256": "aab6c258e32a0162cd2c9929f4fa848c968dad210b319fe118a979d32ac4c208"
+    },
+    {
+      "path": "archive/chamber-design/README.md",
+      "bytes": 1474,
+      "sha256": "944f0d0f18e68410e986f5b2b31d029e769a7d8c26aedaa5298f95a656dd3968"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/Assembly parts list.csv",
+      "bytes": 23974,
+      "sha256": "25bf0fc83f0f90d176c20b026c99678952e6c6a37e66d9345e32427a72943c5c"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/CAD verification.json",
+      "bytes": 360,
+      "sha256": "80eab453529dc264dcb32bacb112181e40d8caaf68e0278efe7fb78e287cd502"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/Captions.srt",
+      "bytes": 8816,
+      "sha256": "8e018656ef0530c4fb36f53bd3fde05bb79413c137e5c1e8ca019c5295a9f36e"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/Complete chamber - door closed shutter closed.step",
+      "bytes": 15161808,
+      "sha256": "20d050e192a4078de1eb064d0146a21d8c6c0dce1e4d15380e2a4f4aa3cad6bf"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/Complete chamber - door open shutter parked.step",
+      "bytes": 15185043,
+      "sha256": "6be3d1c09b0476a223ca198eaae6189a163068112725db668aac251e95961196"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/Dimension and clearance report.json",
+      "bytes": 3583,
+      "sha256": "6977190437986938dd6c4c02650b5f8812a4d30bbb5ad8a0d139e29bf3668f69"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/Dimension schedule.csv",
+      "bytes": 3327,
+      "sha256": "381b7d784536509c6949949502a02f41e32def30d15b437a4c46dec8110d183f"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/READ FIRST - Complete chamber R01.txt",
+      "bytes": 5955,
+      "sha256": "6bf33ce2916fa892de9dd19ceb562c1420d2a4999bcf401af0e823d06c4862f5"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/Separate parts/Bent shutter.step",
+      "bytes": 65448,
+      "sha256": "02d098c1368c2e2f9e660c09d3a7f1b420e23864510a1d7e8212a3f91063eeb3"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/Separate parts/Front door.step",
+      "bytes": 42807,
+      "sha256": "208d11c4550ec94de9f985196c100e523c99d40d21329642d7fb023329219362"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/Separate parts/ISO63 turbo weld flange.step",
+      "bytes": 15740,
+      "sha256": "637704b4b03aa4a841620141976d3d409a8edce663b02bec6c73e08ad2e144d9"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/Separate parts/Shutter blank reference.dxf",
+      "bytes": 20589,
+      "sha256": "5a74f468af29e9ddb207014de04baf970d8db64217af94bc145245d6f2b79f11"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/Separate parts/Shutter developed blank - K0.42.step",
+      "bytes": 33140,
+      "sha256": "2706804b1c52bf9bf7f66d674426b66546690210c35ecf53817e3fed03329ad4"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/Separate parts/Substrate stage.step",
+      "bytes": 5668,
+      "sha256": "8d0a95228c5891e5c4145f92d878c1dd315016f90117523cf032e8e70ca1627d"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/Separate parts/Top plate.step",
+      "bytes": 22951,
+      "sha256": "818c40e4afae4e25bf44cdf6deec7f0bd3bcaaceb0ee20c735fc49f0201d52f3"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/Video transcript.txt",
+      "bytes": 6480,
+      "sha256": "dcbdcfcea0044d29d1f77bfff17c5b87f523f3d2e0150e3fd08bbf961f694153"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/Video verification.json",
+      "bytes": 1320,
+      "sha256": "e55361834d3b77e7089f76ef2c57372c5ea798f896c968727ec9ccc34819d072"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/build_assembly.py",
+      "bytes": 17475,
+      "sha256": "b0f42ec663dc76aac86c49e54a277ea9c589c96cce5504e6a44dc0c7b6ed0acd"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/chapters.ffmeta",
+      "bytes": 921,
+      "sha256": "0603b00f9b538ebd84c5144937827381ba043d3efb869f275b7ce0c797f63355"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/chapters.json",
+      "bytes": 8674,
+      "sha256": "383272deac9277470e1b92d6a1a543d9d1400a41afe6ece59926507c2783023f"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/mesh.bin",
+      "bytes": 8020108,
+      "sha256": "83b934078da90e90ac368af4053fe0d7bb5db20930501f31d01773016d6fd749"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/narrate.ps1",
+      "bytes": 504,
+      "sha256": "7a40e4c056bc67ac68eee575d17c9a67d2aa76d6ee7976807ed6a4a83e01d2f1"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/parts.json",
+      "bytes": 90785,
+      "sha256": "73c3fa7184bf9a7e10db14ab7df73d460308bf0e48a210ebec49ab0a3b876f59"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/render_walkthrough.py",
+      "bytes": 10924,
+      "sha256": "7d9f6dcbc4360494759227222e24063c1247604a5c6c16c4a5fa96ff29a1c23a"
+    },
+    {
+      "path": "archive/chamber-design/complete-chamber-r01/verify_and_package.py",
+      "bytes": 5159,
+      "sha256": "dee98fbc4a9ddbb7f3883a2004130ad2b99d25884a662ae2156f958a028a0e40"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/CAD verification.json",
+      "bytes": 889,
+      "sha256": "7ee6f71fc813b38a7943a032be4f6ca023f65fa39c722d378ef0a0cad55a2c1b"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/Captions.srt",
+      "bytes": 4160,
+      "sha256": "c21a73061ab9f552656efb5b3c319705004bfe4ff3fd948e905987695baeea2e"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/Chamber R02 - refined fitting door closed.step",
+      "bytes": 16407645,
+      "sha256": "d19eb304146d537387e6265a5fcefa28379fd46db274b1fde72f202a9f8681fe"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/Chamber R02 - refined fitting door open.step",
+      "bytes": 16430849,
+      "sha256": "d6b0de5b06e606e1e8185a4c0346d63d82cb8d313b1f1935a089cc2669d4840a"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/Fitting geometry checks.json",
+      "bytes": 623,
+      "sha256": "eea03e3abe5cbbd7ebe1e6e767d050de66a781dc37306799753720855f5c2b0c"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/READ FIRST - Compression fitting refinement.txt",
+      "bytes": 3367,
+      "sha256": "29ea4aec70e8463ea377d98182326dc09ca1264b4d34c579a18d22e016e29c10"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/Refined compression fitting - assembled.step",
+      "bytes": 1226496,
+      "sha256": "a6f017e03f84691e62a60cb0cc92b5f421fc22ba0a882f359e9c349be3204ea9"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/Refined compression fitting - exploded.step",
+      "bytes": 1214097,
+      "sha256": "aa05beb4aab2ffa269fea6711f1754edc39d77f4fae61096042822dd345c9f1c"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/Video transcript.txt",
+      "bytes": 3027,
+      "sha256": "5e58129ffe502146bfdf612805dbd382a18615f3ca7eb1c1bf332efe5cb1401a"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/Video verification.json",
+      "bytes": 1217,
+      "sha256": "bbaac616b1069a2caea20489047e0c9e190b815b5f7ff9a92dad7e354aceb33c"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/body.step",
+      "bytes": 450386,
+      "sha256": "d41f6c14229d9e6f593ece31f2171bec3d56f6120d9a98b5542f45e6482fb83c"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/build_fitting.py",
+      "bytes": 7055,
+      "sha256": "b91a9c9d115be8764503cccb3eecc4466b528fb2363d96a861f831638d9772a5"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/cap.step",
+      "bytes": 410219,
+      "sha256": "82a671bd15db01c3031ad412755a3b8652ff071e77806b2bf36a0309ac1eacbb"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/chapters.ffmeta",
+      "bytes": 812,
+      "sha256": "ec2dc3789a5dd6cf934bb9408746b583b98a0cac8681655492777a21f1d1bdf9"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/chapters.json",
+      "bytes": 4432,
+      "sha256": "291eb00d21aba1bfa5ff8453b9aea5dab93721d1c0bdbfc1ce9c6723fb429609"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/fitting-mesh.bin",
+      "bytes": 1099744,
+      "sha256": "88d812415fe4188e6a9d0309d6b9eaa41a265954af3685a16ab7aa6a43f961e0"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/fitting-parts.json",
+      "bytes": 2633,
+      "sha256": "71aaf68bd88d55a545f335577c1c533dd7ac8b68643738bf917058a1bac8e5c4"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/follower.step",
+      "bytes": 9357,
+      "sha256": "375a76997d75948df9f38579e17e3770ffc5aa32ec7d0470200259f3c65796ff"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/narrate.ps1",
+      "bytes": 503,
+      "sha256": "299f791e2e20af81382565420717d18345d7fc516b523f2d63bfb56f90d31e69"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/render_fitting.py",
+      "bytes": 10399,
+      "sha256": "e86de64f5719c05e80365f0cb8a0e364d09b3c0dde63da81472af70a9b2d682b"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/tube_seal.step",
+      "bytes": 2276,
+      "sha256": "0fc0abe50d9c5e585deff0e4fdcf1c96c6fff3e067154f3f658af194823ed02a"
+    },
+    {
+      "path": "archive/chamber-design/compression-fitting-r02/verify_and_package.py",
+      "bytes": 2929,
+      "sha256": "40e54eda7c076bc6174c2014cb97cf620986dbf8940e7cbe22a2e120e7fdec4c"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/CAD verification.json",
+      "bytes": 442,
+      "sha256": "f5859fa2d3ad9e76a757cbf26aa82c6309afbe23089c957a4fffea9278d13777"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Captions.srt",
+      "bytes": 11225,
+      "sha256": "581822a14de76a870f7b7fb99e752635ccc699d1246f0e3bb29896baf68114d5"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Dimension schedule.csv",
+      "bytes": 1660,
+      "sha256": "f45bb8402b35a260156307360f7bec242dc362181ff2ee702d00e30975dfe1ce"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Full sputter system R03 - closed.step",
+      "bytes": 38829110,
+      "sha256": "3d62c1cb27f30a71873200e3af47dae05c8e5180fd0ca2c07ae6d097123ca17f"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Full sputter system R03 - loading.step",
+      "bytes": 38852351,
+      "sha256": "e59a9cd2cded425ba5da7da1a351db4453e9c1681369a0d7c357b750006de380"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Inherited internal clearance checks.json",
+      "bytes": 3583,
+      "sha256": "6977190437986938dd6c4c02650b5f8812a4d30bbb5ad8a0d139e29bf3668f69"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Purchased component references.csv",
+      "bytes": 1977,
+      "sha256": "23de65029aa8bdb6aa681d89ee32ae4f6429d6c10a5ed73e55e2616b0b75c2e2"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/READ FIRST - Full system R03.txt",
+      "bytes": 6011,
+      "sha256": "99c051a5145418b64687228591532613a09346425761a0248ce7b312282aaa05"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Scene timing.json",
+      "bytes": 915,
+      "sha256": "f04006d6541905f1695be2c5b707d9825240fda0c8bd10f944b99ed8bc2b2f1c"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Separate assemblies/Backing pump and KF25 hose.step",
+      "bytes": 20384953,
+      "sha256": "2c74426016b204641d2e7e04cc4beb8ba6631f503188609c2a5633957d01d276"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Separate assemblies/Bent shutter.step",
+      "bytes": 65448,
+      "sha256": "02d098c1368c2e2f9e660c09d3a7f1b420e23864510a1d7e8212a3f91063eeb3"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Separate assemblies/Front door.step",
+      "bytes": 42807,
+      "sha256": "208d11c4550ec94de9f985196c100e523c99d40d21329642d7fb023329219362"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Separate assemblies/Gauge installation.step",
+      "bytes": 172141,
+      "sha256": "1da252b1b4e8dc56aafbc94230996070c8730a12d8e8400c535cd5f71ce4e4b7"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Separate assemblies/MFC and adapters to push fitting.step",
+      "bytes": 375881,
+      "sha256": "b4ecf1ca686100d12b98ca4332e25ff8186426d8d8c8c9ff007fea8b97c71da6"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Separate assemblies/Refined compression fitting - assembled.step",
+      "bytes": 1226496,
+      "sha256": "a6f017e03f84691e62a60cb0cc92b5f421fc22ba0a882f359e9c349be3204ea9"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Separate assemblies/Refined compression fitting - exploded.step",
+      "bytes": 1214097,
+      "sha256": "aa05beb4aab2ffa269fea6711f1754edc39d77f4fae61096042822dd345c9f1c"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Separate assemblies/Substrate stage.step",
+      "bytes": 5668,
+      "sha256": "8d0a95228c5891e5c4145f92d878c1dd315016f90117523cf032e8e70ca1627d"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Separate assemblies/Top plate.step",
+      "bytes": 22951,
+      "sha256": "818c40e4afae4e25bf44cdf6deec7f0bd3bcaaceb0ee20c735fc49f0201d52f3"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Separate assemblies/Turbo and ISO63 connection.step",
+      "bytes": 541041,
+      "sha256": "4b1ac31239b546e03126ece6737733ec1b6c0ae91de4367b965b8b459c847754"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Supplier references/Edwards EXT70 manual.pdf",
+      "bytes": 1553796,
+      "sha256": "0422a6546895462ed142e29e2cea17fdd29b554745c8189f5d1b9166127d5d68"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Supplier references/Edwards RV instruction manual.pdf",
+      "bytes": 750994,
+      "sha256": "fdbc76ac7527f6757b83559b56ebe937b2f319a681b379f7b8021b49c6b023e8"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Supplier references/Edwards RV3 - IdealVac P101919.step",
+      "bytes": 8192338,
+      "sha256": "0427a368e55a6ffdb67fa701934bcaee7a20d7447dcbbe087d7ce916966bf09d"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Supplier references/Edwards RV3 - healed reference.step",
+      "bytes": 18374708,
+      "sha256": "c0ee695eceb737c9f08d1dcbd87553cdeba5797fca5f8b2cb61d517513510900"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Supplier references/HORIBA SEC E400J reference.pdf",
+      "bytes": 3291363,
+      "sha256": "40369490b437c4bd1ea05ea5ee679b4023fb821e4768384494b786ac5749ec6c"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/System captions.srt",
+      "bytes": 7590,
+      "sha256": "c3fc82f8be93fa67293ae53105a6a0cbb673a2f8b47a7d7a8c0db9cdf7f140fa"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/System dimension report.json",
+      "bytes": 14617,
+      "sha256": "6db6c72d87c3f85e5905f97c66530c6ee456877bd6fefeb2c1a764b110b3f128"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/System parts list.csv",
+      "bytes": 36069,
+      "sha256": "791168fcf2b002671d588227187e2bc9b7f779857c466cc8632cc96bd242b261"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Video transcript.txt",
+      "bytes": 8536,
+      "sha256": "02c4ff0d9fa748848a8f4737610288eccbb18f9b33d66dd8c1a8274ee17a777a"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/Video verification.json",
+      "bytes": 1768,
+      "sha256": "fa99f790b52513bee66b311a63ca31243ed558c89992c4e847515f2d9e551341"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/build_system.py",
+      "bytes": 17526,
+      "sha256": "29368c66d4af7fa111eb701815c0c11d91dc5b159de6c8e94023db2bc0714405"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/chapters.ffmeta",
+      "bytes": 1663,
+      "sha256": "77b124a90d99b654db38a4b40fe93923894620995608371c3755a3d02dd5950c"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/chapters.json",
+      "bytes": 8027,
+      "sha256": "c50ce7b1e56d7bca9c3d2cec44def2e6f0e3d3640a613c525e9cbd09c208721f"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/integrate_video.py",
+      "bytes": 3419,
+      "sha256": "d8b3ece185cc5e2e24d64e4fa39b044607262fac173ce70f7dfcea0bcccff5a4"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/mesh.bin",
+      "bytes": 13856392,
+      "sha256": "0934a7437ce4ca4addec04083714f09cfb3a1f485598947679a008f7a64f448d"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/narrate.ps1",
+      "bytes": 503,
+      "sha256": "299f791e2e20af81382565420717d18345d7fc516b523f2d63bfb56f90d31e69"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/parts.json",
+      "bytes": 143430,
+      "sha256": "6b921b3be18694c1b257eaa23340d6d81838f16bd6cf1073f748a3fcf2d8f904"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/render_system.py",
+      "bytes": 11725,
+      "sha256": "6d525a3d5abacc45746d38577ab3e46721038f0ac34e18c053ba51fd4d78120e"
+    },
+    {
+      "path": "archive/chamber-design/full-system-r03/verify_and_package.py",
+      "bytes": 4255,
+      "sha256": "9c6aa6b7b55f8720c62db03297f0dc3163a3ca1eecf616cb4a63fdcf9d957f9a"
+    },
+    {
+      "path": "archive/chamber-design/top-plate-r01/Geometry checks.json",
+      "bytes": 1204,
+      "sha256": "e2f1c19f282bbbff743b288b2126e695d806ee6c843d6401729c4386ab88af6d"
+    },
+    {
+      "path": "archive/chamber-design/top-plate-r01/Lesker coupling reference.svg",
+      "bytes": 29145,
+      "sha256": "8fc4ad0779dccbd5d669bb1402167a5ab700f7a09729f3b8cb1987ff22f0aacd"
+    },
+    {
+      "path": "archive/chamber-design/top-plate-r01/READ FIRST - Top plate R01.txt",
+      "bytes": 2656,
+      "sha256": "5445bfec2a2d73c3a5acc45440518d16ffa274e182613cd255ba66193a9c7c02"
+    },
+    {
+      "path": "archive/chamber-design/top-plate-r01/Roof and neck layout - preliminary.step",
+      "bytes": 32539,
+      "sha256": "ee85ccf9a5bd8ca55f40684713aeba4d919bbfc67f465f9d36a5ee92795a776e"
+    },
+    {
+      "path": "archive/chamber-design/top-plate-r01/Top plate R01 - preliminary.step",
+      "bytes": 20314,
+      "sha256": "7e59e1710481c2d01ecb91e25138dad78816f3b8070dc3c8f10fdecaa63e3b2b"
+    },
+    {
+      "path": "archive/chamber-design/top-plate-r01/Weld neck allowance - preliminary.step",
+      "bytes": 9599,
+      "sha256": "2d8d47af027ad8ae43ef6aeeb81d71cf261dcb635c3b3f2866a92a521442de9e"
+    },
+    {
+      "path": "archive/chamber-design/top-plate-r01/build_top_plate.py",
+      "bytes": 4831,
+      "sha256": "b2862e4bd94c8f1360e696de0f45ac637f88bdf713b086925a8df49f2c262231"
+    },
+    {
+      "path": "archive/chamber-design/update_mfc_r03_links.py",
+      "bytes": 1638,
+      "sha256": "c4b611942f586ac1f693dec057b6901a7f8dbef3306c5db5c51850f288eefa38"
+    },
+    {
       "path": "archive/check-r08.ps1",
       "bytes": 2486,
       "sha256": "37dea9680725d1a321c8b0b3c0b17bfec7142a7b71e0d11b0468e4967ceaf6c9"
@@ -5363,29 +5848,9 @@
       "sha256": "885575080605dc079fe6c38391df020e9367931c94e1d6bb45eb1d525194abf5"
     },
     {
-      "path": "chamber-design/Argon MFC selection R03 - 200 sccm.txt",
-      "bytes": 4152,
-      "sha256": "71de2ed64730af7a79d6347450e30c991c92f446a6855ba97c17806a4348e9c3"
-    },
-    {
-      "path": "chamber-design/Argon MFC selection R04 - 500 sccm.txt",
-      "bytes": 3105,
-      "sha256": "985365b668092fa734dfe52685b2bc2a9f6d73dc3e79d4dd3970124036b3853f"
-    },
-    {
-      "path": "chamber-design/Argon MFC sizing and specification R01.txt",
-      "bytes": 9508,
-      "sha256": "6b53e36b755af8eb6d3ebfc12174f6442cdd93c27a3ccfe2400ff1ae9888c168"
-    },
-    {
-      "path": "chamber-design/Argon MFC sizing and specification R02.txt",
-      "bytes": 8289,
-      "sha256": "aab6c258e32a0162cd2c9929f4fa848c968dad210b319fe118a979d32ac4c208"
-    },
-    {
       "path": "chamber-design/README.md",
-      "bytes": 562,
-      "sha256": "1532a043e1963d06d92fe39ece3764218efd1ef2450df2a3fee9d1994972f6c4"
+      "bytes": 2011,
+      "sha256": "c33caf4835fe37c5b4cdbcdc77bcbd4f665584b79c75bec7c8f483c36f513a6d"
     },
     {
       "path": "chamber-design/chamber-supplier-package/CB01 chamber and door - frozen layout.step",
@@ -5434,243 +5899,8 @@
     },
     {
       "path": "chamber-design/chamber-supplier-package/save_gland_drawing.py",
-      "bytes": 550,
-      "sha256": "0eeb350200ad30f586f5dacdef9347051af459d0084232ea0dbfd4fe59af8ed2"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/Assembly parts list.csv",
-      "bytes": 23974,
-      "sha256": "25bf0fc83f0f90d176c20b026c99678952e6c6a37e66d9345e32427a72943c5c"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/CAD verification.json",
-      "bytes": 360,
-      "sha256": "80eab453529dc264dcb32bacb112181e40d8caaf68e0278efe7fb78e287cd502"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/Captions.srt",
-      "bytes": 8816,
-      "sha256": "8e018656ef0530c4fb36f53bd3fde05bb79413c137e5c1e8ca019c5295a9f36e"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/Complete chamber - door closed shutter closed.step",
-      "bytes": 15161808,
-      "sha256": "20d050e192a4078de1eb064d0146a21d8c6c0dce1e4d15380e2a4f4aa3cad6bf"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/Complete chamber - door open shutter parked.step",
-      "bytes": 15185043,
-      "sha256": "6be3d1c09b0476a223ca198eaae6189a163068112725db668aac251e95961196"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/Dimension and clearance report.json",
-      "bytes": 3583,
-      "sha256": "6977190437986938dd6c4c02650b5f8812a4d30bbb5ad8a0d139e29bf3668f69"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/Dimension schedule.csv",
-      "bytes": 3327,
-      "sha256": "381b7d784536509c6949949502a02f41e32def30d15b437a4c46dec8110d183f"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/READ FIRST - Complete chamber R01.txt",
-      "bytes": 5955,
-      "sha256": "6bf33ce2916fa892de9dd19ceb562c1420d2a4999bcf401af0e823d06c4862f5"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/Separate parts/Bent shutter.step",
-      "bytes": 65448,
-      "sha256": "02d098c1368c2e2f9e660c09d3a7f1b420e23864510a1d7e8212a3f91063eeb3"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/Separate parts/Front door.step",
-      "bytes": 42807,
-      "sha256": "208d11c4550ec94de9f985196c100e523c99d40d21329642d7fb023329219362"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/Separate parts/ISO63 turbo weld flange.step",
-      "bytes": 15740,
-      "sha256": "637704b4b03aa4a841620141976d3d409a8edce663b02bec6c73e08ad2e144d9"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/Separate parts/Shutter blank reference.dxf",
-      "bytes": 20589,
-      "sha256": "5a74f468af29e9ddb207014de04baf970d8db64217af94bc145245d6f2b79f11"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/Separate parts/Shutter developed blank - K0.42.step",
-      "bytes": 33140,
-      "sha256": "2706804b1c52bf9bf7f66d674426b66546690210c35ecf53817e3fed03329ad4"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/Separate parts/Substrate stage.step",
-      "bytes": 5668,
-      "sha256": "8d0a95228c5891e5c4145f92d878c1dd315016f90117523cf032e8e70ca1627d"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/Separate parts/Top plate.step",
-      "bytes": 22951,
-      "sha256": "818c40e4afae4e25bf44cdf6deec7f0bd3bcaaceb0ee20c735fc49f0201d52f3"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/Video transcript.txt",
-      "bytes": 6480,
-      "sha256": "dcbdcfcea0044d29d1f77bfff17c5b87f523f3d2e0150e3fd08bbf961f694153"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/Video verification.json",
-      "bytes": 1320,
-      "sha256": "e55361834d3b77e7089f76ef2c57372c5ea798f896c968727ec9ccc34819d072"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/build_assembly.py",
-      "bytes": 17478,
-      "sha256": "f6b3754aba8bbfea896bb2f3c1ece11c08b070e87cd488eb9cac9f11f255b402"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/chapters.ffmeta",
-      "bytes": 921,
-      "sha256": "0603b00f9b538ebd84c5144937827381ba043d3efb869f275b7ce0c797f63355"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/chapters.json",
-      "bytes": 8674,
-      "sha256": "383272deac9277470e1b92d6a1a543d9d1400a41afe6ece59926507c2783023f"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/mesh.bin",
-      "bytes": 8020108,
-      "sha256": "83b934078da90e90ac368af4053fe0d7bb5db20930501f31d01773016d6fd749"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/narrate.ps1",
-      "bytes": 504,
-      "sha256": "7a40e4c056bc67ac68eee575d17c9a67d2aa76d6ee7976807ed6a4a83e01d2f1"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/parts.json",
-      "bytes": 90785,
-      "sha256": "73c3fa7184bf9a7e10db14ab7df73d460308bf0e48a210ebec49ab0a3b876f59"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/render_walkthrough.py",
-      "bytes": 10924,
-      "sha256": "7d9f6dcbc4360494759227222e24063c1247604a5c6c16c4a5fa96ff29a1c23a"
-    },
-    {
-      "path": "chamber-design/complete-chamber-r01/verify_and_package.py",
-      "bytes": 5162,
-      "sha256": "9713fab99b78fef436ba9e39eaa2a3da8c9d2e974514d93fda40cfb2cfe5a3e1"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/CAD verification.json",
-      "bytes": 889,
-      "sha256": "7ee6f71fc813b38a7943a032be4f6ca023f65fa39c722d378ef0a0cad55a2c1b"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/Captions.srt",
-      "bytes": 4160,
-      "sha256": "c21a73061ab9f552656efb5b3c319705004bfe4ff3fd948e905987695baeea2e"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/Chamber R02 - refined fitting door closed.step",
-      "bytes": 16407645,
-      "sha256": "d19eb304146d537387e6265a5fcefa28379fd46db274b1fde72f202a9f8681fe"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/Chamber R02 - refined fitting door open.step",
-      "bytes": 16430849,
-      "sha256": "d6b0de5b06e606e1e8185a4c0346d63d82cb8d313b1f1935a089cc2669d4840a"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/Fitting geometry checks.json",
-      "bytes": 623,
-      "sha256": "eea03e3abe5cbbd7ebe1e6e767d050de66a781dc37306799753720855f5c2b0c"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/READ FIRST - Compression fitting refinement.txt",
-      "bytes": 3367,
-      "sha256": "29ea4aec70e8463ea377d98182326dc09ca1264b4d34c579a18d22e016e29c10"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/Refined compression fitting - assembled.step",
-      "bytes": 1226496,
-      "sha256": "a6f017e03f84691e62a60cb0cc92b5f421fc22ba0a882f359e9c349be3204ea9"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/Refined compression fitting - exploded.step",
-      "bytes": 1214097,
-      "sha256": "aa05beb4aab2ffa269fea6711f1754edc39d77f4fae61096042822dd345c9f1c"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/Video transcript.txt",
-      "bytes": 3027,
-      "sha256": "5e58129ffe502146bfdf612805dbd382a18615f3ca7eb1c1bf332efe5cb1401a"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/Video verification.json",
-      "bytes": 1217,
-      "sha256": "bbaac616b1069a2caea20489047e0c9e190b815b5f7ff9a92dad7e354aceb33c"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/body.step",
-      "bytes": 450386,
-      "sha256": "d41f6c14229d9e6f593ece31f2171bec3d56f6120d9a98b5542f45e6482fb83c"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/build_fitting.py",
-      "bytes": 7055,
-      "sha256": "b91a9c9d115be8764503cccb3eecc4466b528fb2363d96a861f831638d9772a5"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/cap.step",
-      "bytes": 410219,
-      "sha256": "82a671bd15db01c3031ad412755a3b8652ff071e77806b2bf36a0309ac1eacbb"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/chapters.ffmeta",
-      "bytes": 812,
-      "sha256": "ec2dc3789a5dd6cf934bb9408746b583b98a0cac8681655492777a21f1d1bdf9"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/chapters.json",
-      "bytes": 4432,
-      "sha256": "291eb00d21aba1bfa5ff8453b9aea5dab93721d1c0bdbfc1ce9c6723fb429609"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/fitting-mesh.bin",
-      "bytes": 1099744,
-      "sha256": "88d812415fe4188e6a9d0309d6b9eaa41a265954af3685a16ab7aa6a43f961e0"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/fitting-parts.json",
-      "bytes": 2633,
-      "sha256": "71aaf68bd88d55a545f335577c1c533dd7ac8b68643738bf917058a1bac8e5c4"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/follower.step",
-      "bytes": 9357,
-      "sha256": "375a76997d75948df9f38579e17e3770ffc5aa32ec7d0470200259f3c65796ff"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/narrate.ps1",
-      "bytes": 503,
-      "sha256": "299f791e2e20af81382565420717d18345d7fc516b523f2d63bfb56f90d31e69"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/render_fitting.py",
-      "bytes": 10399,
-      "sha256": "e86de64f5719c05e80365f0cb8a0e364d09b3c0dde63da81472af70a9b2d682b"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/tube_seal.step",
-      "bytes": 2276,
-      "sha256": "0fc0abe50d9c5e585deff0e4fdcf1c96c6fff3e067154f3f658af194823ed02a"
-    },
-    {
-      "path": "chamber-design/compression-fitting-r02/verify_and_package.py",
-      "bytes": 2929,
-      "sha256": "40e54eda7c076bc6174c2014cb97cf620986dbf8940e7cbe22a2e120e7fdec4c"
+      "bytes": 561,
+      "sha256": "551738ccf00a600068bde2c102947cfe46863ad78ebf6f458161fdb3acb20918"
     },
     {
       "path": "chamber-design/coolant-fitting-r06/Backplate R06 expected.step",
@@ -8758,249 +8988,9 @@
       "sha256": "b07e0b399eb47838e3a7d39e3fb2014856a23483c41370dea150cc26e7f52f69"
     },
     {
-      "path": "chamber-design/coolant-fitting-selection/SMC KQG2 manufacturer catalog.pdf",
-      "bytes": 1925068,
-      "sha256": "640e80bfc12b4b71bac80e2a33d6601dbfe7d1918c8fea11093c1dd2210a8232"
-    },
-    {
-      "path": "chamber-design/coolant-fitting-selection/Selection and required CAD changes.json",
-      "bytes": 814,
-      "sha256": "ef93771c48beb966d8e1b7a00fca4a377c6ab6f140c490488aa680349b187b35"
-    },
-    {
-      "path": "chamber-design/coolant-fitting-selection/audit-native-r06.ps1",
-      "bytes": 1821,
-      "sha256": "654fb6bcad59cd518a0aba741b15e47f303a6665fc5013a5cdd2f9374aa0c5df"
-    },
-    {
-      "path": "chamber-design/coolant-fitting-selection/build-solidworks-r06.ps1",
-      "bytes": 8337,
-      "sha256": "193f9ac2600126b2ced8bfe0c44c1c92f73b779d438835239d6554fb751efca7"
-    },
-    {
-      "path": "chamber-design/coolant-fitting-selection/inspect-solidworks.ps1",
-      "bytes": 371,
-      "sha256": "8045c14f633ea935571d2c9dd43b8f94479bfc7282b8e6b17e2a3fd0ce84d711"
-    },
-    {
-      "path": "chamber-design/coolant-fitting-selection/inspect-sw-windows.ps1",
-      "bytes": 1097,
-      "sha256": "00ecbfae043c8b3569f122b74b30c8bf4704008ed3d6a610460593c5a1e28e6b"
-    },
-    {
-      "path": "chamber-design/coolant-fitting-selection/prepare_r06.py",
-      "bytes": 5239,
-      "sha256": "583410d3568c5fb5d650ccbd0ab394b52f83fc4fa6cc806be1f53d9b1f9bc82e"
-    },
-    {
-      "path": "chamber-design/coolant-fitting-selection/probe-native.ps1",
-      "bytes": 635,
-      "sha256": "b1cad88cb8fa0aee9c23ed70d05cd4031a89e23185328e29614e87487e54b3ec"
-    },
-    {
-      "path": "chamber-design/full-system-r03/CAD verification.json",
-      "bytes": 442,
-      "sha256": "f5859fa2d3ad9e76a757cbf26aa82c6309afbe23089c957a4fffea9278d13777"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Captions.srt",
-      "bytes": 11225,
-      "sha256": "581822a14de76a870f7b7fb99e752635ccc699d1246f0e3bb29896baf68114d5"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Dimension schedule.csv",
-      "bytes": 1660,
-      "sha256": "f45bb8402b35a260156307360f7bec242dc362181ff2ee702d00e30975dfe1ce"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Full sputter system R03 - closed.step",
-      "bytes": 38829110,
-      "sha256": "3d62c1cb27f30a71873200e3af47dae05c8e5180fd0ca2c07ae6d097123ca17f"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Full sputter system R03 - loading.step",
-      "bytes": 38852351,
-      "sha256": "e59a9cd2cded425ba5da7da1a351db4453e9c1681369a0d7c357b750006de380"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Inherited internal clearance checks.json",
-      "bytes": 3583,
-      "sha256": "6977190437986938dd6c4c02650b5f8812a4d30bbb5ad8a0d139e29bf3668f69"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Purchased component references.csv",
-      "bytes": 1977,
-      "sha256": "23de65029aa8bdb6aa681d89ee32ae4f6429d6c10a5ed73e55e2616b0b75c2e2"
-    },
-    {
-      "path": "chamber-design/full-system-r03/READ FIRST - Full system R03.txt",
-      "bytes": 6011,
-      "sha256": "99c051a5145418b64687228591532613a09346425761a0248ce7b312282aaa05"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Scene timing.json",
-      "bytes": 915,
-      "sha256": "f04006d6541905f1695be2c5b707d9825240fda0c8bd10f944b99ed8bc2b2f1c"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Separate assemblies/Backing pump and KF25 hose.step",
-      "bytes": 20384953,
-      "sha256": "2c74426016b204641d2e7e04cc4beb8ba6631f503188609c2a5633957d01d276"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Separate assemblies/Bent shutter.step",
-      "bytes": 65448,
-      "sha256": "02d098c1368c2e2f9e660c09d3a7f1b420e23864510a1d7e8212a3f91063eeb3"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Separate assemblies/Front door.step",
-      "bytes": 42807,
-      "sha256": "208d11c4550ec94de9f985196c100e523c99d40d21329642d7fb023329219362"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Separate assemblies/Gauge installation.step",
-      "bytes": 172141,
-      "sha256": "1da252b1b4e8dc56aafbc94230996070c8730a12d8e8400c535cd5f71ce4e4b7"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Separate assemblies/MFC and adapters to push fitting.step",
-      "bytes": 375881,
-      "sha256": "b4ecf1ca686100d12b98ca4332e25ff8186426d8d8c8c9ff007fea8b97c71da6"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Separate assemblies/Refined compression fitting - assembled.step",
-      "bytes": 1226496,
-      "sha256": "a6f017e03f84691e62a60cb0cc92b5f421fc22ba0a882f359e9c349be3204ea9"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Separate assemblies/Refined compression fitting - exploded.step",
-      "bytes": 1214097,
-      "sha256": "aa05beb4aab2ffa269fea6711f1754edc39d77f4fae61096042822dd345c9f1c"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Separate assemblies/Substrate stage.step",
-      "bytes": 5668,
-      "sha256": "8d0a95228c5891e5c4145f92d878c1dd315016f90117523cf032e8e70ca1627d"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Separate assemblies/Top plate.step",
-      "bytes": 22951,
-      "sha256": "818c40e4afae4e25bf44cdf6deec7f0bd3bcaaceb0ee20c735fc49f0201d52f3"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Separate assemblies/Turbo and ISO63 connection.step",
-      "bytes": 541041,
-      "sha256": "4b1ac31239b546e03126ece6737733ec1b6c0ae91de4367b965b8b459c847754"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Supplier references/Edwards EXT70 manual.pdf",
-      "bytes": 1553796,
-      "sha256": "0422a6546895462ed142e29e2cea17fdd29b554745c8189f5d1b9166127d5d68"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Supplier references/Edwards RV instruction manual.pdf",
-      "bytes": 750994,
-      "sha256": "fdbc76ac7527f6757b83559b56ebe937b2f319a681b379f7b8021b49c6b023e8"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Supplier references/Edwards RV3 - IdealVac P101919.step",
-      "bytes": 8192338,
-      "sha256": "0427a368e55a6ffdb67fa701934bcaee7a20d7447dcbbe087d7ce916966bf09d"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Supplier references/Edwards RV3 - healed reference.step",
-      "bytes": 18374708,
-      "sha256": "c0ee695eceb737c9f08d1dcbd87553cdeba5797fca5f8b2cb61d517513510900"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Supplier references/HORIBA SEC E400J reference.pdf",
-      "bytes": 3291363,
-      "sha256": "40369490b437c4bd1ea05ea5ee679b4023fb821e4768384494b786ac5749ec6c"
-    },
-    {
-      "path": "chamber-design/full-system-r03/System captions.srt",
-      "bytes": 7590,
-      "sha256": "c3fc82f8be93fa67293ae53105a6a0cbb673a2f8b47a7d7a8c0db9cdf7f140fa"
-    },
-    {
-      "path": "chamber-design/full-system-r03/System dimension report.json",
-      "bytes": 14617,
-      "sha256": "6db6c72d87c3f85e5905f97c66530c6ee456877bd6fefeb2c1a764b110b3f128"
-    },
-    {
-      "path": "chamber-design/full-system-r03/System parts list.csv",
-      "bytes": 36069,
-      "sha256": "791168fcf2b002671d588227187e2bc9b7f779857c466cc8632cc96bd242b261"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Video transcript.txt",
-      "bytes": 8536,
-      "sha256": "02c4ff0d9fa748848a8f4737610288eccbb18f9b33d66dd8c1a8274ee17a777a"
-    },
-    {
-      "path": "chamber-design/full-system-r03/Video verification.json",
-      "bytes": 1768,
-      "sha256": "fa99f790b52513bee66b311a63ca31243ed558c89992c4e847515f2d9e551341"
-    },
-    {
-      "path": "chamber-design/full-system-r03/build_system.py",
-      "bytes": 17529,
-      "sha256": "a7d5c567bf3c30939c41a4dce52ca67ef8998e99169ed0a4d3b04ec4d7a86aaa"
-    },
-    {
-      "path": "chamber-design/full-system-r03/chapters.ffmeta",
-      "bytes": 1663,
-      "sha256": "77b124a90d99b654db38a4b40fe93923894620995608371c3755a3d02dd5950c"
-    },
-    {
-      "path": "chamber-design/full-system-r03/chapters.json",
-      "bytes": 8027,
-      "sha256": "c50ce7b1e56d7bca9c3d2cec44def2e6f0e3d3640a613c525e9cbd09c208721f"
-    },
-    {
-      "path": "chamber-design/full-system-r03/integrate_video.py",
-      "bytes": 3419,
-      "sha256": "d8b3ece185cc5e2e24d64e4fa39b044607262fac173ce70f7dfcea0bcccff5a4"
-    },
-    {
-      "path": "chamber-design/full-system-r03/mesh.bin",
-      "bytes": 13856392,
-      "sha256": "0934a7437ce4ca4addec04083714f09cfb3a1f485598947679a008f7a64f448d"
-    },
-    {
-      "path": "chamber-design/full-system-r03/narrate.ps1",
-      "bytes": 503,
-      "sha256": "299f791e2e20af81382565420717d18345d7fc516b523f2d63bfb56f90d31e69"
-    },
-    {
-      "path": "chamber-design/full-system-r03/parts.json",
-      "bytes": 143430,
-      "sha256": "6b921b3be18694c1b257eaa23340d6d81838f16bd6cf1073f748a3fcf2d8f904"
-    },
-    {
-      "path": "chamber-design/full-system-r03/render_system.py",
-      "bytes": 11725,
-      "sha256": "6d525a3d5abacc45746d38577ab3e46721038f0ac34e18c053ba51fd4d78120e"
-    },
-    {
-      "path": "chamber-design/full-system-r03/verify_and_package.py",
-      "bytes": 4255,
-      "sha256": "9c6aa6b7b55f8720c62db03297f0dc3163a3ca1eecf616cb4a63fdcf9d957f9a"
-    },
-    {
-      "path": "chamber-design/gun-mount-procurement-check/Gun mount procurement and interface check.json",
-      "bytes": 2399,
-      "sha256": "6dfe50d60839619f63a8e550704391a1588de9eb5a44b6957ac4035f41fc4ff6"
-    },
-    {
-      "path": "chamber-design/gun-mount-procurement-check/Lesker coupling dimensional reference.svg",
-      "bytes": 29145,
-      "sha256": "8fc4ad0779dccbd5d669bb1402167a5ab700f7a09729f3b8cb1987ff22f0aacd"
-    },
-    {
-      "path": "chamber-design/gun-mount-procurement-check/check_modeled_mount.py",
-      "bytes": 2545,
-      "sha256": "e4abca34bce5d91e53b916006a851905b0606830ddaeffe04bf3039994159d42"
+      "path": "chamber-design/layout.json",
+      "bytes": 2113,
+      "sha256": "988c0fb295092b7543f6dcb42939d184eda63cfe86bb46968053d64d12190427"
     },
     {
       "path": "chamber-design/main-system-r04/CAD verification.json",
@@ -9174,8 +9164,8 @@
     },
     {
       "path": "chamber-design/main-system-r04/build_system.py",
-      "bytes": 7725,
-      "sha256": "0e5759ee1d96a6270c730f36f3b10939b38cac56b2611f0bde88e19da90b006e"
+      "bytes": 7755,
+      "sha256": "9f504b64e81e6cc395331ed08847ac8bdbeca76a42b276513441c859ff97fdab"
     },
     {
       "path": "chamber-design/main-system-r04/chapters.ffmeta",
@@ -9189,18 +9179,18 @@
     },
     {
       "path": "chamber-design/main-system-r04/check_viewport.py",
-      "bytes": 1966,
-      "sha256": "99d0479dcbae3c321c97cdbbe3bc6ae913ba966d939f9267ff6735b3097f478b"
+      "bytes": 1996,
+      "sha256": "42163aebc8b5748e59c961a53391e8f69210a21a5fe7cedf01b9aba635d6cb76"
     },
     {
       "path": "chamber-design/main-system-r04/check_viewport2.py",
-      "bytes": 1968,
-      "sha256": "4b9553d93e2f6f9999bec2034130507403ecf1ac238ce21dedf64182a1322811"
+      "bytes": 1998,
+      "sha256": "fa9cfcdfb577ea3d94b710586e71d4fd4010dc158b349256744dd2f6abddd538"
     },
     {
       "path": "chamber-design/main-system-r04/check_viewport3.py",
-      "bytes": 1963,
-      "sha256": "b471665a75336350c9aff0a77e3aabfae8c798d115e146890c1162b2c067be65"
+      "bytes": 1993,
+      "sha256": "64e4a6ddb8afcb135559ab7d303b9262b3fcdcbef76a619f85ad09fb5f753624"
     },
     {
       "path": "chamber-design/main-system-r04/check_viewport_range.py",
@@ -9214,18 +9204,18 @@
     },
     {
       "path": "chamber-design/main-system-r04/integrate_video.py",
-      "bytes": 3868,
-      "sha256": "fa29d7b8bbd392e494fc5c0522c5e0bb2ecc46d27f542c0a39d028109fc18e00"
+      "bytes": 3898,
+      "sha256": "07552c4eee0794af3584e148c7553f8dd5653c83702caa9c5aa54b9cd8a65e42"
     },
     {
       "path": "chamber-design/main-system-r04/make_chapters.py",
-      "bytes": 22204,
-      "sha256": "32b33be4265390f27463a92f7c90658208318b7fdf3572a79f0d0810fb71e526"
+      "bytes": 22234,
+      "sha256": "25ab07b2f135eb7125768554dc68117339dcfc1c71ac6c0139592b4f4478c93b"
     },
     {
       "path": "chamber-design/main-system-r04/make_renderer.py",
-      "bytes": 8864,
-      "sha256": "ab84d5ea92f42f660bebd0b181d0288cb72c0e3ff03de322505be8c416b51f7c"
+      "bytes": 8894,
+      "sha256": "c6a282ce5b781ee7d92eca66092ba9af9138d80f2a22369396843b69f0185991"
     },
     {
       "path": "chamber-design/main-system-r04/mesh.bin",
@@ -9269,8 +9259,8 @@
     },
     {
       "path": "chamber-design/main-system-r04/verify_cad.py",
-      "bytes": 3415,
-      "sha256": "9ba74b9115a5aa48cb0b4e61f52d8d1264db9240ab9fbc1969f77edcd1223611"
+      "bytes": 3535,
+      "sha256": "e4efe19357a7c079a4ad65e85cfe8e0cef4eb2435bdcc0ffcc867d285e042bf0"
     },
     {
       "path": "chamber-design/main-system-r04/verify_video_and_package.py",
@@ -9283,47 +9273,112 @@
       "sha256": "df302cee566994599623ec96037231cfe35c2b4b9dca78ea855d6be855e8923d"
     },
     {
-      "path": "chamber-design/plumbing-reference/READ ME.txt",
+      "path": "chamber-design/references/Argon MFC selection R04 - 500 sccm.txt",
+      "bytes": 3105,
+      "sha256": "985365b668092fa734dfe52685b2bc2a9f6d73dc3e79d4dd3970124036b3853f"
+    },
+    {
+      "path": "chamber-design/references/README.md",
+      "bytes": 1024,
+      "sha256": "47f5f7e5f61055ab45b816f3e65449535a6cca4cf2d4cef0c77ea033d21da399"
+    },
+    {
+      "path": "chamber-design/references/coolant-fitting-selection/SMC KQG2 manufacturer catalog.pdf",
+      "bytes": 1925068,
+      "sha256": "640e80bfc12b4b71bac80e2a33d6601dbfe7d1918c8fea11093c1dd2210a8232"
+    },
+    {
+      "path": "chamber-design/references/coolant-fitting-selection/Selection and required CAD changes.json",
+      "bytes": 814,
+      "sha256": "ef93771c48beb966d8e1b7a00fca4a377c6ab6f140c490488aa680349b187b35"
+    },
+    {
+      "path": "chamber-design/references/coolant-fitting-selection/audit-native-r06.ps1",
+      "bytes": 1824,
+      "sha256": "7ba35d20fadcfdc0c31812cf4b016e4ba2b90683557b758890561bc6fbd26fd2"
+    },
+    {
+      "path": "chamber-design/references/coolant-fitting-selection/build-solidworks-r06.ps1",
+      "bytes": 8340,
+      "sha256": "f721eafe75ccc4fa03eab53da553366fb384978d9db6fb82a70993f3535da0f3"
+    },
+    {
+      "path": "chamber-design/references/coolant-fitting-selection/inspect-solidworks.ps1",
+      "bytes": 371,
+      "sha256": "8045c14f633ea935571d2c9dd43b8f94479bfc7282b8e6b17e2a3fd0ce84d711"
+    },
+    {
+      "path": "chamber-design/references/coolant-fitting-selection/inspect-sw-windows.ps1",
+      "bytes": 1097,
+      "sha256": "00ecbfae043c8b3569f122b74b30c8bf4704008ed3d6a610460593c5a1e28e6b"
+    },
+    {
+      "path": "chamber-design/references/coolant-fitting-selection/prepare_r06.py",
+      "bytes": 5239,
+      "sha256": "583410d3568c5fb5d650ccbd0ab394b52f83fc4fa6cc806be1f53d9b1f9bc82e"
+    },
+    {
+      "path": "chamber-design/references/coolant-fitting-selection/probe-native.ps1",
+      "bytes": 635,
+      "sha256": "b1cad88cb8fa0aee9c23ed70d05cd4031a89e23185328e29614e87487e54b3ec"
+    },
+    {
+      "path": "chamber-design/references/gun-mount-procurement-check/Gun mount procurement and interface check.json",
+      "bytes": 2399,
+      "sha256": "6dfe50d60839619f63a8e550704391a1588de9eb5a44b6957ac4035f41fc4ff6"
+    },
+    {
+      "path": "chamber-design/references/gun-mount-procurement-check/Lesker coupling dimensional reference.svg",
+      "bytes": 29145,
+      "sha256": "8fc4ad0779dccbd5d669bb1402167a5ab700f7a09729f3b8cb1987ff22f0aacd"
+    },
+    {
+      "path": "chamber-design/references/gun-mount-procurement-check/check_modeled_mount.py",
+      "bytes": 2564,
+      "sha256": "794d97e4059646fc0fdb0db0d943a147b50a527ec65fd13d505cc61a2affd4d6"
+    },
+    {
+      "path": "chamber-design/references/plumbing-reference/READ ME.txt",
       "bytes": 1414,
       "sha256": "df6a33658545ce4b0cc4da10388a34e71b2c5684f2d46bc4a7ba309a99811207"
     },
     {
-      "path": "chamber-design/plumbing-reference/Vacuum plumbing - flowcharts only.png",
+      "path": "chamber-design/references/plumbing-reference/Vacuum plumbing - flowcharts only.png",
       "bytes": 114852,
       "sha256": "b6e39f9af1e1197fe25bb78ac77b3c2675a25e83fdd2c983528d45aa07e8f58c"
     },
     {
-      "path": "chamber-design/plumbing-reference/Vacuum plumbing - flowcharts only.svg",
+      "path": "chamber-design/references/plumbing-reference/Vacuum plumbing - flowcharts only.svg",
       "bytes": 48168,
       "sha256": "7c2fb3d6215481ee93b1dbb8759e6a23cf45a4d950db9fe3f0468cc21489ab9c"
     },
     {
-      "path": "chamber-design/plumbing-reference/Vacuum plumbing - two single-pump options.svg",
+      "path": "chamber-design/references/plumbing-reference/Vacuum plumbing - two single-pump options.svg",
       "bytes": 150769,
       "sha256": "e9bfdaf4d246bfe20d193845fc78fb7dd3f1bbbe1cf431adfa8994690f2dad0c"
     },
     {
-      "path": "chamber-design/plumbing-reference/draw_diagrams_only.py",
-      "bytes": 2615,
-      "sha256": "1dd5bc0a05b7eec9b53542435a8682beef3662177083d1bc8ae3d784d6c1f4e6"
+      "path": "chamber-design/references/plumbing-reference/draw_diagrams_only.py",
+      "bytes": 2626,
+      "sha256": "707fced1453d566632c06e64ddbca450ba19e71722f65cccad207bc86f4147ce"
     },
     {
-      "path": "chamber-design/plumbing-reference/draw_plumbing.py",
+      "path": "chamber-design/references/plumbing-reference/draw_plumbing.py",
       "bytes": 4968,
       "sha256": "9b28d4018fe9f096bb42e90d6513f9a24c2eb464cc96792aec9349fa6988c597"
     },
     {
-      "path": "chamber-design/rf-procurement/188475951329-browser.txt",
+      "path": "chamber-design/references/rf-procurement/188475951329-browser.txt",
       "bytes": 156,
       "sha256": "a4e87b64978ba9dbe80dc1403a4a69c2caf67f5db83a02c086e91e59d1b8a57f"
     },
     {
-      "path": "chamber-design/rf-procurement/407219451377-browser.txt",
+      "path": "chamber-design/references/rf-procurement/407219451377-browser.txt",
       "bytes": 156,
       "sha256": "56f0409e2a0309c3f27bef2e2d7c680776425d41e30dc975bc51b82ca89b88d7"
     },
     {
-      "path": "chamber-design/rf-procurement/RF generator shortlist.json",
+      "path": "chamber-design/references/rf-procurement/RF generator shortlist.json",
       "bytes": 2278,
       "sha256": "4058d1d15c24d66b37c5b1981ff810c49d0013123410d8ca1259d4886ec47ce4"
     },
@@ -9364,8 +9419,8 @@
     },
     {
       "path": "chamber-design/stage-shutter-procurement/prepare_fabrication.py",
-      "bytes": 7079,
-      "sha256": "33e38911c234f7a9bbcf4b0602a98dbcc7a0fe0465b8ed8b5d03f30605a82251"
+      "bytes": 7087,
+      "sha256": "fa8bf08727496da8c860183015f20c1e5da0ae52d6256e7d0748124c6f904ef8"
     },
     {
       "path": "chamber-design/target-clamp-r05/Aluminium target D50.8 x3.175.step",
@@ -9498,46 +9553,6 @@
       "sha256": "fc6e23eb7dd5e42ac53bb3b281136536e6e97bc15e61373f90310124d38e3900"
     },
     {
-      "path": "chamber-design/top-plate-r01/Geometry checks.json",
-      "bytes": 1204,
-      "sha256": "e2f1c19f282bbbff743b288b2126e695d806ee6c843d6401729c4386ab88af6d"
-    },
-    {
-      "path": "chamber-design/top-plate-r01/Lesker coupling reference.svg",
-      "bytes": 29145,
-      "sha256": "8fc4ad0779dccbd5d669bb1402167a5ab700f7a09729f3b8cb1987ff22f0aacd"
-    },
-    {
-      "path": "chamber-design/top-plate-r01/READ FIRST - Top plate R01.txt",
-      "bytes": 2656,
-      "sha256": "5445bfec2a2d73c3a5acc45440518d16ffa274e182613cd255ba66193a9c7c02"
-    },
-    {
-      "path": "chamber-design/top-plate-r01/Roof and neck layout - preliminary.step",
-      "bytes": 32539,
-      "sha256": "ee85ccf9a5bd8ca55f40684713aeba4d919bbfc67f465f9d36a5ee92795a776e"
-    },
-    {
-      "path": "chamber-design/top-plate-r01/Top plate R01 - preliminary.step",
-      "bytes": 20314,
-      "sha256": "7e59e1710481c2d01ecb91e25138dad78816f3b8070dc3c8f10fdecaa63e3b2b"
-    },
-    {
-      "path": "chamber-design/top-plate-r01/Weld neck allowance - preliminary.step",
-      "bytes": 9599,
-      "sha256": "2d8d47af027ad8ae43ef6aeeb81d71cf261dcb635c3b3f2866a92a521442de9e"
-    },
-    {
-      "path": "chamber-design/top-plate-r01/build_top_plate.py",
-      "bytes": 4831,
-      "sha256": "b2862e4bd94c8f1360e696de0f45ac637f88bdf713b086925a8df49f2c262231"
-    },
-    {
-      "path": "chamber-design/update_mfc_r03_links.py",
-      "bytes": 1641,
-      "sha256": "1491dd8d63e1ce3bb61c4badd89a3b7b7f5236903a03a322a0235332dcb6c048"
-    },
-    {
       "path": "design/current-component-register.csv",
       "bytes": 55953,
       "sha256": "b564f420dbe165678c42bf892947d6deceb235c6e6ef9fbc366c4c8ec105b53b"
@@ -9559,8 +9574,8 @@
     },
     {
       "path": "docs/current-design.md",
-      "bytes": 4441,
-      "sha256": "2dfda50cb088319f5f4389f641ce1ac40a2b11817663a7e275dc9d2e586d04ca"
+      "bytes": 4452,
+      "sha256": "987b1559ff063785c8d6b9166a3007f44a2e2c4d53fd3544b7b008334c0fa438"
     },
     {
       "path": "docs/decisions.md",
@@ -9574,13 +9589,13 @@
     },
     {
       "path": "docs/engineering.md",
-      "bytes": 11752,
-      "sha256": "6d597e1bff4739f8f86070a1475b044b2a152c067ae49d67842caeee3590b295"
+      "bytes": 11774,
+      "sha256": "cc4e03e1bc0da796678a39070b04cd6767ceb690aa68332bbee48b1063d53ee8"
     },
     {
       "path": "docs/reproducibility.md",
-      "bytes": 5351,
-      "sha256": "1e6104dd1fbe238b59ad1722ac1197e4cb77ec28011954660f750206f1591150"
+      "bytes": 5362,
+      "sha256": "a98e95311ccb3084cddb319e2bc8e56cc7c4bf699ae8b89cd006119eb7de86c3"
     },
     {
       "path": "docs/simulations.md",
@@ -9589,8 +9604,8 @@
     },
     {
       "path": "docs/sources.md",
-      "bytes": 3569,
-      "sha256": "c5c29a235ef99019419af99328a0586db0c0c7a3b10906c21cecb01f03622764"
+      "bytes": 3580,
+      "sha256": "6c4c55480cd96a28fe3f4950d6467e7753c224b0d679d047e22fdbd166c6ef69"
     },
     {
       "path": "docs/system.md",
@@ -10414,8 +10429,8 @@
     },
     {
       "path": "tools/templates/current-design.md",
-      "bytes": 4403,
-      "sha256": "f9f4c064e2ad0535523baa7b92d9c372e3d1e14909058098325032fac3b29832"
+      "bytes": 4414,
+      "sha256": "70c041233562ac4d99cf9a7516457d11541a6a3018a07f2bd2be704d6363e92e"
     },
     {
       "path": "tools/templates/decisions.md",
@@ -10429,8 +10444,8 @@
     },
     {
       "path": "tools/templates/engineering.md",
-      "bytes": 11661,
-      "sha256": "7dce38443ffd22d88582ab35ce0a557dc5cf82cf7b060d0c26b2f05b78285fbd"
+      "bytes": 11683,
+      "sha256": "d7ef3788485804719416184db452bb58789451c4911726b43795a31596a53e9a"
     },
     {
       "path": "tools/templates/procurement.md",
@@ -10439,8 +10454,8 @@
     },
     {
       "path": "tools/templates/reproducibility.md",
-      "bytes": 5293,
-      "sha256": "f5caf651a013044aa6eb588aa0f08f104fca110c2d768c8e8b367f8ced109429"
+      "bytes": 5304,
+      "sha256": "c8a813010bd76c09bd553fdc190ceacba0b71594e96ed3453aca69266401619f"
     },
     {
       "path": "tools/templates/simulations.md",
@@ -10449,8 +10464,8 @@
     },
     {
       "path": "tools/templates/sources.md",
-      "bytes": 3537,
-      "sha256": "5164e1637ed02d1db8447fd6b02c2a977ef9f1e3ae7b98dbcdb0ba909aa79666"
+      "bytes": 3548,
+      "sha256": "e35ea8996b87b9ab5b76c93185ae81e91421cc058395142e623b546b038853a5"
     },
     {
       "path": "tools/templates/verification.md",

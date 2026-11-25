@@ -1,0 +1,62 @@
+{
+  "purpose": "Map historical source paths after chamber-design organization; CAD/native packages and saved numerical records retain original bytes.",
+  "current": "chamber-design/coolant-fitting-r06",
+  "supporting_revisions": [
+    "chamber-design/main-system-r04",
+    "chamber-design/target-clamp-r05"
+  ],
+  "moves": [
+    {
+      "from": "chamber-design/complete-chamber-r01",
+      "to": "archive/chamber-design/complete-chamber-r01"
+    },
+    {
+      "from": "chamber-design/compression-fitting-r02",
+      "to": "archive/chamber-design/compression-fitting-r02"
+    },
+    {
+      "from": "chamber-design/full-system-r03",
+      "to": "archive/chamber-design/full-system-r03"
+    },
+    {
+      "from": "chamber-design/top-plate-r01",
+      "to": "archive/chamber-design/top-plate-r01"
+    },
+    {
+      "from": "chamber-design/coolant-fitting-selection",
+      "to": "chamber-design/references/coolant-fitting-selection"
+    },
+    {
+      "from": "chamber-design/gun-mount-procurement-check",
+      "to": "chamber-design/references/gun-mount-procurement-check"
+    },
+    {
+      "from": "chamber-design/plumbing-reference",
+      "to": "chamber-design/references/plumbing-reference"
+    },
+    {
+      "from": "chamber-design/rf-procurement",
+      "to": "chamber-design/references/rf-procurement"
+    },
+    {
+      "from": "chamber-design/Argon MFC selection R03 - 200 sccm.txt",
+      "to": "archive/chamber-design/Argon MFC selection R03 - 200 sccm.txt"
+    },
+    {
+      "from": "chamber-design/Argon MFC sizing and specification R01.txt",
+      "to": "archive/chamber-design/Argon MFC sizing and specification R01.txt"
+    },
+    {
+      "from": "chamber-design/Argon MFC sizing and specification R02.txt",
+      "to": "archive/chamber-design/Argon MFC sizing and specification R02.txt"
+    },
+    {
+      "from": "chamber-design/update_mfc_r03_links.py",
+      "to": "archive/chamber-design/update_mfc_r03_links.py"
+    },
+    {
+      "from": "chamber-design/Argon MFC selection R04 - 500 sccm.txt",
+      "to": "chamber-design/references/Argon MFC selection R04 - 500 sccm.txt"
+    }
+  ]
+}

@@ -52,7 +52,7 @@ R06 selects 2× SMC KQG2S04-M5, OD4 tubing, M5×0.8 male thread, nominal body OD
 
 The backplate ports are at native X±18/Z0. Old D7.95 counterbores and D5 passages are removed. Revised D3 passages run through, with D4.2 tap drills 5 mm deep from rear Y−22.5 and a specification of M5×0.8-6H, useful thread ≥4 mm. The retained flat seat uses the manufacturer's specified M5 gasket. Thread tape does not replace that gasket interface.
 
-The SMC vacuum-retention caveat, pressurized-water sealing, gasket seat tolerances, tube bend radius and compatibility remain unresolved. Current checks found no new non-thread geometric overlaps, with threaded engagement overlaps explicitly classified. No zero-leakage assertion follows. Historical copper-bonding explanations are proposals, not a completed joining revision. Evidence: [R06 scope notes](../chamber-design/coolant-fitting-r06/READ%20FIRST%20-%20Coolant%20fittings%20R06.txt) and [Fitting selection](../chamber-design/coolant-fitting-selection/Selection%20and%20required%20CAD%20changes.json).
+The SMC vacuum-retention caveat, pressurized-water sealing, gasket seat tolerances, tube bend radius and compatibility remain unresolved. Current checks found no new non-thread geometric overlaps, with threaded engagement overlaps explicitly classified. No zero-leakage assertion follows. Historical copper-bonding explanations are proposals, not a completed joining revision. Evidence: [R06 scope notes](../chamber-design/coolant-fitting-r06/READ%20FIRST%20-%20Coolant%20fittings%20R06.txt) and [Fitting selection](../chamber-design/references/coolant-fitting-selection/Selection%20and%20required%20CAD%20changes.json).
 
 ## Cooling and electrical isolation
 
@@ -66,7 +66,7 @@ The selected route is chamber → EXT70 → one rotary vane pump, with no separa
 
 The owner-selected MFC is STEC SEC-4400MC-G2, listed for Ar 500 sccm. Gas calibration, valve/interface configuration and low-flow accuracy remain to verify. For the recorded 0 °C standard flow reference and 20 °C gas assumption, throughput is `Q = 0.018124 × flow_sccm` mbar·L/s. At 500 sccm, Q≈9.062 mbar·L/s. With effective speed 65 L/s, p≈104.6 mTorr. The 65 L/s example uses an N2 rating; actual installed Ar pumping speed is unverified. Pressure follows installed speed, conductance and gas load, and must be measured.
 
-The earlier 42 mTorr ignition trial idea remains unqualified. The new 500 sccm range adds flow headroom; it does not establish an ignition threshold or an allowable full-flow operating point. Turbo gas load, backing pressure and drive power limits must be checked before commanding full flow. Consider low-flow accuracy at intended deposition flows. Evidence: [MFC R04 engineering assessment](../chamber-design/Argon%20MFC%20selection%20R04%20-%20500%20sccm.txt) and procurement tabs 05/07.
+The earlier 42 mTorr ignition trial idea remains unqualified. The new 500 sccm range adds flow headroom; it does not establish an ignition threshold or an allowable full-flow operating point. Turbo gas load, backing pressure and drive power limits must be checked before commanding full flow. Consider low-flow accuracy at intended deposition flows. Evidence: [MFC R04 engineering assessment](../chamber-design/references/Argon%20MFC%20selection%20R04%20-%20500%20sccm.txt) and procurement tabs 05/07.
 
 ## Chamber, window, stage and mounting
 

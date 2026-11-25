@@ -1,7 +1,7 @@
 from pathlib import Path
 import json,re,subprocess
 import imageio_ffmpeg
-P=Path(__file__).resolve().parent;F=P.parent/'compression-fitting-r02';exe=imageio_ffmpeg.get_ffmpeg_exe()
+P=Path(__file__).resolve().parent;F=P.parent.parent/'archive/chamber-design/compression-fitting-r02';exe=imageio_ffmpeg.get_ffmpeg_exe()
 main=json.loads((P/'Scene timing.json').read_text());fit=json.loads((F/'Video verification.json').read_text())
 cut=main['chapters'][2][0];fitend=fit['chapters'][7][0]
 total=main['duration_seconds']+fitend

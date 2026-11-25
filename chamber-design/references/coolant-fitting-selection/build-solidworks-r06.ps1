@@ -24,7 +24,7 @@ public class SWCoolantR06 {
   Assembly(p.gun,"Magnetron R06 - M5 coolant fittings",false);if(!gunOnly)Assembly(p.system,"Complete sputter system R06 - M5 coolant fittings",true);File.WriteAllText(Path.Combine(folder,"SolidWorks verification.json"),js.Serialize(new{solidworks=sw.RevisionNumber(),parts=checks,gun_components=p.gun.Length,system_components=gunOnly?0:p.system.Length,port_features="Two native cut-extrude features; M5 thread specified by feature name and custom property, not helical geometry",limits="Fitting internals are representative. Existing RV3 invalid supplier reference excluded from native assembly; current HV2-150 replacement geometry still pending."}));sw.SetUserPreferenceToggle(220,oldMulti);Console.WriteLine("R06 SOLIDWORKS COMPLETE");}
 }
 '@
-[SWCoolantR06]::Run((Resolve-Path "$PSScriptRoot/../coolant-fitting-r06").Path)
+[SWCoolantR06]::Run((Resolve-Path "$PSScriptRoot/../../coolant-fitting-r06").Path)
 
 
 

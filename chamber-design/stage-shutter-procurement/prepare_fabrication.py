@@ -1,6 +1,6 @@
 from pathlib import Path
 import shutil,json,zipfile
-ROOT=Path.cwd();P=ROOT/'chamber-design/stage-shutter-procurement';S=ROOT/'chamber-design/complete-chamber-r01/Separate parts'
+ROOT=Path.cwd();P=ROOT/'chamber-design/stage-shutter-procurement';S=ROOT/'archive/chamber-design/complete-chamber-r01/Separate parts'
 for n in ['Bent shutter.step','Substrate stage.step','Shutter blank reference.dxf','Shutter developed blank - K0.42.step']:shutil.copy2(S/n,P/n)
 rows=[
  {'id':'SS01','component':'Substrate stage plate','spec':'SS304 disc, D90 x6mm; simple passive removable stage as current CAD','required':1,'stock':0,'new':1,'method':'Custom vendor order','status':'Local fabrication','unit_price':1500,'supplier':'Mumbai precision turning/machining shop; vendor quote pending','note':'Keep existing stage geometry. Stage supports are included inCB01. Stage topZ40; reference1mm specimen topZ41.','file':str(P/'Substrate stage.step')},

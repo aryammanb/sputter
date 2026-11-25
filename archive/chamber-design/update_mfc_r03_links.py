@@ -1,6 +1,6 @@
 from pathlib import Path
 
-base = Path(__file__).resolve().parent.parent
+base = Path(__file__).resolve().parents[2]
 targets = [
     ('chamber-design/target-clamp-r05/READ FIRST - Clamp R05.txt', 'GAS FLOW ENGINEERING ADDENDUM', 'Target procurement:'),
     ('chamber-design/main-system-r04/README.txt', 'LATER GAS FLOW ENGINEERING ADDENDUM - 24 NOVEMBER 2026', 'Open Complete sputter system'),

@@ -4,7 +4,7 @@ import numpy as np
 import cadquery as cq
 
 P=Path(__file__).resolve().parent
-ROOT=P.parent.parent
+ROOT=P.parents[2]
 SRC=ROOT/'advanced-tinkering-original'/'balanced-twelve-stack-study'
 V=cq.Vector
 items=[]

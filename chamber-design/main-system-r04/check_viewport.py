@@ -1,7 +1,7 @@
 from pathlib import Path
 import json,struct,numpy as np,vtk
 from vtk.util.numpy_support import numpy_to_vtk,numpy_to_vtkIdTypeArray
-P=Path(__file__).resolve().parent;B=P.parent/'full-system-r03';meta=json.loads((B/'parts.json').read_text());aa=[]
+P=Path(__file__).resolve().parent;B=P.parent.parent/'archive/chamber-design/full-system-r03';meta=json.loads((B/'parts.json').read_text());aa=[]
 with (B/'mesh.bin').open('rb') as f:
  for q in meta:
   n=struct.unpack('<I',f.read(4))[0];a=np.frombuffer(f.read(n*36),'<f4').reshape(-1,3,3)

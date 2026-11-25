@@ -1,5 +1,5 @@
 from pathlib import Path
-P=Path(__file__).resolve().parent;B=P.parent/'full-system-r03';s=(B/'render_system.py').read_text();s=s.replace("if 'preview' in sys.argv:","if 'preview' in sys.argv:")
+P=Path(__file__).resolve().parent;B=P.parent.parent/'archive/chamber-design/full-system-r03';s=(B/'render_system.py').read_text();s=s.replace("if 'preview' in sys.argv:","if 'preview' in sys.argv:")
 # Reuse the original camera and dimension code for established system views.
 s=s.replace("for q in records:\n  ac=q", "for q in records:\n  ac=q")
 needle="  ac.SetUserTransform(tr);ac.SetVisibility(show);ac.GetProperty().SetOpacity(opacity)"

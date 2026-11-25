@@ -10,7 +10,7 @@ The authority for this snapshot is [design/current.json](../design/current.json)
 | Target/clamp | [R05 notes](../chamber-design/target-clamp-r05/READ%20FIRST%20-%20Clamp%20R05.txt) | D50.8 × 3.175 target, revised shoulder/lip, M3×10 screws |
 | Chamber supplier handoff | [CB01 scope](../chamber-design/chamber-supplier-package/CB01%20frozen%20layout%20and%20supplier%20scope.txt) | Frozen interfaces and single vendor package; quote/manufacturing release pending |
 | Procurement | [Workbook](../procurement/Sputter%20system%20procurement.xlsx) | Latest saved selections and planning allowances |
-| Gas selection | [MFC R04](../chamber-design/Argon%20MFC%20selection%20R04%20-%20500%20sccm.txt) | Owner-selected STEC SEC-4400MC-G2 Ar 500 sccm; calibration/interfaces pending |
+| Gas selection | [MFC R04](../chamber-design/references/Argon%20MFC%20selection%20R04%20-%20500%20sccm.txt) | Owner-selected STEC SEC-4400MC-G2 Ar 500 sccm; calibration/interfaces pending |
 | Field | [Current assessment](../simulations/current-target-r06/README.md) | Saved FEM field sampled at the current target plane |
 | Explanations | [Current design walkthroughs](design.md#current-walkthroughs) | R06 STEP-derived views with current selections called out |
 
