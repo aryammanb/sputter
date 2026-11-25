@@ -20,6 +20,8 @@ def selected(path):
     if path.suffix.lower() in {'.bak','.lnk'}:return False
     if path.name in ZIP_NAMES:return True
     if path.name in IMAGE_NAMES:return True
+    # Keep the early educational animation linked from the beginner README.
+    if rel.as_posix() == '90 ARCHIVE - Earlier designs and working files/visualizations/sputtering-explainer/magnetron-sputtering-explained.mp4':return True
     # Third-party original video/code download tools and repetitive frame renders stay local.
     if path.suffix.lower() not in EXT:return False
     if path.name.startswith('Encoded') or path.name.endswith('.inspect.ndjson'):return False

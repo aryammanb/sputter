@@ -4,6 +4,27 @@ A compact, adjustable RF magnetron sputtering system
 
 ![Current R06 system](media/system.png)
 
+## New to sputtering? Start here
+
+Sputtering deposits a thin coating onto a sample. Energetic argon ions strike a source material (the **target**), releasing atoms that collect on the surface being coated (the **substrate**).
+
+### Start with our animations
+
+1. **[How sputtering works — 2:14](90%20ARCHIVE%20-%20Earlier%20designs%20and%20working%20files/visualizations/sputtering-explainer/magnetron-sputtering-explained.mp4).** Our silent, captioned introduction follows the process from loading and pumping down to admitting argon, forming a plasma and coating a sample. It illustrates an earlier concept; its gun, throttle valve and separate roughing route differ from the current design.
+2. **[Explore our current design — 2:11](media/system-walkthrough/Sputter%20system%20-%20silent%20CAD%20walkthrough.mp4).** A silent CAD tour of the R06 system: chamber, gun, shutter, pumps, gas supply, cooling and power. For detailed assembly and component explanations, see the [video library](media/README.md).
+
+### See working sputtering builds
+
+Our team has built and operated an earlier sputtering system; this repository documents the v2 design through CAD, a bill of materials (BOM), engineering studies and animations. These independently documented builds helped inspire our work and show physical systems being built and used:
+
+| Creator | Watch |
+|---|---|
+| **Advanced Tinkering** | [Metal coating by plasma bombardment](https://www.youtube.com/watch?v=el17fof1OAY) · [Magnetron design breakdown](https://www.youtube.com/watch?v=MslftqA7LYw), the reference for our gun reconstruction |
+| **The Thought Emporium** | [Coat anything in metal: magnetron sputtering machine build](https://www.youtube.com/watch?v=aljbjJbfghs) |
+| **Applied Science** | [Intro to sputtering: creating clear, conductive coatings](https://www.youtube.com/watch?v=9OEz_e9C4KM) |
+
+Then explore our [system architecture](docs/system.md), [current CAD](docs/cad.md) and [parts and procurement](procurement/README.md).
+
 ## Start here
 
 | What you need | Open |

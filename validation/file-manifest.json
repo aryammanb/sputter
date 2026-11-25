@@ -2963,6 +2963,11 @@
       "sha256": "d18caa14ba9f7f657ba15c69bd13f9f31056c7a5303b821f272e87907dc70555"
     },
     {
+      "path": "90 ARCHIVE - Earlier designs and working files/visualizations/sputtering-explainer/magnetron-sputtering-explained.mp4",
+      "bytes": 2410542,
+      "sha256": "22b7d3f082f146b5b0bf884c3133c04f3593c3989bbab89f644a02dc756bf153"
+    },
+    {
       "path": "90 ARCHIVE - Earlier designs and working files/visualizations/sputtering-explainer/render-magnetron-extended.py",
       "bytes": 12598,
       "sha256": "b98120fa4da9270c8d873d9518215d4b677ca1f95fc3b6ba22042b020f9f80ae"
@@ -2984,8 +2989,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5485,
-      "sha256": "f0a26fe27ed26869ece0175be3234745e48e344d18727ad7077c7c2fba73af77"
+      "bytes": 7104,
+      "sha256": "6938fa78864f418cd905efbdf5dd52ac644111f4c903514484c498e2fbd05a43"
     },
     {
       "path": "Sputter v2.pptx",
@@ -10329,8 +10334,8 @@
     },
     {
       "path": "tools/build_documentation.py",
-      "bytes": 54787,
-      "sha256": "f44c2da6c8a74f165bb77a6fce743405e3475d12edc879a6ea97c455dd90f5a6"
+      "bytes": 56412,
+      "sha256": "cd70ca703d1766f53eaca6402f76f3802fa35b234ec891f4daf1ae8d48781c27"
     },
     {
       "path": "tools/build_gun_walkthrough.py",
@@ -10389,8 +10394,8 @@
     },
     {
       "path": "tools/package_repository.py",
-      "bytes": 4768,
-      "sha256": "d3c126293cb1507fc248fcb4a6272ee2170be6cf632c1442cb2f181da3197924"
+      "bytes": 5003,
+      "sha256": "00e1340a088b3d9c7f6207a3be72e22b26249b9c238469bea9f91e9078d4d875"
     },
     {
       "path": "tools/reassess_current_field.py",
