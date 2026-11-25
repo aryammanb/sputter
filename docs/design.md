@@ -24,8 +24,7 @@ flowchart LR
   TCool[Turbo cooling loop] --> T
   C --> Gauges[Pirani / Penning measurement]
 ```
-
-This is a subsystem overview. Final wiring, interlocks, venting details and sealing qualification remain engineering work. No separate roughing bypass or throttle valve is selected.
+.
 
 ## CAD downloads
 
