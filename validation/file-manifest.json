@@ -18,31 +18,6 @@
       "sha256": "abf50865e5e11964656c38dc786337a7a89f5fd44141bf72959bd93b39d25676"
     },
     {
-      "path": "01 MAIN DESIGN - Updated Advanced Tinkering/00 READ FIRST - Current design.txt",
-      "bytes": 4529,
-      "sha256": "d20ec15efc97b5b48ba2df30f65622a8dc40a057b099da902040e2f1f3685c4b"
-    },
-    {
-      "path": "01 MAIN DESIGN - Updated Advanced Tinkering/04 Chamber purchased parts and references.csv",
-      "bytes": 1032,
-      "sha256": "3678871e9e3f8b8a767de202bee8d3b5ef43bb131f18b344f471c05dae10f4ba"
-    },
-    {
-      "path": "01 MAIN DESIGN - Updated Advanced Tinkering/05 Latest target clamp R05.txt",
-      "bytes": 508,
-      "sha256": "632f9db1fbff562a01d94460cc621eb9824b6e6de21aba1410e84d18fc5d3e39"
-    },
-    {
-      "path": "01 MAIN DESIGN - Updated Advanced Tinkering/06 Latest coolant fittings R06.txt",
-      "bytes": 662,
-      "sha256": "7e2da123f40b6a0189fd223337aa72b3cde08bef98a4ebfbff1c70fc609898cf"
-    },
-    {
-      "path": "01 MAIN DESIGN - Updated Advanced Tinkering/Organization manifest.json",
-      "bytes": 19252,
-      "sha256": "705ef489d7deea52bedf1472b356dfed38f33a9e09a702ba64658917cdaea7b1"
-    },
-    {
       "path": "90 ARCHIVE - Earlier designs and working files/.export-r06-video.ps1",
       "bytes": 2031,
       "sha256": "de104aa1f6bb4c4d236b07e59fa84eeb882c7f5b0813e604c30c2e333fd39ecf"
@@ -2994,8 +2969,8 @@
     },
     {
       "path": "advanced-tinkering-original/00 SOURCE WORKSPACE - Read first.txt",
-      "bytes": 528,
-      "sha256": "72ec47a30e8382b70d425a7ac783fff5324ae569e6a08273f408870cca573811"
+      "bytes": 496,
+      "sha256": "fd5a88f65ab975d6c5a5d4ee6fd3b3cad128670fbf73132233b4a697019560b9"
     },
     {
       "path": "advanced-tinkering-original/01 Original cathode cooling and magnets.SLDASM",
@@ -8824,8 +8799,8 @@
     },
     {
       "path": "chamber-design/coolant-fitting-selection/update-main-links.ps1",
-      "bytes": 1375,
-      "sha256": "4fc4ef3e9fb03270c6bd47de93456f26cd66be1d0fb24a3e1c8ac4d3414cbbc2"
+      "bytes": 1311,
+      "sha256": "16788718a8802f114498060aa1ea98840bc8bd4f741caa7cd86935161284594c"
     },
     {
       "path": "chamber-design/full-system-r03/CAD verification.json",
@@ -9524,8 +9499,8 @@
     },
     {
       "path": "chamber-design/target-clamp-r05/verify_and_package.py",
-      "bytes": 8208,
-      "sha256": "fb0203519e26faf0342c9303b3f2bed59f04e532ffb0d57b6ec9dbc4cf9e42cc"
+      "bytes": 8176,
+      "sha256": "38eeb513dc4b9e7b0f0bdeef35b794561f4f35dc6e272a8d188ed6d4dc14587e"
     },
     {
       "path": "chamber-design/top-plate-r01/Geometry checks.json",
@@ -9564,8 +9539,8 @@
     },
     {
       "path": "chamber-design/update_mfc_r03_links.py",
-      "bytes": 2004,
-      "sha256": "14331e8cba6a876951c05182c0a19539fae830f740a8d6c426d2ad79a73d0ff3"
+      "bytes": 1990,
+      "sha256": "4a015c60ecf31c3ece47bf6bfaaa3b84bac17ac0334cfe42ae44cebdc56dc469"
     },
     {
       "path": "design/current-component-register.csv",
@@ -9631,6 +9606,31 @@
       "path": "docs/verification.md",
       "bytes": 5780,
       "sha256": "da0b92955955eb4299b7bca6f673d391ba82e6b535b751438f7fe95264ccfa47"
+    },
+    {
+      "path": "main design/00 READ FIRST - Current design.txt",
+      "bytes": 4529,
+      "sha256": "d20ec15efc97b5b48ba2df30f65622a8dc40a057b099da902040e2f1f3685c4b"
+    },
+    {
+      "path": "main design/04 Chamber purchased parts and references.csv",
+      "bytes": 1032,
+      "sha256": "3678871e9e3f8b8a767de202bee8d3b5ef43bb131f18b344f471c05dae10f4ba"
+    },
+    {
+      "path": "main design/05 Latest target clamp R05.txt",
+      "bytes": 508,
+      "sha256": "632f9db1fbff562a01d94460cc621eb9824b6e6de21aba1410e84d18fc5d3e39"
+    },
+    {
+      "path": "main design/06 Latest coolant fittings R06.txt",
+      "bytes": 662,
+      "sha256": "7e2da123f40b6a0189fd223337aa72b3cde08bef98a4ebfbff1c70fc609898cf"
+    },
+    {
+      "path": "main design/Organization manifest.json",
+      "bytes": 18740,
+      "sha256": "bf93023a671eac325b429259ce842ae656e6eb33cded4be698a72cc19c1d4daf"
     },
     {
       "path": "media/01-current-system-transcript.txt",
@@ -10414,8 +10414,8 @@
     },
     {
       "path": "tools/package_repository.py",
-      "bytes": 5179,
-      "sha256": "8511193441cc47eb004a3691ef3cb0066d160791d2b5b76fb6b0599738a59168"
+      "bytes": 5147,
+      "sha256": "48d410bb569587c3835cdfb3eafcb9d7d840b49d03d4c948892c1b144ab741a9"
     },
     {
       "path": "tools/reassess_current_field.py",

@@ -107,7 +107,7 @@ all141 gun solids and all other full-system solids reopen valid.
 '''
 (P/'READ FIRST - Clamp R05.txt').write_text(notes,encoding='utf-8')
 # Update human entry point without removing historical design links.
-entry=ROOT/'01 MAIN DESIGN - Updated Advanced Tinkering/05 Latest target clamp R05.txt';entry.write_text('LATEST TARGET / CLAMP REVISION: R05\n\n'+str(P/'READ FIRST - Clamp R05.txt')+'\n\nCurrent complete system:\n'+str(P/'Complete sputter system R05.step')+'\n\nCurrent gun:\n'+str(P/'Latest magnetron R05 - aluminium3.175mm.step')+'\n\nEarlier R04 video and previous twelve-stack CAD predate this target-thickness change.\n',encoding='utf-8')
+entry=ROOT/'main design/05 Latest target clamp R05.txt';entry.write_text('LATEST TARGET / CLAMP REVISION: R05\n\n'+str(P/'READ FIRST - Clamp R05.txt')+'\n\nCurrent complete system:\n'+str(P/'Complete sputter system R05.step')+'\n\nCurrent gun:\n'+str(P/'Latest magnetron R05 - aluminium3.175mm.step')+'\n\nEarlier R04 video and previous twelve-stack CAD predate this target-thickness change.\n',encoding='utf-8')
 latest=Path((ROOT/'outputs/01a209eb-c119-74d1-bef5-c610f57d428f/latest_procurement_workbook.txt').read_text().strip());shutil.copy2(latest,P/'Updated procurement.xlsx')
 files=[x for x in P.iterdir() if x.suffix.lower() in ['.step','.json','.csv','.txt','.png','.xlsx'] and x.name not in ['parts.json']]
 with zipfile.ZipFile(P/'Clamp R05 - revised CAD package.zip','w',zipfile.ZIP_DEFLATED) as z:

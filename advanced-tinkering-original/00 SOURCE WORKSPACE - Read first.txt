@@ -8,6 +8,6 @@ balanced-twelve-stack-study/Proposed twelve stack mechanical study.step
 Previous combined baseline:
 latest-full-walkthrough/Current magnetron R03 - complete study assembly.step
 
-Use the sputter root's "01 MAIN DESIGN - Updated Advanced Tinkering" folder
+Use the sputter root's "main design" folder
 for labeled shortcuts to the current design, notes, videos and simulation.
 Existing source paths and CAD filenames are preserved.

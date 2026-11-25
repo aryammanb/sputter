@@ -427,67 +427,67 @@
   ],
   "Shortcuts": [
     {
-      "Shortcut": "01 MAIN DESIGN - Updated Advanced Tinkering\\01 Latest updated design - twelve-stack\\01 MAIN ASSEMBLY - Latest twelve-stack STEP.lnk",
+      "Shortcut": "main design\\01 Latest updated design - twelve-stack\\01 MAIN ASSEMBLY - Latest twelve-stack STEP.lnk",
       "Target": "advanced-tinkering-original\\balanced-twelve-stack-study\\Proposed twelve stack mechanical study.step"
     },
     {
-      "Shortcut": "01 MAIN DESIGN - Updated Advanced Tinkering\\01 Latest updated design - twelve-stack\\02 CAD package - Latest twelve-stack.lnk",
+      "Shortcut": "main design\\01 Latest updated design - twelve-stack\\02 CAD package - Latest twelve-stack.lnk",
       "Target": "advanced-tinkering-original\\balanced-twelve-stack-study\\Twelve stack magnetron - CAD comparison.zip"
     },
     {
-      "Shortcut": "01 MAIN DESIGN - Updated Advanced Tinkering\\01 Latest updated design - twelve-stack\\03 Design walkthrough - Latest changes.lnk",
+      "Shortcut": "main design\\01 Latest updated design - twelve-stack\\03 Design walkthrough - Latest changes.lnk",
       "Target": "advanced-tinkering-original\\balanced-twelve-stack-study\\Twelve stack magnetron - mechanical comparison.mp4"
     },
     {
-      "Shortcut": "01 MAIN DESIGN - Updated Advanced Tinkering\\01 Latest updated design - twelve-stack\\04 Design notes and changes.lnk",
+      "Shortcut": "main design\\01 Latest updated design - twelve-stack\\04 Design notes and changes.lnk",
       "Target": "advanced-tinkering-original\\balanced-twelve-stack-study\\Mechanical changes explained.txt"
     },
     {
-      "Shortcut": "01 MAIN DESIGN - Updated Advanced Tinkering\\01 Latest updated design - twelve-stack\\05 Component change register.lnk",
+      "Shortcut": "main design\\01 Latest updated design - twelve-stack\\05 Component change register.lnk",
       "Target": "advanced-tinkering-original\\balanced-twelve-stack-study\\Part change register.csv"
     },
     {
-      "Shortcut": "01 MAIN DESIGN - Updated Advanced Tinkering\\01 Latest updated design - twelve-stack\\06 Geometry verification.lnk",
+      "Shortcut": "main design\\01 Latest updated design - twelve-stack\\06 Geometry verification.lnk",
       "Target": "advanced-tinkering-original\\balanced-twelve-stack-study\\Geometry verification.json"
     },
     {
-      "Shortcut": "01 MAIN DESIGN - Updated Advanced Tinkering\\01 Latest updated design - twelve-stack\\07 Full working folder - Latest twelve-stack.lnk",
+      "Shortcut": "main design\\01 Latest updated design - twelve-stack\\07 Full working folder - Latest twelve-stack.lnk",
       "Target": "advanced-tinkering-original\\balanced-twelve-stack-study\\"
     },
     {
-      "Shortcut": "01 MAIN DESIGN - Updated Advanced Tinkering\\02 Magnetic simulation and copper joint\\01 Magnetic simulation assessment.lnk",
+      "Shortcut": "main design\\02 Magnetic simulation and copper joint\\01 Magnetic simulation assessment.lnk",
       "Target": "advanced-tinkering-original\\balanced-twelve-stack-study\\magnetic-simulation\\Simulation assessment.txt"
     },
     {
-      "Shortcut": "01 MAIN DESIGN - Updated Advanced Tinkering\\02 Magnetic simulation and copper joint\\02 Magnetic simulation video.lnk",
+      "Shortcut": "main design\\02 Magnetic simulation and copper joint\\02 Magnetic simulation video.lnk",
       "Target": "advanced-tinkering-original\\balanced-twelve-stack-study\\magnetic-simulation\\Magnetic circuit simulation - confinement assessment.mp4"
     },
     {
-      "Shortcut": "01 MAIN DESIGN - Updated Advanced Tinkering\\02 Magnetic simulation and copper joint\\03 Magnetic simulation model and results.lnk",
+      "Shortcut": "main design\\02 Magnetic simulation and copper joint\\03 Magnetic simulation model and results.lnk",
       "Target": "advanced-tinkering-original\\balanced-twelve-stack-study\\magnetic-simulation\\Magnetic simulation model and results.zip"
     },
     {
-      "Shortcut": "01 MAIN DESIGN - Updated Advanced Tinkering\\02 Magnetic simulation and copper joint\\04 Updated copper joint - Explained.lnk",
+      "Shortcut": "main design\\02 Magnetic simulation and copper joint\\04 Updated copper joint - Explained.lnk",
       "Target": "advanced-tinkering-original\\brazed-joint-video\\Updated twelve-stack copper joint - explained.mp4"
     },
     {
-      "Shortcut": "01 MAIN DESIGN - Updated Advanced Tinkering\\02 Magnetic simulation and copper joint\\05 Copper joint explanation transcript.lnk",
+      "Shortcut": "main design\\02 Magnetic simulation and copper joint\\05 Copper joint explanation transcript.lnk",
       "Target": "advanced-tinkering-original\\brazed-joint-video\\Video transcript.txt"
     },
     {
-      "Shortcut": "01 MAIN DESIGN - Updated Advanced Tinkering\\03 R03 baseline - previous combined design\\01 PREVIOUS BASELINE - R03 assembly.lnk",
+      "Shortcut": "main design\\03 R03 baseline - previous combined design\\01 PREVIOUS BASELINE - R03 assembly.lnk",
       "Target": "advanced-tinkering-original\\latest-full-walkthrough\\Current magnetron R03 - complete study assembly.step"
     },
     {
-      "Shortcut": "01 MAIN DESIGN - Updated Advanced Tinkering\\03 R03 baseline - previous combined design\\02 R03 full exploded walkthrough.lnk",
+      "Shortcut": "main design\\03 R03 baseline - previous combined design\\02 R03 full exploded walkthrough.lnk",
       "Target": "advanced-tinkering-original\\latest-full-walkthrough\\Current magnetron R03 - full exploded walkthrough.mp4"
     },
     {
-      "Shortcut": "01 MAIN DESIGN - Updated Advanced Tinkering\\03 R03 baseline - previous combined design\\03 R03 assembly notes.lnk",
+      "Shortcut": "main design\\03 R03 baseline - previous combined design\\03 R03 assembly notes.lnk",
       "Target": "advanced-tinkering-original\\latest-full-walkthrough\\READ ME - current combined assembly.txt"
     },
     {
-      "Shortcut": "01 MAIN DESIGN - Updated Advanced Tinkering\\03 R03 baseline - previous combined design\\04 R03 component BOM - Baseline only.lnk",
+      "Shortcut": "main design\\03 R03 baseline - previous combined design\\04 R03 component BOM - Baseline only.lnk",
       "Target": "advanced-tinkering-original\\latest-full-walkthrough\\Current assembly BOM.csv"
     }
   ],
