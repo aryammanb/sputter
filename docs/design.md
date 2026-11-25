@@ -1,7 +1,5 @@
 # System architecture and CAD
 
-This page brings together the system layout, CAD downloads, selected walkthroughs and essential rendered views. The current mechanical design is the **R06 gun**, with the **R05 target/clamp**, in the **R04 chamber and utilities layout**. Procurement includes the STEC SEC-4400MC-G2 500 sccm argon MFC and INDOVAC HV2-150 backing pump.
-
 [System layout](#system-layout) · [CAD downloads](#cad-downloads) · [Current walkthroughs](#current-walkthroughs) · [Chamber and shutter](#chamber-and-shutter) · [Gun and services](#gun-and-services) · [Dimensions and editing](#dimensions-and-editing) · [Design limits](#design-limits)
 
 ## System layout
