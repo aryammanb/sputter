@@ -2989,8 +2989,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 8808,
-      "sha256": "1d90498928118bd41980464a442e7309299b288253e57facb9932ee17df352f7"
+      "bytes": 9118,
+      "sha256": "1a3ffedbfa6042a160f38e6518290d0b9ba7fb0f456b96c2612fbf422545b945"
     },
     {
       "path": "Sputter v2.pptx",
@@ -10334,8 +10334,8 @@
     },
     {
       "path": "tools/build_documentation.py",
-      "bytes": 58116,
-      "sha256": "917894a6d8f96e0880714f73d891ea6eb7c229d45ce1b2a4ade318f32619a8e0"
+      "bytes": 58426,
+      "sha256": "4505c8a6a38f675197dfbe87838939df866ef45e8619ff4271c98d32af423586"
     },
     {
       "path": "tools/build_gun_walkthrough.py",

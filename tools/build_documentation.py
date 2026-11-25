@@ -53,13 +53,16 @@ Sputtering deposits a thin coating onto a sample. Energetic argon ions strike a 
 
 ### See working sputtering builds
 
-Our team has built and operated an earlier sputtering system; this repository documents the v2 design through CAD, a bill of materials (BOM), engineering studies and animations. These independently documented builds helped inspire our work and show physical systems being built and used:
+Our team has built and operated an earlier sputtering system; this repository documents the v2 design through CAD, a bill of materials (BOM), engineering studies and animations. Start with our earlier build, then explore the other documented builds that helped inspire our work:
 
 | Creator | Watch |
 |---|---|
+| **HackerFab IITB** | [Our old sputter](https://www.youtube.com/watch?v=UWHMm4Qjpmo&t=1329s), starting at 22:09 |
 | **Advanced Tinkering** | [Metal coating by plasma bombardment](https://www.youtube.com/watch?v=el17fof1OAY) · [Magnetron design breakdown](https://www.youtube.com/watch?v=MslftqA7LYw), the reference for our gun reconstruction |
 | **The Thought Emporium** | [Coat anything in metal: magnetron sputtering machine build](https://www.youtube.com/watch?v=aljbjJbfghs) |
 | **Applied Science** | [Intro to sputtering: creating clear, conductive coatings](https://www.youtube.com/watch?v=9OEz_e9C4KM) |
+
+For another documented lab build, see [CMU HackerFab's RF sputtering system](https://docs.hackerfab.org/home/fab-toolkit/rf-sputtering), including its parts list, build instructions and testing results.
 
 Then explore our [system architecture](docs/system.md), [current CAD](docs/cad.md) and [parts and procurement](procurement/README.md).
 
