@@ -44,8 +44,6 @@ Our team has built and operated an earlier sputtering system; this repository do
 
 For another documented lab build, see [CMU HackerFab's RF sputtering system](https://docs.hackerfab.org/home/fab-toolkit/rf-sputtering), including its parts list, build instructions and testing results.
 
-Then explore our [system architecture](docs/system.md), [current CAD](docs/cad.md) and [parts and procurement](procurement/README.md).
-
 ## New to building vacuum systems? Start here
 
 Sam Zeloof's introductions are a useful starting point for understanding the vacuum hardware around a sputtering source:
