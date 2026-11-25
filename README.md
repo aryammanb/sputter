@@ -1,6 +1,12 @@
 # Sputter deposition system
 
-A compact, adjustable RF magnetron sputtering system
+A compact magnetron sputtering system designed for reliable thin-film deposition, straightforward maintenance, and use in teaching.
+
+This project builds on our experience with an earlier lab-built sputtering system. That system highlighted several challenges: exposed live components, improvised target cooling, difficult sealing and target replacement, and inconsistent vacuum performance. Sputter v2 aims to address these through a modular gun, a compact chamber with a hinged loading door, and integrated cooling, vacuum, gas, and RF subsystems.
+
+It is also an attempt to bridge gaps across many existing open sputtering builds, drawing on their strengths while working toward a more complete, maintainable and well-documented system.
+
+**Current stage:** CAD, engineering studies, and procurement planning are documented. Final design review, procurement, fabrication, and commissioning remain ahead.
 
 ## Safety first
 
