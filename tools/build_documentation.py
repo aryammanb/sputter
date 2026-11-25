@@ -30,6 +30,16 @@ def main():
 
 A compact, adjustable RF magnetron sputtering system
 
+## Safety first
+
+Sputtering systems combine high voltage, RF power, vacuum, compressed gas and water cooling. Learn from an experienced operator and follow your lab's procedures before using one. The videos and CAD here explain the project; they are not operating instructions.
+
+- **Power:** keep live parts enclosed and exposed metal properly grounded. Switch off and isolate power before opening or adjusting electrical hardware; stored charge can remain after shutdown. Do not bypass interlocks.
+- **Vacuum:** use vacuum-rated chambers, windows and fittings. Keep clear of damaged glass, and vent slowly before opening a chamber. Follow the pump manufacturer's startup, shutdown and venting instructions.
+- **Gas:** secure cylinders, use the correct regulator and check for leaks. Argon can displace oxygen, so use it in a suitably ventilated space.
+- **Cooling and moving parts:** check cooling flow and leaks before applying power. Keep water away from electrics, and keep hands clear of hot parts, strong magnets and moving mechanisms.
+- **When unsure, stop:** do not work alone during initial testing. Know how to isolate power and gas, and have the setup reviewed before energizing it.
+
 ![Current R06 system](media/system.png)
 
 ## New to sputtering? Start here
@@ -52,6 +62,15 @@ Our team has built and operated an earlier sputtering system; this repository do
 | **Applied Science** | [Intro to sputtering: creating clear, conductive coatings](https://www.youtube.com/watch?v=9OEz_e9C4KM) |
 
 Then explore our [system architecture](docs/system.md), [current CAD](docs/cad.md) and [parts and procurement](procurement/README.md).
+
+## New to building vacuum systems? Start here
+
+Sam Zeloof's introductions are a useful starting point for understanding the vacuum hardware around a sputtering source:
+
+1. **[High Vacuum Chamber Basics, Part 1](https://www.youtube.com/watch?v=iZ9ieSHOZsg)**
+2. **[High Vacuum Chamber Basics, Part 2 — Atmospheric to 1e-6 Torr Pumpdown Procedure](https://www.youtube.com/watch?v=vOBUx9HtMi4)**
+
+**Our vacuum-system animation — in progress.** A link will be added here when it is ready.
 
 ## Start here
 
