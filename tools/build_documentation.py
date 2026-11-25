@@ -10,14 +10,14 @@ def write(path,text):
     p=ROOT/path;p.parent.mkdir(parents=True,exist_ok=True);p.write_text(text.strip()+'\n',encoding='utf-8')
 
 def link(label,path,depth=1):return f'[{label}]('+('../'*depth)+quote(path,safe='/')+')'
-R06='cad/coolant-fitting-r06/'
-R05='cad/target-clamp-r05/'
-R04='cad/main-system-r04/'
+R06='system-architecture-and-cad/models/'
+R05='system-architecture-and-cad/sources/target-clamp-r05/'
+R04='system-architecture-and-cad/sources/system-layout-r04/'
 SIM='advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/'
 
 def main():
     # Export exact instance metadata; legacy source names are retained as provenance.
-    register=json.loads((ROOT/'cad/coolant-fitting-r06/R06 component register.json').read_text())
+    register=json.loads((ROOT/'system-architecture-and-cad/models/R06 component register.json').read_text())
     (ROOT/'design').mkdir(exist_ok=True)
     with (ROOT/'design/current-component-register.csv').open('w',newline='',encoding='utf-8') as f:
         writer=csv.writer(f);writer.writerow(['instance','group','role','source_name','solid_count','valid','volume_mm3','note'])
@@ -27,9 +27,9 @@ def main():
     write('design/current.json',json.dumps(manifest,indent=2))
     write('README.md', (ROOT/'tools/templates/README.md').read_text(encoding='utf-8'))
     write('docs/current-design.md', (ROOT/'tools/templates/current-design.md').read_text(encoding='utf-8'))
-    write('docs/design.md', (ROOT/'tools/templates/design.md').read_text(encoding='utf-8'))
-    write('docs/system.md', '# System architecture\n\nContinue to [System architecture and CAD](design.md), including CAD downloads, current walkthroughs and essential rendered views.\n')
-    write('docs/cad.md', '# CAD\n\nContinue to [System architecture and CAD](design.md#cad-downloads) for downloads, current walkthroughs, rendered views and editing notes.\n')
+    write('system-architecture-and-cad/README.md', (ROOT/'tools/templates/design.md').read_text(encoding='utf-8'))
+    write('docs/system.md', '# System architecture\n\nContinue to [System architecture and CAD](../system-architecture-and-cad/README.md), including CAD downloads, current walkthroughs and essential rendered views.\n')
+    write('docs/cad.md', '# CAD\n\nContinue to [System architecture and CAD](../system-architecture-and-cad/README.md#cad-downloads) for downloads, current walkthroughs, rendered views and editing notes.\n')
     write('docs/engineering.md', (ROOT/'tools/templates/engineering.md').read_text(encoding='utf-8'))
     write('docs/decisions.md', (ROOT/'tools/templates/decisions.md').read_text(encoding='utf-8'))
     write('docs/simulations.md', (ROOT/'tools/templates/simulations.md').read_text(encoding='utf-8'))
@@ -81,7 +81,7 @@ No new mesh or nonlinear solve is performed. This is appropriate within the save
 
 This is magnetic-strength screening. It does not certify ignition, balanced topology, plasma confinement time, deposition, erosion, temperature or a power rating. Compare with a calibrated field map above the actual target before relying on the prediction. See [full simulation evidence](../../docs/simulations.md).
 ''')
-    write('media/README.md', '# Render assets\n\nThe reader guide is now [System architecture and CAD](../docs/design.md). This directory stores the linked images, videos and provenance records.\n')
+    write('media/README.md', '# Render assets\n\nThe reader guide is now [System architecture and CAD](../system-architecture-and-cad/README.md). This directory stores the linked images, videos and provenance records.\n')
     print('Documentation built')
 
 if __name__=='__main__':main()

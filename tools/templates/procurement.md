@@ -12,7 +12,7 @@ The component list is prepared and grouped into three routes, matching the proje
 | **Procure online** | Links identified for Indian and US sources | Confirm the exact variant, condition, included accessories and landed cost before ordering |
 | **Procure locally** | Parts and local sourcing routes identified | Confirm specifications, quantities, availability and price with the supplier |
 
-**Next steps:** review the entire design and component selection part by part, then start the procurement and manufacturing process. Follow [Review before building](../docs/verification.md) while checking the workbook against the [CAD and interfaces](../docs/design.md).
+**Next steps:** review the entire design and component selection part by part, then start the procurement and manufacturing process. Follow [Review before building](../docs/verification.md) while checking the workbook against the [CAD and interfaces](../system-architecture-and-cad/README.md).
 
 ## Using the workbook
 
@@ -78,4 +78,4 @@ CSV values are the saved OOXML caches. A missing cache stays blank, not zero. Ce
 
 ## CAD and supplier records
 
-Use [current CAD selection](../design/current.json), [System architecture and CAD](../docs/design.md#cad-downloads), the CB01 chamber scope and stage/shutter package. Original local Windows path strings remain in the workbook for provenance; the repository guides provide portable links. Procurement support records copied under `support/` retain their source names and dates.
+Use [current CAD selection](../design/current.json), [System architecture and CAD](../system-architecture-and-cad/README.md#cad-downloads), the CB01 chamber scope and stage/shutter package. Original local Windows path strings remain in the workbook for provenance; the repository guides provide portable links. Procurement support records copied under `support/` retain their source names and dates.

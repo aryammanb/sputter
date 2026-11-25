@@ -171,7 +171,7 @@ def main():
             chapters.append({'label':s['label'],'start_seconds':start,'duration_seconds':s['seconds']});start+=s['seconds']
     finally:proc.stdin.close()
     if proc.wait()!=0:raise RuntimeError('Video encoding failed')
-    source=ROOT/'cad/coolant-fitting-r06/Complete sputter system R06.step'
+    source=ROOT/'system-architecture-and-cad/models/Complete sputter system R06.step'
     report={'source':str(source.relative_to(ROOT)),'source_sha256':hashlib.sha256(source.read_bytes()).hexdigest(),'resolution':[W,H],'fps':FPS,'duration_seconds':start,'audio':False,'subtitles':False,'gun_internal_disassembly':False,'chapters':chapters,'notes':['Assembly-level CAD illustration; docking offsets are illustrative, not a service procedure.','RV3 backing pump is historical reference geometry; selected pump is INDOVAC HV2-150.','MFC and utility cabinets are reference envelopes; exact vendor geometry is pending.','Door rotates about modeled hinge axis; shutter rotates about modeled shaft.']}
     (OUT/'provenance.json').write_text(json.dumps(report,indent=2))
     window.Finalize();print(str(video),flush=True)

@@ -2,6 +2,15 @@
 
 [System layout](#system-layout) · [CAD downloads](#cad-downloads) · [Current walkthroughs](#current-walkthroughs) · [Chamber and shutter](#chamber-and-shutter) · [Gun and services](#gun-and-services) · [Dimensions and editing](#dimensions-and-editing)
 
+This is the home for the system explanation and its CAD files. For a first look, download the **complete system STEP** below; the standalone gun and manufacturing packages are separate deliverables for specific jobs.
+
+| Folder | What belongs here |
+|---|---|
+| [models](models/README.md) | Current complete-system and gun CAD, native gun package, dependent parts and geometry checks |
+| [manufacturing](manufacturing/README.md) | Chamber supplier handoff and stage/shutter fabrication packages |
+| [sources](sources/README.md) | Supporting R04 layout and R05 target/clamp work used to produce the current assembly |
+| [references](references/README.md) | Component selection, supplier/interface evidence and build scripts |
+
 ## System layout
 
 The gun points down toward a fixed substrate stage in a nominal 12 L chamber. A top-mounted KF25 compression gland supports gun-height adjustment. The hinged front door provides sample access and carries the viewport. The shutter controls when the substrate is exposed to material from the target.
@@ -39,22 +48,20 @@ flowchart LR
 | MFC selection | STEC SEC-4400MC-G2; Ar 500 sccm; calibration/interfaces to verify |
 | RF source selection | Omicron 200 W supply + matching network; provisional procurement basis |
 
-The [procurement guide](../procurement/README.md) holds the planning budget and sourcing details. Full design reasoning and the distinction between CAD, calculations and measured performance are in [Engineering and simulations](engineering.md).
+The [procurement guide](../procurement/README.md) holds the planning budget and sourcing details. Full design reasoning and the distinction between CAD, calculations and measured performance are in [Engineering and simulations](../docs/engineering.md).
 
 ## CAD downloads
 
 | Deliverable | Scope |
 |---|---|
-| [Magnetron R06 STEP](../cad/coolant-fitting-r06/Magnetron%20R06.step) | Standalone neutral gun geometry |
-| [Complete R06 system STEP](../cad/coolant-fitting-r06/Complete%20sputter%20system%20R06.step) | Standalone system context with latest gun |
-| [SolidWorks R06 package ZIP](../cad/coolant-fitting-r06/Coolant%20fittings%20R06%20-%20SolidWorks%20CAD%20package.zip) | Native gun assembly and dependent parts |
-| [Unpacked native assembly](../cad/coolant-fitting-r06/SolidWorks%20R06/Magnetron%20R06%20-%20M5%20coolant%20fittings.SLDASM) | Open with adjacent SLDPRT files present |
-| [R06 individual STEP parts](../cad/coolant-fitting-r06/STEP%20parts) | Neutral component exports |
-| [CB01 supplier handoff](../cad/chamber-supplier-package/CB01%20supplier%20handoff.zip) | Frozen chamber scope and CAD reference, not approved manufacturing drawings |
-| [Stage/shutter fabrication package](../cad/stage-shutter-procurement/Stage%20and%20shutter%20-%20local%20fabrication.zip) | Separate fabricated stage and bent shutter references |
+| [Complete R06 system STEP](models/Complete%20sputter%20system%20R06.step) | Standalone system context with latest gun |
+| [Magnetron R06 STEP](models/Magnetron%20R06.step) | Standalone neutral gun geometry |
+| [SolidWorks R06 package ZIP](models/Coolant%20fittings%20R06%20-%20SolidWorks%20CAD%20package.zip) | Native gun assembly and dependent parts |
+| [CB01 supplier handoff](manufacturing/chamber/CB01%20supplier%20handoff.zip) | Frozen chamber scope and CAD reference, not approved manufacturing drawings |
+| [Stage/shutter fabrication package](manufacturing/stage-and-shutter/Stage%20and%20shutter%20-%20local%20fabrication.zip) | Separate fabricated stage and bent shutter references |
 
 
-For a first look, download the complete-system STEP. For gun editing in SolidWorks, download the native ZIP so its dependent parts stay together. The [component register](../design/current-component-register.csv) identifies the 141 gun instances. [Current selections and revision boundaries](current-design.md) explain which artifacts govern the design.
+For a first look, download the complete-system STEP. For gun editing in SolidWorks, download the native ZIP so its dependent parts stay together. The [component register](../design/current-component-register.csv) identifies the 141 gun instances. [Current selections and revision boundaries](../docs/current-design.md) explain which artifacts govern the design.
 
 ## Current walkthroughs
 
@@ -95,7 +102,7 @@ Two D20 × 10 mm N42 centre discs face twelve outer stacks, each containing two 
 |---|---|
 | ![Current twelve-stack magnetic head](../media/magnetron.png) | ![PTFE shoulder sleeve isolating the screw shank and head](../media/gun-complete-walkthrough/encoded-27.jpg) |
 
-The section explains the modeled insulation arrangement; it does not establish electrical clearances, breakdown performance or seal compression. The [magnetic assessment](simulations.md) describes the calculated field and its limits.
+The section explains the modeled insulation arrangement; it does not establish electrical clearances, breakdown performance or seal compression. The [magnetic assessment](../docs/simulations.md) describes the calculated field and its limits.
 
 ### RF connection
 
@@ -129,7 +136,7 @@ System coordinates are X right, Y rear and Z up, with origin at the internal flo
 | Stage / substrate | D90 × 6, stage top Z40; substrate top Z41 |
 | Target plane | Default Z141, 100 mm above substrate; 75–150 mm gap range |
 
-Use [Frozen chamber interfaces.csv](../cad/chamber-supplier-package/Frozen%20chamber%20interfaces.csv) and [R04 dimension schedule](../cad/main-system-r04/Dimension%20schedule.csv) for the detailed schedules. R05/R06 changes override older target/fitting dimensions.
+Use [Frozen chamber interfaces.csv](manufacturing/chamber/Frozen%20chamber%20interfaces.csv) and [R04 dimension schedule](sources/system-layout-r04/Dimension%20schedule.csv) for the detailed schedules. R05/R06 changes override older target/fitting dimensions.
 
 
 </details>
@@ -149,11 +156,11 @@ The native gun assembly contains fixed components. It does not provide editable 
 
 ### Checks supplied with R06
 
-- [Geometry checks](../cad/coolant-fitting-r06/Geometry%20checks.json): no new non-thread overlaps among the changed parts; intentional thread-envelope intersections are classified.
-- [Native backplate independent check](../cad/coolant-fitting-r06/Native%20backplate%20independent%20check.json): revised bore geometry matches expected geometry.
-- [Native export check](../cad/coolant-fitting-r06/Native%20assembly%20export%20check.json): 141 valid gun solids and small volume difference from reference.
-- [Native reopen and reference check](../cad/coolant-fitting-r06/Native%20assembly%20reopen%20and%20reference%20check.json): original saved package component references.
-- [SolidWorks verification](../cad/coolant-fitting-r06/SolidWorks%20verification.json): native import validity and per-part volume comparisons.
+- [Geometry checks](models/Geometry%20checks.json): no new non-thread overlaps among the changed parts; intentional thread-envelope intersections are classified.
+- [Native backplate independent check](models/Native%20backplate%20independent%20check.json): revised bore geometry matches expected geometry.
+- [Native export check](models/Native%20assembly%20export%20check.json): 141 valid gun solids and small volume difference from reference.
+- [Native reopen and reference check](models/Native%20assembly%20reopen%20and%20reference%20check.json): original saved package component references.
+- [SolidWorks verification](models/SolidWorks%20verification.json): native import validity and per-part volume comparisons.
 
 Read these as nominal geometry checks. They do not certify manufacturing tolerances, useful thread engagement, gasket compression, fatigue, leak integrity or thermal performance.
 

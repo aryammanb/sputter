@@ -8,6 +8,6 @@ balanced-twelve-stack-study/Proposed twelve stack mechanical study.step
 Previous combined baseline:
 latest-full-walkthrough/Current magnetron R03 - complete study assembly.step
 
-Use the root README.md and docs/design.md for the current design,
+Use the root README.md and system-architecture-and-cad/README.md for the current design,
 CAD downloads, rendered views and walkthroughs.
 Existing source paths and CAD filenames are preserved.

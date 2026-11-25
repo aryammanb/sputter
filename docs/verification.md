@@ -6,7 +6,7 @@ Completed checks are evidence of their stated scope. They do not release the mac
 
 Review the entire design and component selection part by part, then start the procurement and manufacturing process. The design and procurement list are prepared; the next task is to review them together, including interfaces between parts.
 
-Use the [system/CAD guide](design.md), [gun component register](../design/current-component-register.csv), [procurement workbook](../procurement/Sputter%20system%20procurement.xlsx) and [decision register](decisions.md) side by side.
+Use the [system/CAD guide](../system-architecture-and-cad/README.md), [gun component register](../design/current-component-register.csv), [procurement workbook](../procurement/Sputter%20system%20procurement.xlsx) and [decision register](decisions.md) side by side.
 
 | Review step | What to record |
 |---|---|

@@ -1,7 +1,7 @@
 {
-  "source_system_step": "cad\\coolant-fitting-r06\\Complete sputter system R06.step",
+  "source_system_step": "system-architecture-and-cad\\models\\Complete sputter system R06.step",
   "source_sha256": "971f43bbf35aac5e4eeb17a2b6edb6c5199202011bafa2bf4becddfdcac4720f",
-  "gun_step": "cad\\coolant-fitting-r06\\Magnetron R06.step",
+  "gun_step": "system-architecture-and-cad\\models\\Magnetron R06.step",
   "gun_sha256": "4bd9a1e671eec788c350df738e378f73f3dcddacec246d5d3dcb2f93b69b34b6",
   "geometry": "All 141 R06 gun instances extracted from the exact system STEP tessellation; no substitute part geometry. Sections clip the actual meshes.",
   "resolution": [

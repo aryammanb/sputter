@@ -72,7 +72,7 @@ def main():
             if k%(FPS*4)==0:print(f'{t:.0f}/{SECONDS}s encoded; {time.time()-clock:.0f}s elapsed',flush=True)
     finally:proc.stdin.close()
     assert proc.wait()==0;r.win.Finalize()
-    src=ROOT/'cad/coolant-fitting-r06/Complete sputter system R06.step'
+    src=ROOT/'system-architecture-and-cad/models/Complete sputter system R06.step'
     report={'video':str(dest),'source':str(src.relative_to(ROOT)),'source_sha256':hashlib.sha256(src.read_bytes()).hexdigest(),'resolution':[W,H],'fps':FPS,'duration_seconds':SECONDS,'component_instances':len(GUN),'audio':False,'visible_text':False,'camera':'Landscape orientation, dynamically fitted to actual projected part bounds; 5.5% framing margin.','layout':'Axial assembly-order separation only. Original X/Y coordinates retained. Screws and PTFE sleeves stay with their parent components rather than flying out separately. Actual 141 CAD solids, no scaling or substitute geometry.','framing_samples':measurements,'components':[{'name':META[i]['name'],'exploded_translation_mm':shifts[i].tolist()} for i in GUN]}
     (OUT/'provenance.json').write_text(json.dumps(report,indent=2));print(str(dest),flush=True)
 

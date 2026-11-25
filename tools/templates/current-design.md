@@ -4,15 +4,15 @@ The authority for this snapshot is [design/current.json](../design/current.json)
 
 | Layer | Current artifact | What it establishes |
 |---|---|---|
-| Gun | [R06 STEP](../cad/coolant-fitting-r06/Magnetron%20R06.step) | 141-component gun with revised M5 fittings/backplate |
-| Native gun | [R06 SolidWorks assembly](../cad/coolant-fitting-r06/SolidWorks%20R06/Magnetron%20R06%20-%20M5%20coolant%20fittings.SLDASM) | Fixed components at checked positions; native passage and tap-drill cuts in backplate |
-| Complete context | [R06 system STEP](../cad/coolant-fitting-r06/Complete%20sputter%20system%20R06.step) | R06 gun in the retained R04 chamber/utilities layout, with R05 target position correction |
-| Target/clamp | [R05 notes](../cad/target-clamp-r05/READ%20FIRST%20-%20Clamp%20R05.txt) | D50.8 × 3.175 target, revised shoulder/lip, M3×10 screws |
-| Chamber supplier handoff | [CB01 scope](../cad/chamber-supplier-package/CB01%20frozen%20layout%20and%20supplier%20scope.txt) | Frozen interfaces and single vendor package; quote/manufacturing release pending |
+| Gun | [R06 STEP](../system-architecture-and-cad/models/Magnetron%20R06.step) | 141-component gun with revised M5 fittings/backplate |
+| Native gun | [R06 SolidWorks assembly](../system-architecture-and-cad/models/SolidWorks%20R06/Magnetron%20R06%20-%20M5%20coolant%20fittings.SLDASM) | Fixed components at checked positions; native passage and tap-drill cuts in backplate |
+| Complete context | [R06 system STEP](../system-architecture-and-cad/models/Complete%20sputter%20system%20R06.step) | R06 gun in the retained R04 chamber/utilities layout, with R05 target position correction |
+| Target/clamp | [R05 notes](../system-architecture-and-cad/sources/target-clamp-r05/READ%20FIRST%20-%20Clamp%20R05.txt) | D50.8 × 3.175 target, revised shoulder/lip, M3×10 screws |
+| Chamber supplier handoff | [CB01 scope](../system-architecture-and-cad/manufacturing/chamber/CB01%20frozen%20layout%20and%20supplier%20scope.txt) | Frozen interfaces and single vendor package; quote/manufacturing release pending |
 | Procurement | [Workbook](../procurement/Sputter%20system%20procurement.xlsx) | Latest saved selections and planning allowances |
-| Gas selection | [MFC R04](../cad/references/Argon%20MFC%20selection%20R04%20-%20500%20sccm.txt) | Owner-selected STEC SEC-4400MC-G2 Ar 500 sccm; calibration/interfaces pending |
+| Gas selection | [MFC R04](../system-architecture-and-cad/references/Argon%20MFC%20selection%20R04%20-%20500%20sccm.txt) | Owner-selected STEC SEC-4400MC-G2 Ar 500 sccm; calibration/interfaces pending |
 | Field | [Current assessment](../simulations/current-target-r06/README.md) | Saved FEM field sampled at the current target plane |
-| Explanations | [Current design walkthroughs](design.md#current-walkthroughs) | R06 STEP-derived views with current selections called out |
+| Explanations | [Current design walkthroughs](../system-architecture-and-cad/README.md#current-walkthroughs) | R06 STEP-derived views with current selections called out |
 
 ## Revision sequence
 

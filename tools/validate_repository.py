@@ -22,6 +22,8 @@ def main():
     for folder in ['docs','procurement','media','simulations','validation']:
         authored.extend((ROOT/folder).glob('*.md'))
     authored.extend((ROOT/'simulations/current-target-r06').glob('*.md'))
+    authored.extend((ROOT/'system-architecture-and-cad').rglob('README.md'))
+    authored.append(ROOT/'archive/chamber-design/README.md')
     for p in authored:
         for raw in re.findall(r'!?\[[^\]]*\]\(([^)]+)\)',p.read_text(encoding='utf-8')):
             if raw.startswith(('http:','https:','mailto:','#')):continue

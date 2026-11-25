@@ -1,0 +1,9 @@
+$ErrorActionPreference='Stop'
+$dll='C:/Program Files/SOLIDWORKS Corp/SOLIDWORKS/SolidWorks.Interop.sldworks.dll'
+Add-Type -Path $dll
+Add-Type -ReferencedAssemblies $dll,'System.Web.Extensions' -TypeDefinition @'
+using System;using System.IO;using System.Linq;using System.Runtime.InteropServices;using System.Web.Script.Serialization;using SolidWorks.Interop.sldworks;
+public class AuditR06{public static void Run(string folder){ISldWorks sw;try{sw=(ISldWorks)Marshal.GetActiveObject("SldWorks.Application");}catch(COMException){sw=(ISldWorks)Activator.CreateInstance(Type.GetTypeFromProgID("SldWorks.Application"));}sw.Visible=true;sw.UserControl=true;int e=0,w=0;string f=Path.Combine(folder,"SolidWorks R06","Magnetron R06 - M5 coolant fittings.SLDASM");var d=(IModelDoc2)sw.OpenDoc6(f,2,1,"",ref e,ref w);if(d==null||e!=0)throw new Exception("Assembly reopen failed "+e);sw.ActivateDoc3(d.GetTitle(),false,0,ref e);var cs=((object[])((IAssemblyDoc)d).GetComponents(false)).Cast<Component2>().ToArray();if(cs.Length!=141)throw new Exception("Component count");var refs=cs.Select(c=>c.GetPathName()).ToArray();foreach(string p in refs)if(!File.Exists(p)||!Path.GetDirectoryName(p).Equals(Path.Combine(folder,"SolidWorks R06"),StringComparison.OrdinalIgnoreCase))throw new Exception("External/missing component "+p);d.ForceRebuild3(false);d.ShowNamedView2("*Isometric",7);d.ViewZoomtofit2();File.WriteAllText(Path.Combine(folder,"Native assembly reopen and reference check.json"),new JavaScriptSerializer().Serialize(new{file=f,components=cs.Length,all_references_exist=true,all_references_inside_delivery_folder=true,errors=e,warnings=w,paths=refs}));Console.WriteLine("Reopened R06 assembly;141 local component references resolved.");}}
+'@
+[AuditR06]::Run((Resolve-Path "$PSScriptRoot/../../models").Path)
+

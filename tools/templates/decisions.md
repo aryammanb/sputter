@@ -5,11 +5,11 @@ Dates identify the supplied project snapshot, not a claim that a part was ordere
 | ID | Decision | Reason and consequence | Evidence |
 |---|---|---|---|
 | D01 | Twelve outer D6×20 stacks and D20×20 centre, N42 | Retain selected magnetic circuit and yoke; assess field numerically. Area ratio alone does not prove balance. | Original magnetic assessment and [current resampling](../simulations/current-target-r06/README.md) |
-| D02 | D50.8×3.175 Al target | Fits selected stock target. Requires R05 shoulder/lip and screw changes, plus target-plane reassessment. | [R05 notes](../cad/target-clamp-r05/READ%20FIRST%20-%20Clamp%20R05.txt) |
+| D02 | D50.8×3.175 Al target | Fits selected stock target. Requires R05 shoulder/lip and screw changes, plus target-plane reassessment. | [R05 notes](../system-architecture-and-cad/sources/target-clamp-r05/READ%20FIRST%20-%20Clamp%20R05.txt) |
 | D03 | Raise gun 1.175 mm | Preserves target face Z141 and default 100 mm gap after thicker target. | R05 redesign checks |
 | D04 | M3×10 target screws | Increases nominal engagement without moving seats; real useful thread depth/preload pending. | R05 checks and dimension schedule |
-| D05 | SMC KQG2S04-M5 internal coolant fittings | Compact OD9 envelope fits D14 yoke openings. Revises backplate to M5 ports; seal qualification stays open. | [R06 notes](../cad/coolant-fitting-r06/READ%20FIRST%20-%20Coolant%20fittings%20R06.txt) |
-| D06 | One CB01 chamber/door vendor order | Supplier integrates shell, ports, window/seals and chamber hardware; avoids double purchase. | [CB01 scope](../cad/chamber-supplier-package/CB01%20frozen%20layout%20and%20supplier%20scope.txt) |
+| D05 | SMC KQG2S04-M5 internal coolant fittings | Compact OD9 envelope fits D14 yoke openings. Revises backplate to M5 ports; seal qualification stays open. | [R06 notes](../system-architecture-and-cad/models/READ%20FIRST%20-%20Coolant%20fittings%20R06.txt) |
+| D06 | One CB01 chamber/door vendor order | Supplier integrates shell, ports, window/seals and chamber hardware; avoids double purchase. | [CB01 scope](../system-architecture-and-cad/manufacturing/chamber/CB01%20frozen%20layout%20and%20supplier%20scope.txt) |
 | D07 | Selected purchased KF25/1-inch gland | Use existing selected eBay source; Lesker is a dimensional reference only. Full 25.4 mm passage must be verified. | Gun mount procurement check and workbook |
 | D08 | Direct turbo-to-backing route | Current selected one-pump topology; no separate roughing bypass. | MFC R03 and plumbing reference |
 | D09 | EXT70/EXDC80 two-pump lot | One installed, one spare; selected 80 V supply recorded separately. | Procurement tab 05 |

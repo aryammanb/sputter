@@ -29,7 +29,7 @@ Watch [Sputtering: what is it and how does sputter deposition work?](https://www
 ### Start with our animations
 
 1. **[Explore the complete system — 3:59](media/assembly-walkthrough/Sputter%20R06%20-%20silent%204%20minute%20walkthrough%20v2.mp4).** The corrected R06 assembly and operating-cycle tour, including the complete shutter motion.
-2. **[Explore the gun — 3:53](media/gun-complete-walkthrough/R06%20sputter%20gun%20-%20slower%20compact%20walkthrough.mp4).** The current target, cooling, magnetic circuit, insulation and RF connections. Both videos are silent; see [system architecture and CAD](docs/design.md) for the essential rendered views, explanations and downloads.
+2. **[Explore the gun — 3:53](media/gun-complete-walkthrough/R06%20sputter%20gun%20-%20slower%20compact%20walkthrough.mp4).** The current target, cooling, magnetic circuit, insulation and RF connections. Both videos are silent; see [system architecture and CAD](system-architecture-and-cad/README.md) for the essential rendered views, explanations and downloads.
 
 ### See working sputtering builds
 
@@ -70,7 +70,7 @@ The design files and [procurement list](procurement/README.md) are available in 
 
 | Page | What you will find |
 |---|---|
-| [System architecture and CAD](docs/design.md) | How the system fits together, essential renders, current videos and design files |
+| [System architecture and CAD](system-architecture-and-cad/README.md) | How the system fits together, essential renders, current videos and design files |
 | [Parts and procurement](procurement/README.md) | Component selections, sourcing routes, workbook and planning budget |
 | [Engineering and simulations](docs/engineering.md) | Design goals, decisions, calculations and supporting evidence |
 | [Review before building](docs/verification.md) | The part-by-part review and outstanding checks before procurement, manufacturing and operation |
