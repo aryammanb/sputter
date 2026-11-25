@@ -12,7 +12,7 @@ The authority for this snapshot is [design/current.json](../design/current.json)
 | Procurement | [Workbook](../procurement/Sputter%20system%20procurement.xlsx) | Latest saved selections and planning allowances |
 | Gas selection | [MFC R04](../chamber-design/Argon%20MFC%20selection%20R04%20-%20500%20sccm.txt) | Owner-selected STEC SEC-4400MC-G2 Ar 500 sccm; calibration/interfaces pending |
 | Field | [Current assessment](../simulations/current-target-r06/README.md) | Saved FEM field sampled at the current target plane |
-| Explanations | [Current media](../media/README.md) | R06 STEP-derived views with current selections called out |
+| Explanations | [Current design walkthroughs](design.md#current-walkthroughs) | R06 STEP-derived views with current selections called out |
 
 ## Revision sequence
 
@@ -30,7 +30,7 @@ The authority for this snapshot is [design/current.json](../design/current.json)
 - The legacy MFC housing is a dimensional reference. Current selection is STEC SEC-4400MC-G2 Ar 500 sccm. Fittings are accepted as compatible by the owner; PE-D20 with an owner-built perfboard adapter and shielded cable is selected. Exact G2 pin mapping, electrical checks, envelope and calibration remain to verify.
 - Chillers, power equipment, gauge housings and some fittings are representative. Final supplier dimensions, connectors and ratings need checking.
 - R06 native SolidWorks deliverable is the gun only. The full system is STEP context, not a native mated system assembly.
-- R04 and earlier videos describe older target/fitting geometry. The current library contains newly rendered R06 explanations instead.
+- The combined design guide selects the corrected R06 system and gun walkthroughs. Earlier system reviews, screw-only shutter illustrations and prior target/fitting videos remain historical artifacts.
 - Copper joining proposals predate the current backplate. Proposed bonding lands are not completed qualified joining details. Use R06 geometry and the engineering status in its notes.
 
 ## Updating this repository

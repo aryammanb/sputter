@@ -2989,8 +2989,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 10180,
-      "sha256": "d8bc1f156563450c9c640fe860810b3cacc4a6d61fd8c3cbdd22d9ac8731675e"
+      "bytes": 8950,
+      "sha256": "b5f59fbf13605c66e19f2645348a829996236d47588a559fae8adfcc9ef6595f"
     },
     {
       "path": "Sputter v2.pptx",
@@ -9578,24 +9578,34 @@
       "sha256": "b564f420dbe165678c42bf892947d6deceb235c6e6ef9fbc366c4c8ec105b53b"
     },
     {
+      "path": "design/current-render-assets.json",
+      "bytes": 3121,
+      "sha256": "b91c7af7a6fb74f64683377bc6dc67710c206748994c9e919030cbdef5359bf6"
+    },
+    {
       "path": "design/current.json",
-      "bytes": 1982,
-      "sha256": "30ef4c7fc8556df098157acbb908baf2c0c9b675e126d0d74e2ab6a61b445f95"
+      "bytes": 2177,
+      "sha256": "f778dab501e07ecfcfbb9bf56d5398cdc60ee45626cd8b0a31161ae7d2f37459"
     },
     {
       "path": "docs/cad.md",
-      "bytes": 3744,
-      "sha256": "64d01703f83e7b1fc98f7013fa0f411e6ae41d14445b9f7f25b94f1ed3c1d55f"
+      "bytes": 148,
+      "sha256": "098279d27080c8d758fd186ce8423d148b44212e176ef83a2ae169bb45b5feaa"
     },
     {
       "path": "docs/current-design.md",
-      "bytes": 4177,
-      "sha256": "99340b0f2931048e9609b80ca61028332a8195441add31af86350fe7c73064c5"
+      "bytes": 4269,
+      "sha256": "d08ef0bed9fb0e561561c0176766cd099134e8f06c2e70f815213e1808f6fd8d"
     },
     {
       "path": "docs/decisions.md",
       "bytes": 3180,
       "sha256": "cfe278a0ea7e609f83bffe0e334efc0fbb4bb16bd9e3182d6d9e4f77d6b45366"
+    },
+    {
+      "path": "docs/design.md",
+      "bytes": 12354,
+      "sha256": "b33ba213c82ba76bd37e12cd5e7859f815b0901233e8e04f5089c951a465a537"
     },
     {
       "path": "docs/engineering.md",
@@ -9619,8 +9629,8 @@
     },
     {
       "path": "docs/system.md",
-      "bytes": 3112,
-      "sha256": "e1abc1a2aecf124b6f8bf6f6900db2d7db0da419ef276e759fdcfbe11e9e48ef"
+      "bytes": 156,
+      "sha256": "a1ceba03c14a40f8417467b63a2a23a63dcef110ee83e47c4632358cd1112226"
     },
     {
       "path": "docs/verification.md",
@@ -9659,8 +9669,8 @@
     },
     {
       "path": "media/README.md",
-      "bytes": 3380,
-      "sha256": "831eccf0f0407ca1c1c8d723de7cb1644e025f08b5564b24aa61eb6428b6e503"
+      "bytes": 166,
+      "sha256": "2e67fee995cbe3b979a939032ccaf281a4511c27bc42a3febcd5f96c0adc17a6"
     },
     {
       "path": "media/assembly-walkthrough/Assembly narration.txt",
@@ -9741,6 +9751,11 @@
       "path": "media/assembly-walkthrough/complete-shutter-repair/Complete shutter rotation - silent.mp4",
       "bytes": 2184809,
       "sha256": "0c029f13d49f845f90fd8c111a94554fd617568d850cce07da1e50a7fd47e1dd"
+    },
+    {
+      "path": "media/assembly-walkthrough/complete-shutter-repair/assembly-0.84.jpg",
+      "bytes": 125618,
+      "sha256": "f38f885645074638174e180d35b20040ab2b5dea80fd1b2d60d55c4ac2aba723"
     },
     {
       "path": "media/assembly-walkthrough/complete-shutter-repair/before-compact-provenance.json",
@@ -9943,6 +9958,11 @@
       "sha256": "4eeab972b78a6ff1f08962f336a6464e44335634329b8cff9d08aeda8b925aed"
     },
     {
+      "path": "media/gun-complete-walkthrough/clean-coax_layers-0.95.jpg",
+      "bytes": 126806,
+      "sha256": "341029ee39e6a76a5fe1d7cea18369aa1b83b616d66e98e7a4e8d9e53a57f13d"
+    },
+    {
       "path": "media/gun-complete-walkthrough/coax-ground-explained.html",
       "bytes": 9685,
       "sha256": "7382f1ea1d75d428a6ebc09506f77af1988c19d87b844c961b0da3dbeeb05d70"
@@ -9956,6 +9976,11 @@
       "path": "media/gun-complete-walkthrough/contact-sheet.jpg",
       "bytes": 788229,
       "sha256": "39c7babcd18e8e5b90542ae1f88abf11568a2ff851771ac766b9461f6490e1a4"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/encoded-27.jpg",
+      "bytes": 45536,
+      "sha256": "d28396831ab438aced20b0e907c4817a90c3e123392faa7c630ff7d0b4aa9454"
     },
     {
       "path": "media/gun-complete-walkthrough/provenance.json",
@@ -10229,8 +10254,8 @@
     },
     {
       "path": "procurement/README.md",
-      "bytes": 6175,
-      "sha256": "79c35fa3f536ced38bcda9841b4b671349b19cb6c370b0f27b0409ef50962c07"
+      "bytes": 6210,
+      "sha256": "22da8ac89917e19291e44ef8bb20c824102f2b0f1e7931f1770639ad9af173a4"
     },
     {
       "path": "procurement/Sputter system procurement.xlsx",
@@ -10334,8 +10359,8 @@
     },
     {
       "path": "tools/build_documentation.py",
-      "bytes": 59488,
-      "sha256": "89e56ada43c9c076099f68b1fb9bbfcb99cd3aaf3fdffc6eb897ee911cd66372"
+      "bytes": 40223,
+      "sha256": "dfd34cd66d1d991aa885c321fba548a734cc8608e47063926f400c2ea0deaa9c"
     },
     {
       "path": "tools/build_gun_walkthrough.py",
@@ -10394,8 +10419,8 @@
     },
     {
       "path": "tools/package_repository.py",
-      "bytes": 5003,
-      "sha256": "00e1340a088b3d9c7f6207a3be72e22b26249b9c238469bea9f91e9078d4d875"
+      "bytes": 5213,
+      "sha256": "b0738bf56c2057f5b445f7fb89f01de2287949128f1a3183595b2b43abd2dde6"
     },
     {
       "path": "tools/reassess_current_field.py",
@@ -10416,6 +10441,16 @@
       "path": "tools/speed_gun_walkthrough.py",
       "bytes": 3163,
       "sha256": "1c13a917fa0b49618399059ed426dd834083fcb55a1fa6dcf1f8340d541bdf91"
+    },
+    {
+      "path": "tools/templates/README.md",
+      "bytes": 8856,
+      "sha256": "68d715673cf61287a90f199a574394fd25f8a95acad89066c791928a0cbb7bd5"
+    },
+    {
+      "path": "tools/templates/design.md",
+      "bytes": 12354,
+      "sha256": "b33ba213c82ba76bd37e12cd5e7859f815b0901233e8e04f5089c951a465a537"
     },
     {
       "path": "tools/validate_repository.py",

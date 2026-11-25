@@ -28,8 +28,8 @@ Watch [Sputtering: what is it and how does sputter deposition work?](https://www
 
 ### Start with our animations
 
-1. **[How sputtering works — 2:14](90%20ARCHIVE%20-%20Earlier%20designs%20and%20working%20files/visualizations/sputtering-explainer/magnetron-sputtering-explained.mp4).** Our silent, captioned introduction follows the process from loading and pumping down to admitting argon, forming a plasma and coating a sample. It illustrates an earlier concept; its gun, throttle valve and separate roughing route differ from the current design.
-2. **[Explore our current design — 2:11](media/system-walkthrough/Sputter%20system%20-%20silent%20CAD%20walkthrough.mp4).** A silent CAD tour of the R06 system: chamber, gun, shutter, pumps, gas supply, cooling and power. For detailed assembly and component explanations, see the [video library](media/README.md).
+1. **[Explore the complete system — 3:59](media/assembly-walkthrough/Sputter%20R06%20-%20silent%204%20minute%20walkthrough%20v2.mp4).** The corrected R06 assembly and operating-cycle tour, including the complete shutter motion.
+2. **[Explore the gun — 3:53](media/gun-complete-walkthrough/R06%20sputter%20gun%20-%20slower%20compact%20walkthrough.mp4).** The current target, cooling, magnetic circuit, insulation and RF connections. Both videos are silent; see [system architecture and CAD](docs/design.md) for the essential rendered views, explanations and downloads.
 
 ### See working sputtering builds
 
@@ -44,6 +44,7 @@ Our team has built and operated an earlier sputtering system; this repository do
 
 For another documented lab build, see [CMU HackerFab's RF sputtering system](https://docs.hackerfab.org/home/fab-toolkit/rf-sputtering), including its parts list, build instructions and testing results.
 
+
 ## New to building vacuum systems? Start here
 
 Sam Zeloof's introductions are a useful starting point for understanding the vacuum hardware around a sputtering source:
@@ -55,27 +56,16 @@ Sam Zeloof's introductions are a useful starting point for understanding the vac
 
 | What you need | Open |
 |---|---|
-| Understand the whole project | [System architecture](docs/system.md) |
+| Explore the system, CAD and rendered views | [System architecture and CAD](docs/design.md) |
 | Identify the latest files and revision boundaries | [Current design](docs/current-design.md) · [machine-readable selection](design/current.json) |
 | Download the current CAD | [Complete system STEP](chamber-design/coolant-fitting-r06/Complete%20sputter%20system%20R06.step) · [Gun STEP](chamber-design/coolant-fitting-r06/Magnetron%20R06.step) |
-| Edit the current gun in SolidWorks | [Native CAD package](chamber-design/coolant-fitting-r06/Coolant%20fittings%20R06%20-%20SolidWorks%20CAD%20package.zip) · [CAD guide](docs/cad.md) |
+| Edit the current gun in SolidWorks | [Native CAD package](chamber-design/coolant-fitting-r06/Coolant%20fittings%20R06%20-%20SolidWorks%20CAD%20package.zip) · [CAD guide](docs/design.md#cad-downloads) |
 | Buy and fabricate parts | [Procurement guide and budget](procurement/README.md) · [workbook](procurement/Sputter%20system%20procurement.xlsx) |
 | Understand the engineering decisions | [Decision register](docs/decisions.md) · [Engineering dossier](docs/engineering.md) |
 | Review calculations and simulations | [Simulation evidence](docs/simulations.md) · [Current target-plane assessment](simulations/current-target-r06/README.md) |
 | Inspect current component instances | [R06 component register](design/current-component-register.csv) |
-| Watch the latest explanations | [Current video library](media/README.md) |
 | Plan the remaining work | [Verification and release gates](docs/verification.md) |
 | Reproduce or check this snapshot | [Reproduction guide](docs/reproducibility.md) · [Validation report](validation/README.md) |
-
-## Watch the current design
-
-| Video | Content |
-|---|---|
-| [01 · Complete system](media/01-current-system.mp4) | Latest geometry, chamber, stage/shutter, pumping, gas and procurement context |
-| [02 · Gun and magnetron](media/02-current-gun.mp4) | Current gun, twelve-stack circuit, R05 target/clamp and R06 coolant ports |
-| [03 · Field and engineering evidence](media/03-current-field-and-evidence.mp4) | Current target-plane field result, evidence scope and outstanding qualification |
-
-All three are freshly rendered explanations of the current snapshot, with synthetic English narration, captions and transcripts. These are CAD visualizations; there are no photographs or measurements of built hardware in this snapshot. Older video segments are not reused.
 
 ## Key dimensions and selections
 

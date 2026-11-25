@@ -23,121 +23,9 @@ def main():
         writer=csv.writer(f);writer.writerow(['instance','group','role','source_name','solid_count','valid','volume_mm3','note'])
         for i,q in enumerate(register,1):writer.writerow([i,q['group'],q['role'],q['name'],q['solid_count'],q['valid'],q['volume_mm3'],q['note']])
     assessment=json.loads((ROOT/'simulations/current-target-r06/assessment.json').read_text())['current']
-    manifest={'snapshot_date':'2026-11-24','design_status':'Nominal mechanical and procurement study; not a fabrication/operation release','gun_revision':'R06','target_clamp_revision':'R05','system_layout_revision':'R04 with R05/R06 gun integration','selected_target':{'material':'Al 99.99%','diameter_mm':50.8,'thickness_mm':3.175},'current_files':{'gun_step':R06+'Magnetron R06.step','system_step':R06+'Complete sputter system R06.step','native_gun':R06+'SolidWorks R06/Magnetron R06 - M5 coolant fittings.SLDASM','native_package':R06+'Coolant fittings R06 - SolidWorks CAD package.zip','procurement':'procurement/Sputter system procurement.xlsx','chamber_supplier_scope':'chamber-design/chamber-supplier-package/CB01 frozen layout and supplier scope.txt','field_assessment':'simulations/current-target-r06/assessment.json','media_provenance':'media/provenance.json'},'current_media':['media/01-current-system.mp4','media/02-current-gun.mp4','media/03-current-field-and-evidence.mp4'],'known_mismatches':['Legacy RV3 context geometry is not selected INDOVAC HV2-150 backing pump','Legacy MFC envelope does not establish SEC-4400MC-G2 dimensions; fittings accepted by owner, adapter wiring checks pending','Chiller and power cabinet envelopes do not establish selected vendor dimensions','Saved original magnetic results used 2 mm target; current assessment resamples at 3.175 mm target'],'superseded':['Root Windows shortcut guides are historical navigation, not current repository authority','R04 videos and prior magnetron videos predate current target/fittings','Argon MFC R01-R03 selections superseded by owner-selected STEC SEC-4400MC-G2 500 sccm R04']}
+    manifest = json.loads((ROOT/'design/current.json').read_text(encoding='utf-8'))
     write('design/current.json',json.dumps(manifest,indent=2))
-    write('README.md',f'''
-# Sputter deposition system
-
-A compact magnetron sputtering system designed for reliable thin-film deposition, straightforward maintenance, and use in teaching.
-
-This project builds on our experience with an earlier lab-built sputtering system. That system highlighted several challenges: exposed live components, improvised target cooling, difficult sealing and target replacement, and inconsistent vacuum performance. Sputter v2 aims to address these through a modular gun, a compact chamber with a hinged loading door, and integrated cooling, vacuum, gas, and RF subsystems.
-
-It is also an attempt to bridge gaps across many existing open sputtering builds, drawing on their strengths while working toward a more complete, maintainable and well-documented system.
-
-**Current stage:** CAD, engineering studies, and procurement planning are documented. Final design review, procurement, fabrication, and commissioning remain ahead.
-
-## Safety first
-
-Sputtering systems combine high voltage, RF power, vacuum, compressed gas and water cooling. Learn from an experienced operator and follow your lab's procedures before using one. The videos and CAD here explain the project; they are not operating instructions.
-
-- **Power:** keep live parts enclosed and exposed metal properly grounded. Switch off and isolate power before opening or adjusting electrical hardware; stored charge can remain after shutdown. Do not bypass interlocks.
-- **Vacuum:** use vacuum-rated chambers, windows and fittings. Keep clear of damaged glass, and vent slowly before opening a chamber. Follow the pump manufacturer's startup, shutdown and venting instructions.
-- **Gas:** secure cylinders, use the correct regulator and check for leaks. Argon can displace oxygen, so use it in a suitably ventilated space.
-- **Cooling and moving parts:** check cooling flow and leaks before applying power. Keep water away from electrics, and keep hands clear of hot parts, strong magnets and moving mechanisms.
-- **When unsure, stop:** do not work alone during initial testing. Know how to isolate power and gas, and have the setup reviewed before energizing it.
-
-![Current R06 system](media/system.png)
-
-## New to sputtering? Start here
-
-Sputtering deposits a thin coating onto a sample. Energetic argon ions strike a source material (the **target**), releasing atoms that collect on the surface being coated (the **substrate**).
-
-Watch [Sputtering: what is it and how does sputter deposition work?](https://www.youtube.com/watch?v=-lm0Y3Hyw-Q), an introductory animation by Korvus Technology. Then explore our own animations below.
-
-### Start with our animations
-
-1. **[How sputtering works — 2:14](90%20ARCHIVE%20-%20Earlier%20designs%20and%20working%20files/visualizations/sputtering-explainer/magnetron-sputtering-explained.mp4).** Our silent, captioned introduction follows the process from loading and pumping down to admitting argon, forming a plasma and coating a sample. It illustrates an earlier concept; its gun, throttle valve and separate roughing route differ from the current design.
-2. **[Explore our current design — 2:11](media/system-walkthrough/Sputter%20system%20-%20silent%20CAD%20walkthrough.mp4).** A silent CAD tour of the R06 system: chamber, gun, shutter, pumps, gas supply, cooling and power. For detailed assembly and component explanations, see the [video library](media/README.md).
-
-### See working sputtering builds
-
-Our team has built and operated an earlier sputtering system; this repository documents the v2 design through CAD, a bill of materials (BOM), engineering studies and animations. Start with our earlier build, then explore the other documented builds that helped inspire our work:
-
-| Creator | Watch |
-|---|---|
-| **HackerFab IITB** | [Our old sputter](https://www.youtube.com/watch?v=UWHMm4Qjpmo&t=1329s), starting at 22:09 |
-| **Advanced Tinkering** | [Metal coating by plasma bombardment](https://www.youtube.com/watch?v=el17fof1OAY) · [Magnetron design breakdown](https://www.youtube.com/watch?v=MslftqA7LYw), the reference for our gun reconstruction |
-| **The Thought Emporium** | [Coat anything in metal: magnetron sputtering machine build](https://www.youtube.com/watch?v=aljbjJbfghs) |
-| **Applied Science** | [Intro to sputtering: creating clear, conductive coatings](https://www.youtube.com/watch?v=9OEz_e9C4KM) |
-
-For another documented lab build, see [CMU HackerFab's RF sputtering system](https://docs.hackerfab.org/home/fab-toolkit/rf-sputtering), including its parts list, build instructions and testing results.
-
-Then explore our [system architecture](docs/system.md), [current CAD](docs/cad.md) and [parts and procurement](procurement/README.md).
-
-## New to building vacuum systems? Start here
-
-Sam Zeloof's introductions are a useful starting point for understanding the vacuum hardware around a sputtering source:
-
-1. **[High Vacuum Chamber Basics, Part 1](https://www.youtube.com/watch?v=iZ9ieSHOZsg)**
-2. **[High Vacuum Chamber Basics, Part 2 — Atmospheric to 1e-6 Torr Pumpdown Procedure](https://www.youtube.com/watch?v=vOBUx9HtMi4)**
-
-**Our vacuum-system animation — in progress.** A link will be added here when it is ready.
-
-## Start here
-
-| What you need | Open |
-|---|---|
-| Understand the whole project | [System architecture](docs/system.md) |
-| Identify the latest files and revision boundaries | [Current design](docs/current-design.md) · [machine-readable selection](design/current.json) |
-| Download the current CAD | {link('Complete system STEP',R06+'Complete sputter system R06.step',0)} · {link('Gun STEP',R06+'Magnetron R06.step',0)} |
-| Edit the current gun in SolidWorks | {link('Native CAD package',R06+'Coolant fittings R06 - SolidWorks CAD package.zip',0)} · [CAD guide](docs/cad.md) |
-| Buy and fabricate parts | [Procurement guide and budget](procurement/README.md) · [workbook](procurement/Sputter%20system%20procurement.xlsx) |
-| Understand the engineering decisions | [Decision register](docs/decisions.md) · [Engineering dossier](docs/engineering.md) |
-| Review calculations and simulations | [Simulation evidence](docs/simulations.md) · [Current target-plane assessment](simulations/current-target-r06/README.md) |
-| Inspect current component instances | [R06 component register](design/current-component-register.csv) |
-| Watch the latest explanations | [Current video library](media/README.md) |
-| Plan the remaining work | [Verification and release gates](docs/verification.md) |
-| Reproduce or check this snapshot | [Reproduction guide](docs/reproducibility.md) · [Validation report](validation/README.md) |
-
-## Watch the current design
-
-| Video | Content |
-|---|---|
-| [01 · Complete system](media/01-current-system.mp4) | Latest geometry, chamber, stage/shutter, pumping, gas and procurement context |
-| [02 · Gun and magnetron](media/02-current-gun.mp4) | Current gun, twelve-stack circuit, R05 target/clamp and R06 coolant ports |
-| [03 · Field and engineering evidence](media/03-current-field-and-evidence.mp4) | Current target-plane field result, evidence scope and outstanding qualification |
-
-All three are freshly rendered explanations of the current snapshot, with synthetic English narration, captions and transcripts. These are CAD visualizations; there are no photographs or measurements of built hardware in this snapshot. Older video segments are not reused.
-
-## Key dimensions and selections
-
-| Item | Current basis |
-|---|---|
-| Chamber interior | 200 × 200 × 300 mm; 12 L gross |
-| Target | Al 99.99%, D50.8 × 3.175 mm; VritraTech selection |
-| Target/substrate gap | 75–150 mm adjustment; 100 mm default |
-| Stage / substrate | D90 × 6 mm / 50 × 50 × 1 mm |
-| Magnetic circuit | 2 × D20 × 10 N42 centre; 12 outer stacks of 2 × D6 × 10 N42 on PCD58 |
-| Gun coolant fitting | 2 × SMC KQG2S04-M5; gasket sealing remains to qualify |
-| Pumping selection | Chamber → EXT70 / EXDC80 → INDOVAC HV2-150; direct foreline |
-| MFC selection | STEC SEC-4400MC-G2; Ar 500 sccm; calibration/interfaces to verify |
-| RF source selection | Omicron 200 W supply + matching network; provisional procurement basis |
-| Planning budget | INR 1,113,330.20, including allowances, reserve and contingency; not a supplier quotation |
-
-## Evidence boundaries
-
-The current gun has 141 component instances. The context model has 339 instances, represented by 406 solids. The complete context retains a known defective legacy RV3 supplier solid, and several purchased components are illustrative envelopes. The selected backing pump is HV2-150, not RV3.
-
-The original nonlinear FEM study assumed a 2 mm nonmagnetic target. The new assessment resamples its saved field at the current 3.175 mm target plane: mean parallel field **{assessment['Bparallel_mean_mT']:.2f} mT**, {assessment['Bparallel_min_mT']:.2f}–{assessment['Bparallel_max_mT']:.2f} mT on the sampled B-normal zero contour at 0.25 mm above the target. This is a calculated magnetic result with stated material assumptions. It does not establish discharge performance, balanced topology, deposition uniformity, coolant integrity or a thermal/power rating.
-
-## Repository contents
-
-`design/` selects the current artifacts. `docs/` explains design and evidence. `procurement/` contains the current procurement workbook and readable exports. `media/` contains current rendered explanations. `simulations/` contains the current-plane assessment. `chamber-design/` and `advanced-tinkering-original/` preserve the engineering sources at their original relative paths. `90 ARCHIVE - Earlier designs and working files/` preserves earlier studies for traceability.
-
-Historical directory names and filenames containing “Current” do not override [design/current.json](design/current.json). Start with that selection and this README. Original notes are retained as dated evidence and can contain superseded selections.
-
-No open-source license has been assigned. Third-party supplier CAD, drawings, manuals and the original reconstruction references retain their respective rights. See [attribution and source handling](docs/sources.md).
-''')
+    write('README.md', (ROOT/'tools/templates/README.md').read_text(encoding='utf-8'))
     write('docs/current-design.md',f'''
 # Current design and revision control
 
@@ -153,7 +41,7 @@ The authority for this snapshot is [design/current.json](../design/current.json)
 | Procurement | [Workbook](../procurement/Sputter%20system%20procurement.xlsx) | Latest saved selections and planning allowances |
 | Gas selection | {link('MFC R04','chamber-design/Argon MFC selection R04 - 500 sccm.txt')} | Owner-selected STEC SEC-4400MC-G2 Ar 500 sccm; calibration/interfaces pending |
 | Field | [Current assessment](../simulations/current-target-r06/README.md) | Saved FEM field sampled at the current target plane |
-| Explanations | [Current media](../media/README.md) | R06 STEP-derived views with current selections called out |
+| Explanations | [Current design walkthroughs](design.md#current-walkthroughs) | R06 STEP-derived views with current selections called out |
 
 ## Revision sequence
 
@@ -171,99 +59,16 @@ The authority for this snapshot is [design/current.json](../design/current.json)
 - The legacy MFC housing is a dimensional reference. Current selection is STEC SEC-4400MC-G2 Ar 500 sccm. Fittings are accepted as compatible by the owner; PE-D20 with an owner-built perfboard adapter and shielded cable is selected. Exact G2 pin mapping, electrical checks, envelope and calibration remain to verify.
 - Chillers, power equipment, gauge housings and some fittings are representative. Final supplier dimensions, connectors and ratings need checking.
 - R06 native SolidWorks deliverable is the gun only. The full system is STEP context, not a native mated system assembly.
-- R04 and earlier videos describe older target/fitting geometry. The current library contains newly rendered R06 explanations instead.
+- The combined design guide selects the corrected R06 system and gun walkthroughs. Earlier system reviews, screw-only shutter illustrations and prior target/fitting videos remain historical artifacts.
 - Copper joining proposals predate the current backplate. Proposed bonding lands are not completed qualified joining details. Use R06 geometry and the engineering status in its notes.
 
 ## Updating this repository
 
 For a new revision, update CAD and its geometry evidence first, update procurement interfaces, then regenerate media and applicable calculations. Change `design/current.json`, document the change in `CHANGELOG.md`, rebuild file hashes and run repository validation. A new export or new screenshot alone does not establish a new engineered revision.
 ''')
-    write('docs/system.md',f'''
-# System architecture
-
-The adjustable magnetron points down toward a fixed substrate stage inside a nominal 12 L chamber. The gun passes through a top KF25 compression gland. A bent rotary shutter interrupts the line of sight during conditioning. The front door loads the substrate and carries a D70 viewport.
-
-```mermaid
-flowchart LR
-  Ar[Argon cylinder] --> Reg[Regulator / isolation]
-  Reg --> MFC[500 sccm Ar MFC]
-  MFC --> C[12 L chamber]
-  C --> T[EXT70 turbo / EXDC80]
-  T --> B[INDOVAC HV2-150 backing pump]
-  RF[200 W RF source] --> Match[Matching network]
-  Match --> Gun[R06 live cathode]
-  Gun --> C
-  GCool[Gun cooling loop] --> Gun
-  TCool[Turbo cooling loop] --> T
-  C --> Gauges[Pirani / Penning measurement]
-```
-
-This diagram records selected subsystem relationships. Isolation/vent hardware, wiring and controls are not a completed P&ID or electrical schematic. No roughing bypass is selected.
-
-![Current chamber internal view](../media/chamber.png)
-
-## Coordinates and interfaces
-
-System coordinates are X right, Y rear and Z up, with origin at the internal floor centre. The closed door faces negative Y. Gun-only CAD uses the historical source coordinate system, with the target pointing +Y. Do not directly overlay gun-only and system files without their placement transform.
-
-| Interface | Nominal frozen basis |
-|---|---|
-| Chamber interior | 200 × 200 × 300 mm |
-| Shell / roof / floor | 10 mm nominal; final structural qualification pending |
-| Door | 228 × 316 × 16 mm; loading opening 180 × 270 mm |
-| Window | Clear D70, centre X0 / Z105 |
-| Top gun port | Centred KF25, mating face Z330 |
-| Bottom pump connection | Centred ISO63-K, chamber mating face Z−45 |
-| Rear gas port | KF25, X0 / Z210 |
-| Rear gauges | KF25 at X−50 / Z90 and X+50 / Z90 |
-| Right spare ports | KF25 at Y0 / Z75 and Z225, blanked |
-| Shutter shaft | X−65 / Y0, nominal D6.8 hole; sealing details unresolved |
-| Stage / substrate | D90 × 6, stage top Z40; substrate top Z41 |
-| Target plane | Default Z141, 100 mm above substrate; 75–150 mm gap range |
-
-Use {link('Frozen chamber interfaces.csv','chamber-design/chamber-supplier-package/Frozen chamber interfaces.csv')} and {link('R04 dimension schedule',R04+'Dimension schedule.csv')} for the detailed schedules. R05/R06 changes override older target/fitting dimensions.
-
-## Operating concept and design scope
-
-The intended process introduces regulated argon into an evacuated chamber. A magnetized discharge sputters the aluminium target, and material reaches the substrate when the shutter opens. The documented magnetic field does not simulate the discharge or deposition. The current views omit simulated plasma particles to avoid implying an operating or deposition result.
-
-The selected RF source uses a matching network. A DC variant would require its own compatible electrical implementation and would bypass that RF matching topology. Current procurement is the RF selection. The panel enclosure and cables shown in CAD do not constitute a released wiring design.
-''')
-    write('docs/cad.md',f'''
-# CAD access and editing
-
-## Current deliverables
-
-| Deliverable | Scope |
-|---|---|
-| {link('Magnetron R06 STEP',R06+'Magnetron R06.step')} | Standalone neutral gun geometry |
-| {link('Complete R06 system STEP',R06+'Complete sputter system R06.step')} | Standalone system context with latest gun |
-| {link('SolidWorks R06 package ZIP',R06+'Coolant fittings R06 - SolidWorks CAD package.zip')} | Native gun assembly and dependent parts |
-| {link('Unpacked native assembly',R06+'SolidWorks R06/Magnetron R06 - M5 coolant fittings.SLDASM')} | Open with adjacent SLDPRT files present |
-| {link('R06 individual STEP parts',R06+'STEP parts')} | Neutral component exports |
-| {link('CB01 supplier handoff','chamber-design/chamber-supplier-package/CB01 supplier handoff.zip')} | Frozen chamber scope and CAD reference, not approved manufacturing drawings |
-| {link('Stage/shutter fabrication package','chamber-design/stage-shutter-procurement/Stage and shutter - local fabrication.zip')} | Separate fabricated stage and bent shutter references |
-
-Dimensions are millimetres. Download the native ZIP or clone the entire repository before opening SolidWorks. Opening an isolated SLDASM from the GitHub web interface will omit its dependencies. Keep all native part files beside the assembly. The saved reopen/reference checks establish the original package state; after relocating, allow SolidWorks to resolve same-folder components if the original absolute search paths appear.
-
-The native gun assembly contains fixed components. It does not provide editable assembly mates or a motion mechanism. Many components are imported solids. The R06 backplate has native cut-extrudes for the revised passages/tap drills; thread callouts/custom properties carry the M5 specification. Threads are nominal envelopes, not helical teeth.
-
-## Checks supplied with R06
-
-- {link('Geometry checks',R06+'Geometry checks.json')}: no new non-thread overlaps among the changed parts; intentional thread-envelope intersections are classified.
-- {link('Native backplate independent check',R06+'Native backplate independent check.json')}: revised bore geometry matches expected geometry.
-- {link('Native export check',R06+'Native assembly export check.json')}: 141 valid gun solids and small volume difference from reference.
-- {link('Native reopen and reference check',R06+'Native assembly reopen and reference check.json')}: original saved package component references.
-- {link('SolidWorks verification',R06+'SolidWorks verification.json')}: native import validity and per-part volume comparisons.
-
-Read these as nominal geometry checks. They do not certify manufacturing tolerances, useful thread engagement, gasket compression, fatigue, leak integrity or thermal performance.
-
-## Historical CAD and provenance
-
-Source directories retain their original names and relative structure so the engineering scripts and their references remain inspectable. The `advanced-tinkering-original` directory includes subsequent updates as well as the reconstruction. “Original” in its name does not mean all its contents are superseded. The R06 gun and selected current files are the entry point.
-
-Earlier loading/open-door STEP states remain under their revisions. No updated R06 loading state is claimed. Use the R06 assembled system for the current gun and use earlier loading states only to understand historical door/shutter motion.
-''')
+    write('docs/design.md', (ROOT/'tools/templates/design.md').read_text(encoding='utf-8'))
+    write('docs/system.md', '# System architecture\n\nContinue to [System architecture and CAD](design.md), including CAD downloads, current walkthroughs and essential rendered views.\n')
+    write('docs/cad.md', '# CAD\n\nContinue to [System architecture and CAD](design.md#cad-downloads) for downloads, current walkthroughs, rendered views and editing notes.\n')
     write('docs/engineering.md',f'''
 # Engineering dossier
 
@@ -577,7 +382,7 @@ CSV values are the saved OOXML caches. A missing cache stays blank, not zero. Ce
 
 ## CAD and supplier records
 
-Use [current CAD selection](../design/current.json), [CAD guide](../docs/cad.md), the CB01 chamber scope and stage/shutter package. Original local Windows path strings remain in the workbook for provenance; the repository guides provide portable links. Procurement support records copied under `support/` retain their source names and dates.
+Use [current CAD selection](../design/current.json), [System architecture and CAD](../docs/design.md#cad-downloads), the CB01 chamber scope and stage/shutter package. Original local Windows path strings remain in the workbook for provenance; the repository guides provide portable links. Procurement support records copied under `support/` retain their source names and dates.
 ''')
     write('simulations/current-target-r06/README.md',f'''
 # Current target-plane magnetic assessment
@@ -598,35 +403,7 @@ No new mesh or nonlinear solve is performed. This is appropriate within the save
 
 This is magnetic-strength screening. It does not certify ignition, balanced topology, plasma confinement time, deposition, erosion, temperature or a power rating. Compare with a calibrated field map above the actual target before relying on the prediction. See [full simulation evidence](../../docs/simulations.md).
 ''')
-    write('media/README.md','''
-# Current design explanations
-
-All videos and CAD stills in this library were generated from the latest R06 system STEP for the 24 November 2026 snapshot. The magnetic plot uses the current 3.175 mm target-plane assessment. Old walkthrough segments are not reused. [provenance.json](provenance.json) records source hashes and synthetic narration details.
-
-| Video | Subjects | Transcript |
-|---|---|---|
-| [01 Current system](01-current-system.mp4) | Whole system, internal chamber/stage/shutter, pumping and gas selections | [Text](01-current-system-transcript.txt) |
-| [02 Current gun](02-current-gun.mp4) | R06 gun, twelve-stack magnets, R05 target/clamp, R06 M5 ports | [Text](02-current-gun-transcript.txt) |
-| [03 Current field and evidence](03-current-field-and-evidence.mp4) | Updated field assessment and remaining qualification | [Text](03-current-field-and-evidence-transcript.txt) |
-
-MP4 files have English synthetic narration and switchable English subtitle tracks. Individual chapter MP4/SRT files are also retained. Some GitHub clients require opening/downloading the raw video. These are explanatory CAD animations, not footage of physical hardware or a validated running machine.
-
-## Current stills
-
-![Complete current system](system.png)
-
-![Current internal chamber view](chamber.png)
-
-![Current gun](gun.png)
-
-![Current magnetic head](magnetron.png)
-
-![Current coolant ports](cooling.png)
-
-Copper transparency and hidden chamber context reveal internal parts. Views retain actual R06 part positions. The RV3 reference, MFC housing and cabinet geometry remain subject to the documented selection mismatches. No rendered photo is presented as an as-built record.
-
-To reproduce: `python tools/build_current_media.py`. See [reproduction guide](../docs/reproducibility.md) for dependencies and native narration requirements.
-''')
+    write('media/README.md', '# Render assets\n\nThe reader guide is now [System architecture and CAD](../docs/design.md). This directory stores the linked images, videos and provenance records.\n')
     print('Documentation built')
 
 if __name__=='__main__':main()

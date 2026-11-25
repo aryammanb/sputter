@@ -1,0 +1,79 @@
+{
+  "selection": "Eight essential existing renders and the corrected current system/gun exports; no newly rendered images or videos.",
+  "source_step": "chamber-design/coolant-fitting-r06/Complete sputter system R06.step",
+  "source_sha256": "971f43bbf35aac5e4eeb17a2b6edb6c5199202011bafa2bf4becddfdcac4720f",
+  "images": [
+    "media/system.png",
+    "media/chamber.png",
+    "media/gun.png",
+    "media/cooling.png",
+    "media/magnetron.png",
+    "media/gun-complete-walkthrough/encoded-27.jpg",
+    "media/gun-complete-walkthrough/clean-coax_layers-0.95.jpg",
+    "media/assembly-walkthrough/complete-shutter-repair/assembly-0.84.jpg"
+  ],
+  "videos": [
+    "media/assembly-walkthrough/Sputter R06 - silent 4 minute walkthrough v2.mp4",
+    "media/gun-complete-walkthrough/R06 sputter gun - slower compact walkthrough.mp4",
+    "media/gun-complete-walkthrough/R06 sputter gun - complete silent walkthrough.mp4"
+  ],
+  "system_correction_record": "media/assembly-walkthrough/complete-shutter-repair/video-verification.json",
+  "gun_correction_record": "media/gun-complete-walkthrough/provenance.json",
+  "files": [
+    {
+      "path": "media/system.png",
+      "bytes": 434486,
+      "sha256": "08f54bca2d2e3716f8e4d90e61e4eed10c10e651975948700921e76b4f9b9c78"
+    },
+    {
+      "path": "media/chamber.png",
+      "bytes": 440056,
+      "sha256": "d72798ab0f1b7051bdbc0fca8ffefbf92094eb4660b4bdc62d5d817c6d5d133f"
+    },
+    {
+      "path": "media/gun.png",
+      "bytes": 465910,
+      "sha256": "9c08e56db2f920cc42add46bcd6388d6c8480fed843a38a338925b7c87749cdc"
+    },
+    {
+      "path": "media/cooling.png",
+      "bytes": 438743,
+      "sha256": "82639d025253389ed121d34c32bf86c2e0dae581176d8d1e9dee0412db1e5b70"
+    },
+    {
+      "path": "media/magnetron.png",
+      "bytes": 459680,
+      "sha256": "76602eaba9aeba52cbac794cb5e3c4e5f394ceb402555f17a0edb162e47d6576"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/encoded-27.jpg",
+      "bytes": 45536,
+      "sha256": "d28396831ab438aced20b0e907c4817a90c3e123392faa7c630ff7d0b4aa9454"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/clean-coax_layers-0.95.jpg",
+      "bytes": 126806,
+      "sha256": "341029ee39e6a76a5fe1d7cea18369aa1b83b616d66e98e7a4e8d9e53a57f13d"
+    },
+    {
+      "path": "media/assembly-walkthrough/complete-shutter-repair/assembly-0.84.jpg",
+      "bytes": 125618,
+      "sha256": "f38f885645074638174e180d35b20040ab2b5dea80fd1b2d60d55c4ac2aba723"
+    },
+    {
+      "path": "media/assembly-walkthrough/Sputter R06 - silent 4 minute walkthrough v2.mp4",
+      "bytes": 16690964,
+      "sha256": "1799df1d3d601db7fc6fa4fb3afdfc8404154c9a39fd13e9b45aa775eba4e1d7"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/R06 sputter gun - slower compact walkthrough.mp4",
+      "bytes": 15257194,
+      "sha256": "e5c415d3834efeeab81a2bca452eea2840a664966d31667ecea4a68bf18c5020"
+    },
+    {
+      "path": "media/gun-complete-walkthrough/R06 sputter gun - complete silent walkthrough.mp4",
+      "bytes": 38469751,
+      "sha256": "da4b8dd7d4d46d0ee3084f7ba90926fb8b00398c822e5accc06ba48c1e528de8"
+    }
+  ]
+}

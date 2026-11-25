@@ -60,4 +60,4 @@ CSV values are the saved OOXML caches. A missing cache stays blank, not zero. Ce
 
 ## CAD and supplier records
 
-Use [current CAD selection](../design/current.json), [CAD guide](../docs/cad.md), the CB01 chamber scope and stage/shutter package. Original local Windows path strings remain in the workbook for provenance; the repository guides provide portable links. Procurement support records copied under `support/` retain their source names and dates.
+Use [current CAD selection](../design/current.json), [System architecture and CAD](../docs/design.md#cad-downloads), the CB01 chamber scope and stage/shutter package. Original local Windows path strings remain in the workbook for provenance; the repository guides provide portable links. Procurement support records copied under `support/` retain their source names and dates.

@@ -30,6 +30,9 @@ def selected(path):
 
 def media_payload(path):
     rel = path.relative_to(ROOT/'media')
+    selected_assets = ROOT/'design/current-render-assets.json'
+    if selected_assets.exists() and path.relative_to(ROOT).as_posix() in json.loads(selected_assets.read_text())['images']:
+        return True
     if 'render' in rel.parts:
         return False
     # Retain finished exports, scripts' metadata and contact sheets, not frame QA.

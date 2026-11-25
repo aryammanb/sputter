@@ -17,12 +17,13 @@
     "procurement": "procurement/Sputter system procurement.xlsx",
     "chamber_supplier_scope": "chamber-design/chamber-supplier-package/CB01 frozen layout and supplier scope.txt",
     "field_assessment": "simulations/current-target-r06/assessment.json",
-    "media_provenance": "media/provenance.json"
+    "media_provenance": "design/current-render-assets.json",
+    "design_guide": "docs/design.md"
   },
   "current_media": [
-    "media/01-current-system.mp4",
-    "media/02-current-gun.mp4",
-    "media/03-current-field-and-evidence.mp4"
+    "media/assembly-walkthrough/Sputter R06 - silent 4 minute walkthrough v2.mp4",
+    "media/gun-complete-walkthrough/R06 sputter gun - slower compact walkthrough.mp4",
+    "media/gun-complete-walkthrough/R06 sputter gun - complete silent walkthrough.mp4"
   ],
   "known_mismatches": [
     "Legacy RV3 context geometry is not selected INDOVAC HV2-150 backing pump",
