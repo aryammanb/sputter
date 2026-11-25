@@ -64,7 +64,7 @@ The end-to-end design is ready and documented. A component list has been prepare
 
 The design files and [procurement list](procurement/README.md) are available in this repository.
 
-**Next steps:** complete the design review with a peer from the HackerFab team, then start or delegate procurement and building.
+**Next steps:** review the entire design and component selection part by part, then start the procurement and manufacturing process.
 
 ## Start here
 

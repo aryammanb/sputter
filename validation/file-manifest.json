@@ -2989,8 +2989,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 9661,
-      "sha256": "7d5f0d0eeb7f287f6f7cd75923563b4647afc2a732cb98a075857b42056b4d5b"
+      "bytes": 9665,
+      "sha256": "df8e7a2e2e4d01cdfe8878ac270a9d0f7e90ff44e0df11cb88c92d96cce89024"
     },
     {
       "path": "Sputter v2.pptx",
@@ -10444,8 +10444,8 @@
     },
     {
       "path": "tools/templates/README.md",
-      "bytes": 9553,
-      "sha256": "37ca8a9cf3c8f2ea55e1350e6d94b006814490397ccd84661103f7c7d5fa00e4"
+      "bytes": 9557,
+      "sha256": "6521dd5283757dddee206d418d75cc834975664aad6e9421b88aa2483af92c73"
     },
     {
       "path": "tools/templates/design.md",
