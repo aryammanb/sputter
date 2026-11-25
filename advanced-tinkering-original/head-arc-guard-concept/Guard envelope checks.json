@@ -1,7 +1,0 @@
-{
-  "guard_positions_checked": 12,
-  "new_guard_and_cap_solids_checked": 24,
-  "excluded": "Original Boden; proposed pocket replacement and thread contact require separate machining design.",
-  "unwanted_intersections": [],
-  "scope": "Checks external guard/cap envelopes against original reconstructed assembly. Does not check changed counterbore walls, threads, tolerances, RF performance or assembly access."
-}

@@ -1,9 +1,0 @@
-{
-  "decode": "pass, no audio/video decoder errors",
-  "fps": 15.0,
-  "frames": 1421.0,
-  "runtime_seconds": 94.73333333333333,
-  "narration_rms": 3078.750296705726,
-  "sampled_encoded_views": 3,
-  "bytes": 4144484
-}
