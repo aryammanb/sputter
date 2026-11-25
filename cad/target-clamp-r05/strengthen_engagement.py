@@ -1,5 +1,5 @@
 from pathlib import Path
-p=Path('chamber-design/target-clamp-r05/build_clamp_revision.py');s=p.read_text();anchor="  native_gun.append(q|{'shape':native})"
+p=Path('cad/target-clamp-r05/build_clamp_revision.py');s=p.read_text();anchor="  native_gun.append(q|{'shape':native})"
 replacement="""  if q['role']=='gun_targetbolts':
    axis=next(f._geomAdaptor().Cylinder().Axis().Location() for f in native.Faces() if f.geomType()=='CYLINDER' and abs(f._geomAdaptor().Cylinder().Radius()-1.5)<.02)
    xx,zz=axis.X(),axis.Z();trim=cq.Solid.makeBox(8,.6,8,V(xx-4,-7.2,zz-4))

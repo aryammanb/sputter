@@ -11,7 +11,7 @@ from PIL import Image, ImageDraw, ImageFont
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'outputs/full-chamber-r06'
 OUT.mkdir(parents=True, exist_ok=True)
-source = ROOT / 'chamber-design/coolant-fitting-r06/Complete sputter system R06.step'
+source = ROOT / 'cad/coolant-fitting-r06/Complete sputter system R06.step'
 provenance = json.loads((ROOT / 'media/provenance.json').read_text())
 digest = hashlib.sha256(source.read_bytes()).hexdigest()
 assert digest == provenance['source_sha256'], 'STEP changed: regenerate the view mesh first'

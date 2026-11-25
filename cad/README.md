@@ -1,4 +1,4 @@
-# Chamber and system design files
+# CAD and manufacturing files
 
 Start with [System architecture and CAD](../docs/design.md) for the system explanation, selected videos, essential renders and downloads. [Current selections](../design/current.json) identifies the governing artifacts.
 

@@ -9,13 +9,13 @@ OUT=ROOT/'validation';OUT.mkdir(exist_ok=True)
 
 def check_cad():
     records=[]
-    for rel in ['chamber-design/coolant-fitting-r06/Magnetron R06.step','chamber-design/coolant-fitting-r06/Complete sputter system R06.step']:
+    for rel in ['cad/coolant-fitting-r06/Magnetron R06.step','cad/coolant-fitting-r06/Complete sputter system R06.step']:
         p=ROOT/rel;print('Reading',rel,flush=True)
         solids=cq.importers.importStep(str(p)).val().Solids();bad=[i for i,s in enumerate(solids) if not s.isValid()]
         records.append({'file':rel,'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'solid_count':len(solids),'invalid_indices_zero_based':bad,'invalid_count':len(bad)})
     assert records[0]['solid_count']==141 and records[0]['invalid_count']==0
     assert records[1]['solid_count']==406 and records[1]['invalid_count']==1
-    meta=json.loads((ROOT/'chamber-design/coolant-fitting-r06/R06 component register.json').read_text())
+    meta=json.loads((ROOT/'cad/coolant-fitting-r06/R06 component register.json').read_text())
     k=0;classified=[]
     for q in meta:
         for i in records[1]['invalid_indices_zero_based']:

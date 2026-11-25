@@ -10,12 +10,12 @@
     "thickness_mm": 3.175
   },
   "current_files": {
-    "gun_step": "chamber-design/coolant-fitting-r06/Magnetron R06.step",
-    "system_step": "chamber-design/coolant-fitting-r06/Complete sputter system R06.step",
-    "native_gun": "chamber-design/coolant-fitting-r06/SolidWorks R06/Magnetron R06 - M5 coolant fittings.SLDASM",
-    "native_package": "chamber-design/coolant-fitting-r06/Coolant fittings R06 - SolidWorks CAD package.zip",
+    "gun_step": "cad/coolant-fitting-r06/Magnetron R06.step",
+    "system_step": "cad/coolant-fitting-r06/Complete sputter system R06.step",
+    "native_gun": "cad/coolant-fitting-r06/SolidWorks R06/Magnetron R06 - M5 coolant fittings.SLDASM",
+    "native_package": "cad/coolant-fitting-r06/Coolant fittings R06 - SolidWorks CAD package.zip",
     "procurement": "procurement/Sputter system procurement.xlsx",
-    "chamber_supplier_scope": "chamber-design/chamber-supplier-package/CB01 frozen layout and supplier scope.txt",
+    "chamber_supplier_scope": "cad/chamber-supplier-package/CB01 frozen layout and supplier scope.txt",
     "field_assessment": "simulations/current-target-r06/assessment.json",
     "media_provenance": "design/current-render-assets.json",
     "design_guide": "docs/design.md"

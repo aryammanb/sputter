@@ -45,13 +45,13 @@ The [procurement guide](../procurement/README.md) holds the planning budget and 
 
 | Deliverable | Scope |
 |---|---|
-| [Magnetron R06 STEP](../chamber-design/coolant-fitting-r06/Magnetron%20R06.step) | Standalone neutral gun geometry |
-| [Complete R06 system STEP](../chamber-design/coolant-fitting-r06/Complete%20sputter%20system%20R06.step) | Standalone system context with latest gun |
-| [SolidWorks R06 package ZIP](../chamber-design/coolant-fitting-r06/Coolant%20fittings%20R06%20-%20SolidWorks%20CAD%20package.zip) | Native gun assembly and dependent parts |
-| [Unpacked native assembly](../chamber-design/coolant-fitting-r06/SolidWorks%20R06/Magnetron%20R06%20-%20M5%20coolant%20fittings.SLDASM) | Open with adjacent SLDPRT files present |
-| [R06 individual STEP parts](../chamber-design/coolant-fitting-r06/STEP%20parts) | Neutral component exports |
-| [CB01 supplier handoff](../chamber-design/chamber-supplier-package/CB01%20supplier%20handoff.zip) | Frozen chamber scope and CAD reference, not approved manufacturing drawings |
-| [Stage/shutter fabrication package](../chamber-design/stage-shutter-procurement/Stage%20and%20shutter%20-%20local%20fabrication.zip) | Separate fabricated stage and bent shutter references |
+| [Magnetron R06 STEP](../cad/coolant-fitting-r06/Magnetron%20R06.step) | Standalone neutral gun geometry |
+| [Complete R06 system STEP](../cad/coolant-fitting-r06/Complete%20sputter%20system%20R06.step) | Standalone system context with latest gun |
+| [SolidWorks R06 package ZIP](../cad/coolant-fitting-r06/Coolant%20fittings%20R06%20-%20SolidWorks%20CAD%20package.zip) | Native gun assembly and dependent parts |
+| [Unpacked native assembly](../cad/coolant-fitting-r06/SolidWorks%20R06/Magnetron%20R06%20-%20M5%20coolant%20fittings.SLDASM) | Open with adjacent SLDPRT files present |
+| [R06 individual STEP parts](../cad/coolant-fitting-r06/STEP%20parts) | Neutral component exports |
+| [CB01 supplier handoff](../cad/chamber-supplier-package/CB01%20supplier%20handoff.zip) | Frozen chamber scope and CAD reference, not approved manufacturing drawings |
+| [Stage/shutter fabrication package](../cad/stage-shutter-procurement/Stage%20and%20shutter%20-%20local%20fabrication.zip) | Separate fabricated stage and bent shutter references |
 
 
 For a first look, download the complete-system STEP. For gun editing in SolidWorks, download the native ZIP so its dependent parts stay together. The [component register](../design/current-component-register.csv) identifies the 141 gun instances. [Current selections and revision boundaries](current-design.md) explain which artifacts govern the design.
@@ -129,7 +129,7 @@ System coordinates are X right, Y rear and Z up, with origin at the internal flo
 | Stage / substrate | D90 × 6, stage top Z40; substrate top Z41 |
 | Target plane | Default Z141, 100 mm above substrate; 75–150 mm gap range |
 
-Use [Frozen chamber interfaces.csv](../chamber-design/chamber-supplier-package/Frozen%20chamber%20interfaces.csv) and [R04 dimension schedule](../chamber-design/main-system-r04/Dimension%20schedule.csv) for the detailed schedules. R05/R06 changes override older target/fitting dimensions.
+Use [Frozen chamber interfaces.csv](../cad/chamber-supplier-package/Frozen%20chamber%20interfaces.csv) and [R04 dimension schedule](../cad/main-system-r04/Dimension%20schedule.csv) for the detailed schedules. R05/R06 changes override older target/fitting dimensions.
 
 
 </details>
@@ -149,11 +149,11 @@ The native gun assembly contains fixed components. It does not provide editable 
 
 ### Checks supplied with R06
 
-- [Geometry checks](../chamber-design/coolant-fitting-r06/Geometry%20checks.json): no new non-thread overlaps among the changed parts; intentional thread-envelope intersections are classified.
-- [Native backplate independent check](../chamber-design/coolant-fitting-r06/Native%20backplate%20independent%20check.json): revised bore geometry matches expected geometry.
-- [Native export check](../chamber-design/coolant-fitting-r06/Native%20assembly%20export%20check.json): 141 valid gun solids and small volume difference from reference.
-- [Native reopen and reference check](../chamber-design/coolant-fitting-r06/Native%20assembly%20reopen%20and%20reference%20check.json): original saved package component references.
-- [SolidWorks verification](../chamber-design/coolant-fitting-r06/SolidWorks%20verification.json): native import validity and per-part volume comparisons.
+- [Geometry checks](../cad/coolant-fitting-r06/Geometry%20checks.json): no new non-thread overlaps among the changed parts; intentional thread-envelope intersections are classified.
+- [Native backplate independent check](../cad/coolant-fitting-r06/Native%20backplate%20independent%20check.json): revised bore geometry matches expected geometry.
+- [Native export check](../cad/coolant-fitting-r06/Native%20assembly%20export%20check.json): 141 valid gun solids and small volume difference from reference.
+- [Native reopen and reference check](../cad/coolant-fitting-r06/Native%20assembly%20reopen%20and%20reference%20check.json): original saved package component references.
+- [SolidWorks verification](../cad/coolant-fitting-r06/SolidWorks%20verification.json): native import validity and per-part volume comparisons.
 
 Read these as nominal geometry checks. They do not certify manufacturing tolerances, useful thread engagement, gasket compression, fatigue, leak integrity or thermal performance.
 

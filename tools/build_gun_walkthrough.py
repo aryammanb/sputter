@@ -13,7 +13,7 @@ from build_assembly_walkthrough import Renderer as Studio, smooth, ramp
 
 ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/'media/gun-complete-walkthrough';OUT.mkdir(exist_ok=True)
 WORK=OUT/'render';WORK.mkdir(exist_ok=True);W,H,FPS=1920,1080,24
-META=json.loads((ROOT/'chamber-design/coolant-fitting-r06/R06 component register.json').read_text())
+META=json.loads((ROOT/'cad/coolant-fitting-r06/R06 component register.json').read_text())
 GUN=[i for i,q in enumerate(META) if q['group']=='gun']
 def role(*names):return [i for i in GUN if META[i]['role'] in {'gun_'+n for n in names}]
 def name(prefix):return next(i for i in GUN if META[i]['name'].startswith(prefix))
@@ -318,7 +318,7 @@ def main():
     silent=OUT/'R06 sputter gun - complete silent walkthrough.mp4';narrated=OUT/'R06 sputter gun - complete narrated walkthrough.mp4'
     subprocess.run([ff,'-y','-loglevel','error','-i',str(picture),'-i',str(WORK/'chapters.ffmeta'),'-map','0:v','-map_metadata','1','-map_chapters','1','-an','-c:v','copy','-movflags','+faststart',str(silent)],check=True)
     subprocess.run([ff,'-y','-loglevel','error','-i',str(picture),'-i',str(WORK/'Narration.wav'),'-i',str(WORK/'chapters.ffmeta'),'-map','0:v','-map','1:a','-map_metadata','2','-map_chapters','2','-c:v','copy','-c:a','aac','-b:a','160k','-t',str(elapsed),'-movflags','+faststart',str(narrated)],check=True)
-    source=ROOT/'chamber-design/coolant-fitting-r06/Complete sputter system R06.step';gun=ROOT/'chamber-design/coolant-fitting-r06/Magnetron R06.step'
+    source=ROOT/'cad/coolant-fitting-r06/Complete sputter system R06.step';gun=ROOT/'cad/coolant-fitting-r06/Magnetron R06.step'
     provenance={'source_system_step':str(source.relative_to(ROOT)),'source_sha256':hashlib.sha256(source.read_bytes()).hexdigest(),'gun_step':str(gun.relative_to(ROOT)),'gun_sha256':hashlib.sha256(gun.read_bytes()).hexdigest(),'geometry':'All 141 R06 gun instances extracted from the exact system STEP tessellation; no substitute part geometry. Sections clip the actual meshes.','resolution':[W,H],'fps':FPS,'duration_seconds':elapsed,'chapters':timeline,'coverage':'component-coverage.json','narration':'Microsoft David Desktop synthetic voice in companion version only','notes':['Repeated hardware shown in full patterns, with separate local close-ups.','Exploded offsets illustrate mating relationships, not collision-free installation paths or tightening instructions.','Source nominal thread envelopes, fitted seal shapes and supplier-envelope limitations are preserved.','Coax layers use material colours to distinguish jacket, shield, dielectric and conductor.','Thermal, RF, leak and manufacturing qualification are not certified by the animation.']}
     (OUT/'provenance.json').write_text(json.dumps(provenance,indent=2));(OUT/'Narration.txt').write_text('\n\n'.join(s['label']+'\n'+s['speech'] for s in SHOTS),encoding='utf-8');r.win.Finalize();print(json.dumps({'seconds':elapsed,'shots':len(SHOTS),'parts':len(GUN),'silent':str(silent),'narrated':str(narrated)}),flush=True)
 

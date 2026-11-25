@@ -2,8 +2,8 @@ from pathlib import Path
 
 base = Path(__file__).resolve().parents[2]
 targets = [
-    ('chamber-design/target-clamp-r05/READ FIRST - Clamp R05.txt', 'GAS FLOW ENGINEERING ADDENDUM', 'Target procurement:'),
-    ('chamber-design/main-system-r04/README.txt', 'LATER GAS FLOW ENGINEERING ADDENDUM - 24 NOVEMBER 2026', 'Open Complete sputter system'),
+    ('cad/target-clamp-r05/READ FIRST - Clamp R05.txt', 'GAS FLOW ENGINEERING ADDENDUM', 'Target procurement:'),
+    ('cad/main-system-r04/README.txt', 'LATER GAS FLOW ENGINEERING ADDENDUM - 24 NOVEMBER 2026', 'Open Complete sputter system'),
 ]
 for rel, start, end in targets:
     path = base / rel
@@ -17,7 +17,7 @@ for rel, start, end in targets:
         'R01/R02 range recommendations are superseded. No CAD/layout change.\n\n')
     path.write_text(text[:a] + replacement + text[b:], encoding='utf-8')
 for name in ['Argon MFC sizing and specification R01.txt', 'Argon MFC sizing and specification R02.txt']:
-    path = base / 'chamber-design' / name
+    path = base / 'cad' / name
     text = path.read_text(encoding='utf-8')
     notice = ('CURRENT OWNER SELECTION:200sccm MFC. See Argon MFC selection R03 - 200 sccm.txt.\n'
               'All earlier range recommendations below are superseded by R03.\n\n')

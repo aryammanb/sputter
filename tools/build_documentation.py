@@ -10,14 +10,14 @@ def write(path,text):
     p=ROOT/path;p.parent.mkdir(parents=True,exist_ok=True);p.write_text(text.strip()+'\n',encoding='utf-8')
 
 def link(label,path,depth=1):return f'[{label}]('+('../'*depth)+quote(path,safe='/')+')'
-R06='chamber-design/coolant-fitting-r06/'
-R05='chamber-design/target-clamp-r05/'
-R04='chamber-design/main-system-r04/'
+R06='cad/coolant-fitting-r06/'
+R05='cad/target-clamp-r05/'
+R04='cad/main-system-r04/'
 SIM='advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/'
 
 def main():
     # Export exact instance metadata; legacy source names are retained as provenance.
-    register=json.loads((ROOT/'chamber-design/coolant-fitting-r06/R06 component register.json').read_text())
+    register=json.loads((ROOT/'cad/coolant-fitting-r06/R06 component register.json').read_text())
     (ROOT/'design').mkdir(exist_ok=True)
     with (ROOT/'design/current-component-register.csv').open('w',newline='',encoding='utf-8') as f:
         writer=csv.writer(f);writer.writerow(['instance','group','role','source_name','solid_count','valid','volume_mm3','note'])

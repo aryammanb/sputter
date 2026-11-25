@@ -1,9 +1,9 @@
 {
   "purpose": "Map historical source paths after chamber-design organization; CAD/native packages and saved numerical records retain original bytes.",
-  "current": "chamber-design/coolant-fitting-r06",
+  "current": "cad/coolant-fitting-r06",
   "supporting_revisions": [
-    "chamber-design/main-system-r04",
-    "chamber-design/target-clamp-r05"
+    "cad/main-system-r04",
+    "cad/target-clamp-r05"
   ],
   "moves": [
     {
@@ -24,19 +24,19 @@
     },
     {
       "from": "chamber-design/coolant-fitting-selection",
-      "to": "chamber-design/references/coolant-fitting-selection"
+      "to": "cad/references/coolant-fitting-selection"
     },
     {
       "from": "chamber-design/gun-mount-procurement-check",
-      "to": "chamber-design/references/gun-mount-procurement-check"
+      "to": "cad/references/gun-mount-procurement-check"
     },
     {
       "from": "chamber-design/plumbing-reference",
-      "to": "chamber-design/references/plumbing-reference"
+      "to": "cad/references/plumbing-reference"
     },
     {
       "from": "chamber-design/rf-procurement",
-      "to": "chamber-design/references/rf-procurement"
+      "to": "cad/references/rf-procurement"
     },
     {
       "from": "chamber-design/Argon MFC selection R03 - 200 sccm.txt",
@@ -56,7 +56,11 @@
     },
     {
       "from": "chamber-design/Argon MFC selection R04 - 500 sccm.txt",
-      "to": "chamber-design/references/Argon MFC selection R04 - 500 sccm.txt"
+      "to": "cad/references/Argon MFC selection R04 - 500 sccm.txt"
     }
-  ]
+  ],
+  "root_rename": {
+    "from": "chamber-design",
+    "to": "cad"
+  }
 }

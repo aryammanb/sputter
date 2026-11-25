@@ -1,7 +1,7 @@
 from pathlib import Path
 import cadquery as cq,json,math
-P=Path('chamber-design/coolant-fitting-r06');P.mkdir(exist_ok=True);(P/'STEP parts').mkdir(exist_ok=True)
-B=Path('chamber-design/target-clamp-r05');meta=json.loads((B/'parts.json').read_text(encoding='utf-8'));ss=cq.importers.importStep(str(B/'Complete sputter system R05.step')).val().Solids();items=[];k=0
+P=Path('cad/coolant-fitting-r06');P.mkdir(exist_ok=True);(P/'STEP parts').mkdir(exist_ok=True)
+B=Path('cad/target-clamp-r05');meta=json.loads((B/'parts.json').read_text(encoding='utf-8'));ss=cq.importers.importStep(str(B/'Complete sputter system R05.step')).val().Solids();items=[];k=0
 for q in meta:
  a=ss[k:k+q['solid_count']];k+=q['solid_count'];items.append(q|{'shape':a[0] if len(a)==1 else cq.Compound.makeCompound(a)})
 V=cq.Vector

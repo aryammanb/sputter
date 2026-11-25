@@ -51,7 +51,7 @@ See the actual solver CLI in `solve_field.py` for supported material variants an
 
 Historical CAD/video scripts are included for engineering traceability. Several original scripts contain Windows paths, COM automation, local font/voice choices or links to earlier study files. They have not all been ported or rerun in a clean environment. Their presence does not imply a one-command rebuild of every historical assembly. The current standalone STEP/native package is the practical design handoff.
 
-The current R06 CadQuery preparation source is [prepare_r06.py](../chamber-design/references/coolant-fitting-selection/prepare_r06.py); it reuses R05 geometry and metadata from the repository root. That script changes generated CAD files, so run in a disposable clone. Native build plans preserve original path strings as provenance; adapt paths for regeneration. Original reconstruction scripts may need externally sourced reference video; that third-party video/browser cache is deliberately not republished.
+The current R06 CadQuery preparation source is [prepare_r06.py](../cad/references/coolant-fitting-selection/prepare_r06.py); it reuses R05 geometry and metadata from the repository root. That script changes generated CAD files, so run in a disposable clone. Native build plans preserve original path strings as provenance; adapt paths for regeneration. Original reconstruction scripts may need externally sourced reference video; that third-party video/browser cache is deliberately not republished.
 
 ## Updating integrity records
 

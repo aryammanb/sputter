@@ -53,4 +53,4 @@ txt(cx,.48,'EXHAUST',10,teal)
 
 for extension in ['png','svg']:
  fig.savefig(P/f'Vacuum plumbing - flowcharts only.{extension}',dpi=200,facecolor='white')
-print('Saved diagram-only PNG and SVG in chamber-design/references/plumbing-reference')
+print('Saved diagram-only PNG and SVG in cad/references/plumbing-reference')

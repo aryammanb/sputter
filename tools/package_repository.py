@@ -7,7 +7,7 @@ from pathlib import Path
 import hashlib, json, shutil
 
 ROOT=Path(__file__).resolve().parents[1]
-ROOTS=['chamber-design','advanced-tinkering-original','archive']
+ROOTS=['cad','advanced-tinkering-original','archive']
 EXT={'.py','.ps1','.csv','.json','.txt','.md','.step','.sldprt','.sldasm','.slddrw','.stl','.dxf','.npz','.msh','.log','.pdf','.svg','.html','.srt','.ffmeta','.ffmetadata','.bin'}
 SKIP={'node_modules','.git','__pycache__','browser-profile','browser-check','video','tools'}
 ZIP_NAMES={'Coolant fittings R06 - SolidWorks CAD package.zip','CB01 supplier handoff.zip','Stage and shutter - local fabrication.zip'}

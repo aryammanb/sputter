@@ -1,6 +1,6 @@
 from pathlib import Path
 import json,csv,zipfile
-P=Path('chamber-design/main-system-r04');m=json.loads((P/'parts.json').read_text())
+P=Path('cad/main-system-r04');m=json.loads((P/'parts.json').read_text())
 with (P/'System parts list.csv').open('w',newline='',encoding='utf-8-sig') as f:
  w=csv.writer(f);w.writerow(['Name','Role','Group','Scope / reference','Valid']);w.writerows([q['name'],q['role'],q['group'],q['note'],q['valid']] for q in m)
 with (P/'README.txt').open('a',encoding='utf-8') as f:f.write('\nWINDOW RETAINER DETAIL\nSix nominalM5 retainer pilot bores areD4.2 x10deep from the outer door face,\nleaving6mm solid backing to the vacuum side. All six backing regions were\nchecked solid. Threads and actual screw engagement remain to detail.\n')

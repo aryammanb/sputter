@@ -2,14 +2,14 @@
   "passed": true,
   "checks": [
     {
-      "file": "chamber-design/coolant-fitting-r06/Magnetron R06.step",
+      "file": "cad/coolant-fitting-r06/Magnetron R06.step",
       "sha256": "4bd9a1e671eec788c350df738e378f73f3dcddacec246d5d3dcb2f93b69b34b6",
       "solid_count": 141,
       "invalid_indices_zero_based": [],
       "invalid_count": 0
     },
     {
-      "file": "chamber-design/coolant-fitting-r06/Complete sputter system R06.step",
+      "file": "cad/coolant-fitting-r06/Complete sputter system R06.step",
       "sha256": "971f43bbf35aac5e4eeb17a2b6edb6c5199202011bafa2bf4becddfdcac4720f",
       "solid_count": 406,
       "invalid_indices_zero_based": [

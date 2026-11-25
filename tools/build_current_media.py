@@ -12,7 +12,7 @@ import vtk, imageio_ffmpeg
 from vtk.util.numpy_support import numpy_to_vtk, numpy_to_vtkIdTypeArray, vtk_to_numpy
 
 ROOT=Path(__file__).resolve().parents[1]
-SRC=ROOT/'chamber-design/coolant-fitting-r06'
+SRC=ROOT/'cad/coolant-fitting-r06'
 OUT=ROOT/'media'; WORK=ROOT/'tools/.work'; OUT.mkdir(exist_ok=True); WORK.mkdir(parents=True,exist_ok=True)
 W,H,VW,VH,FPS=1600,900,1050,710,8
 
@@ -141,7 +141,7 @@ def main():
         listing=WORK/(name+'.txt');listing.write_text('\n'.join("file '"+(OUT/(x+'.mp4')).as_posix()+"'" for x in ids))
         subprocess.run([ffmpeg,'-y','-loglevel','error','-f','concat','-safe','0','-i',str(listing),'-map','0','-c','copy','-movflags','+faststart',str(OUT/(name+'.mp4'))],check=True)
         (OUT/(name+'-transcript.txt')).write_text('\n\n'.join(CHAPTERS[[c['id'] for c in CHAPTERS].index(x)]['title']+'\n'+CHAPTERS[[c['id'] for c in CHAPTERS].index(x)]['speech'] for x in ids),encoding='utf-8')
-    manifest={'date':'2026-11-24','source_step':'chamber-design/coolant-fitting-r06/Complete sputter system R06.step','source_sha256':hashlib.sha256((SRC/'Complete sputter system R06.step').read_bytes()).hexdigest(),'field_report':'simulations/current-target-r06/assessment.json','narration':'Windows Microsoft David Desktop, synthetic narration','chapter_durations_seconds':durations,'notes':'All geometry views generated from latest R06 system STEP. Transparency / hidden context are explanatory. No old MP4 segments reused.'}
+    manifest={'date':'2026-11-24','source_step':'cad/coolant-fitting-r06/Complete sputter system R06.step','source_sha256':hashlib.sha256((SRC/'Complete sputter system R06.step').read_bytes()).hexdigest(),'field_report':'simulations/current-target-r06/assessment.json','narration':'Windows Microsoft David Desktop, synthetic narration','chapter_durations_seconds':durations,'notes':'All geometry views generated from latest R06 system STEP. Transparency / hidden context are explanatory. No old MP4 segments reused.'}
     (OUT/'provenance.json').write_text(json.dumps(manifest,indent=2));window.Finalize();print('Current media complete',flush=True)
 
 if __name__=='__main__':main()

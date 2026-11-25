@@ -1,6 +1,6 @@
 from pathlib import Path
 import json,csv,zipfile,shutil
-P=Path('chamber-design/target-clamp-r05');m=json.loads((P/'parts.json').read_text());
+P=Path('cad/target-clamp-r05');m=json.loads((P/'parts.json').read_text());
 with (P/'R05 component change register.csv').open('w',newline='',encoding='utf-8-sig') as f:
  w=csv.writer(f);w.writerow(['Component','Role','R05 change'])
  for q in m:
