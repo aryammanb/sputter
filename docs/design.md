@@ -144,13 +144,3 @@ Read these as nominal geometry checks. They do not certify manufacturing toleran
 
 
 </details>
-
-## Design limits
-
-- The complete context retains a legacy RV3 supplier shape, including one known invalid solid. The selected backing pump is **INDOVAC HV2-150**; replacement vendor geometry remains pending.
-- The MFC housing is an older reference envelope. Current selection is **STEC SEC-4400MC-G2, Ar 500 sccm**, with PE-D20 and an owner-built adapter. Exact dimensions, G2 pin mapping, calibration and assembled electrical checks remain to verify.
-- Chillers, power cabinets, gauges and some fittings are representative. Confirm actual supplier interfaces before fabrication or purchase.
-- Native SolidWorks deliverables cover the fixed-component gun assembly. The complete system is STEP context, without a native mated system assembly or a released wiring design.
-- Exploded views, clipped sections and motion are explanatory. They do not prove fabrication tolerances, assembly clearances, leak integrity, discharge performance or deposition uniformity.
-
-The render selection and file hashes are recorded in [current render assets](../design/current-render-assets.json). These are CAD visualizations, not photographs of built v2 hardware. See the [engineering dossier](engineering.md), [verification gates](verification.md), [procurement](../procurement/README.md) and [revision history](current-design.md) for the remaining work.
