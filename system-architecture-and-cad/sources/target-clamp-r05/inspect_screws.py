@@ -1,6 +1,6 @@
 from pathlib import Path
 import cadquery as cq,math
-s=cq.importers.importStep('advanced-tinkering-original/balanced-twelve-stack-study/Proposed cooler.step').val()
+s=cq.importers.importStep('system-architecture-and-cad/models/STEP parts/034 Gun 035 cooler.step').val()
 for f in s.Faces():
  if f.geomType()=='CYLINDER':
   c=f._geomAdaptor().Cylinder();r=c.Radius();l=c.Axis().Location();b=f.BoundingBox()

@@ -11,7 +11,7 @@ import vtk
 from vtk.util.numpy_support import numpy_to_vtk, numpy_to_vtkIdTypeArray, vtk_to_numpy
 from PIL import Image, ImageDraw, ImageFont
 import imageio_ffmpeg
-from build_current_media import prepare_mesh
+from prepare_r06_mesh import prepare_mesh
 
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'media/system-walkthrough'

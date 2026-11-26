@@ -1,0 +1,84 @@
+{
+  "name": "coarse_steel-soft",
+  "sampling_height_above_target_mm": 0.25,
+  "racetrack_Bz_zero": {
+    "angles_with_crossing": 360,
+    "radius_mean_mm": 20.053214664786026,
+    "radius_min_mm": 19.70447669639808,
+    "radius_max_mm": 20.42496115014461,
+    "Bparallel_mean_mT": 94.65213367100405,
+    "Bparallel_min_mT": 89.34233001873365,
+    "Bparallel_max_mT": 100.17365382689533,
+    "peak_to_peak_over_mean_percent": 11.44329598084884,
+    "target_edge_margin_min_mm": 4.9750388498553875,
+    "fraction_above_20mT": 1.0
+  },
+  "radial_peak_Bparallel_mean_mT": 197.10382091871543,
+  "height_scan": {
+    "above_target_mm": [
+      0.25,
+      1.0,
+      2.0,
+      3.0,
+      5.0,
+      8.0,
+      10.0,
+      15.0,
+      20.0,
+      30.0,
+      40.0
+    ],
+    "Bparallel_mean_mT": [
+      94.70308548968295,
+      89.4296415835005,
+      82.85551542741126,
+      75.88674497543747,
+      62.471697577872725,
+      46.5390714600235,
+      37.99866334872338,
+      22.510903785674614,
+      12.720477516129275,
+      5.1588781806551305,
+      2.5389679507228684
+    ],
+    "Bparallel_min_mT": [
+      89.7354695023141,
+      86.06253950332224,
+      78.99330061336678,
+      72.77700870531656,
+      60.399014216909556,
+      45.058629187362754,
+      36.7604326169623,
+      21.79050898935413,
+      10.967660941952468,
+      4.439426396229757,
+      2.1551198592658696
+    ]
+  },
+  "axis_Bz_sign_change_height_mm": [],
+  "flux_at_z2p25": {
+    "25.4": {
+      "positive_Wb": 0.0001292842997606131,
+      "negative_Wb": 1.6065451773283333e-05,
+      "negative_to_positive": 0.12426452247512368
+    },
+    "40": {
+      "positive_Wb": 0.00012928650624694773,
+      "negative_Wb": 0.00012120302798314834,
+      "negative_to_positive": 0.937476241732766
+    }
+  },
+  "yoke": {
+    "B_max_T": 1.3224361245408947,
+    "B_volume_weighted_mean_T": 0.2993885453998568,
+    "B_p99_T": 1.0981320048778493
+  },
+  "electron_gyroradius_mm_at_weakest_track_field": {
+    "5": 0.08439797503458783,
+    "10": 0.11935676093073999,
+    "20": 0.16879595006917567,
+    "100": 0.37743921868133706
+  },
+  "electron_cyclotron_frequency_GHz_min": 2.500914264815709,
+  "balance_classification": "Not certified. Surface racetrack, field strength and near-target magnetization assessed; no universal balance coefficient or pole-face flux claim is made. Axis scan is domain limited."
+}

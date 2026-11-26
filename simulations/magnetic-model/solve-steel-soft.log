@@ -1,0 +1,8 @@
+Transforming over 1000 vertices to C_CONTIGUOUS.
+Transforming over 1000 elements to C_CONTIGUOUS.
+coarse steel-soft {"iteration": 1, "linear_iterations": 24, "linear_residual": 9.375820786744238e-10, "nonlinear_residual_before": 1.0, "nonlinear_residual_after": 0.1031224318146363, "line_search_alpha": 1.0}
+coarse steel-soft {"iteration": 2, "linear_iterations": 22, "linear_residual": 1.3216817360767442e-09, "nonlinear_residual_before": 0.1031224318146363, "nonlinear_residual_after": 0.017498453741552747, "line_search_alpha": 1.0}
+coarse steel-soft {"iteration": 3, "linear_iterations": 22, "linear_residual": 9.290875775085902e-10, "nonlinear_residual_before": 0.017498453741552747, "nonlinear_residual_after": 0.0008001606188807784, "line_search_alpha": 1.0}
+coarse steel-soft {"iteration": 4, "linear_iterations": 21, "linear_residual": 1.5583068860195028e-09, "nonlinear_residual_before": 0.0008001606188807784, "nonlinear_residual_after": 1.7074419684447937e-06, "line_search_alpha": 1.0}
+coarse steel-soft {"iteration": 5, "linear_iterations": 21, "linear_residual": 1.042460334926482e-09, "nonlinear_residual_before": 1.7074419684447937e-06, "nonlinear_residual_after": 1.3199266722887096e-11, "line_search_alpha": 1.0}
+SAVED coarse_steel-soft

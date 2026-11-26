@@ -1,0 +1,8 @@
+Transforming over 1000 vertices to C_CONTIGUOUS.
+Transforming over 1000 elements to C_CONTIGUOUS.
+fine nominal {"iteration": 1, "linear_iterations": 22, "linear_residual": 1.215866631246216e-09, "nonlinear_residual_before": 1.0, "nonlinear_residual_after": 0.12401553716209858, "line_search_alpha": 1.0}
+fine nominal {"iteration": 2, "linear_iterations": 21, "linear_residual": 1.0244040733622797e-09, "nonlinear_residual_before": 0.12401553716209858, "nonlinear_residual_after": 0.024836112915103296, "line_search_alpha": 1.0}
+fine nominal {"iteration": 3, "linear_iterations": 20, "linear_residual": 1.493257027116896e-09, "nonlinear_residual_before": 0.024836112915103296, "nonlinear_residual_after": 0.0017895506892201915, "line_search_alpha": 1.0}
+fine nominal {"iteration": 4, "linear_iterations": 20, "linear_residual": 1.0264231206472323e-09, "nonlinear_residual_before": 0.0017895506892201915, "nonlinear_residual_after": 1.1731557299303607e-05, "line_search_alpha": 1.0}
+fine nominal {"iteration": 5, "linear_iterations": 19, "linear_residual": 9.991830088141198e-10, "nonlinear_residual_before": 1.1731557299303607e-05, "nonlinear_residual_after": 1.6765157549820429e-10, "line_search_alpha": 1.0}
+SAVED fine_nominal

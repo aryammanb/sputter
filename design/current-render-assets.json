@@ -75,5 +75,19 @@
       "bytes": 38469751,
       "sha256": "da4b8dd7d4d46d0ee3084f7ba90926fb8b00398c822e5accc06ba48c1e528de8"
     }
+  ],
+  "support_files": [
+    "media/r06-view-mesh.npz",
+    "media/r06-geometry-read.json",
+    "media/assembly-walkthrough/compact-provenance.json",
+    "media/assembly-walkthrough/complete-shutter-repair/video-verification.json",
+    "media/assembly-walkthrough/complete-shutter-repair/motion-verification.json",
+    "media/assembly-walkthrough/complete-shutter-repair/timing.json",
+    "media/gun-complete-walkthrough/provenance.json",
+    "media/gun-complete-walkthrough/component-coverage.json",
+    "media/gun-complete-walkthrough/Component coverage.csv",
+    "media/gun-complete-walkthrough/shots.json",
+    "media/gun-complete-walkthrough/8x-edit.json",
+    "media/gun-complete-walkthrough/slower-verification.json"
   ]
 }

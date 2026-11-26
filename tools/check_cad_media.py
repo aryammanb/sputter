@@ -27,18 +27,16 @@ def check_cad():
 
 def check_media():
     ff=imageio_ffmpeg.get_ffmpeg_exe();reports=[]
-    for name in ['01-current-system.mp4','02-current-gun.mp4','03-current-field-and-evidence.mp4']:
-        p=ROOT/'media'/name;print('Decoding',name,flush=True)
+    selected=json.loads((ROOT/'design/current.json').read_text())['current_media']
+    for rel in selected:
+        p=ROOT/rel;print('Decoding',rel,flush=True)
         info=subprocess.run([ff,'-hide_banner','-i',str(p)],capture_output=True,text=True).stderr
-        assert 'Video: h264' in info and 'Audio: aac' in info and 'Subtitle: mov_text' in info
-        check=subprocess.run([ff,'-hide_banner','-v','warning','-i',str(p),'-map','0:v:0','-map','0:a:0','-f','null','-'],capture_output=True,text=True)
+        assert 'Video: h264' in info and 'Audio:' not in info
+        check=subprocess.run([ff,'-hide_banner','-v','warning','-i',str(p),'-map','0:v:0','-f','null','-'],capture_output=True,text=True)
         assert check.returncode==0,check.stderr
-        volume=subprocess.run([ff,'-hide_banner','-i',str(p),'-vn','-sn','-af','volumedetect','-f','null','-'],capture_output=True,text=True).stderr
-        mean=re.search(r'mean_volume: ([\-\d.]+) dB',volume)
-        assert mean and -50<float(mean[1])<0
-        reports.append({'file':'media/'+name,'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'duration':re.search(r'Duration: ([\d:.]+)',info)[1],'video':'H.264','audio':'AAC','subtitles':'mov_text English','full_video_audio_decode_exit_code':check.returncode,'mean_audio_volume_dB':float(mean[1]),'decoder_warnings':check.stderr.strip()})
-    (OUT/'media-check.json').write_text(json.dumps({'passed':True,'method':'FFmpeg stream inspection, complete video/audio decode, audio volume check; rendered stills visually reviewed. No physical hardware footage claimed.','videos':reports},indent=2))
-    print('CAD and media checks passed',flush=True)
+        reports.append({'file':rel,'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'duration':re.search(r'Duration: ([\d:.]+)',info)[1],'video':'H.264','audio':False,'full_video_decode_exit_code':check.returncode,'decoder_warnings':check.stderr.strip()})
+    (OUT/'media-check.json').write_text(json.dumps({'passed':True,'method':'FFmpeg stream inspection and complete decode of the three selected corrected silent walkthroughs. No new videos rendered.','videos':reports},indent=2))
+    print('Current media checks passed',flush=True)
 
 if __name__=='__main__':
     if '--media-only' not in sys.argv:check_cad()

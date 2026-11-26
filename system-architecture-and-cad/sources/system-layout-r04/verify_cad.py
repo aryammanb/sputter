@@ -27,7 +27,7 @@ with (P/'Dimension schedule.csv').open('w',newline='',encoding='utf-8-sig') as f
  w=csv.writer(f);w.writerow(['Dimension','Nominal value','Units / scope'])
  for k,v in d['dimensions_mm'].items():
   if k!='hose_path_samples':w.writerow([k,json.dumps(v),'mm unless specified; reference/provisional status in parts list'])
-S=P/'Separate assemblies';shutil.copy2(P.parents[2]/'advanced-tinkering-original'/'balanced-twelve-stack-study'/'Proposed twelve stack mechanical study.step',S/'Latest twelve-stack gun.step')
+S=P/'Separate assemblies';assert (S/'Latest twelve-stack gun.step').is_file()  # Retained R04 snapshot input.
 for name in ['Refined compression fitting - assembled.step','Refined compression fitting - exploded.step']:shutil.copy2(P.parents[2]/'archive/chamber-design/compression-fitting-r02'/name,S/name)
 for name in ['Bent shutter.step','Top plate.step','Substrate stage.step']:shutil.copy2(P.parents[2]/'archive/chamber-design/complete-chamber-r01'/'Separate parts'/name,S/name)
 shutil.copy2(P.parents[2]/'archive/chamber-design/complete-chamber-r01'/'Dimension and clearance report.json',P/'Inherited internal clearance checks.json')

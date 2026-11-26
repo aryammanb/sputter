@@ -1,5 +1,3 @@
-# Render assets
+# Current render assets
 
-The reader guide is now [System architecture and CAD](../system-architecture-and-cad/README.md). This directory stores the linked images, videos and provenance records.
-
-There may be many extra media in this folder - not all of it is part of the latest design. Regard the stuff in the System Architecture and CAD to be latest, but everything else in this folder may be old
+The [System architecture and CAD guide](../system-architecture-and-cad/README.md) presents the eight selected current images and three corrected walkthroughs. [The asset selection](../design/current-render-assets.json) records their files and hashes. Superseded exports, redundant edits and QA frames are not included.

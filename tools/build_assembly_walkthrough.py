@@ -11,7 +11,7 @@ import numpy as np
 import vtk, imageio_ffmpeg
 from vtk.util.numpy_support import numpy_to_vtk, numpy_to_vtkIdTypeArray, vtk_to_numpy
 from PIL import Image, ImageDraw, ImageFont
-from build_current_media import prepare_mesh
+from prepare_r06_mesh import prepare_mesh
 from build_silent_walkthrough import CHAMBER, STAGE, BAFFLE, TURBO, ISO, FORE, GAUGE, MFC, VCR, GAS, POWER
 
 ROOT=Path(__file__).resolve().parents[1]

@@ -8,3 +8,5 @@ These folders explain how the [current model](../models/README.md) was developed
 | [Target and clamp R05](target-clamp-r05/) | Selected target thickness, clamp/screw revision and source geometry for R06 |
 
 Earlier chamber and fitting iterations remain in the [archive](../../archive/chamber-design/README.md). Source scripts refer to them where needed. Original saved records may include historical absolute paths; the [layout map](../layout.json) records the reorganized locations.
+
+The original reconstruction workspace has been removed. R06 preparation starts from the retained R05 snapshot; older authoring scripts are historical records and may require inputs that are no longer distributed.

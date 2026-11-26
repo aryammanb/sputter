@@ -24,2408 +24,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 6706,
-      "sha256": "7151ad63defbbb8fb5416c334050f408a69b7d8ed20f4a42d758e672b85b2f53"
+      "bytes": 6932,
+      "sha256": "241d45d6c61faaf422fc244108a802cdb50e19fbbc964691ff4b5e3179e39e5b"
     },
     {
       "path": "Sputter v2.pptx",
       "bytes": 49738989,
       "sha256": "d0e0ac0e9ff61f36c6782a2c77d241e3d9c5619a593368877afc33ecfcad0549"
-    },
-    {
-      "path": "advanced-tinkering-original/00 SOURCE WORKSPACE - Read first.txt",
-      "bytes": 525,
-      "sha256": "1b0ae7d846905a9f2ac34cc917050b2676a0f316e1852a279977c76b0fc4a412"
-    },
-    {
-      "path": "advanced-tinkering-original/01 Original cathode cooling and magnets.SLDASM",
-      "bytes": 590925,
-      "sha256": "378273fe411c04ebbc5ae24a4b4e0def29e53ec7630a20447b49622116c38c74"
-    },
-    {
-      "path": "advanced-tinkering-original/01 Tube service-end study D25p4x1p5.SLDPRT",
-      "bytes": 47204,
-      "sha256": "ba8520a8c0285f123b5cd848be774c572db1948506388418661c4995d7e499b5"
-    },
-    {
-      "path": "advanced-tinkering-original/01 Tube service-end study D25p4x1p5.step",
-      "bytes": 17670,
-      "sha256": "f4057e94c65be606c6f9ef71768e208cf3cf4531db0213903345625d724714e5"
-    },
-    {
-      "path": "advanced-tinkering-original/02 Original spacer and copper attachment.SLDASM",
-      "bytes": 439535,
-      "sha256": "eb5d6f69b709968e58c6c4cdad89162aac323e5c28f6c5f02270b90f66309191"
-    },
-    {
-      "path": "advanced-tinkering-original/02 Terminal plate D25p2 T2.SLDPRT",
-      "bytes": 71498,
-      "sha256": "4a78954a431f571d02e637935e13b20782dd354a7cd85921e1e6e12fa0764de2"
-    },
-    {
-      "path": "advanced-tinkering-original/02 Terminal plate D25p2 T2.step",
-      "bytes": 33510,
-      "sha256": "8c7c3d54d2c76567e1c3bbad0f55693e5e2c3d1f69e8cab7a8b4bc5a774ec356"
-    },
-    {
-      "path": "advanced-tinkering-original/03 Original PTFE isolation and base.SLDASM",
-      "bytes": 426372,
-      "sha256": "fa729c407f8ed1617bc33705bf9ef7d1cae38f9a64dc696622f2ff46028ce0c3"
-    },
-    {
-      "path": "advanced-tinkering-original/03 SMA132118 mechanical envelope.SLDPRT",
-      "bytes": 60391,
-      "sha256": "b52a56b3406bbd730534b2e4185b67b3357c21111754ed5e032eb27b15fb88d4"
-    },
-    {
-      "path": "advanced-tinkering-original/03 SMA132118 mechanical envelope.step",
-      "bytes": 34882,
-      "sha256": "69c4a29ced9d8ead6016998b601ddaac975807f6d3501ff2d3fe2a1636d9b665"
-    },
-    {
-      "path": "advanced-tinkering-original/04 Original target clamp and fitted target.SLDASM",
-      "bytes": 130864,
-      "sha256": "01f18073435b502cfd76c47a7e95a3f725b68f8da960d8a40fdb47b185d0a20b"
-    },
-    {
-      "path": "advanced-tinkering-original/04 SMA washer D10p2 envelope.SLDPRT",
-      "bytes": 60983,
-      "sha256": "ccbda0e7a9cfda92ea6a7bdedbac4e4de8f34bce553fef5da01c27e36282ea1a"
-    },
-    {
-      "path": "advanced-tinkering-original/04 SMA washer D10p2 envelope.step",
-      "bytes": 17687,
-      "sha256": "4fe9491478d33e645c43d91d6c4e599fb016dffcb7923da7d24d1666fa608db0"
-    },
-    {
-      "path": "advanced-tinkering-original/05 Original grounded shield.SLDASM",
-      "bytes": 368847,
-      "sha256": "7b8e80663c3838f831b284ea2add3592cc5dee0ad766cff75c9ffa4d702f040d"
-    },
-    {
-      "path": "advanced-tinkering-original/05 SMA nut 8AF envelope.SLDPRT",
-      "bytes": 63178,
-      "sha256": "ffcfa83cba05e4440e90312f61cc7a19ab87508997e3494d65725b52989cf03d"
-    },
-    {
-      "path": "advanced-tinkering-original/05 SMA nut 8AF envelope.step",
-      "bytes": 17655,
-      "sha256": "dc780a053536c5b99395c943963f5a931fde9d72c877cff25550bdf6a19c0651"
-    },
-    {
-      "path": "advanced-tinkering-original/06 Hose guide D8 ID6p3.SLDPRT",
-      "bytes": 75211,
-      "sha256": "59cd1b7bf7760c9f30b0a79b74d80b404d37679016bf37f712da3a536a7dec5c"
-    },
-    {
-      "path": "advanced-tinkering-original/06 Hose guide D8 ID6p3.step",
-      "bytes": 29270,
-      "sha256": "4b8a587cee1c4b299148834fa0881e59e360408eabd62d88ad057fc5792ba660"
-    },
-    {
-      "path": "advanced-tinkering-original/06 Original clamp and reference KF16 tube.SLDASM",
-      "bytes": 140844,
-      "sha256": "e925d937be4ddd726f8300d11f2f82125eea60809cd945fa74ea0e0ed5824ace"
-    },
-    {
-      "path": "advanced-tinkering-original/07 Hose D6 mechanical allowance.SLDPRT",
-      "bytes": 42484,
-      "sha256": "0ed8054036ca721a174329c74a8a6dc5326c2c1e3466e24ef5ec941d156e2a27"
-    },
-    {
-      "path": "advanced-tinkering-original/07 Hose D6 mechanical allowance.step",
-      "bytes": 17689,
-      "sha256": "8b143d12b575dd446348141f64d69dec2e0ffab8f8819cfcce537b70e3320267"
-    },
-    {
-      "path": "advanced-tinkering-original/07 Reference atmospheric utility routes.SLDASM",
-      "bytes": 90319,
-      "sha256": "3c45ca25c7c6dad751ea5b883875f3638dc56216e3de46d324a68c31e3829b10"
-    },
-    {
-      "path": "advanced-tinkering-original/08 Coax D5 packaging allowance.SLDPRT",
-      "bytes": 41027,
-      "sha256": "1a33e8cb82c2673e0b34c5bc4c6cbafe42a171a5863f8111572cf82e3b657d20"
-    },
-    {
-      "path": "advanced-tinkering-original/08 Coax D5 packaging allowance.step",
-      "bytes": 12360,
-      "sha256": "6dd0866c3518a8b18bbba6d19365aa85ead9b46072b56f5853a4375f6baf9820"
-    },
-    {
-      "path": "advanced-tinkering-original/132118-manufacturer-drawing.pdf",
-      "bytes": 106435,
-      "sha256": "92d83b13785425a529c1db35bf35eaa8c7562bd97ca0d94ff20209ec68294b4c"
-    },
-    {
-      "path": "advanced-tinkering-original/Advanced Tinkering magnetron - full reconstruction.SLDASM",
-      "bytes": 1707554,
-      "sha256": "93c54180be838bfc90eb2597fb018dca15540c477b78807611d1e06e5931189d"
-    },
-    {
-      "path": "advanced-tinkering-original/Advanced Tinkering magnetron - full reconstruction.step",
-      "bytes": 6973835,
-      "sha256": "0872e96b4efe7296dd4cce54cb6ade9f218ea913c789ce4ce2d385d3cdea575f"
-    },
-    {
-      "path": "advanced-tinkering-original/Assembly BOM.csv",
-      "bytes": 10083,
-      "sha256": "6993597627a088c3f0256f64377929846bc4d9639242c7d0c0cb18a3a7750413"
-    },
-    {
-      "path": "advanced-tinkering-original/Evidence and interface map.csv",
-      "bytes": 1863,
-      "sha256": "bf6c8285703e8040ee036dc9d46b15bffbdba9dd3a9e48569d0eaf8694fd7142"
-    },
-    {
-      "path": "advanced-tinkering-original/One inch terminal - mechanical fit R01.SLDASM",
-      "bytes": 81786,
-      "sha256": "029e482595758b30b0c5ba2a36923b28399cda05cd4ef970ff99488a378ba6d1"
-    },
-    {
-      "path": "advanced-tinkering-original/One inch terminal - mechanical fit R01.step",
-      "bytes": 209262,
-      "sha256": "7264e248b68723c5517f39f799a8cc1a77f46178b9f1da96ecd6ba7c015476c0"
-    },
-    {
-      "path": "advanced-tinkering-original/READ ME - design and assembly.txt",
-      "bytes": 6761,
-      "sha256": "4f8b9b568b37284999a97148a04246082f29b2c35779c8af76448edc8d82ce17"
-    },
-    {
-      "path": "advanced-tinkering-original/READ ME - reconstruction and limits.txt",
-      "bytes": 6876,
-      "sha256": "33c2b27d011e6bca730766ed5caad2e5b8437bf601f19d61805975928d450da1"
-    },
-    {
-      "path": "advanced-tinkering-original/README.md",
-      "bytes": 847,
-      "sha256": "49c26ef999d64174ff84c7e4d7538cb34569008159e027584b89919450df5069"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/01 Original cathode cooling and magnets.SLDASM",
-      "bytes": 592660,
-      "sha256": "f6f841f192cfaef1dfce293fc7623e529e48957c15b8cefc417ea77da842a9a9"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/02 Original spacer and copper attachment.SLDASM",
-      "bytes": 441649,
-      "sha256": "35db49d8a5d0a061e1bf93cd2822416c7d465bcd97040d6bca21e394ec0d37cc"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/03 Original PTFE isolation and base.SLDASM",
-      "bytes": 429861,
-      "sha256": "a4b3ea8cae378a229fe46441aeac99e312de4f1085d1bf642cc9a1bf86e06f77"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/04 Original target clamp and fitted target.SLDASM",
-      "bytes": 132211,
-      "sha256": "f1ef710f0ddf440498f9233c19b4ccf6da61137f3a79ab14415ce54fc2b91321"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/05 Original grounded shield.SLDASM",
-      "bytes": 371765,
-      "sha256": "d5485e1be1a2547b2527cd367891ab17eec2295f263b83a3694e7e557015b68e"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/06 Original clamp and reference KF16 tube.SLDASM",
-      "bytes": 143142,
-      "sha256": "08ded0974fbfe72d856a9e4d59d25cf03f14fb411b0c5788a5d39c76c1c5440a"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/07 Reference atmospheric utility routes.SLDASM",
-      "bytes": 90518,
-      "sha256": "73de08f71a18ad3d16a966d76d6f255883e68eb953e8d1a3f1de2d84e5ade3f9"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/AT M3x16 socket-head study.SLDPRT",
-      "bytes": 62092,
-      "sha256": "97b610db67d2ab44a0c1af84e320a7d7550c20c4c4229bc5fc74f39a99d909a3"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/AT M3x35 socket-head study.SLDPRT",
-      "bytes": 55706,
-      "sha256": "3311caa28bba70d2f49f0267f5136767bbb2e1e2aaf48c52f73827289c395407"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/AT M3x6 socket-head study.SLDPRT",
-      "bytes": 68600,
-      "sha256": "312c422af375285c18e67e34edd738c8bb7569dbba2761841146e1d656697680"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/AT M3x8 socket-head study.SLDPRT",
-      "bytes": 67383,
-      "sha256": "93f78c7cac162315d7942feaa4f5ea2eddfa39322a3c8dde8c545fd638ffe68f"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/AT M4x10 socket-head study.SLDPRT",
-      "bytes": 67031,
-      "sha256": "102b7e1268014bf2d357b9112db5f8a2aea74896f095f9bda4602789df815444"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/AT M4x8 socket-head study.SLDPRT",
-      "bytes": 68525,
-      "sha256": "158a9aa1039aae732e922319021a755f8254ee7cd8884dda45d9085247a646c7"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/AT M5x20 socket-head study.SLDPRT",
-      "bytes": 63737,
-      "sha256": "197cbc5ccdae59e6fd04793283ad4a8a3a9d840380ea5df8617b813c370463c0"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/AT O-ring ID14p5x2 installed.SLDPRT",
-      "bytes": 109029,
-      "sha256": "05c2e23186454dbcd65ecf2c3f21af479e45147a063c95c2c9c9b7282c02b6f9"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/AT O-ring ID35x2 installed.SLDPRT",
-      "bytes": 98021,
-      "sha256": "24a6758006529b0c9f2eae262db4a52a93e38164c560198ed9ca26e854541d23"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/AT O-ring ID62x2 installed.SLDPRT",
-      "bytes": 93097,
-      "sha256": "1b4dae1ff7231ed0a6cc8b8ad7b02f96f992bfdb21eda20094cb5737cd697423"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/AT O-ring ID76x2 installed.SLDPRT",
-      "bytes": 91097,
-      "sha256": "4010e1b5840d63ecdaa80b205cd8c0452d174ef3334188581a24dd2305ef073e"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/AT PTFE screw shoulder sleeve fitted.SLDPRT",
-      "bytes": 54583,
-      "sha256": "047e053178e83463a2aad503e8fc67fd512fb5b8a73760dc3db3628358786f75"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/AT bare HV wire hook fitted.SLDPRT",
-      "bytes": 103156,
-      "sha256": "37187b610c0018f3352e46f5c9277483fc5ea4509f7a83f9106546f4efe66a42"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/AT center magnet D12x10 N45.SLDPRT",
-      "bytes": 52720,
-      "sha256": "a654a686241569755e72705b2db232127dffceb7549837406b7bb6363d4d4719"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/AT original flange clamp half.SLDPRT",
-      "bytes": 113048,
-      "sha256": "0885d766cca28b9e235b29b543e4262fc969c195058a151599256ea4feef7532"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/AT outer magnet D8x20 N45.SLDPRT",
-      "bytes": 47106,
-      "sha256": "216bbafe4bdd3dc878256e5afa04a76f9cd8eb35c026ed687d1152ac04bb869c"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/AT titanium target D50p8x2 fitted.SLDPRT",
-      "bytes": 54969,
-      "sha256": "53a6c33507e0dedf587dbeeb8c6fe87e907c5231cdbf57ba385eef3c619badd7"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Abstandshalter.SLDPRT",
-      "bytes": 543669,
-      "sha256": "d9a4bf471d0d232cacb9881db969e16f650f521666bc213af678782cb7625964"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Abstandshalter.step",
-      "bytes": 524222,
-      "sha256": "04c60d984a8cd1094c36a2550583bc1d195758bb5303b5f06f5818dfe24d1376"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Advanced Tinkering magnetron - full reconstruction.SLDASM",
-      "bytes": 1708858,
-      "sha256": "eb18c39613936a76e263ff7a524d742ac57fc5faa19aa64ba8e325c75f2dc410"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Advanced Tinkering magnetron - full reconstruction.step",
-      "bytes": 6973835,
-      "sha256": "0872e96b4efe7296dd4cce54cb6ade9f218ea913c789ce4ce2d385d3cdea575f"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Assembly BOM.csv",
-      "bytes": 10083,
-      "sha256": "6993597627a088c3f0256f64377929846bc4d9639242c7d0c0cb18a3a7750413"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Backplate.SLDPRT",
-      "bytes": 239628,
-      "sha256": "ff7cd3920cc97a1d03c405fa8be5c31de3e165bdf15c1f67d217624601e65960"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Backplate.step",
-      "bytes": 183409,
-      "sha256": "75213bdb5b3f82557c632c01ed6b8d63d2abc72a1accf7bf55d818fbea88be78"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Boden.SLDPRT",
-      "bytes": 416183,
-      "sha256": "1e764fbf51c5f60cc3d5ff15b92aee2907b0699cefad2c55e10e0c3e009101cf"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Boden.step",
-      "bytes": 380950,
-      "sha256": "6af13cfa355f534cc774ae01245a2b1c3b1e327800baba772f6b04281a9a34fd"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Dunkelraumabschirmung.SLDPRT",
-      "bytes": 218901,
-      "sha256": "6a8a3c2400a3354e175425d874891a70cc55acb8105e9b7dc609d45e827356a7"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Dunkelraumabschirmung.step",
-      "bytes": 176862,
-      "sha256": "165ca121453d234d550c6418f7d2b79d5c05d38eda16f63f34dd0d01085d337c"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Evidence and interface map.csv",
-      "bytes": 1863,
-      "sha256": "bf6c8285703e8040ee036dc9d46b15bffbdba9dd3a9e48569d0eaf8694fd7142"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Flanschklemme.step",
-      "bytes": 68639,
-      "sha256": "6e79eede6257006372ba1429ed95729fa000caa87339c1762a8aa56bb3f67462"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Free-state O-rings/AT O-ring ID14p5x2 free.SLDPRT",
-      "bytes": 103293,
-      "sha256": "292681d6de33dadd1283ec4e5bb05a3afc2c00966be09af56edfa2afa3fda8c1"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Free-state O-rings/AT O-ring ID35x2 free.SLDPRT",
-      "bytes": 94889,
-      "sha256": "30e86eac8e12758326036bb30fbe4abdd6f04dbc3e33f01bd0d2514749f17f6a"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Free-state O-rings/AT O-ring ID62x2 free.SLDPRT",
-      "bytes": 91265,
-      "sha256": "27026b26a3ab4f23add3fb40d994d7f8dd398c2d5dd0a66c0fa44ddffc5ced24"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Free-state O-rings/AT O-ring ID76x2 free.SLDPRT",
-      "bytes": 90880,
-      "sha256": "167a4247de95c491199a332ad5697329ee157bc7ac95d30f82e3e852da548db6"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Groundshield Rohr.SLDPRT",
-      "bytes": 402845,
-      "sha256": "320d2b2c15981e5362b3f2cae82718c147db3f676578017b6438bb3a5a015454"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Groundshield Rohr.step",
-      "bytes": 525038,
-      "sha256": "59160e042c0a8556112fb88497d2c76632b4323967b57351f51fef56cfee1b14"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Isolator.SLDPRT",
-      "bytes": 165886,
-      "sha256": "e3cbec588ffb88f76ccb5a82b22e57a648e4590cfa5d2fe93326d6f7afd562d7"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Isolator.step",
-      "bytes": 112194,
-      "sha256": "d70836f869631157ae25d3ed0b5d1eebf906759ab7c110e539f954e5a4636d9e"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Kuehlkoerper.SLDPRT",
-      "bytes": 469975,
-      "sha256": "fb07bacca226f97534b77ebc4523b76f3b5f6eb2f2a7655aac1a9e01999c6952"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Kuehlkoerper.step",
-      "bytes": 469303,
-      "sha256": "3fb50fbb132e1de6770d35b5aa6064ef36cca18ca93184094ea4964bc9503e14"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Magnet Joke.SLDPRT",
-      "bytes": 71906,
-      "sha256": "a779e0692d111a2c940d63a8028dc6b95c628a12ae5ea093cddfb07eb52ae499"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Magnet Joke.step",
-      "bytes": 25204,
-      "sha256": "2ce784c32d1255507c229e74c587e96b42f597b06b50eaf58feea1b8378c2976"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/READ ME - reconstruction and limits.txt",
-      "bytes": 6876,
-      "sha256": "33c2b27d011e6bca730766ed5caad2e5b8437bf601f19d61805975928d450da1"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/REF HV copper conductor fitted route.SLDPRT",
-      "bytes": 57140,
-      "sha256": "e1dea3ae2772d9455edcb0dd55854149ad05334f4f59bf14873707deed8cc715"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/REF KF16 O-ring installed envelope.SLDPRT",
-      "bytes": 117157,
-      "sha256": "eeba3c9b0453c5f6136734394a212326a819fd597a495f4ffc7a5832840216e5"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/REF KF16 centering ring fitted.SLDPRT",
-      "bytes": 77620,
-      "sha256": "1677e8e620ac636b88f3638881902adb0a18a66f225294cb2491ea2e2a09ee69"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/REF KF16 flanged tube L200.SLDPRT",
-      "bytes": 51705,
-      "sha256": "fad64896aa65a63f9ba08142ae85807e9db670d2e9e7842852a783a7b08482d8"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/REF blue coolant hose left.SLDPRT",
-      "bytes": 57658,
-      "sha256": "1b869f4639e7eb9778c08d297cf3efee83bb4f147676ec62bffd023c6044ea5b"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/REF blue coolant hose right.SLDPRT",
-      "bytes": 57264,
-      "sha256": "81afa0f0066f7ba33534eb0a6faa949f42af0a319c72b3867a3f814a31f11544"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/REF coolant fitting blue release collar.SLDPRT",
-      "bytes": 64237,
-      "sha256": "d2257d281cf36d0190687118f3a93791bba23496d329b960db1fe8942185df6d"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/REF coolant push-in fitting body.SLDPRT",
-      "bytes": 58479,
-      "sha256": "5f660c9e7bb340366171e28b9c1e2b4ab6dc92052a7e134213f461d57614ea79"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/REF white HV cable fitted insulation.SLDPRT",
-      "bytes": 57183,
-      "sha256": "57eba63e42ff2c6c6f96149dc12e2a0bf87126ae007971c6f48d6446659e6ddb"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/START HERE.txt",
-      "bytes": 804,
-      "sha256": "f099f4e3c36bc3dea628af4fe7ad0823618448f0c3d309b461a173488e8d3351"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Target Klemme.SLDPRT",
-      "bytes": 135950,
-      "sha256": "6156fb18835ae51b15d79f8f261837e9c3f1873a02db1160c820e95100235f96"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/Target Klemme.step",
-      "bytes": 100832,
-      "sha256": "e60b5809befd62731344755eef6b3f0911761f9d56a560c2d11c8295e66f304e"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/assembly-manifest.json",
-      "bytes": 83254,
-      "sha256": "98a4078039e0af1f6c182b0894ced4e91277fd6ca565ca2b88c3e770f227806d"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/generated-parts.json",
-      "bytes": 18007,
-      "sha256": "3944de15131fa948aa430fc1b857784286565a3512bbb034b3c90e8fc6604789"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/hv-repaired-parts.json",
-      "bytes": 1847,
-      "sha256": "f3a4e39546e4a4e6bfb1384a4c949b079aff84d8431ebc2200d959cf51502c6b"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/native-assembly-audit.json",
-      "bytes": 75637,
-      "sha256": "b98291ad802897f5651bc95916a55fab6a77bba9887edc22c56bc7b36fe03fa3"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/pack-and-go-status.json",
-      "bytes": 271,
-      "sha256": "a623a9ee93c87bf997f0ad5dfefc9f0a815c972e22068ea57126e00adeda73c8"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/package-verification.json",
-      "bytes": 299,
-      "sha256": "5c1dedf19c64e3f94316e6ec0690edb3048d4bf15d2a5fa6377e356708b6376f"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/source-sha256.json",
-      "bytes": 926,
-      "sha256": "6bf6d6be44be1ef945618b754c628263fa7264400fcc891bb5e19d21c1871ed7"
-    },
-    {
-      "path": "advanced-tinkering-original/SolidWorks delivery/verification-summary.json",
-      "bytes": 3334,
-      "sha256": "173823fb022e65435f8f111da1c47fa0e4d1268fbac505f75a4087299e8e2a8a"
-    },
-    {
-      "path": "advanced-tinkering-original/Terminal BOM.csv",
-      "bytes": 758,
-      "sha256": "a659a5b5e96250976a4ff33890a41e06bc79b6eaff64fbb6f1ab41b89d810094"
-    },
-    {
-      "path": "advanced-tinkering-original/actual-assembly-mesh.bin",
-      "bytes": 5550698,
-      "sha256": "9ba55fcf5bdaacb93bd4feb21c07f5bc609c2e92295a23ed0234eb3cd655f174"
-    },
-    {
-      "path": "advanced-tinkering-original/assembly-manifest.json",
-      "bytes": 83254,
-      "sha256": "98a4078039e0af1f6c182b0894ced4e91277fd6ca565ca2b88c3e770f227806d"
-    },
-    {
-      "path": "advanced-tinkering-original/assembly-video/Component video coverage.csv",
-      "bytes": 17944,
-      "sha256": "1085eda7db60a16da9c7bce9c7dd2615a86d1f3331b6ed43f2e6679211b5ebe1"
-    },
-    {
-      "path": "advanced-tinkering-original/assembly-video/Detailed assembly video transcript.txt",
-      "bytes": 9614,
-      "sha256": "1d6972e3a41ff1d8e9b21a34833a1edb00519cc3fe25a58e0e4fef111a381a09"
-    },
-    {
-      "path": "advanced-tinkering-original/assembly-video/Render summary.json",
-      "bytes": 851,
-      "sha256": "7b3314594ca0667fb15fdea7b6057c6735d20ebc7f308a639260e72cbb69c629"
-    },
-    {
-      "path": "advanced-tinkering-original/assembly-video/Video verification.json",
-      "bytes": 525,
-      "sha256": "fb3487ec60024df9e5ecaf492bd32bfdb2d47792d295813f4301f443cb744286"
-    },
-    {
-      "path": "advanced-tinkering-original/assembly-video/chapters.ffmeta",
-      "bytes": 1718,
-      "sha256": "1661663fe8beb4f68afb8f96ca7e29ad401ae60ac085a00855110c47980aa5bc"
-    },
-    {
-      "path": "advanced-tinkering-original/assembly-video/chapters.json",
-      "bytes": 12117,
-      "sha256": "3294c232a949689569e5d6117bf8c01c8aa3a7a6b9c83068c7868836897bd1ea"
-    },
-    {
-      "path": "advanced-tinkering-original/assembly-video/subtitles.srt",
-      "bytes": 12931,
-      "sha256": "fa86d49a6fe61b176cad5f49d8897bbe75469758a9dffa76cd21cf24328c1ed8"
-    },
-    {
-      "path": "advanced-tinkering-original/audit-assembly.ps1",
-      "bytes": 2735,
-      "sha256": "2122d7560783da5a4f1900b6c8b017840e276d8e3787e8bf1b019712be402349"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/Captions.srt",
-      "bytes": 4565,
-      "sha256": "228ee5ae67109e9cb60c9f093dc31f860ac50e16ec8b52ff3a7cd5f4f5482797"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/Geometry verification.json",
-      "bytes": 29477,
-      "sha256": "23b498d2b906946036462851c7a0b331aa302e83d265621de79186e2b5c0e12c"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/Mechanical changes explained.txt",
-      "bytes": 6841,
-      "sha256": "e5c1396cc0b71f339e297bec3a3274f67da2a302578122de173eada269f687a9"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/Original R03 comparison.step",
-      "bytes": 14867223,
-      "sha256": "7bf2b22cac516d64c1d4fd347a9fe8066e84bf410a52f76a1d9ff40002201f9d"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/Part change register.csv",
-      "bytes": 20400,
-      "sha256": "e9e087eac73bfa83cf067b7fa0154a2cd5dec2d2694627a3516d4df0226b8226"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/Proposed closure.step",
-      "bytes": 199054,
-      "sha256": "d1b82f46d5c3afbf43317774fcbafd3bc5d8f4e9ab0e34102d021d7904d209c9"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/Proposed cooler.step",
-      "bytes": 1325073,
-      "sha256": "d23f539a7f7430f504c083915f13e8066f20599e14d1dacd0f5dad401bb4040c"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/Proposed twelve stack mechanical study.step",
-      "bytes": 13560867,
-      "sha256": "601a9ddc229d1f792f908f21899d677818a57a6a441122ed831b1ad9c9f7cc3b"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/Proposed yoke.step",
-      "bytes": 45678,
-      "sha256": "4c0bdac842fb944cf81caf55d4a19dbff70c8cbe4a127076f7f175b89a0eac22"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/Video transcript.txt",
-      "bytes": 3575,
-      "sha256": "4cd70b45a7e57084a82dfe443563ea7ef9bb2ceca15738a8087f6af17fb91f2e"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/Video verification.json",
-      "bytes": 1209,
-      "sha256": "a3bc67233ced6c458b7a9a4fe3fa4a40938d1f13496e22a6442a807d9e06c112"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/build.log",
-      "bytes": 11033,
-      "sha256": "17aef341c90269d6d8611b56609749920c060c24a5c029e937445880141a74bc"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/build_study.py",
-      "bytes": 8721,
-      "sha256": "4aa4d4e3bf8fd306e34b2d457a82d914295f357aefc7c492deb4a92db73ef2bf"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/chapters.ffmeta",
-      "bytes": 752,
-      "sha256": "73afb48dd0f218e03d2ca3a253fc87c69bc735269139adc2bac0d041091cc5cf"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/chapters.json",
-      "bytes": 4915,
-      "sha256": "b314fdf5a073283b2690cb12d6e6c5753c793f2f3d42f3fb0d2195d34ddd552d"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/delivery.log",
-      "bytes": 175,
-      "sha256": "c3184e52cbbb75696495dc67b7ec52d90ee7f8412396968b8cd401fc66e52465"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/finalize_delivery.py",
-      "bytes": 3159,
-      "sha256": "023af4a9cd08aec591992c3db54fabe1de513174ccef9b7180032e6600c984af"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/Assessment results.json",
-      "bytes": 6125,
-      "sha256": "569cf5ea49b4776556bbc4887f44e58e80db1a39a7a0a3f1b40a17df9fd8c125"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/Captions.srt",
-      "bytes": 4710,
-      "sha256": "19fce1f60b177f06ce59eb43b300669f7ea3b58e09537e59a11602da0b08ad50"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/Field section.png",
-      "bytes": 319613,
-      "sha256": "1ff7173fbe45f1ea8536fdc302138a8b5b03e927608c0f0cde502ebfad5b6397"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/Field versus height.csv",
-      "bytes": 541,
-      "sha256": "d945712811d82da49368b4a3bf0906be7e7d0a91791598af09fbd441e7f638e2"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/Field versus height.png",
-      "bytes": 78527,
-      "sha256": "b5a0cc573db9a9485f64ee8d626968281caf94efb23596dc4eb1eb4acbab32a8"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/Racetrack field.csv",
-      "bytes": 16092,
-      "sha256": "b37043ffad0ac5a016bb1c8c46fc713fc4c9c8e690e569677bfbedeae4522453"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/Racetrack uniformity.png",
-      "bytes": 72208,
-      "sha256": "e1a819b338fc66dcf646afc3aca2a45dc84a96b1905ce13a57094f262585e2af"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/Simulation assessment.txt",
-      "bytes": 7756,
-      "sha256": "1185666e367ab11c6fc7186ce4d6be35bf22bc75a69100f9823f1156584922ec"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/Target field map.png",
-      "bytes": 151146,
-      "sha256": "17ec408f26bd0d28ed1cc4fd72d6e570e86708118e5f7bd4dd0feb1061b90db4"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/Video transcript.txt",
-      "bytes": 3703,
-      "sha256": "ef4389e7ef2d92378c37a3210d6e626c8a3b45985149102dfdff7fa2dec2284d"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/Video verification.json",
-      "bytes": 1349,
-      "sha256": "ded4cc447d37038d22106eb003495407856e5852fc18071fef59983afa50eb78"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/all-results.log",
-      "bytes": 12225,
-      "sha256": "f7e724aecb64b0fd6ea8deed1d0e85623f60852f07371e12bc68fbbdcbe47a07"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/analytic-check.log",
-      "bytes": 466,
-      "sha256": "8f23b5b01951bacb7ceee1960e7760ad0dc4431914350f264ee0435881e54ccc"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/analyze_field.py",
-      "bytes": 6728,
-      "sha256": "91288261f038ff501857abbddbee49cdeae5f702a4c20795e927975e320ec3b0"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/assessment-checks.log",
-      "bytes": 634,
-      "sha256": "4b82076189d937c0e84e24a54bf404c5740a1da7000729fb8a5f6d41ed5a9b8a"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/chapters.ffmeta",
-      "bytes": 817,
-      "sha256": "f1ab74007637851063f45679c594e34c445786e8b30e45fc5f1b719f0cdb3133"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/chapters.json",
-      "bytes": 5012,
-      "sha256": "60ebd0bb2351bb9c28a217cd664def9f8f1e660910ee4f4d4c2064d07bacb470"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/coarse-results.log",
-      "bytes": 2230,
-      "sha256": "08a251012069887a71a3a26487dbec3581843c15ff534a546cd7c4c48f2ab11c"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/coarse.msh",
-      "bytes": 10119081,
-      "sha256": "5c0b43576c6c56e241690ffbcea004a018a76d58844912691c96ee58347e4567"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/coarse_analytic_analytic_validation.json",
-      "bytes": 464,
-      "sha256": "e69ebcb4b4af1a83c4fcce332c43f2b14163a9fe6651f638b973e946a13bef8d"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/coarse_analytic_field.npz",
-      "bytes": 11761605,
-      "sha256": "6763455f0aa5f8f41d55ce9542cff5ad60bf5d8c6b92ad0636da92152d3dc3b6"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/coarse_analytic_solve.json",
-      "bytes": 1111,
-      "sha256": "cc4f2597f2acec053c7d002c9d0c0c5bcece9d190787efe540c8d114bc937204"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/coarse_mesh.json",
-      "bytes": 526,
-      "sha256": "9f6262a82e76acfa674d0f34450087ab3bbbcda0ab3264285afe2d3611239709"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/coarse_mesh.npz",
-      "bytes": 3291511,
-      "sha256": "2ad7332c967b4485170d5ec2c46925e1024c28fead0219924f2ee95bfe0bde59"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/coarse_nominal_field.npz",
-      "bytes": 11810869,
-      "sha256": "c153981e5136734f20598aa436c0f43e680a187d8c6ec1684c980142573c64f9"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/coarse_nominal_metrics.json",
-      "bytes": 2444,
-      "sha256": "c8cd1fb0afde507998705509bce92c5e2b3748aba786053f4604f99447e9ee10"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/coarse_nominal_samples.npz",
-      "bytes": 3979870,
-      "sha256": "1b80c1e5104fd5e0175341b1cd9cb3fb56c07a68057729df391a7388c6275d0e"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/coarse_steel-hard_field.npz",
-      "bytes": 11810102,
-      "sha256": "3101f5f132acc344f4d6ef9ba1d9c80e2d1e07f6c2a6a13d7a9049e334005f44"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/coarse_steel-hard_metrics.json",
-      "bytes": 2444,
-      "sha256": "53c72511f478a6415f471bb04aa9226aaa64d2e0bea0ffae096ff10539cc8581"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/coarse_steel-hard_samples.npz",
-      "bytes": 3980277,
-      "sha256": "cf36938b703f32ab883ccc13d752a845f907982b1e6fbb49047afda64fd03024"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/coarse_steel-hard_solve.json",
-      "bytes": 2202,
-      "sha256": "302af96b8117d841ef87dc8d3e332b30f8c21ebc60cbea50d92c8761161419dd"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/coarse_steel-soft_field.npz",
-      "bytes": 11811099,
-      "sha256": "a14c5eb8808d1f2e5ad126ad06b843aec75ed002f7101a94414248e797f701b0"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/coarse_steel-soft_metrics.json",
-      "bytes": 2448,
-      "sha256": "b0973ab0b1ff134bb616b71129ac10775dcaee4961a096a4fe7d98620c8f4aa7"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/coarse_steel-soft_samples.npz",
-      "bytes": 3980082,
-      "sha256": "bcf6a6f2feb3db24b11cfcbcd9cd815135f870c3824d640445259c684eb56557"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/coarse_steel-soft_solve.json",
-      "bytes": 2201,
-      "sha256": "e0d0731afe7b8d78c5ab1592069a7effb240aef046a318ae1a008ce691ea0cec"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/delivery.log",
-      "bytes": 182,
-      "sha256": "25f4640228e088639e52b6dca1811451335f8a28b909706b61f223ef5e1e7e68"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/fieldlines.json",
-      "bytes": 465783,
-      "sha256": "bca8606717f2de139590115ad4daeb65b1461a80dff43075d6c24b8cfa8c750a"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/fine-analytic-check.log",
-      "bytes": 464,
-      "sha256": "6cfcf79d294940e0bd77a05d749df282c0e816b8bee6b8d6fb2750b04c6eec30"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/fine-results.log",
-      "bytes": 2224,
-      "sha256": "bfd15cfbc53039c96c47a1cde5f8a6a2bf5b5875ff2000cc6850197d9c87051c"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/fine.msh",
-      "bytes": 30441006,
-      "sha256": "1f7fac2211357c9fecffecc43c488ec1f261407a80e52b053d6a793abed70ad7"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/fine_analytic_analytic_validation.json",
-      "bytes": 462,
-      "sha256": "c12511e6e424282a8d7dd6ea7bc5995235fdaed17665d0d66a92f61c2f4e6b3a"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/fine_analytic_field.npz",
-      "bytes": 34853026,
-      "sha256": "6c7a028c2f72d5589a9b45bd0ad7aca970250717a4facd1e44ec74d8b2c2216a"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/fine_analytic_solve.json",
-      "bytes": 1109,
-      "sha256": "1717c4b7c235cdc19797fac6257e10a5dde86718667a5dba072df2b0340071ab"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/fine_mesh.json",
-      "bytes": 527,
-      "sha256": "762c20f1c9e2865ae1c555009fedce9a764abcf9b445f227b7d136fcf71ef218"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/fine_mesh.npz",
-      "bytes": 10231653,
-      "sha256": "cd1d5af2e803b9978fe1d8ac1bf2dffee5d0af1720b3fccbd10d1b283ef30ba8"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/fine_nominal_field.npz",
-      "bytes": 35001102,
-      "sha256": "169ab93bcdde9af201c4776c08418ccacdab1c710e12d7f527c65e7d60986e36"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/fine_nominal_metrics.json",
-      "bytes": 2438,
-      "sha256": "f051893a230f75239cca1c8b190685558e068a0bd3ad4978c6e3388d82a8ee48"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/fine_nominal_samples.npz",
-      "bytes": 3979999,
-      "sha256": "56f68351cc8b86fc50350eeddebf42dc15a4067d7be4d3f7caf5bde7435a01ca"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/fine_nominal_solve.json",
-      "bytes": 2199,
-      "sha256": "dc476e3213a47352a11a76d1e089cc36f5842ff1ec847ee5c548bf9fa6e9c1fe"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/make_assessment.py",
-      "bytes": 12021,
-      "sha256": "bc57808b9f71a765403c0f932345df2ae2b8dfe25d086ad29a21f8ef67b7be7e"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/make_mesh.py",
-      "bytes": 3894,
-      "sha256": "039ebd6323e6783e30ab4ca74e8e1f5ca2163e2262c2fad5b748fa6d3ed33b18"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/mesh-coarse.log",
-      "bytes": 39978,
-      "sha256": "9e65cc781020558a78fb6ac337b4ada294dfde5e08ba9a0c5a00d86d9e3baac7"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/mesh-fine.log",
-      "bytes": 52113,
-      "sha256": "46ce020eca123bc3487d268c40211eb14aa7392cb1910a5516294ae2e9dfbf16"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/mesh-wide.log",
-      "bytes": 40347,
-      "sha256": "074cb9b98121355ff6016439470ef79deb21606501806bb84b66d0fc46856884"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/narrate.ps1",
-      "bytes": 557,
-      "sha256": "32e1718563f87e716500f68dd6f1f246c9ce9972b4cf6bd6644af36758ae43df"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/plot_data.npz",
-      "bytes": 12657085,
-      "sha256": "ee5a34998f26506c58eb40fab70231f548cebdb7663e54db9cbe401e7ad0bcc8"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/prepare_visuals.py",
-      "bytes": 5756,
-      "sha256": "aec55292f198663987fad2458aec5aabfc93acdb4bbcff1e2172baeb75f64f8d"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/render.log",
-      "bytes": 230,
-      "sha256": "88792c6af8df0589b263e6daf7169ef1539febf733de3908663d0f20a7d7fb69"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/render_video.py",
-      "bytes": 11609,
-      "sha256": "2a8a351a0790476dac3bbe7273fae642a166c3e74326d643a0d95057aafba8e6"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/requirements.txt",
-      "bytes": 165,
-      "sha256": "3f777e57f1ab17a1d91c129288d7943411a52d0ac402485f428306b6e73f3837"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/solve-analytic.log",
-      "bytes": 317,
-      "sha256": "cafad0ddd3d1a66bb9a7215a1d1176d60c1b214650349e9a273a5b38a611144a"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/solve-coarse.log",
-      "bytes": 2854,
-      "sha256": "21c9cdfd5eabb38182ad338fe1dfbed6002f9569ff9a331be6574465dca31161"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/solve-fine-analytic.log",
-      "bytes": 312,
-      "sha256": "9384b10fca7a57e7d1de8dbf8be4ba221889bad0bfb96f47cb7e76cf49e80555"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/solve-fine.log",
-      "bytes": 1236,
-      "sha256": "1073e6e7d47d8acbb9c584ca951a775f90f0d0ae556a80a9c751ef745016c561"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/solve-steel-hard.log",
-      "bytes": 1264,
-      "sha256": "8fe8655477e82639671c82cea07024574c38efb8344069c1fa1d5bbaec5e9062"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/solve-steel-soft.log",
-      "bytes": 1264,
-      "sha256": "59ede370a01efecdc5fe5f987aa0f6197e1622980268d1966a65c7a764db4365"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/solve-wide.log",
-      "bytes": 1234,
-      "sha256": "e923bd007bf3682992f8f12d1d0657093f73c1fcd947e3eba91a7f6234e600d1"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/solve_field.py",
-      "bytes": 6114,
-      "sha256": "c98b88649117a6213b04be1f16886d7acb932be8f5160f7a0dcf47d7878cc046"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/target_thickness_sensitivity.json",
-      "bytes": 922,
-      "sha256": "48c24ba36d93f22ecd28d667fffd69b2ebdff8427bddcaf0c6539915dce14790"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/verify_delivery.py",
-      "bytes": 2486,
-      "sha256": "40e4d6a2402ddaafd673b83b9a4bdd5a47a81262129f8f47dfec14f822221607"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/video-preview.log",
-      "bytes": 16,
-      "sha256": "fcae00f3504c73a3123a43bf4bf8cbf01c043b1513201839cd96b83fcb83ba36"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/visual_field_grid.npz",
-      "bytes": 8839451,
-      "sha256": "cfb0a3c4a2426e440ce7349c594fdb61728cb9afde8bd398371b6fdfc85fa3b3"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/visuals.log",
-      "bytes": 88,
-      "sha256": "63203618f8f5af26414a72a5656a853890b36afbcc76b430f33a82928c9bf4ae"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/wide.msh",
-      "bytes": 11246462,
-      "sha256": "72ae5e198533fbe841c2cc8c7c4d6f75ea06b62d3720943ea09a09d600703168"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/wide_mesh.json",
-      "bytes": 525,
-      "sha256": "e5659740e7ae5a2405d9d8879d0a0bad87544308c232f46929ab0f28eb67dc71"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/wide_mesh.npz",
-      "bytes": 3669651,
-      "sha256": "5cc5459e5f1781369c9158cb67f3aeca81924b51d18d2874efadf3030431bd49"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/wide_nominal_field.npz",
-      "bytes": 13089065,
-      "sha256": "f1f8ea48a17e9f629143c192c7828a6ec6c4ffa2307ce5ad1d5e2da3bce99a0e"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/wide_nominal_metrics.json",
-      "bytes": 2441,
-      "sha256": "1f9b35332de2af1ec86d25bf0c7cb76fd6f258213aa5f4ac61175abcf3551e0b"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/wide_nominal_samples.npz",
-      "bytes": 3980297,
-      "sha256": "c17f37fce3a0c7dc56bd83e6b53057a93d40d8671f3e9d6ad05abe03e0e4ecf0"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/wide_nominal_solve.json",
-      "bytes": 2198,
-      "sha256": "2fd314e23127f82e1ec7e4a8aded0018453f25ebc6d9d0e16d7d56a62066e4ae"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/narrate.ps1",
-      "bytes": 550,
-      "sha256": "53bbe2ba30cfcb57da65ef6a98730275e9972abc84de30e2aee1eba1e2c5d866"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/parts.json",
-      "bytes": 169944,
-      "sha256": "bfd3cb4fb297e9a6d5bf84be673e6bb1491396b7e86aa438063696d2d62d96ae"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/preview.log",
-      "bytes": 25,
-      "sha256": "d0d7bcf66b572d7f310415d004943280fb3e1a73c92399cc3416227318bb0dd1"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/render.log",
-      "bytes": 231,
-      "sha256": "6ffb9aecf3f959bfa98e5490089854b26a43bbf5fd560aff4c52bbf839d5071d"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/render_comparison.py",
-      "bytes": 9952,
-      "sha256": "75b521cec875d33e3dd3020b034694fcfc6ef5342ea1c88ffc0e1fa48676b68b"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/verification.log",
-      "bytes": 1706,
-      "sha256": "7fbad4439df82163009559a7f840c835ee6a7f9cdefb9f2d55c5dc370a0ce6cc"
-    },
-    {
-      "path": "advanced-tinkering-original/balanced-twelve-stack-study/verify_study.py",
-      "bytes": 3878,
-      "sha256": "2e8e5bd522ee4a372e3554849d21d7d55683d1b7ceb66b9ede6cac241fae789a"
-    },
-    {
-      "path": "advanced-tinkering-original/brazed-joint-video/Video transcript.txt",
-      "bytes": 1872,
-      "sha256": "44c9100d09b1ae6d2447389d38ff8b8c08b97a8634e67b871b66078d6ff24358"
-    },
-    {
-      "path": "advanced-tinkering-original/brazed-joint-video/narrate.ps1",
-      "bytes": 575,
-      "sha256": "63f1b32ab07dfad62775333a0eab840ee5adb44124e6b47c9617143b9627161e"
-    },
-    {
-      "path": "advanced-tinkering-original/brazed-joint-video/render.py",
-      "bytes": 8925,
-      "sha256": "f1929aecc31c556f2ddd89ff5278eeaf71b218e0f52853b6a6e9de61fa366884"
-    },
-    {
-      "path": "advanced-tinkering-original/brazed-joint-video/scenes.json",
-      "bytes": 2689,
-      "sha256": "a8d5f379e7d91dce363fee60ed53376990a1e83ba6d420b956d63672ad9b25e7"
-    },
-    {
-      "path": "advanced-tinkering-original/build-original-assembly.ps1",
-      "bytes": 28416,
-      "sha256": "8b7e2e880b4c694de3576e18724ac0830dce5ca9b412428d6d9083aaa5b6dcec"
-    },
-    {
-      "path": "advanced-tinkering-original/build-terminal.ps1",
-      "bytes": 10982,
-      "sha256": "da720e263dda9d93cd375112add7a8e62d575b434b90fc2c3cc471251a41a91b"
-    },
-    {
-      "path": "advanced-tinkering-original/check-and-illustrate.py",
-      "bytes": 7902,
-      "sha256": "c0ed0c78d21a516bf2cde6f57e85187bef682fec5ae44be11b01a9bafc2c0569"
-    },
-    {
-      "path": "advanced-tinkering-original/construction-plan.json",
-      "bytes": 5037,
-      "sha256": "dda0e8db780c122b224b5d86035dc621f86d65bb3eba6cca40f80b659a88c81a"
-    },
-    {
-      "path": "advanced-tinkering-original/delivery-verification.json",
-      "bytes": 437,
-      "sha256": "2ae663a7309d57048dc7dc1bac7a8f41019c18c8841150629504e84bf5530527"
-    },
-    {
-      "path": "advanced-tinkering-original/derive-plan.py",
-      "bytes": 2309,
-      "sha256": "cfc51350bc13c906b0a3340d458cbff1b33786ec863145296dfb5f5cbf7d1fd1"
-    },
-    {
-      "path": "advanced-tinkering-original/export-and-pack.ps1",
-      "bytes": 3404,
-      "sha256": "33967c032f3dad07d288340dd3c2e59e5f2459d568361695f86396688f2125ac"
-    },
-    {
-      "path": "advanced-tinkering-original/finalize-delivery.py",
-      "bytes": 2916,
-      "sha256": "38c18fb9ed9f861dd17ef559093764c06be4785015ca43bd41fec75000a180a2"
-    },
-    {
-      "path": "advanced-tinkering-original/generated-parts.json",
-      "bytes": 18007,
-      "sha256": "3944de15131fa948aa430fc1b857784286565a3512bbb034b3c90e8fc6604789"
-    },
-    {
-      "path": "advanced-tinkering-original/head-arc-guard-concept/Geometry checks.json",
-      "bytes": 2442,
-      "sha256": "6e3e27e73eeab18d2e8aba6f3517bff6f1b846d187036369275d800e9b86e046"
-    },
-    {
-      "path": "advanced-tinkering-original/head-arc-guard-concept/Guard envelope checks.json",
-      "bytes": 419,
-      "sha256": "9b58b4ebd99e919816c1af1904818b772b868b664466481852201ffefa5b5858"
-    },
-    {
-      "path": "advanced-tinkering-original/head-arc-guard-concept/READ ME - exposed head solution.txt",
-      "bytes": 4275,
-      "sha256": "14aa82229cc6eb5acc97a925c9f93d69db5b1fb7c4edf66d8f5f954c9ae5487d"
-    },
-    {
-      "path": "advanced-tinkering-original/head-arc-guard-concept/Vented head guard - local mechanical concept.step",
-      "bytes": 369998,
-      "sha256": "df8b0816ab515712e9342a7aaa3fae5209b2d3a01defc956694a2bea07ec5f12"
-    },
-    {
-      "path": "advanced-tinkering-original/head-arc-guard-concept/Video summary.json",
-      "bytes": 375,
-      "sha256": "55bf56f3b2c93f64c22eb3868ca8a6b9e6a54eaa29f92787d51922a2fd85a7e5"
-    },
-    {
-      "path": "advanced-tinkering-original/head-arc-guard-concept/Video verification.json",
-      "bytes": 224,
-      "sha256": "c5e36f8e69d01e5ffa0cece9cb6fa345df47f8d2ad65008d1d42d1b89c32281f"
-    },
-    {
-      "path": "advanced-tinkering-original/head-arc-guard-concept/build.py",
-      "bytes": 5439,
-      "sha256": "728a326c0951e089578bcb1ce2dd1271397d75b82d5d90fcfe541ef909981e2c"
-    },
-    {
-      "path": "advanced-tinkering-original/head-arc-guard-concept/chapters.json",
-      "bytes": 2306,
-      "sha256": "e5b2318941fc1be75cae26d442a07357f6de1f7d0fab695d56a5aedd67014e68"
-    },
-    {
-      "path": "advanced-tinkering-original/head-arc-guard-concept/check_guard_envelopes.py",
-      "bytes": 2088,
-      "sha256": "42433f929c718cbe22cbe7174ae59770ec7f9fdb93076d3bae87037c889424e0"
-    },
-    {
-      "path": "advanced-tinkering-original/head-arc-guard-concept/geometry.json",
-      "bytes": 527962,
-      "sha256": "c374bef4e65cb4d2c80b8d226cf28793b2bd816cddfff03c723185395bc7b492"
-    },
-    {
-      "path": "advanced-tinkering-original/head-arc-guard-concept/narrate.ps1",
-      "bytes": 500,
-      "sha256": "b3426e4f4f9926899b702dde71990d750873f2b13857a285b899cf10819fc046"
-    },
-    {
-      "path": "advanced-tinkering-original/head-arc-guard-concept/render.py",
-      "bytes": 7053,
-      "sha256": "ab251e6f40eeba9fd8297ccd2955baeacb736a9d8983248ca417011e6dbe71a4"
-    },
-    {
-      "path": "advanced-tinkering-original/head-arc-guard-concept/verify.py",
-      "bytes": 1425,
-      "sha256": "b72019f5e86edec21faaec8669f914753c9d20713b7454db3ba8f4cd1afc36f3"
-    },
-    {
-      "path": "advanced-tinkering-original/hv-repaired-parts.json",
-      "bytes": 1847,
-      "sha256": "f3a4e39546e4a4e6bfb1384a4c949b079aff84d8431ebc2200d959cf51502c6b"
-    },
-    {
-      "path": "advanced-tinkering-original/import-and-inspect.ps1",
-      "bytes": 3448,
-      "sha256": "f85a75e8c4dddc7327b333c34f9245b2356abd85719e7cb267acfe2a9f30f4f0"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/Integrated single coax magnetron R02.step",
-      "bytes": 10652713,
-      "sha256": "40b5dfa6f78c5b91c484ad0ca7e6a3d69d1aa53939f55cd22dbe6190a0286ad7"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP delivery/Assembly BOM and limits.csv",
-      "bytes": 27179,
-      "sha256": "800ca99daa1745ceeeb714ae961e4b1044e28456f312772874cd17dfc689ef19"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP delivery/Integrated single coax magnetron R02.step",
-      "bytes": 14948018,
-      "sha256": "2413ce09ae3d282e5f4636b15c90ce849abf2a7b8edc42b4cf3234f3e833bef9"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP delivery/R02 Additional dielectric guard sleeve.step",
-      "bytes": 20353,
-      "sha256": "f08a0d90f253453b812caf7d4e78c9a51f43d0d88d8aadcdf5a41bd3d2675219"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP delivery/R02 Boden - internal blind ground anchor.step",
-      "bytes": 1023968,
-      "sha256": "b647c0ca5ed0ddeea887df22cacb46a4818d116441fd12fc7204b58076aa92d9"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP delivery/R02 Continuous center dielectric.step",
-      "bytes": 36621,
-      "sha256": "19f3d3a3cedcc902d0e43f6b053cbf0fa4432313acd3772bc8b91566e918355d"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP delivery/R02 Continuous coax outer jacket.step",
-      "bytes": 25965,
-      "sha256": "768cb872838a0856db2c054d35623daaac9558b540afa93ee9bf55be009bd753"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP delivery/R02 Continuous coax shield.step",
-      "bytes": 26011,
-      "sha256": "aa7dc351f6f5d64650d9cd2d9b925d6956376b1b7b78a11aa7759553e536918c"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP delivery/R02 Copper terminal stand-off D6p5 L12p5.step",
-      "bytes": 9388,
-      "sha256": "4f7d7d00664271a69ad792d1067056197dea29e662128fcf0a09dcad5ec0b2ab"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP delivery/R02 Ground carrier and conformal saddle.step",
-      "bytes": 191757,
-      "sha256": "01094c0685a6634206925380357f8405bc10d62ebac4c84f44d28de7cccac7cc"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP delivery/R02 KF16 neck to one inch service tube.step",
-      "bytes": 27529,
-      "sha256": "3624e23feef6bb32107a202148e90f478727f83a71776528c455443412b49048"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP delivery/R02 M3 clamp nut envelope.step",
-      "bytes": 9302,
-      "sha256": "69ecf7c642e3c84fab7babebab587fa44c7b0c078c1858ea89bcb11f318b426a"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP delivery/R02 M3x4 clamp mounting screw.step",
-      "bytes": 9525,
-      "sha256": "df36cec08f22ec2330d1fd107c1d1872d1e87016e7b9d7ea09d69e830688dad5"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP delivery/R02 M3x6 blind ground anchor screw.step",
-      "bytes": 10441,
-      "sha256": "955ffc7658eaf18654d51c7951286bb9ac3dbecdfbcf8febd44475c3ff18cdc3"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP delivery/R02 M4x20 live terminal screw.step",
-      "bytes": 9624,
-      "sha256": "a815f414be8ad8098fa2b1183751c4b62bf9d6c275fb0db92007ac5c1a19d4e6"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP delivery/R02 RF center conductor.step",
-      "bytes": 19270,
-      "sha256": "0a7af3650e527009d4e9b669a7fc993c8de0448abc403a56e00196cfdc48faf6"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP delivery/READ ME - integration and limits.txt",
-      "bytes": 5362,
-      "sha256": "685330a3a93f5d0f2ddd882b68bdda9046b0b8154299aad81ade3d09cf715904"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP delivery/REF TE323086 M4 ring terminal study.step",
-      "bytes": 39437,
-      "sha256": "6b932cf44c17db5157162586f7f9f82bce39950af15c0952e5189dafdf9201df"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP delivery/REF icotek SKL3-6 36202 installed study.step",
-      "bytes": 76000,
-      "sha256": "3e25980e9664d8e4a5f5e5780bfb694e3b6248b96c0c02827f2698f1469c1747"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP delivery/STEP-verification.json",
-      "bytes": 962,
-      "sha256": "d015ecc6c17be373ce347182119e8da32948c86374c8c0a505790b83b59a89fc"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP delivery/geometry-verification.json",
-      "bytes": 9525,
-      "sha256": "2de537a9538e2cda7e6b41b311a396d0a37d136e761357cad34964c9be4dd13c"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/STEP-verification.json",
-      "bytes": 962,
-      "sha256": "d015ecc6c17be373ce347182119e8da32948c86374c8c0a505790b83b59a89fc"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/AT M3x16 socket-head study.SLDPRT",
-      "bytes": 62092,
-      "sha256": "97b610db67d2ab44a0c1af84e320a7d7550c20c4c4229bc5fc74f39a99d909a3"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/AT M3x35 socket-head study.SLDPRT",
-      "bytes": 55706,
-      "sha256": "3311caa28bba70d2f49f0267f5136767bbb2e1e2aaf48c52f73827289c395407"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/AT M3x6 socket-head study.SLDPRT",
-      "bytes": 68600,
-      "sha256": "312c422af375285c18e67e34edd738c8bb7569dbba2761841146e1d656697680"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/AT M3x8 socket-head study.SLDPRT",
-      "bytes": 67383,
-      "sha256": "93f78c7cac162315d7942feaa4f5ea2eddfa39322a3c8dde8c545fd638ffe68f"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/AT M4x10 socket-head study.SLDPRT",
-      "bytes": 67031,
-      "sha256": "102b7e1268014bf2d357b9112db5f8a2aea74896f095f9bda4602789df815444"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/AT M4x8 socket-head study.SLDPRT",
-      "bytes": 68525,
-      "sha256": "158a9aa1039aae732e922319021a755f8254ee7cd8884dda45d9085247a646c7"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/AT M5x20 socket-head study.SLDPRT",
-      "bytes": 63737,
-      "sha256": "197cbc5ccdae59e6fd04793283ad4a8a3a9d840380ea5df8617b813c370463c0"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/AT O-ring ID14p5x2 installed.SLDPRT",
-      "bytes": 109029,
-      "sha256": "05c2e23186454dbcd65ecf2c3f21af479e45147a063c95c2c9c9b7282c02b6f9"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/AT O-ring ID35x2 installed.SLDPRT",
-      "bytes": 98021,
-      "sha256": "24a6758006529b0c9f2eae262db4a52a93e38164c560198ed9ca26e854541d23"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/AT O-ring ID62x2 installed.SLDPRT",
-      "bytes": 93097,
-      "sha256": "1b4dae1ff7231ed0a6cc8b8ad7b02f96f992bfdb21eda20094cb5737cd697423"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/AT O-ring ID76x2 installed.SLDPRT",
-      "bytes": 91097,
-      "sha256": "4010e1b5840d63ecdaa80b205cd8c0452d174ef3334188581a24dd2305ef073e"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/AT PTFE screw shoulder sleeve fitted.SLDPRT",
-      "bytes": 54583,
-      "sha256": "047e053178e83463a2aad503e8fc67fd512fb5b8a73760dc3db3628358786f75"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/AT center magnet D12x10 N45.SLDPRT",
-      "bytes": 52720,
-      "sha256": "a654a686241569755e72705b2db232127dffceb7549837406b7bb6363d4d4719"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/AT original flange clamp half.SLDPRT",
-      "bytes": 113048,
-      "sha256": "0885d766cca28b9e235b29b543e4262fc969c195058a151599256ea4feef7532"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/AT outer magnet D8x20 N45.SLDPRT",
-      "bytes": 47106,
-      "sha256": "216bbafe4bdd3dc878256e5afa04a76f9cd8eb35c026ed687d1152ac04bb869c"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/AT titanium target D50p8x2 fitted.SLDPRT",
-      "bytes": 54969,
-      "sha256": "53a6c33507e0dedf587dbeeb8c6fe87e907c5231cdbf57ba385eef3c619badd7"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/Abstandshalter.SLDPRT",
-      "bytes": 543669,
-      "sha256": "d9a4bf471d0d232cacb9881db969e16f650f521666bc213af678782cb7625964"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/Backplate.SLDPRT",
-      "bytes": 239628,
-      "sha256": "ff7cd3920cc97a1d03c405fa8be5c31de3e165bdf15c1f67d217624601e65960"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/Dunkelraumabschirmung.SLDPRT",
-      "bytes": 218901,
-      "sha256": "6a8a3c2400a3354e175425d874891a70cc55acb8105e9b7dc609d45e827356a7"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/Groundshield Rohr.SLDPRT",
-      "bytes": 402845,
-      "sha256": "320d2b2c15981e5362b3f2cae82718c147db3f676578017b6438bb3a5a015454"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/Isolator.SLDPRT",
-      "bytes": 165886,
-      "sha256": "e3cbec588ffb88f76ccb5a82b22e57a648e4590cfa5d2fe93326d6f7afd562d7"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/Kuehlkoerper.SLDPRT",
-      "bytes": 469975,
-      "sha256": "fb07bacca226f97534b77ebc4523b76f3b5f6eb2f2a7655aac1a9e01999c6952"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/Magnet Joke.SLDPRT",
-      "bytes": 71906,
-      "sha256": "a779e0692d111a2c940d63a8028dc6b95c628a12ae5ea093cddfb07eb52ae499"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/REF KF16 O-ring installed envelope.SLDPRT",
-      "bytes": 117157,
-      "sha256": "eeba3c9b0453c5f6136734394a212326a819fd597a495f4ffc7a5832840216e5"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/REF KF16 centering ring fitted.SLDPRT",
-      "bytes": 77620,
-      "sha256": "1677e8e620ac636b88f3638881902adb0a18a66f225294cb2491ea2e2a09ee69"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/REF blue coolant hose left.SLDPRT",
-      "bytes": 57658,
-      "sha256": "1b869f4639e7eb9778c08d297cf3efee83bb4f147676ec62bffd023c6044ea5b"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/REF blue coolant hose right.SLDPRT",
-      "bytes": 57264,
-      "sha256": "81afa0f0066f7ba33534eb0a6faa949f42af0a319c72b3867a3f814a31f11544"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/REF coolant fitting blue release collar.SLDPRT",
-      "bytes": 64237,
-      "sha256": "d2257d281cf36d0190687118f3a93791bba23496d329b960db1fe8942185df6d"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/REF coolant push-in fitting body.SLDPRT",
-      "bytes": 58479,
-      "sha256": "5f660c9e7bb340366171e28b9c1e2b4ab6dc92052a7e134213f461d57614ea79"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/SolidWorks delivery/Target Klemme.SLDPRT",
-      "bytes": 135950,
-      "sha256": "6156fb18835ae51b15d79f8f261837e9c3f1873a02db1160c820e95100235f96"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/build_geometry.py",
-      "bytes": 12947,
-      "sha256": "0f10b6e012d49a5145de160ff4a52aff58bab9c994bcfadad67d4fa32a80d7d0"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/build_native.ps1",
-      "bytes": 6107,
-      "sha256": "4ef7a49d6fd012a1a7f8f012e5314f1a5b108e4423e59ce5c8d5158968d802b4"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/export_checked_assembly.py",
-      "bytes": 5476,
-      "sha256": "31540658f6e15233d9b290701bba7fd2e4448ff44a8faee2969b44cfc4e17993"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/finish_step_package.py",
-      "bytes": 2427,
-      "sha256": "b0cfb2ab94ef3d750cdefde78d7da258b98614b48f2baeb1950b6d908b93ae3c"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/generated/R02 Additional dielectric guard sleeve.step",
-      "bytes": 20353,
-      "sha256": "f08a0d90f253453b812caf7d4e78c9a51f43d0d88d8aadcdf5a41bd3d2675219"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/generated/R02 Boden - internal blind ground anchor.step",
-      "bytes": 1023968,
-      "sha256": "b647c0ca5ed0ddeea887df22cacb46a4818d116441fd12fc7204b58076aa92d9"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/generated/R02 Continuous center dielectric.step",
-      "bytes": 36621,
-      "sha256": "19f3d3a3cedcc902d0e43f6b053cbf0fa4432313acd3772bc8b91566e918355d"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/generated/R02 Continuous coax outer jacket.step",
-      "bytes": 25965,
-      "sha256": "768cb872838a0856db2c054d35623daaac9558b540afa93ee9bf55be009bd753"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/generated/R02 Continuous coax shield.step",
-      "bytes": 26011,
-      "sha256": "aa7dc351f6f5d64650d9cd2d9b925d6956376b1b7b78a11aa7759553e536918c"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/generated/R02 Copper terminal stand-off D6p5 L12p5.step",
-      "bytes": 9388,
-      "sha256": "4f7d7d00664271a69ad792d1067056197dea29e662128fcf0a09dcad5ec0b2ab"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/generated/R02 Ground carrier and conformal saddle.step",
-      "bytes": 191757,
-      "sha256": "01094c0685a6634206925380357f8405bc10d62ebac4c84f44d28de7cccac7cc"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/generated/R02 KF16 neck to one inch service tube.step",
-      "bytes": 27529,
-      "sha256": "3624e23feef6bb32107a202148e90f478727f83a71776528c455443412b49048"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/generated/R02 M3 clamp nut envelope.step",
-      "bytes": 9302,
-      "sha256": "69ecf7c642e3c84fab7babebab587fa44c7b0c078c1858ea89bcb11f318b426a"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/generated/R02 M3x4 blind ground anchor screw.step",
-      "bytes": 10441,
-      "sha256": "703a472bcff0339076888165773253790d6f7272e62ae65f7d7ab0e49f3cd703"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/generated/R02 M3x4 clamp mounting screw.step",
-      "bytes": 9525,
-      "sha256": "df36cec08f22ec2330d1fd107c1d1872d1e87016e7b9d7ea09d69e830688dad5"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/generated/R02 M3x6 blind ground anchor screw.step",
-      "bytes": 10441,
-      "sha256": "955ffc7658eaf18654d51c7951286bb9ac3dbecdfbcf8febd44475c3ff18cdc3"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/generated/R02 M4x20 live terminal screw.step",
-      "bytes": 9624,
-      "sha256": "a815f414be8ad8098fa2b1183751c4b62bf9d6c275fb0db92007ac5c1a19d4e6"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/generated/R02 RF center conductor.step",
-      "bytes": 19270,
-      "sha256": "0a7af3650e527009d4e9b669a7fc993c8de0448abc403a56e00196cfdc48faf6"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/generated/REF TE323086 M4 ring terminal study.step",
-      "bytes": 39437,
-      "sha256": "6b932cf44c17db5157162586f7f9f82bce39950af15c0952e5189dafdf9201df"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/generated/REF icotek SKL3-6 36202 installed study.step",
-      "bytes": 76000,
-      "sha256": "3e25980e9664d8e4a5f5e5780bfb694e3b6248b96c0c02827f2698f1469c1747"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/geometry-verification.json",
-      "bytes": 9525,
-      "sha256": "2de537a9538e2cda7e6b41b311a396d0a37d136e761357cad34964c9be4dd13c"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/inspect-sw.ps1",
-      "bytes": 188,
-      "sha256": "00dd0ecdd34278d29106da78abc59c32e9092b86f04e2e3e96e5f625e26b3a23"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/narrate-video.ps1",
-      "bytes": 603,
-      "sha256": "c24a1151b2d33728abfe532bba83b5f8893ee22a9b8075937271d1d8c84d59e9"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/native-build-manifest.json",
-      "bytes": 82820,
-      "sha256": "2ae954e8fbc5a18412b05fb8446e38c393d023f8c970b1e7ee10326ca1f9379e"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/render-parts.json",
-      "bytes": 34199,
-      "sha256": "9c72f897f1afb089bca5cc316a04800d442717bd511adda0d6ae9ef4b9eae578"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/render_video.py",
-      "bytes": 11104,
-      "sha256": "cbbbfd2b35f1e4088616dc72af26673800952a4da9cba0758a89bfcdb0bb1560"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/verify_video.py",
-      "bytes": 2052,
-      "sha256": "26bcc507f0110a80bbc09b0d31d874d6456c082ea75152937aec01095496398d"
-    },
-    {
-      "path": "advanced-tinkering-original/integrated-single-coax-r02/video-chapters.json",
-      "bytes": 4538,
-      "sha256": "9355f59088a8dc76b10e0c2ba2bd4cad51373d0ad674bb1237cbb06ffc383120"
-    },
-    {
-      "path": "advanced-tinkering-original/latest-full-walkthrough/Assembly verification.json",
-      "bytes": 3711,
-      "sha256": "3afcb1d8d107457329da327b75373ec7ef0b2719ccfd319b9aec6643a107a58b"
-    },
-    {
-      "path": "advanced-tinkering-original/latest-full-walkthrough/Current assembly BOM.csv",
-      "bytes": 28322,
-      "sha256": "c441b4488c6ced7fec17416f74405e84f8ce69440ac5ab1d013c0d2987e1be70"
-    },
-    {
-      "path": "advanced-tinkering-original/latest-full-walkthrough/Current magnetron R03 - complete study assembly.step",
-      "bytes": 14868582,
-      "sha256": "86ead575a877cd84918a957775c6eaf3db2181eb3a7514c0afcebbef21f3c3fc"
-    },
-    {
-      "path": "advanced-tinkering-original/latest-full-walkthrough/Inherited R02 RF integration notes.txt",
-      "bytes": 5362,
-      "sha256": "685330a3a93f5d0f2ddd882b68bdda9046b0b8154299aad81ade3d09cf715904"
-    },
-    {
-      "path": "advanced-tinkering-original/latest-full-walkthrough/READ ME - current combined assembly.txt",
-      "bytes": 4186,
-      "sha256": "30d7629cd6682e2f344216bbc48a25bc917a827dfba66d91b0a2ed037c0156d0"
-    },
-    {
-      "path": "advanced-tinkering-original/latest-full-walkthrough/Render summary.json",
-      "bytes": 1429,
-      "sha256": "482e1deccc6e86d74b7171aea6fd1bca84971d536f428ddd290d6362d8d6dfec"
-    },
-    {
-      "path": "advanced-tinkering-original/latest-full-walkthrough/Single piece PTFE with outward lip - R02.step",
-      "bytes": 21072,
-      "sha256": "14e895d8e60f1411510f1966e9e8726f7781e147155514e298886832c9c3569a"
-    },
-    {
-      "path": "advanced-tinkering-original/latest-full-walkthrough/Video verification.json",
-      "bytes": 402,
-      "sha256": "f7f0bbeaecce7b26624a08b4a2f1952497f8013e659633d53b35f667e62bc974"
-    },
-    {
-      "path": "advanced-tinkering-original/latest-full-walkthrough/Walkthrough transcript.txt",
-      "bytes": 6494,
-      "sha256": "ae62da11184d88f25e14b74b8fc9cd9b4e736b397c2b9523d3aa8e05f106891c"
-    },
-    {
-      "path": "advanced-tinkering-original/latest-full-walkthrough/build_latest.py",
-      "bytes": 7611,
-      "sha256": "618a869fbc8018cda861b630f1eac47f7a25dd6aa06e8fa32aff3f2828a7c8d3"
-    },
-    {
-      "path": "advanced-tinkering-original/latest-full-walkthrough/chapters.ffmeta",
-      "bytes": 1077,
-      "sha256": "c5489ca6011aa60b30c8815b3ae329de4a4753e0bb323e45b766d61c04526b2e"
-    },
-    {
-      "path": "advanced-tinkering-original/latest-full-walkthrough/chapters.json",
-      "bytes": 8369,
-      "sha256": "573772ac78aeb287864599ef267522142b246474e2d3536f34a55a1925f3520a"
-    },
-    {
-      "path": "advanced-tinkering-original/latest-full-walkthrough/narrate.ps1",
-      "bytes": 503,
-      "sha256": "299f791e2e20af81382565420717d18345d7fc516b523f2d63bfb56f90d31e69"
-    },
-    {
-      "path": "advanced-tinkering-original/latest-full-walkthrough/parts.json",
-      "bytes": 42511,
-      "sha256": "0714d8a2532f51506f1401e28a06cb1c1c58d9c4fed96043c4c24c7bca605514"
-    },
-    {
-      "path": "advanced-tinkering-original/latest-full-walkthrough/render_walkthrough.py",
-      "bytes": 14683,
-      "sha256": "8cea646e4d64f4954a1b401b8b0317a17b689b958ea80955cae716d33390aa41"
-    },
-    {
-      "path": "advanced-tinkering-original/latest-full-walkthrough/subtitles.srt",
-      "bytes": 9041,
-      "sha256": "925afe782962d272f7f7280a7ea845e1a7e8e2d7cece1b5cf9fe6a247ce3f79c"
-    },
-    {
-      "path": "advanced-tinkering-original/latest-full-walkthrough/verify_walkthrough.py",
-      "bytes": 3041,
-      "sha256": "104a521e7568626ce3ef68725624d517acc3144e380d00c5f3413bcdf3e42dca"
-    },
-    {
-      "path": "advanced-tinkering-original/narrate-full-video.ps1",
-      "bytes": 634,
-      "sha256": "8faf388c34015bb94e2892a2394959475456a4441ceed5cd848e1a406004168b"
-    },
-    {
-      "path": "advanced-tinkering-original/native-assembly-audit.json",
-      "bytes": 75637,
-      "sha256": "b98291ad802897f5651bc95916a55fab6a77bba9887edc22c56bc7b36fe03fa3"
-    },
-    {
-      "path": "advanced-tinkering-original/native-verification.json",
-      "bytes": 2354,
-      "sha256": "614ca9e6af4a75c415df92702b961efe131d17b02015d1ee36016317b71f8620"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/01 Tube service-end study D25p4x1p5.SLDPRT",
-      "bytes": 47204,
-      "sha256": "ba8520a8c0285f123b5cd848be774c572db1948506388418661c4995d7e499b5"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/01 Tube service-end study D25p4x1p5.step",
-      "bytes": 17670,
-      "sha256": "f4057e94c65be606c6f9ef71768e208cf3cf4531db0213903345625d724714e5"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/02 Terminal plate D25p2 T2.SLDPRT",
-      "bytes": 71498,
-      "sha256": "4a78954a431f571d02e637935e13b20782dd354a7cd85921e1e6e12fa0764de2"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/02 Terminal plate D25p2 T2.step",
-      "bytes": 33510,
-      "sha256": "8c7c3d54d2c76567e1c3bbad0f55693e5e2c3d1f69e8cab7a8b4bc5a774ec356"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/03 SMA132118 mechanical envelope.SLDPRT",
-      "bytes": 60391,
-      "sha256": "b52a56b3406bbd730534b2e4185b67b3357c21111754ed5e032eb27b15fb88d4"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/03 SMA132118 mechanical envelope.step",
-      "bytes": 34882,
-      "sha256": "69c4a29ced9d8ead6016998b601ddaac975807f6d3501ff2d3fe2a1636d9b665"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/04 SMA washer D10p2 envelope.SLDPRT",
-      "bytes": 60983,
-      "sha256": "ccbda0e7a9cfda92ea6a7bdedbac4e4de8f34bce553fef5da01c27e36282ea1a"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/04 SMA washer D10p2 envelope.step",
-      "bytes": 17687,
-      "sha256": "4fe9491478d33e645c43d91d6c4e599fb016dffcb7923da7d24d1666fa608db0"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/05 SMA nut 8AF envelope.SLDPRT",
-      "bytes": 63178,
-      "sha256": "ffcfa83cba05e4440e90312f61cc7a19ab87508997e3494d65725b52989cf03d"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/05 SMA nut 8AF envelope.step",
-      "bytes": 17655,
-      "sha256": "dc780a053536c5b99395c943963f5a931fde9d72c877cff25550bdf6a19c0651"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/06 Hose guide D8 ID6p3.SLDPRT",
-      "bytes": 75211,
-      "sha256": "59cd1b7bf7760c9f30b0a79b74d80b404d37679016bf37f712da3a536a7dec5c"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/06 Hose guide D8 ID6p3.step",
-      "bytes": 29270,
-      "sha256": "4b8a587cee1c4b299148834fa0881e59e360408eabd62d88ad057fc5792ba660"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/07 Hose D6 mechanical allowance.SLDPRT",
-      "bytes": 42484,
-      "sha256": "0ed8054036ca721a174329c74a8a6dc5326c2c1e3466e24ef5ec941d156e2a27"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/07 Hose D6 mechanical allowance.step",
-      "bytes": 17689,
-      "sha256": "8b143d12b575dd446348141f64d69dec2e0ffab8f8819cfcce537b70e3320267"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/08 Coax D5 packaging allowance.SLDPRT",
-      "bytes": 41027,
-      "sha256": "1a33e8cb82c2673e0b34c5bc4c6cbafe42a171a5863f8111572cf82e3b657d20"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/08 Coax D5 packaging allowance.step",
-      "bytes": 12360,
-      "sha256": "6dd0866c3518a8b18bbba6d19365aa85ead9b46072b56f5853a4375f6baf9820"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/132118-manufacturer-drawing.pdf",
-      "bytes": 106435,
-      "sha256": "92d83b13785425a529c1db35bf35eaa8c7562bd97ca0d94ff20209ec68294b4c"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/One inch terminal - mechanical fit R01.SLDASM",
-      "bytes": 81786,
-      "sha256": "029e482595758b30b0c5ba2a36923b28399cda05cd4ef970ff99488a378ba6d1"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/One inch terminal - mechanical fit R01.step",
-      "bytes": 209262,
-      "sha256": "7264e248b68723c5517f39f799a8cc1a77f46178b9f1da96ecd6ba7c015476c0"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/READ ME - design and assembly.txt",
-      "bytes": 6761,
-      "sha256": "4f8b9b568b37284999a97148a04246082f29b2c35779c8af76448edc8d82ce17"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/Terminal BOM.csv",
-      "bytes": 758,
-      "sha256": "a659a5b5e96250976a4ff33890a41e06bc79b6eaff64fbb6f1ab41b89d810094"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/build-terminal.ps1",
-      "bytes": 10982,
-      "sha256": "da720e263dda9d93cd375112add7a8e62d575b434b90fc2c3cc471251a41a91b"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/check-and-illustrate.py",
-      "bytes": 7902,
-      "sha256": "c0ed0c78d21a516bf2cde6f57e85187bef682fec5ae44be11b01a9bafc2c0569"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/coax-video-chapters.json",
-      "bytes": 4774,
-      "sha256": "cf4941dcde7d5afcbc39e99ce395d67a9ba9848ffd9c0b23671381ef2ce5296a"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/coax-video/Render summary.json",
-      "bytes": 354,
-      "sha256": "6c0b8c6f90ec95b9d863e17b7d5e1a087277c7a01d10019fb985d6a32ad3b538"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/coax-video/Video transcript.txt",
-      "bytes": 3675,
-      "sha256": "52bf03337d48bad636758593f2badd37bd5f43ffc3e1afc5122eb44c026ad304"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/coax-video/Video verification.json",
-      "bytes": 678,
-      "sha256": "7729fd58ec97180f5f53f9617b1355f9ba61d5eafcd6262e8bc2826b7f20668c"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/coax-video/chapters.ffmeta",
-      "bytes": 698,
-      "sha256": "b78ee53d4a3cb46081b63b821962d1e00cb77a2f307ce434ccc72d579240f0de"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/coax-video/subtitles.srt",
-      "bytes": 5059,
-      "sha256": "1f898d1988bf365276fd12b67ec73e0dcd5c0cf232cfd408d63794ecdcbc787f"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/narrate-coax-video.ps1",
-      "bytes": 613,
-      "sha256": "c2ff6b2fee598e98e8ca3373e21cef0000d2b3f06a7aa18b3405e9250163f98c"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/narrate-single-coax-proposal.ps1",
-      "bytes": 625,
-      "sha256": "9d0704191c0c824e92cf1d4079d1f02c2990206b3d3b520d01a5b0f110e07d44"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/native-verification.json",
-      "bytes": 2354,
-      "sha256": "614ca9e6af4a75c415df92702b961efe131d17b02015d1ee36016317b71f8620"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/packaging-verification.json",
-      "bytes": 1365,
-      "sha256": "b9c2162f7ebcaab270b8558c09f90aba66a5350c3374eeaa571deb61465e7340"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/render-coax-video.py",
-      "bytes": 15532,
-      "sha256": "19f63cfd9771127787f26cfefa4d8c0eb97ebfd058959f1cc5d0eafc63c8b17c"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/render-single-coax-proposal.py",
-      "bytes": 10959,
-      "sha256": "56a3c5ccb4b4fd78180c8d3af61690427fdd735653334097579286308e30899a"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/single-coax-proposal/Connection proposal notes.txt",
-      "bytes": 2327,
-      "sha256": "20dad0f4ae62f17ead11b2145a525d3e969f6c73f47fd06462b7a6b4b6957bf4"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/single-coax-proposal/Render summary.json",
-      "bytes": 313,
-      "sha256": "02dd0c7e448e9b5ac98182d8844355414034771703d56731c9689495e06ace93"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/single-coax-proposal/Video verification.json",
-      "bytes": 220,
-      "sha256": "f85c0bd1eafdd97dc0e597a9e190142e385eca714292dcc5fe509a41b9fd34a9"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/single-coax-proposal/chapters.ffmeta",
-      "bytes": 357,
-      "sha256": "4ac0484e1fc6cd0d2c6f82f7f88caa9d70295b8017b8f1eb18bf64aeb540f990"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/single-coax-proposal/chapters.json",
-      "bytes": 2195,
-      "sha256": "236b85acf3942ca8b4a31fd2955aff48261353fe5134c4a6b04145765639fe3a"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/verify-coax-video.py",
-      "bytes": 2230,
-      "sha256": "f100bbf4fc2e030758b616c754291169125f7535fa6d1b3cb490adec400f7f52"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/viewer-geometry.json",
-      "bytes": 786142,
-      "sha256": "4166f68e9cabbc610598ebeee8d3b8c51b6ecea187468014bbf5a7f9d132a7c0"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/viewer-test-tools/package-lock.json",
-      "bytes": 608,
-      "sha256": "4ecd1d2c7da3e6bcd67010369fd9ef9af7620dcc9ff3bb9a7e837b4d5d35042e"
-    },
-    {
-      "path": "advanced-tinkering-original/one-inch-terminal-r01/viewer-test-tools/package.json",
-      "bytes": 61,
-      "sha256": "34973bba84e73f15ea9670d0bca823d91b62c46740a55ab776cc1c855c49f3ef"
-    },
-    {
-      "path": "advanced-tinkering-original/original-geometry.json",
-      "bytes": 207987,
-      "sha256": "68a9dc3a513524a143be31da096d377a33da165264f49f75074495a1a10e893f"
-    },
-    {
-      "path": "advanced-tinkering-original/pack-and-go-status.json",
-      "bytes": 271,
-      "sha256": "a623a9ee93c87bf997f0ad5dfefc9f0a815c972e22068ea57126e00adeda73c8"
-    },
-    {
-      "path": "advanced-tinkering-original/package-verification.json",
-      "bytes": 299,
-      "sha256": "5c1dedf19c64e3f94316e6ec0690edb3048d4bf15d2a5fa6377e356708b6376f"
-    },
-    {
-      "path": "advanced-tinkering-original/packaging-verification.json",
-      "bytes": 1365,
-      "sha256": "b9c2162f7ebcaab270b8558c09f90aba66a5350c3374eeaa571deb61465e7340"
-    },
-    {
-      "path": "advanced-tinkering-original/parts/Abstandshalter.SLDPRT",
-      "bytes": 545458,
-      "sha256": "3b5520f2b58943d93ffd5b2a2f8f5453d27016ca98c2f1615367085086056d69"
-    },
-    {
-      "path": "advanced-tinkering-original/parts/Backplate.SLDPRT",
-      "bytes": 242700,
-      "sha256": "bc80ee0824b0598d8b6a60b7126b15845eccff59922a0fcc9a550759957ca877"
-    },
-    {
-      "path": "advanced-tinkering-original/parts/Boden.SLDPRT",
-      "bytes": 418381,
-      "sha256": "d0972ade3a92882956e0dd8d47967daf96465a5afc0d68453a0825aaa0fd5840"
-    },
-    {
-      "path": "advanced-tinkering-original/parts/Dunkelraumabschirmung.SLDPRT",
-      "bytes": 215702,
-      "sha256": "1b82530f3b72ae13e4d9af418a0a6c06601ccb83165367e7d335cf4a5768c647"
-    },
-    {
-      "path": "advanced-tinkering-original/parts/Flanschklemme.SLDPRT",
-      "bytes": 106108,
-      "sha256": "c8de41df3f69443adb411dbd3b5e53bbd02820f8e879755faf6c8bec2ecb43e5"
-    },
-    {
-      "path": "advanced-tinkering-original/parts/Groundshield Rohr.SLDPRT",
-      "bytes": 397019,
-      "sha256": "f16be9293fd43ca717c91280e33cf4ea06eba9df6af7b500c95f3ca81e9cd4de"
-    },
-    {
-      "path": "advanced-tinkering-original/parts/Isolator.SLDPRT",
-      "bytes": 167783,
-      "sha256": "cf5fc109b60cb314cd17622de26a3ef972a618da563b42f17406bc42cba58059"
-    },
-    {
-      "path": "advanced-tinkering-original/parts/Kuehlkoerper.SLDPRT",
-      "bytes": 474063,
-      "sha256": "210687393e52b8635dd015e107611af0c049bb11407eb8235ee247b143db6303"
-    },
-    {
-      "path": "advanced-tinkering-original/parts/Magnet Joke.SLDPRT",
-      "bytes": 71843,
-      "sha256": "3684c6e0d5f587c0675f4723e1057556dd42f0f5bb4d364a38807a45c5c20faf"
-    },
-    {
-      "path": "advanced-tinkering-original/parts/Target Klemme.SLDPRT",
-      "bytes": 137868,
-      "sha256": "68ed3c363253cfbbf42678771e04627e712aee799826ece169a7c2f8ed9042ad"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT M3x16 socket-head study.SLDPRT",
-      "bytes": 62923,
-      "sha256": "85356a0487a485612ae7b29f6bb1d23de59848f55ad2b644ec23aef95217e626"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT M3x35 socket-head study.SLDPRT",
-      "bytes": 55639,
-      "sha256": "191ecb681c0b703ef37b5000415dba06c2031683151343d2268b53d3a1f2ebb4"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT M3x6 socket-head study.SLDPRT",
-      "bytes": 67914,
-      "sha256": "a4387dca987546086e8c3346906795892c88e272bbb8356cbbafdc0cb565cd94"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT M3x8 socket-head study.SLDPRT",
-      "bytes": 66108,
-      "sha256": "483ef22a4e61919b126b397ba42f49fd43ece3b5fe86b67a224b966fb266d9e4"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT M4x10 socket-head study.SLDPRT",
-      "bytes": 66344,
-      "sha256": "d99836c973716585f6061808065fa9ebf8a41cf79a8400857e6ac04939960811"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT M4x8 socket-head study.SLDPRT",
-      "bytes": 67526,
-      "sha256": "66ac255be868305d29c1066c6683da3ca0f8db86daac6347f87f74369001a8a2"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT M5x20 socket-head study.SLDPRT",
-      "bytes": 62660,
-      "sha256": "391ec34abf3fb3f64527af8e2ea7cb194521f90d3757666e1af96044e2a7e991"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT O-ring ID14p5x2 free.SLDPRT",
-      "bytes": 103293,
-      "sha256": "292681d6de33dadd1283ec4e5bb05a3afc2c00966be09af56edfa2afa3fda8c1"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT O-ring ID14p5x2 installed.SLDPRT",
-      "bytes": 108666,
-      "sha256": "1c3ed582ce8ac9d6848c094fb067ad4ccbdacd2755b1173f3718bb45bd1437af"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT O-ring ID35x2 free.SLDPRT",
-      "bytes": 94889,
-      "sha256": "30e86eac8e12758326036bb30fbe4abdd6f04dbc3e33f01bd0d2514749f17f6a"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT O-ring ID35x2 installed.SLDPRT",
-      "bytes": 98349,
-      "sha256": "81f0853af936425edaeb8edf0719d1a77b306d33f29e55bf012ac39e50da8067"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT O-ring ID62x2 free.SLDPRT",
-      "bytes": 91265,
-      "sha256": "27026b26a3ab4f23add3fb40d994d7f8dd398c2d5dd0a66c0fa44ddffc5ced24"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT O-ring ID62x2 installed.SLDPRT",
-      "bytes": 91099,
-      "sha256": "8862240884cd830707fd5346f02bca292a7d5c069700a30e99988a4959ec18f0"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT O-ring ID76x2 free.SLDPRT",
-      "bytes": 90880,
-      "sha256": "167a4247de95c491199a332ad5697329ee157bc7ac95d30f82e3e852da548db6"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT O-ring ID76x2 installed.SLDPRT",
-      "bytes": 90792,
-      "sha256": "5bba4c9fc26522640e745722e6e27f24b7eec3591ac9c586b8ae4803346b8c00"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT PTFE screw shoulder sleeve fitted.SLDPRT",
-      "bytes": 53594,
-      "sha256": "24719fbb13078a93e877ea36cc0d922b979193ea1b067a69fe6ea8b1413d4881"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT bare HV wire hook fitted.SLDPRT",
-      "bytes": 102416,
-      "sha256": "e29c66d597c87e0a85e751c03917feba4348c9010770c5802d30a4b78e676f0a"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT bare HV wire hook representative.SLDPRT",
-      "bytes": 118260,
-      "sha256": "cd8895f2009d30b532df1df3f005276e9fc76c714f2c9226ff324bfe988f44e4"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT center magnet D12x10 N45.SLDPRT",
-      "bytes": 51683,
-      "sha256": "9711b5e8ba7a064aabbc409c07cad34f2e8572ecf54d491a82766145d7e96bc6"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT original flange clamp half.SLDPRT",
-      "bytes": 111113,
-      "sha256": "2240f6df7497d397e46811ca4144113dbc91671f1f4c46ebe0ed472b09d9ce75"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT outer magnet D8x20 N45.SLDPRT",
-      "bytes": 47225,
-      "sha256": "3f325c35196fe81478de66900c70cdc7414428f0cad83067b74c68433b1dcd51"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/AT titanium target D50p8x2 fitted.SLDPRT",
-      "bytes": 53718,
-      "sha256": "045af13ed5ab857e47b00b1ee68ae331f2845628e6899ef1fee75178d8829eba"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/REF HV copper conductor fitted route.SLDPRT",
-      "bytes": 57098,
-      "sha256": "c799c0ad839909cef018a90aa05d68158f33be7f9f32ec45602b1cb3cf57b062"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/REF HV copper conductor route.SLDPRT",
-      "bytes": 50750,
-      "sha256": "1dd3c7c3a344e6cf2326c5863cbe607f95a7b1149061409db5324d02a8be102a"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/REF KF16 O-ring installed envelope.SLDPRT",
-      "bytes": 115497,
-      "sha256": "f8dc664c1db09992a89d6114ddd87015bf6378c8cb62746e970acce7209ef3a0"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/REF KF16 centering ring fitted.SLDPRT",
-      "bytes": 77537,
-      "sha256": "88c0da6b09242e5df78019ee4a550ca812fed6c5b0332caf73ba29bec4312dce"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/REF KF16 flanged tube L200.SLDPRT",
-      "bytes": 51999,
-      "sha256": "ed27c9a29911c82117bd0871eb328e39fa158daec3e738b7dbb1a1bae7fab70b"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/REF blue coolant hose left.SLDPRT",
-      "bytes": 57133,
-      "sha256": "afd8ee970fc6b5d99f3a0326a8cb464477ab3f983e7f96f69555431613f7a544"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/REF blue coolant hose right.SLDPRT",
-      "bytes": 56422,
-      "sha256": "94a1951ce4b024193083f363a7039884be8a2be32b35d09ed95f72ba4e0e050a"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/REF coolant fitting blue release collar.SLDPRT",
-      "bytes": 63939,
-      "sha256": "15ad51f1d1f77392b68732b85c1e62f96a5f3938243b5cde34e03be849045b56"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/REF coolant push-in fitting body.SLDPRT",
-      "bytes": 57948,
-      "sha256": "0308d38fbbab312e1fc0c56c87955add6b6d5210a6b267555f75ea597696b209"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/REF white HV cable fitted insulation.SLDPRT",
-      "bytes": 57644,
-      "sha256": "8e052ab5a004638a21c23d43a1b742c9d4aeb7f3f45a829e767293566be1356a"
-    },
-    {
-      "path": "advanced-tinkering-original/reconstructed parts/REF white HV cable insulation.SLDPRT",
-      "bytes": 57556,
-      "sha256": "ccb448036efe561d6c2cb6467872aec4b4ca9c15d341d6167d2ae1bdbff52bc7"
-    },
-    {
-      "path": "advanced-tinkering-original/render-full-assembly-video.py",
-      "bytes": 25871,
-      "sha256": "521eafc8bad523f950d70f111ea77de1bd5fb6e488ed7d7923562374d4a1b997"
-    },
-    {
-      "path": "advanced-tinkering-original/render-inspection.py",
-      "bytes": 8608,
-      "sha256": "60d2d68cd443c538461fd0531f0d5629fc41b0cb731e0b55cb939ef60326c40e"
-    },
-    {
-      "path": "advanced-tinkering-original/render-sma-concept.py",
-      "bytes": 4547,
-      "sha256": "614ae1b03e6ed449be76d6b6bbb7e24c9d9a63b877265c2c15074c8b591157fc"
-    },
-    {
-      "path": "advanced-tinkering-original/review-source.py",
-      "bytes": 1975,
-      "sha256": "69a1b66f4325c0a7270b777a6bf2c189bfa248f8356173bd449a41f5e27c90bf"
-    },
-    {
-      "path": "advanced-tinkering-original/screw-isolation-concept/Geometry checks.json",
-      "bytes": 1548,
-      "sha256": "ab3b148473589090e133a47a83a6956ca4815d2c8b58b97d74ae5fbb60bc7118"
-    },
-    {
-      "path": "advanced-tinkering-original/screw-isolation-concept/Metal screw with ceramic isolation - local concept.step",
-      "bytes": 291107,
-      "sha256": "11493b0c5b23f116218faf61f8b8dd1999add6c6a31fd13a08088c2450556731"
-    },
-    {
-      "path": "advanced-tinkering-original/screw-isolation-concept/READ ME.txt",
-      "bytes": 2824,
-      "sha256": "c91d0211bf2992590b2e451b09962b8e740f7641a553d8f9101fb11904ec1092"
-    },
-    {
-      "path": "advanced-tinkering-original/screw-isolation-concept/Video summary.json",
-      "bytes": 381,
-      "sha256": "c3779654339a0fac6b2729264e27134b2e8400f67e3da896bda107bdb3be4955"
-    },
-    {
-      "path": "advanced-tinkering-original/screw-isolation-concept/Video verification.json",
-      "bytes": 211,
-      "sha256": "e168cac9694b0be0e75552f2eb3704c0909d1135725e7621bd15a3c947f16412"
-    },
-    {
-      "path": "advanced-tinkering-original/screw-isolation-concept/build.py",
-      "bytes": 3518,
-      "sha256": "7edfbb1865824b8f3ad02976d323492f2e01d624717294065adaa6b65a01d956"
-    },
-    {
-      "path": "advanced-tinkering-original/screw-isolation-concept/chapters.json",
-      "bytes": 2157,
-      "sha256": "e4d556798e562b9e73cb80058d93d2ae61ac076cf062b94d4fd4ef84500a16f7"
-    },
-    {
-      "path": "advanced-tinkering-original/screw-isolation-concept/geometry.json",
-      "bytes": 292272,
-      "sha256": "b1cd067d03168b1b25ce6563cb6cbe03be02098c4d6eaf7c018f6d9403223172"
-    },
-    {
-      "path": "advanced-tinkering-original/screw-isolation-concept/narrate.ps1",
-      "bytes": 500,
-      "sha256": "b3426e4f4f9926899b702dde71990d750873f2b13857a285b899cf10819fc046"
-    },
-    {
-      "path": "advanced-tinkering-original/screw-isolation-concept/render.py",
-      "bytes": 5812,
-      "sha256": "d73dc54a48672d4fdac55d7475c4a074917ec564795e4288cf6fba6c510c0ee0"
-    },
-    {
-      "path": "advanced-tinkering-original/screw-isolation-concept/verify.py",
-      "bytes": 1425,
-      "sha256": "b72019f5e86edec21faaec8669f914753c9d20713b7454db3ba8f4cd1afc36f3"
-    },
-    {
-      "path": "advanced-tinkering-original/single-piece-ptfe-r02/Geometry verification.json",
-      "bytes": 1741,
-      "sha256": "8c6579a515a3d755febd05f5ea80b337372c764465fbb435127c32c6903d5725"
-    },
-    {
-      "path": "advanced-tinkering-original/single-piece-ptfe-r02/READ ME - outward lip.txt",
-      "bytes": 1893,
-      "sha256": "5790fe5419e4fef72c4069bd1b05a55f778fd4b11aaf87b8a224c527dc5664ab"
-    },
-    {
-      "path": "advanced-tinkering-original/single-piece-ptfe-r02/Single piece PTFE outward lip - local context R02.step",
-      "bytes": 343203,
-      "sha256": "801868fd4b69e78b176e096521730a142606feafe3cf928dd3ce68f9b5fee9e1"
-    },
-    {
-      "path": "advanced-tinkering-original/single-piece-ptfe-r02/Single piece PTFE with outward lip - R02.step",
-      "bytes": 21072,
-      "sha256": "14e895d8e60f1411510f1966e9e8726f7781e147155514e298886832c9c3569a"
-    },
-    {
-      "path": "advanced-tinkering-original/single-piece-ptfe-r02/Visualizer checks.json",
-      "bytes": 484,
-      "sha256": "e8598a3ff5694e1d8fa238ebdf709356b7f1ad7f0e69c13b8f1f9f08dcf69800"
-    },
-    {
-      "path": "advanced-tinkering-original/single-piece-ptfe-r02/build_visualizer_geometry.py",
-      "bytes": 5147,
-      "sha256": "025fdaf64604b3dcd39ae0215ab3fa8525be7b0e24342f4984de69fa72a04561"
-    },
-    {
-      "path": "advanced-tinkering-original/single-piece-ptfe-r02/update_visualizer.py",
-      "bytes": 2334,
-      "sha256": "fabbffa34509146106f65395a4fe35850e818b4bd22d79352d4aeef5a5b6b6d8"
-    },
-    {
-      "path": "advanced-tinkering-original/single-piece-ptfe/Geometry verification.json",
-      "bytes": 1016,
-      "sha256": "c9203d61a63e8a32477c5b1bcb4b0fb4b077dadbf54eb8cb0876805d71fbe81c"
-    },
-    {
-      "path": "advanced-tinkering-original/single-piece-ptfe/Single piece PTFE captured cup - concept.step",
-      "bytes": 17157,
-      "sha256": "2872719b8661375e866942037b22412693a08037be3d11c6ec27a5c9c316c264"
-    },
-    {
-      "path": "advanced-tinkering-original/single-piece-ptfe/Visualizer checks.json",
-      "bytes": 484,
-      "sha256": "e8598a3ff5694e1d8fa238ebdf709356b7f1ad7f0e69c13b8f1f9f08dcf69800"
-    },
-    {
-      "path": "advanced-tinkering-original/single-piece-ptfe/build_visualizer_geometry.py",
-      "bytes": 2936,
-      "sha256": "2fffcc3108434b930b3bfe0308007f4263033fd7b1058b3f9d28406739fc20bf"
-    },
-    {
-      "path": "advanced-tinkering-original/source-sha256.json",
-      "bytes": 926,
-      "sha256": "6bf6d6be44be1ef945618b754c628263fa7264400fcc891bb5e19d21c1871ed7"
-    },
-    {
-      "path": "advanced-tinkering-original/source/Abstandshalter.step",
-      "bytes": 524222,
-      "sha256": "04c60d984a8cd1094c36a2550583bc1d195758bb5303b5f06f5818dfe24d1376"
-    },
-    {
-      "path": "advanced-tinkering-original/source/Backplate.step",
-      "bytes": 183409,
-      "sha256": "75213bdb5b3f82557c632c01ed6b8d63d2abc72a1accf7bf55d818fbea88be78"
-    },
-    {
-      "path": "advanced-tinkering-original/source/Boden.step",
-      "bytes": 380950,
-      "sha256": "6af13cfa355f534cc774ae01245a2b1c3b1e327800baba772f6b04281a9a34fd"
-    },
-    {
-      "path": "advanced-tinkering-original/source/Dunkelraumabschirmung.step",
-      "bytes": 176862,
-      "sha256": "165ca121453d234d550c6418f7d2b79d5c05d38eda16f63f34dd0d01085d337c"
-    },
-    {
-      "path": "advanced-tinkering-original/source/Flanschklemme.step",
-      "bytes": 68639,
-      "sha256": "6e79eede6257006372ba1429ed95729fa000caa87339c1762a8aa56bb3f67462"
-    },
-    {
-      "path": "advanced-tinkering-original/source/Groundshield Rohr.step",
-      "bytes": 525038,
-      "sha256": "59160e042c0a8556112fb88497d2c76632b4323967b57351f51fef56cfee1b14"
-    },
-    {
-      "path": "advanced-tinkering-original/source/Isolator.step",
-      "bytes": 112194,
-      "sha256": "d70836f869631157ae25d3ed0b5d1eebf906759ab7c110e539f954e5a4636d9e"
-    },
-    {
-      "path": "advanced-tinkering-original/source/Kuehlkoerper.step",
-      "bytes": 469303,
-      "sha256": "3fb50fbb132e1de6770d35b5aa6064ef36cca18ca93184094ea4964bc9503e14"
-    },
-    {
-      "path": "advanced-tinkering-original/source/Magnet Joke.step",
-      "bytes": 25204,
-      "sha256": "2ce784c32d1255507c229e74c587e96b42f597b06b50eaf58feea1b8378c2976"
-    },
-    {
-      "path": "advanced-tinkering-original/source/Target Klemme.step",
-      "bytes": 100832,
-      "sha256": "e60b5809befd62731344755eef6b3f0911761f9d56a560c2d11c8295e66f304e"
-    },
-    {
-      "path": "advanced-tinkering-original/verification-summary.json",
-      "bytes": 3334,
-      "sha256": "173823fb022e65435f8f111da1c47fa0e4d1268fbac505f75a4087299e8e2a8a"
-    },
-    {
-      "path": "advanced-tinkering-original/verify-and-document.py",
-      "bytes": 15547,
-      "sha256": "87d8260b103353d018a4b8217782026f8d8ff55686b06dfe890465813075de0c"
-    },
-    {
-      "path": "advanced-tinkering-original/verify-assembly-video.py",
-      "bytes": 2905,
-      "sha256": "766f7260475df802a7a31a2fd76d9adc9d6eaf24be1791122ab5310c2a04af5c"
-    },
-    {
-      "path": "advanced-tinkering-original/verify-package.ps1",
-      "bytes": 2194,
-      "sha256": "048b70daca8e34deb828ace22403ac640e43bfbc4c3547e82873c28ceacedd89"
     },
     {
       "path": "archive/.export-r06-video.ps1",
@@ -5854,8 +3459,8 @@
     },
     {
       "path": "design/current-render-assets.json",
-      "bytes": 3121,
-      "sha256": "21621b45c5eec0936bafe8b58dfb24686d7a94cc771c7fa97e422f25a72dbeba"
+      "bytes": 3846,
+      "sha256": "0eca2a6f61213bf7ba304612384ec8f5972f17b92d4700be9975cd3f368a8d0d"
     },
     {
       "path": "design/current.json",
@@ -5884,18 +3489,18 @@
     },
     {
       "path": "docs/reproducibility.md",
-      "bytes": 5406,
-      "sha256": "7eea54994c191a169cbb844eb470aa7ed93b730b9e196801cef27c0eb14c010f"
+      "bytes": 5122,
+      "sha256": "c6838f3125428b396cdf77149bf979035b533c1c6940d1fadd8a662a971eaf4e"
     },
     {
       "path": "docs/simulations.md",
-      "bytes": 5391,
-      "sha256": "a24d4ef3d398fb4b8e422625097078e20a2fca483c82de707b5e85bca63319de"
+      "bytes": 5146,
+      "sha256": "dfb908945a79e09cb6ca975fa01e9269cd23ba79ec826855d41fcd31294cc78b"
     },
     {
       "path": "docs/sources.md",
-      "bytes": 3624,
-      "sha256": "01c5fe51d6a057c2d49e6ba8337a42ef9af70722d696abb4b55be8da59ce6eb8"
+      "bytes": 3626,
+      "sha256": "73212c45d167b04b1235c6bf1cae52542b10a3f2b48556cdb6df248dcb9c47e4"
     },
     {
       "path": "docs/system.md",
@@ -5908,74 +3513,9 @@
       "sha256": "d73e07e49554164cdf63053d63362cc0ea08da5188268cd6a525ffb682705d8d"
     },
     {
-      "path": "media/01-current-system-transcript.txt",
-      "bytes": 2283,
-      "sha256": "52f21bb1696400d06249e276b77d2bc74ca2663dc9fd9a29ff036eb1a36a279f"
-    },
-    {
-      "path": "media/01-current-system.mp4",
-      "bytes": 7356659,
-      "sha256": "a435f9fc91d24664d6a0766e68b258a585708d77a54c5945c2de94458de3752f"
-    },
-    {
-      "path": "media/02-current-gun-transcript.txt",
-      "bytes": 2405,
-      "sha256": "afe6bc508a3ab9b7ccc66a7a5d12b96c7bab1d60db9caadbfc7028c1ab6a02cb"
-    },
-    {
-      "path": "media/02-current-gun.mp4",
-      "bytes": 6663228,
-      "sha256": "9b677de65a15312b781c879dff3fd86a517d7ae85c1882b5d938dab17d5a1aac"
-    },
-    {
-      "path": "media/03-current-field-and-evidence-transcript.txt",
-      "bytes": 1766,
-      "sha256": "d6fc291942f016f5c8357d544923a7bc86dcb123d42de298ce00a3b5e68e9304"
-    },
-    {
-      "path": "media/03-current-field-and-evidence.mp4",
-      "bytes": 2064179,
-      "sha256": "e00a59e2b925e93d4cc66297cbcd3c9075e8970743a150b475b2402c58496acf"
-    },
-    {
       "path": "media/README.md",
-      "bytes": 189,
-      "sha256": "d9d14b82709cf7039eb7f755934aca32e331c71b7c3b2326a1bf33d7f0907e75"
-    },
-    {
-      "path": "media/assembly-walkthrough/Assembly narration.txt",
-      "bytes": 6716,
-      "sha256": "ef6735608264e544556a594a657e19c1110a399dbf014092bdede17cf5807357"
-    },
-    {
-      "path": "media/assembly-walkthrough/Before shutter correction.mp4",
-      "bytes": 29576690,
-      "sha256": "61177f7c6256fd7b1f6e537c7a542d9e9f18ae9d81fd16a5fe01fa5c49e12e3f"
-    },
-    {
-      "path": "media/assembly-walkthrough/Narration.txt",
-      "bytes": 8722,
-      "sha256": "a82beb5e67ab3356f6aa1f07008d486b97a719dc9a412509e5befbf1391fc3f4"
-    },
-    {
-      "path": "media/assembly-walkthrough/README.md",
-      "bytes": 3614,
-      "sha256": "5b333f941da9c0a73b4d69c4204399f47d3e012d53a13de2e3d93d7574d51a54"
-    },
-    {
-      "path": "media/assembly-walkthrough/Sputter R06 - assembly details.mp4",
-      "bytes": 24738631,
-      "sha256": "a7a2982f85c8bcba1894ee381bcce056365c73fcddd97448b6e237f556b9bc83"
-    },
-    {
-      "path": "media/assembly-walkthrough/Sputter R06 - corrected shutter.mp4",
-      "bytes": 29629456,
-      "sha256": "a7e034db93e2447feede391e9616f9a365b81af84c72c5ab7dc3daad9599f3c0"
-    },
-    {
-      "path": "media/assembly-walkthrough/Sputter R06 - mechanical assembly walkthrough.mp4",
-      "bytes": 29629456,
-      "sha256": "a7e034db93e2447feede391e9616f9a365b81af84c72c5ab7dc3daad9599f3c0"
+      "bytes": 344,
+      "sha256": "8e5a0eb8aac42e162e0531dd80901e608ca5122ae09bb9d77df662543a617838"
     },
     {
       "path": "media/assembly-walkthrough/Sputter R06 - silent 4 minute walkthrough v2.mp4",
@@ -5983,59 +3523,14 @@
       "sha256": "1799df1d3d601db7fc6fa4fb3afdfc8404154c9a39fd13e9b45aa775eba4e1d7"
     },
     {
-      "path": "media/assembly-walkthrough/Sputter R06 - silent 4 minute walkthrough.mp4",
-      "bytes": 16690964,
-      "sha256": "1799df1d3d601db7fc6fa4fb3afdfc8404154c9a39fd13e9b45aa775eba4e1d7"
-    },
-    {
-      "path": "media/assembly-walkthrough/assembly-contact-sheet.jpg",
-      "bytes": 365361,
-      "sha256": "778e2d37b43cc5a06cab5652db48e0386acac88e89ddc766683a65bd274ccbd1"
-    },
-    {
-      "path": "media/assembly-walkthrough/assembly-only-provenance.json",
-      "bytes": 5860,
-      "sha256": "fc5135b1b0e6f0b06cd9bbd5c87bc2f40d77fddd77ceb90bd95edc926da1cf42"
-    },
-    {
-      "path": "media/assembly-walkthrough/before-shutter-correction.json",
-      "bytes": 7608,
-      "sha256": "67884756f08eb4cbf820183752d304e405d7783889d8f92f01a938716c23bb63"
-    },
-    {
       "path": "media/assembly-walkthrough/compact-provenance.json",
       "bytes": 8170,
       "sha256": "7c0abab80c623d03e27ac0ad78694c66840c08fde5f0ea7ced86923af1c70237"
     },
     {
-      "path": "media/assembly-walkthrough/compact-verification.json",
-      "bytes": 287,
-      "sha256": "36ed7aad3f431f0793f38e8da270f35e29938b58d715718f838946fb125c9b95"
-    },
-    {
-      "path": "media/assembly-walkthrough/complete-shutter-repair/Before complete shutter rotation.mp4",
-      "bytes": 18116608,
-      "sha256": "fc4beeacf5632643c8e2590ef7194091f01a813a3ed82798d81e563f781c6532"
-    },
-    {
-      "path": "media/assembly-walkthrough/complete-shutter-repair/Complete shutter rotation - silent.mp4",
-      "bytes": 2184809,
-      "sha256": "0c029f13d49f845f90fd8c111a94554fd617568d850cce07da1e50a7fd47e1dd"
-    },
-    {
       "path": "media/assembly-walkthrough/complete-shutter-repair/assembly-0.84.jpg",
       "bytes": 125618,
       "sha256": "f38f885645074638174e180d35b20040ab2b5dea80fd1b2d60d55c4ac2aba723"
-    },
-    {
-      "path": "media/assembly-walkthrough/complete-shutter-repair/before-compact-provenance.json",
-      "bytes": 7977,
-      "sha256": "eb29c49378bbe9699e79aff6f9865f30223759d9ebf209e31755d3919e29d381"
-    },
-    {
-      "path": "media/assembly-walkthrough/complete-shutter-repair/chapters.ffmeta",
-      "bytes": 3132,
-      "sha256": "13fa91f7657bba9e98ab9fd11543d24f6e6c8104a08c885691e8d47e636c62ba"
     },
     {
       "path": "media/assembly-walkthrough/complete-shutter-repair/motion-verification.json",
@@ -6053,104 +3548,9 @@
       "sha256": "4d298381f7b2872ec08ea6cf8970f443cd911937b0061560441288a06c338afc"
     },
     {
-      "path": "media/assembly-walkthrough/encoded-assembly-contact-sheet.jpg",
-      "bytes": 480425,
-      "sha256": "e8646100d3c40fc974761ed711688533e65bdb08ff40d4e9361d80c8de4f5ee8"
-    },
-    {
-      "path": "media/assembly-walkthrough/operation/Narration.txt",
-      "bytes": 1961,
-      "sha256": "81ff2a316fa7c59b8d05e287b5c62aa37d14e99361ab71d525a11380c8533533"
-    },
-    {
-      "path": "media/assembly-walkthrough/operation/Sputter R06 - mechanical assembly walkthrough.mp4",
-      "bytes": 5982534,
-      "sha256": "97c819d6aba3721fe4e36f84fd6136988648caf846a459a3df1dfadbed767008"
-    },
-    {
-      "path": "media/assembly-walkthrough/operation/assembly-contact-sheet.jpg",
-      "bytes": 119466,
-      "sha256": "863ffca1ca5dc01668bd8089c43f87d4c5978837abc3903238d559690cb3e15a"
-    },
-    {
-      "path": "media/assembly-walkthrough/operation/provenance.json",
-      "bytes": 2462,
-      "sha256": "b2906017f8886711d7a66d7d62ede6653bb821d20b8a72a30f283ca7576ef20c"
-    },
-    {
-      "path": "media/assembly-walkthrough/operation/shots.json",
-      "bytes": 3587,
-      "sha256": "cacc8cb287c139f9441137fbac372a45520f76c968c84a29a6c8f59d61907524"
-    },
-    {
-      "path": "media/assembly-walkthrough/provenance.json",
-      "bytes": 7743,
-      "sha256": "996a67d269e620d9ba10a9568bb7ae532e9975026ee871d3f8272428a0aa464e"
-    },
-    {
-      "path": "media/assembly-walkthrough/shots.json",
-      "bytes": 12512,
-      "sha256": "3d4d1a42630b05dcd0cff0f4c5647a03add1ec991483b7bdc29cdfd7ed21b210"
-    },
-    {
-      "path": "media/assembly-walkthrough/shutter-repair/Narration.txt",
-      "bytes": 1485,
-      "sha256": "efac2762a25127cf4c58de697f36f3aa46733d146041da82011cca614b45b2f0"
-    },
-    {
-      "path": "media/assembly-walkthrough/shutter-repair/Sputter R06 - mechanical assembly walkthrough.mp4",
-      "bytes": 3844486,
-      "sha256": "2c82a8713edb2a58aa2b468ada8bea98e1db1c726cd3cad7f35b9127808bd0c1"
-    },
-    {
-      "path": "media/assembly-walkthrough/shutter-repair/assembly-contact-sheet.jpg",
-      "bytes": 80897,
-      "sha256": "b860e374623b73dcccd9c9ec784c3f3ad49408284e3836602b6f4c1351911cd5"
-    },
-    {
-      "path": "media/assembly-walkthrough/shutter-repair/motion-verification.json",
-      "bytes": 2330,
-      "sha256": "ba11995ffb36294c887b5e354d58cc3982dc67330352212f5640373c9202efa1"
-    },
-    {
-      "path": "media/assembly-walkthrough/shutter-repair/provenance.json",
-      "bytes": 2081,
-      "sha256": "c182fd77ad0e00f1d9868a8cc4e02704546c0a1dec2d4cb59c3dafe39b91d7dc"
-    },
-    {
-      "path": "media/assembly-walkthrough/shutter-repair/shots.json",
-      "bytes": 2714,
-      "sha256": "575dc7dbaf465a2d599a55395b5a2f7a33bde7612189faaf510f09b9f18206d4"
-    },
-    {
-      "path": "media/assembly-walkthrough/verification.json",
-      "bytes": 324,
-      "sha256": "ba9826580622eeeea3f9e2c6aef56e9ae784392d40d36187e542bb1e0f5c1e07"
-    },
-    {
-      "path": "media/chamber.mp4",
-      "bytes": 1289212,
-      "sha256": "fa9d2ba0f1dbef80c2601c329e95cdf2b7423075d5d6af580de428b5a455cb1b"
-    },
-    {
       "path": "media/chamber.png",
       "bytes": 440056,
       "sha256": "d72798ab0f1b7051bdbc0fca8ffefbf92094eb4660b4bdc62d5d817c6d5d133f"
-    },
-    {
-      "path": "media/chamber.srt",
-      "bytes": 1049,
-      "sha256": "7e09b750a82feda84cf3f3d8f2f2d980cf113421306edb9618383a96f62eb6d5"
-    },
-    {
-      "path": "media/chapters.json",
-      "bytes": 8706,
-      "sha256": "0c13a98780d74144f20d0f06b756aad7949b62d45ef5edac739653e6f5d3a476"
-    },
-    {
-      "path": "media/cooling.mp4",
-      "bytes": 4214230,
-      "sha256": "46beca95d33010a619a440d5e5b990c747d5c9cdafd307bb65a02458ea65d0fe"
     },
     {
       "path": "media/cooling.png",
@@ -6158,59 +3558,14 @@
       "sha256": "82639d025253389ed121d34c32bf86c2e0dae581176d8d1e9dee0412db1e5b70"
     },
     {
-      "path": "media/cooling.srt",
-      "bytes": 1171,
-      "sha256": "4965beb972aa2b86269262dcede1f7e028422621552ba515a7d6aee87df43d1e"
-    },
-    {
-      "path": "media/field.mp4",
-      "bytes": 914870,
-      "sha256": "648c2204273d2c021e579355db8e1b1d138112b28fdaa60d0e7035451269db5c"
-    },
-    {
-      "path": "media/field.png",
-      "bytes": 239187,
-      "sha256": "0f1085fd0e7ba54b4625ebd89e29250d27423853c139dc44e44e70b624a19173"
-    },
-    {
-      "path": "media/field.srt",
-      "bytes": 1159,
-      "sha256": "12e4710e8c6794807f2dafa5ba6a58d579e0f53a93aa0088002b3577c6816b57"
-    },
-    {
       "path": "media/gun-complete-walkthrough/8x-edit.json",
       "bytes": 17321,
       "sha256": "d0e4b26e916b4fda53929c4fffbaf4a38e6d2252c79ec48fc77e352b3ed6c585"
     },
     {
-      "path": "media/gun-complete-walkthrough/8x-qa.jpg",
-      "bytes": 69549,
-      "sha256": "c6760d5a6757ea1c4557e9cfde5f48290042741e31cfd6eb7ca33f1f5f133cc2"
-    },
-    {
-      "path": "media/gun-complete-walkthrough/8x-verification.json",
-      "bytes": 221,
-      "sha256": "3067bfe74c9413d6702408457e9d362c587ddf31df153b96f30b0f6ff960dc9f"
-    },
-    {
       "path": "media/gun-complete-walkthrough/Component coverage.csv",
       "bytes": 29322,
       "sha256": "cd5e5c76131c5731607aa516e2da7f55d606309461c36d206e5d4694bfbc79ec"
-    },
-    {
-      "path": "media/gun-complete-walkthrough/Narration.txt",
-      "bytes": 16297,
-      "sha256": "28985781650d7c3bfb42cb1d23aed6454cc025dc5604b5a469be0237cce7a26a"
-    },
-    {
-      "path": "media/gun-complete-walkthrough/R06 sputter gun - 8x faster silent walkthrough.mp4",
-      "bytes": 12148716,
-      "sha256": "6c413bc8f5a3f21217570331755f002fb8ba9cbb5c2c4d2c10894e0b583ef559"
-    },
-    {
-      "path": "media/gun-complete-walkthrough/R06 sputter gun - complete narrated walkthrough.mp4",
-      "bytes": 49550985,
-      "sha256": "e6a535f0bb1f5ca43bdda1fa27c2a5eb183d8bce48927f915695e0abbfe5183a"
     },
     {
       "path": "media/gun-complete-walkthrough/R06 sputter gun - complete silent walkthrough.mp4",
@@ -6223,29 +3578,14 @@
       "sha256": "e5c415d3834efeeab81a2bca452eea2840a664966d31667ecea4a68bf18c5020"
     },
     {
-      "path": "media/gun-complete-walkthrough/README.md",
-      "bytes": 2827,
-      "sha256": "4eeab972b78a6ff1f08962f336a6464e44335634329b8cff9d08aeda8b925aed"
-    },
-    {
       "path": "media/gun-complete-walkthrough/clean-coax_layers-0.95.jpg",
       "bytes": 126806,
       "sha256": "341029ee39e6a76a5fe1d7cea18369aa1b83b616d66e98e7a4e8d9e53a57f13d"
     },
     {
-      "path": "media/gun-complete-walkthrough/coax-ground-explained.html",
-      "bytes": 9685,
-      "sha256": "7382f1ea1d75d428a6ebc09506f77af1988c19d87b844c961b0da3dbeeb05d70"
-    },
-    {
       "path": "media/gun-complete-walkthrough/component-coverage.json",
       "bytes": 50732,
       "sha256": "d39800146de7776b970b29df5c505323e784221e91f3dd0a90c5e41283a8e08c"
-    },
-    {
-      "path": "media/gun-complete-walkthrough/contact-sheet.jpg",
-      "bytes": 788229,
-      "sha256": "39c7babcd18e8e5b90542ae1f88abf11568a2ff851771ac766b9461f6490e1a4"
     },
     {
       "path": "media/gun-complete-walkthrough/encoded-27.jpg",
@@ -6268,89 +3608,14 @@
       "sha256": "3aea857c2c04204b6b72a5ad2bcbb578af817211770f631bbdc749ec56887dab"
     },
     {
-      "path": "media/gun-complete-walkthrough/verification.json",
-      "bytes": 385,
-      "sha256": "138754633a610594f093e034ede9d6371ddb14b02d7fe67eb56dd0bf731f2fb4"
-    },
-    {
-      "path": "media/gun-large-exploded/R06 gun - large assembled to exploded 4K.mp4",
-      "bytes": 16149418,
-      "sha256": "cabc5c0bbf9ed7b580af802fab769b684ea92cf89c0a0270187c0ccfd0ba2c62"
-    },
-    {
-      "path": "media/gun-large-exploded/provenance.json",
-      "bytes": 26882,
-      "sha256": "836b71a8fd34f41fc3fb9da67cf5d4786066c55fb865202a8a655b2eaea19927"
-    },
-    {
-      "path": "media/gun-large-exploded/verification.json",
-      "bytes": 195,
-      "sha256": "82fc1681fff8961eada08e0813856c2f5d7bc415d710672cfb290042c3e95a27"
-    },
-    {
-      "path": "media/gun-ordered-explosion/R06 gun - ordered axial explosion 4K.mp4",
-      "bytes": 7797045,
-      "sha256": "f25cd42092204dbc007acc86df0c8c709cf60b4439fffd7e45293d7b27533289"
-    },
-    {
-      "path": "media/gun-ordered-explosion/provenance.json",
-      "bytes": 20949,
-      "sha256": "6b1621e901ce30070de65a759148f75cd5b121c7bcf0ca8fec7adaa925dc6487"
-    },
-    {
-      "path": "media/gun-ordered-explosion/verification.json",
-      "bytes": 193,
-      "sha256": "530f9cc720604e2446a4a49b978b31ab8e173da9c9c1758c90b09f5c03b0ce15"
-    },
-    {
-      "path": "media/gun.mp4",
-      "bytes": 1066565,
-      "sha256": "364abc79a855afe44466a8957d95e263850eb393075709e52aada176033ee3ec"
-    },
-    {
       "path": "media/gun.png",
       "bytes": 465910,
       "sha256": "9c08e56db2f920cc42add46bcd6388d6c8480fed843a38a338925b7c87749cdc"
     },
     {
-      "path": "media/gun.srt",
-      "bytes": 1072,
-      "sha256": "a272baaa46373c47c2cfb4130c60b14fcaf60e3fdc296af59ecd59d7139af29a"
-    },
-    {
-      "path": "media/limits.mp4",
-      "bytes": 1150963,
-      "sha256": "ff6fe13bdcb4f73c647c72c284ec3e1ef9a4587cadbdd248c60dac5179972021"
-    },
-    {
-      "path": "media/limits.png",
-      "bytes": 468517,
-      "sha256": "2c4221b8e80df02e4c40775d1d81b187f988bba5d21901d2d10d04b9b3982b01"
-    },
-    {
-      "path": "media/limits.srt",
-      "bytes": 1032,
-      "sha256": "b1a9a55add17b72536494df388b09cae8c9392b0f27fc8dc425a2ee9c25f5acf"
-    },
-    {
-      "path": "media/magnetron.mp4",
-      "bytes": 1385863,
-      "sha256": "83a591eb2b9caf6547a5a8a6b821564f9ee54e56bcbb4c9bfa76d5733a3a9b8a"
-    },
-    {
       "path": "media/magnetron.png",
       "bytes": 459680,
       "sha256": "76602eaba9aeba52cbac794cb5e3c4e5f394ceb402555f17a0edb162e47d6576"
-    },
-    {
-      "path": "media/magnetron.srt",
-      "bytes": 964,
-      "sha256": "afac4edf1f56c5df4e409bd5e2ba66212a3b80839dc234b9b95c2e2bad586267"
-    },
-    {
-      "path": "media/provenance.json",
-      "bytes": 811,
-      "sha256": "7b5e9b2b88af208acdd57d06da3a1b16255c94f5453a3e757f8a4b1bb3e95230"
     },
     {
       "path": "media/r06-geometry-read.json",
@@ -6363,64 +3628,9 @@
       "sha256": "ae7e8f6a69395bc1f051a88d25d19cdfe451618a3c019d3b1a171945b3698997"
     },
     {
-      "path": "media/system-walkthrough/README.md",
-      "bytes": 1402,
-      "sha256": "7a18c9a5d9d66eff8ba37d6687dc8740c7ae1c9e0025ba1ee638a62a8d654bab"
-    },
-    {
-      "path": "media/system-walkthrough/Sputter system - silent CAD walkthrough.mp4",
-      "bytes": 5711684,
-      "sha256": "f9d91e783e9b535ea48f880f4d78e966d41c2685943f18ca99d07cc959fcb913"
-    },
-    {
-      "path": "media/system-walkthrough/contact-sheet.jpg",
-      "bytes": 130666,
-      "sha256": "6d9f7576e40dd61524d25d80f7b46e72d90e921bd4d7db7e437ca270316eb0f0"
-    },
-    {
-      "path": "media/system-walkthrough/encoded-contact-sheet.jpg",
-      "bytes": 138277,
-      "sha256": "3e834338bc921bccb9488f8294e0a6d6eb0fe8a22a7d375711f431342fffb584"
-    },
-    {
-      "path": "media/system-walkthrough/provenance.json",
-      "bytes": 2898,
-      "sha256": "d2a027e8d14000713d838d79dd3b6abcf07f575a66679f73b7b1d8b293124434"
-    },
-    {
-      "path": "media/system-walkthrough/verification.json",
-      "bytes": 229,
-      "sha256": "b930db34532f613a7952459f9e71d95c674acde326e726c89bd5e52cd01517c6"
-    },
-    {
-      "path": "media/system.mp4",
-      "bytes": 2686719,
-      "sha256": "0e51b729736a9eb91baa3f00a51ab0e7f6f41618c913c1f07a359143791cc6fd"
-    },
-    {
       "path": "media/system.png",
       "bytes": 434486,
       "sha256": "08f54bca2d2e3716f8e4d90e61e4eed10c10e651975948700921e76b4f9b9c78"
-    },
-    {
-      "path": "media/system.srt",
-      "bytes": 853,
-      "sha256": "b9c5b9e3c8c0f4736c5b80aadb579044c3826696f943a08d7151441faa045bea"
-    },
-    {
-      "path": "media/utilities.mp4",
-      "bytes": 3384170,
-      "sha256": "c5cf7ffd3fa3e96c4b560b1a1abebad1cd1000bf5b774600074fd49986dd268b"
-    },
-    {
-      "path": "media/utilities.png",
-      "bytes": 435525,
-      "sha256": "57ace3ce9815ec35c0f9c6ff0ef917cf99924b4e6605e67565476a938082b48e"
-    },
-    {
-      "path": "media/utilities.srt",
-      "bytes": 1195,
-      "sha256": "d288adc8e21cf3343b21771d98efd7346c56c5a7daef1df72d6b588939978616"
     },
     {
       "path": "procurement/01-sputter-gun.cells.json",
@@ -6616,6 +3826,351 @@
       "path": "simulations/current-target-r06/racetrack.csv",
       "bytes": 14851,
       "sha256": "a729a38c177582f6915a58c8268a23107db28edb0f955907834c59791fdeccbc"
+    },
+    {
+      "path": "simulations/magnetic-model/Assessment results.json",
+      "bytes": 6125,
+      "sha256": "569cf5ea49b4776556bbc4887f44e58e80db1a39a7a0a3f1b40a17df9fd8c125"
+    },
+    {
+      "path": "simulations/magnetic-model/Field section.png",
+      "bytes": 319613,
+      "sha256": "1ff7173fbe45f1ea8536fdc302138a8b5b03e927608c0f0cde502ebfad5b6397"
+    },
+    {
+      "path": "simulations/magnetic-model/Field versus height.csv",
+      "bytes": 541,
+      "sha256": "d945712811d82da49368b4a3bf0906be7e7d0a91791598af09fbd441e7f638e2"
+    },
+    {
+      "path": "simulations/magnetic-model/Field versus height.png",
+      "bytes": 78527,
+      "sha256": "b5a0cc573db9a9485f64ee8d626968281caf94efb23596dc4eb1eb4acbab32a8"
+    },
+    {
+      "path": "simulations/magnetic-model/README.md",
+      "bytes": 768,
+      "sha256": "b24104de515f4b6575bf9da7b0e3abd37a2c13eed66d3be89ddf199acc87d528"
+    },
+    {
+      "path": "simulations/magnetic-model/Racetrack field.csv",
+      "bytes": 16092,
+      "sha256": "b37043ffad0ac5a016bb1c8c46fc713fc4c9c8e690e569677bfbedeae4522453"
+    },
+    {
+      "path": "simulations/magnetic-model/Racetrack uniformity.png",
+      "bytes": 72208,
+      "sha256": "e1a819b338fc66dcf646afc3aca2a45dc84a96b1905ce13a57094f262585e2af"
+    },
+    {
+      "path": "simulations/magnetic-model/Simulation assessment.txt",
+      "bytes": 7756,
+      "sha256": "1185666e367ab11c6fc7186ce4d6be35bf22bc75a69100f9823f1156584922ec"
+    },
+    {
+      "path": "simulations/magnetic-model/Target field map.png",
+      "bytes": 151146,
+      "sha256": "17ec408f26bd0d28ed1cc4fd72d6e570e86708118e5f7bd4dd0feb1061b90db4"
+    },
+    {
+      "path": "simulations/magnetic-model/all-results.log",
+      "bytes": 12225,
+      "sha256": "f7e724aecb64b0fd6ea8deed1d0e85623f60852f07371e12bc68fbbdcbe47a07"
+    },
+    {
+      "path": "simulations/magnetic-model/analytic-check.log",
+      "bytes": 466,
+      "sha256": "8f23b5b01951bacb7ceee1960e7760ad0dc4431914350f264ee0435881e54ccc"
+    },
+    {
+      "path": "simulations/magnetic-model/analyze_field.py",
+      "bytes": 6728,
+      "sha256": "91288261f038ff501857abbddbee49cdeae5f702a4c20795e927975e320ec3b0"
+    },
+    {
+      "path": "simulations/magnetic-model/assessment-checks.log",
+      "bytes": 634,
+      "sha256": "4b82076189d937c0e84e24a54bf404c5740a1da7000729fb8a5f6d41ed5a9b8a"
+    },
+    {
+      "path": "simulations/magnetic-model/coarse-results.log",
+      "bytes": 2230,
+      "sha256": "08a251012069887a71a3a26487dbec3581843c15ff534a546cd7c4c48f2ab11c"
+    },
+    {
+      "path": "simulations/magnetic-model/coarse.msh",
+      "bytes": 10119081,
+      "sha256": "5c0b43576c6c56e241690ffbcea004a018a76d58844912691c96ee58347e4567"
+    },
+    {
+      "path": "simulations/magnetic-model/coarse_analytic_analytic_validation.json",
+      "bytes": 464,
+      "sha256": "e69ebcb4b4af1a83c4fcce332c43f2b14163a9fe6651f638b973e946a13bef8d"
+    },
+    {
+      "path": "simulations/magnetic-model/coarse_analytic_field.npz",
+      "bytes": 11761605,
+      "sha256": "6763455f0aa5f8f41d55ce9542cff5ad60bf5d8c6b92ad0636da92152d3dc3b6"
+    },
+    {
+      "path": "simulations/magnetic-model/coarse_analytic_solve.json",
+      "bytes": 1111,
+      "sha256": "cc4f2597f2acec053c7d002c9d0c0c5bcece9d190787efe540c8d114bc937204"
+    },
+    {
+      "path": "simulations/magnetic-model/coarse_mesh.json",
+      "bytes": 526,
+      "sha256": "9f6262a82e76acfa674d0f34450087ab3bbbcda0ab3264285afe2d3611239709"
+    },
+    {
+      "path": "simulations/magnetic-model/coarse_mesh.npz",
+      "bytes": 3291511,
+      "sha256": "2ad7332c967b4485170d5ec2c46925e1024c28fead0219924f2ee95bfe0bde59"
+    },
+    {
+      "path": "simulations/magnetic-model/coarse_nominal_field.npz",
+      "bytes": 11810869,
+      "sha256": "c153981e5136734f20598aa436c0f43e680a187d8c6ec1684c980142573c64f9"
+    },
+    {
+      "path": "simulations/magnetic-model/coarse_nominal_metrics.json",
+      "bytes": 2444,
+      "sha256": "c8cd1fb0afde507998705509bce92c5e2b3748aba786053f4604f99447e9ee10"
+    },
+    {
+      "path": "simulations/magnetic-model/coarse_nominal_samples.npz",
+      "bytes": 3979870,
+      "sha256": "1b80c1e5104fd5e0175341b1cd9cb3fb56c07a68057729df391a7388c6275d0e"
+    },
+    {
+      "path": "simulations/magnetic-model/coarse_steel-hard_field.npz",
+      "bytes": 11810102,
+      "sha256": "3101f5f132acc344f4d6ef9ba1d9c80e2d1e07f6c2a6a13d7a9049e334005f44"
+    },
+    {
+      "path": "simulations/magnetic-model/coarse_steel-hard_metrics.json",
+      "bytes": 2444,
+      "sha256": "53c72511f478a6415f471bb04aa9226aaa64d2e0bea0ffae096ff10539cc8581"
+    },
+    {
+      "path": "simulations/magnetic-model/coarse_steel-hard_samples.npz",
+      "bytes": 3980277,
+      "sha256": "cf36938b703f32ab883ccc13d752a845f907982b1e6fbb49047afda64fd03024"
+    },
+    {
+      "path": "simulations/magnetic-model/coarse_steel-hard_solve.json",
+      "bytes": 2202,
+      "sha256": "302af96b8117d841ef87dc8d3e332b30f8c21ebc60cbea50d92c8761161419dd"
+    },
+    {
+      "path": "simulations/magnetic-model/coarse_steel-soft_field.npz",
+      "bytes": 11811099,
+      "sha256": "a14c5eb8808d1f2e5ad126ad06b843aec75ed002f7101a94414248e797f701b0"
+    },
+    {
+      "path": "simulations/magnetic-model/coarse_steel-soft_metrics.json",
+      "bytes": 2448,
+      "sha256": "b0973ab0b1ff134bb616b71129ac10775dcaee4961a096a4fe7d98620c8f4aa7"
+    },
+    {
+      "path": "simulations/magnetic-model/coarse_steel-soft_samples.npz",
+      "bytes": 3980082,
+      "sha256": "bcf6a6f2feb3db24b11cfcbcd9cd815135f870c3824d640445259c684eb56557"
+    },
+    {
+      "path": "simulations/magnetic-model/coarse_steel-soft_solve.json",
+      "bytes": 2201,
+      "sha256": "e0d0731afe7b8d78c5ab1592069a7effb240aef046a318ae1a008ce691ea0cec"
+    },
+    {
+      "path": "simulations/magnetic-model/fieldlines.json",
+      "bytes": 465783,
+      "sha256": "bca8606717f2de139590115ad4daeb65b1461a80dff43075d6c24b8cfa8c750a"
+    },
+    {
+      "path": "simulations/magnetic-model/fine-analytic-check.log",
+      "bytes": 464,
+      "sha256": "6cfcf79d294940e0bd77a05d749df282c0e816b8bee6b8d6fb2750b04c6eec30"
+    },
+    {
+      "path": "simulations/magnetic-model/fine-results.log",
+      "bytes": 2224,
+      "sha256": "bfd15cfbc53039c96c47a1cde5f8a6a2bf5b5875ff2000cc6850197d9c87051c"
+    },
+    {
+      "path": "simulations/magnetic-model/fine.msh",
+      "bytes": 30441006,
+      "sha256": "1f7fac2211357c9fecffecc43c488ec1f261407a80e52b053d6a793abed70ad7"
+    },
+    {
+      "path": "simulations/magnetic-model/fine_analytic_analytic_validation.json",
+      "bytes": 462,
+      "sha256": "c12511e6e424282a8d7dd6ea7bc5995235fdaed17665d0d66a92f61c2f4e6b3a"
+    },
+    {
+      "path": "simulations/magnetic-model/fine_analytic_field.npz",
+      "bytes": 34853026,
+      "sha256": "6c7a028c2f72d5589a9b45bd0ad7aca970250717a4facd1e44ec74d8b2c2216a"
+    },
+    {
+      "path": "simulations/magnetic-model/fine_analytic_solve.json",
+      "bytes": 1109,
+      "sha256": "1717c4b7c235cdc19797fac6257e10a5dde86718667a5dba072df2b0340071ab"
+    },
+    {
+      "path": "simulations/magnetic-model/fine_mesh.json",
+      "bytes": 527,
+      "sha256": "762c20f1c9e2865ae1c555009fedce9a764abcf9b445f227b7d136fcf71ef218"
+    },
+    {
+      "path": "simulations/magnetic-model/fine_mesh.npz",
+      "bytes": 10231653,
+      "sha256": "cd1d5af2e803b9978fe1d8ac1bf2dffee5d0af1720b3fccbd10d1b283ef30ba8"
+    },
+    {
+      "path": "simulations/magnetic-model/fine_nominal_field.npz",
+      "bytes": 35001102,
+      "sha256": "169ab93bcdde9af201c4776c08418ccacdab1c710e12d7f527c65e7d60986e36"
+    },
+    {
+      "path": "simulations/magnetic-model/fine_nominal_metrics.json",
+      "bytes": 2438,
+      "sha256": "f051893a230f75239cca1c8b190685558e068a0bd3ad4978c6e3388d82a8ee48"
+    },
+    {
+      "path": "simulations/magnetic-model/fine_nominal_samples.npz",
+      "bytes": 3979999,
+      "sha256": "56f68351cc8b86fc50350eeddebf42dc15a4067d7be4d3f7caf5bde7435a01ca"
+    },
+    {
+      "path": "simulations/magnetic-model/fine_nominal_solve.json",
+      "bytes": 2199,
+      "sha256": "dc476e3213a47352a11a76d1e089cc36f5842ff1ec847ee5c548bf9fa6e9c1fe"
+    },
+    {
+      "path": "simulations/magnetic-model/make_assessment.py",
+      "bytes": 12021,
+      "sha256": "bc57808b9f71a765403c0f932345df2ae2b8dfe25d086ad29a21f8ef67b7be7e"
+    },
+    {
+      "path": "simulations/magnetic-model/make_mesh.py",
+      "bytes": 3878,
+      "sha256": "0d8f2d3c3541275ea76227c4854d479128669081c4fe972df853ef8705513107"
+    },
+    {
+      "path": "simulations/magnetic-model/mesh-coarse.log",
+      "bytes": 39978,
+      "sha256": "9e65cc781020558a78fb6ac337b4ada294dfde5e08ba9a0c5a00d86d9e3baac7"
+    },
+    {
+      "path": "simulations/magnetic-model/mesh-fine.log",
+      "bytes": 52113,
+      "sha256": "46ce020eca123bc3487d268c40211eb14aa7392cb1910a5516294ae2e9dfbf16"
+    },
+    {
+      "path": "simulations/magnetic-model/mesh-wide.log",
+      "bytes": 40347,
+      "sha256": "074cb9b98121355ff6016439470ef79deb21606501806bb84b66d0fc46856884"
+    },
+    {
+      "path": "simulations/magnetic-model/plot_data.npz",
+      "bytes": 12657085,
+      "sha256": "ee5a34998f26506c58eb40fab70231f548cebdb7663e54db9cbe401e7ad0bcc8"
+    },
+    {
+      "path": "simulations/magnetic-model/requirements.txt",
+      "bytes": 165,
+      "sha256": "3f777e57f1ab17a1d91c129288d7943411a52d0ac402485f428306b6e73f3837"
+    },
+    {
+      "path": "simulations/magnetic-model/solve-analytic.log",
+      "bytes": 317,
+      "sha256": "cafad0ddd3d1a66bb9a7215a1d1176d60c1b214650349e9a273a5b38a611144a"
+    },
+    {
+      "path": "simulations/magnetic-model/solve-coarse.log",
+      "bytes": 2854,
+      "sha256": "21c9cdfd5eabb38182ad338fe1dfbed6002f9569ff9a331be6574465dca31161"
+    },
+    {
+      "path": "simulations/magnetic-model/solve-fine-analytic.log",
+      "bytes": 312,
+      "sha256": "9384b10fca7a57e7d1de8dbf8be4ba221889bad0bfb96f47cb7e76cf49e80555"
+    },
+    {
+      "path": "simulations/magnetic-model/solve-fine.log",
+      "bytes": 1236,
+      "sha256": "1073e6e7d47d8acbb9c584ca951a775f90f0d0ae556a80a9c751ef745016c561"
+    },
+    {
+      "path": "simulations/magnetic-model/solve-steel-hard.log",
+      "bytes": 1264,
+      "sha256": "8fe8655477e82639671c82cea07024574c38efb8344069c1fa1d5bbaec5e9062"
+    },
+    {
+      "path": "simulations/magnetic-model/solve-steel-soft.log",
+      "bytes": 1264,
+      "sha256": "59ede370a01efecdc5fe5f987aa0f6197e1622980268d1966a65c7a764db4365"
+    },
+    {
+      "path": "simulations/magnetic-model/solve-wide.log",
+      "bytes": 1234,
+      "sha256": "e923bd007bf3682992f8f12d1d0657093f73c1fcd947e3eba91a7f6234e600d1"
+    },
+    {
+      "path": "simulations/magnetic-model/solve_field.py",
+      "bytes": 6114,
+      "sha256": "c98b88649117a6213b04be1f16886d7acb932be8f5160f7a0dcf47d7878cc046"
+    },
+    {
+      "path": "simulations/magnetic-model/target_thickness_sensitivity.json",
+      "bytes": 922,
+      "sha256": "48c24ba36d93f22ecd28d667fffd69b2ebdff8427bddcaf0c6539915dce14790"
+    },
+    {
+      "path": "simulations/magnetic-model/visual_field_grid.npz",
+      "bytes": 8839451,
+      "sha256": "cfb0a3c4a2426e440ce7349c594fdb61728cb9afde8bd398371b6fdfc85fa3b3"
+    },
+    {
+      "path": "simulations/magnetic-model/wide.msh",
+      "bytes": 11246462,
+      "sha256": "72ae5e198533fbe841c2cc8c7c4d6f75ea06b62d3720943ea09a09d600703168"
+    },
+    {
+      "path": "simulations/magnetic-model/wide_mesh.json",
+      "bytes": 525,
+      "sha256": "e5659740e7ae5a2405d9d8879d0a0bad87544308c232f46929ab0f28eb67dc71"
+    },
+    {
+      "path": "simulations/magnetic-model/wide_mesh.npz",
+      "bytes": 3669651,
+      "sha256": "5cc5459e5f1781369c9158cb67f3aeca81924b51d18d2874efadf3030431bd49"
+    },
+    {
+      "path": "simulations/magnetic-model/wide_nominal_field.npz",
+      "bytes": 13089065,
+      "sha256": "f1f8ea48a17e9f629143c192c7828a6ec6c4ffa2307ce5ad1d5e2da3bce99a0e"
+    },
+    {
+      "path": "simulations/magnetic-model/wide_nominal_metrics.json",
+      "bytes": 2441,
+      "sha256": "1f9b35332de2af1ec86d25bf0c7cb76fd6f258213aa5f4ac61175abcf3551e0b"
+    },
+    {
+      "path": "simulations/magnetic-model/wide_nominal_samples.npz",
+      "bytes": 3980297,
+      "sha256": "c17f37fce3a0c7dc56bd83e6b53057a93d40d8671f3e9d6ad05abe03e0e4ecf0"
+    },
+    {
+      "path": "simulations/magnetic-model/wide_nominal_solve.json",
+      "bytes": 2198,
+      "sha256": "2fd314e23127f82e1ec7e4a8aded0018453f25ebc6d9d0e16d7d56a62066e4ae"
+    },
+    {
+      "path": "simulations/magnetic-model/yoke.step",
+      "bytes": 45678,
+      "sha256": "4c0bdac842fb944cf81caf55d4a19dbff70c8cbe4a127076f7f175b89a0eac22"
     },
     {
       "path": "system-architecture-and-cad/README.md",
@@ -9924,8 +7479,8 @@
     },
     {
       "path": "system-architecture-and-cad/sources/README.md",
-      "bytes": 756,
-      "sha256": "39936551d06d792c0dfb164ec7ee269af13389a1aabdd47838b67a324e213811"
+      "bytes": 970,
+      "sha256": "4201651304297d2048adeff8ea87bd23c76853764d77bf637abc3c7d4b48276a"
     },
     {
       "path": "system-architecture-and-cad/sources/system-layout-r04/CAD verification.json",
@@ -10149,8 +7704,8 @@
     },
     {
       "path": "system-architecture-and-cad/sources/system-layout-r04/make_renderer.py",
-      "bytes": 8888,
-      "sha256": "2c74d74586278cc75606eccf0f186ac4963ed1727329c54fc6de8211c59f0b97"
+      "bytes": 8837,
+      "sha256": "4d8659c4e9a5f2829fd80a91a86af74c42dd4bbc9e8253978b276c894b338eab"
     },
     {
       "path": "system-architecture-and-cad/sources/system-layout-r04/mesh.bin",
@@ -10169,8 +7724,8 @@
     },
     {
       "path": "system-architecture-and-cad/sources/system-layout-r04/refine.py",
-      "bytes": 1248,
-      "sha256": "ed842bf440a15b54e939542b65f92af3f1549a70b6fb2e154b4a23b0491ecc02"
+      "bytes": 1197,
+      "sha256": "f2bcaed4dfdddd824ced1f884b1c60380b018abecf2d82cae4b61cdc0ae45947"
     },
     {
       "path": "system-architecture-and-cad/sources/system-layout-r04/refine_deposition_scene.py",
@@ -10184,8 +7739,8 @@
     },
     {
       "path": "system-architecture-and-cad/sources/system-layout-r04/render_main.py",
-      "bytes": 18659,
-      "sha256": "413f09793fee1561b55bd1961a7c89edf0e890bafebb16fa7d8fb6ec5639c5e7"
+      "bytes": 18608,
+      "sha256": "485ab5f59ba4531ec276e025652d050e8200e93dcc5ecad6f48e4c1ed7103804"
     },
     {
       "path": "system-architecture-and-cad/sources/system-layout-r04/update_integrator.py",
@@ -10194,8 +7749,8 @@
     },
     {
       "path": "system-architecture-and-cad/sources/system-layout-r04/verify_cad.py",
-      "bytes": 3520,
-      "sha256": "2bb6bc5c42689356b285dcb45bce2ab9f81619321e843b5f0e2bf83bab05e810"
+      "bytes": 3437,
+      "sha256": "76f0153bebe3236edf8e1e7d4b9ef36ae0770113460e58c95d10517a5aa3655c"
     },
     {
       "path": "system-architecture-and-cad/sources/system-layout-r04/verify_video_and_package.py",
@@ -10204,8 +7759,8 @@
     },
     {
       "path": "system-architecture-and-cad/sources/system-layout-r04/write_docs.py",
-      "bytes": 6639,
-      "sha256": "41caad8dde3891f7c42fa84cb3657002626a7e6f8e09fd946f560f8a50eeaf40"
+      "bytes": 6588,
+      "sha256": "655300e6a4eb698636137fb37f8c7dca83527cb8ec54c3c0f40b045402ea9596"
     },
     {
       "path": "system-architecture-and-cad/sources/target-clamp-r05/Aluminium target D50.8 x3.175.step",
@@ -10278,11 +7833,6 @@
       "sha256": "8f226b881ba6819833d41713b5fb9132f969830c2b0fc4c39d0f39a3ce949916"
     },
     {
-      "path": "system-architecture-and-cad/sources/target-clamp-r05/build_clamp_revision.py",
-      "bytes": 10453,
-      "sha256": "239c799454c7cd2820d68d8ea1349795a0f26b4d7fdf643c84d5c897924b5641"
-    },
-    {
       "path": "system-architecture-and-cad/sources/target-clamp-r05/check_viewport_r05.py",
       "bytes": 1338,
       "sha256": "5be2fa922372b28ddc29d230760d3b472f2e85a38f34976088bdf4053d050d05"
@@ -10293,14 +7843,9 @@
       "sha256": "58df8dc0536e83026baad48aee375a40822fea03c8961d294743debd767f23bf"
     },
     {
-      "path": "system-architecture-and-cad/sources/target-clamp-r05/inspect_profiles.py",
-      "bytes": 565,
-      "sha256": "23d70dd97b7f28cdfd9741ca1a2505ee778c32a3a051227f55d7de1ac44cb7fd"
-    },
-    {
       "path": "system-architecture-and-cad/sources/target-clamp-r05/inspect_screws.py",
-      "bytes": 428,
-      "sha256": "58b4f219534f2fe832d14f663d9226c30c4733f1d5888bd7d89192369eb1a71b"
+      "bytes": 421,
+      "sha256": "fe8a8ab05fed2247c08baeff1edb0f575b1043ba6ee4cc25407705bbe3694796"
     },
     {
       "path": "system-architecture-and-cad/sources/target-clamp-r05/mesh.bin",
@@ -10324,13 +7869,8 @@
     },
     {
       "path": "system-architecture-and-cad/sources/target-clamp-r05/render_clamp_review.py",
-      "bytes": 4524,
-      "sha256": "9fc29a027126a76bcfc12b725c6c2b94f4b2c156408706da6bb22cb97225e781"
-    },
-    {
-      "path": "system-architecture-and-cad/sources/target-clamp-r05/strengthen_engagement.py",
-      "bytes": 1262,
-      "sha256": "53f9e20e06d4693125980fd5e737b649cfcf3f1bf1a9b5149d095452ee60ebf5"
+      "bytes": 4517,
+      "sha256": "c6fa5bdba1b7d5c0e9a3b3ffb06c9a66cb2cb99f142df196fc623822832e314d"
     },
     {
       "path": "system-architecture-and-cad/sources/target-clamp-r05/verify_and_package.py",
@@ -10339,18 +7879,13 @@
     },
     {
       "path": "tools/build_assembly_walkthrough.py",
-      "bytes": 35208,
-      "sha256": "1d356d7d5751d583a4849eab510d544efaca0a8515602c725b5886a06beacc8f"
-    },
-    {
-      "path": "tools/build_current_media.py",
-      "bytes": 19022,
-      "sha256": "874ad0a2f9d99cb8c194c1bb5a232e2b39c9dd387b00d1020a2580f1feeb0ebb"
+      "bytes": 35205,
+      "sha256": "b6e7531edc1dba06f051173bcc07bc38dee9df73414fad93cf8062665cbe070c"
     },
     {
       "path": "tools/build_documentation.py",
-      "bytes": 7357,
-      "sha256": "e52c678495209bbc7fce1cf8659bf465c8a3a73442f92475eb809cd6652f6676"
+      "bytes": 7308,
+      "sha256": "4a439bb783b5067469cf99d5058a2b0c4bc402050ddff41dac0c8e070727dca4"
     },
     {
       "path": "tools/build_gun_walkthrough.py",
@@ -10369,13 +7904,13 @@
     },
     {
       "path": "tools/build_silent_walkthrough.py",
-      "bytes": 12964,
-      "sha256": "2050328e51e3a554ab437fef8fcfc779e3f4247b35b2a7c921b49f89286ab8f1"
+      "bytes": 12961,
+      "sha256": "dc0b38d1730e86b9beafc6ceeae4fc39579e77faf44d35c5bbba684326725c9e"
     },
     {
       "path": "tools/check_cad_media.py",
-      "bytes": 3304,
-      "sha256": "16fb1b7d6b03bb7e1bacf8f020452b4daa12888d00bd225c9b566079abd6f1ee"
+      "bytes": 2888,
+      "sha256": "e2498ffad1fc46dfffdc7a29d63566292df8dfd85db731c245e3e0760b1fe0dc"
     },
     {
       "path": "tools/export_procurement.py",
@@ -10409,13 +7944,18 @@
     },
     {
       "path": "tools/package_repository.py",
-      "bytes": 5068,
-      "sha256": "bee4f4f41b2ccfcaaf1a2c6dd1ab9c5e8d1de07d287bcd4fcaba222b43d50d19"
+      "bytes": 4639,
+      "sha256": "b954fe61cae86dcb49b1690fadba9f969b5d4ae6194e18b282d9423a689200d2"
+    },
+    {
+      "path": "tools/prepare_r06_mesh.py",
+      "bytes": 1401,
+      "sha256": "7be3bb436345f9f7a6035378d3923ce2d794833a497a9207b44638d0c7892988"
     },
     {
       "path": "tools/reassess_current_field.py",
-      "bytes": 4930,
-      "sha256": "dfada02c5e68974e84e7eb473e53296e330208a43d5466ee70d2674b42fc3232"
+      "bytes": 4881,
+      "sha256": "4f9c226de0806755fb3651a304665ba3e93b6ed4b360d0fd91e45a06516c996c"
     },
     {
       "path": "tools/render_full_chamber.py",
@@ -10434,8 +7974,8 @@
     },
     {
       "path": "tools/templates/README.md",
-      "bytes": 6628,
-      "sha256": "09143bd36a158e9ab170cd0e9f42304eb30b18b995b642c609a533b1e48d8c1e"
+      "bytes": 6932,
+      "sha256": "241d45d6c61faaf422fc244108a802cdb50e19fbbc964691ff4b5e3179e39e5b"
     },
     {
       "path": "tools/templates/current-design.md",
@@ -10464,18 +8004,18 @@
     },
     {
       "path": "tools/templates/reproducibility.md",
-      "bytes": 5348,
-      "sha256": "f91476c65037965e1b62fcc44e61a25337c51e3fbd29c1c73aebadc4e01d3c13"
+      "bytes": 5122,
+      "sha256": "c6838f3125428b396cdf77149bf979035b533c1c6940d1fadd8a662a971eaf4e"
     },
     {
       "path": "tools/templates/simulations.md",
-      "bytes": 5341,
-      "sha256": "49a10fd77a87febc9accb9cd811b536995932956aa240dce3686684d7cae8e79"
+      "bytes": 5096,
+      "sha256": "43e0ac5d9605132df20fb62f26a28ceacc2919cc7d7a5a539e6a48bff78dbd93"
     },
     {
       "path": "tools/templates/sources.md",
-      "bytes": 3592,
-      "sha256": "81ca19aeaa96973cabffb1a108e03ca3e3f00e896149ba030c300dde41357da2"
+      "bytes": 3626,
+      "sha256": "73212c45d167b04b1235c6bf1cae52542b10a3f2b48556cdb6df248dcb9c47e4"
     },
     {
       "path": "tools/templates/verification.md",
@@ -10484,13 +8024,13 @@
     },
     {
       "path": "tools/validate_repository.py",
-      "bytes": 4474,
-      "sha256": "46bc301bb7d122b09a95eb409be39502943d4c3eedad94b21764f35df5f7a63c"
+      "bytes": 4626,
+      "sha256": "45b908551c77c70aa632cb3a4d912961536bd17ad6f994d7a0795aa04ad8bc48"
     },
     {
       "path": "validation/README.md",
-      "bytes": 1263,
-      "sha256": "d96ebb1504c50b86a47a70dbe367a6cecd6dc38424dcef9857d6e1bc3b7ced34"
+      "bytes": 1268,
+      "sha256": "ee8065d743b6a00c44294993e564a82c68c42b5a1f83951506645dcaf0bbe2f6"
     },
     {
       "path": "validation/ext70-performance.png",

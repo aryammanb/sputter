@@ -12,7 +12,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 ROOT = Path(__file__).resolve().parents[1]
-SRC = ROOT / 'advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation'
+SRC = ROOT / 'simulations/magnetic-model'
 OUT = ROOT / 'simulations/current-target-r06'
 
 def ring(field, z):

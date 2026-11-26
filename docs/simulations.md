@@ -25,7 +25,7 @@ The scalar-potential FEM assumes 13 contiguous magnet cylinders representing 26 
 
 The original 2 mm target assessment calculated about 95.1 mT mean parallel field at 0.25 mm above its face, with about 19.99 mm mean normal-field zero-contour radius. This result belongs to that target plane. The reported final residual and mesh checks measure numerical solution behavior, not agreement with the physical assembly.
 
-Read [full original assessment](../advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/Simulation%20assessment.txt), [numerical results](../advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/Assessment%20results.json), [mesh script](../advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/make_mesh.py), [solver](../advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/solve_field.py) and [analysis](../advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/analyze_field.py). The repository retains native `.msh`, compressed mesh arrays, solved `.npz` fields, coarse/wide/steel cases and logs for inspection and rerun.
+Read [full original assessment](../simulations/magnetic-model/Simulation%20assessment.txt), [numerical results](../simulations/magnetic-model/Assessment%20results.json), [mesh script](../simulations/magnetic-model/make_mesh.py), [solver](../simulations/magnetic-model/solve_field.py) and [analysis](../simulations/magnetic-model/analyze_field.py). The repository retains native `.msh`, compressed mesh arrays, solved `.npz` fields, coarse/wide/steel cases and logs for inspection and rerun.
 
 ## Current target plane
 

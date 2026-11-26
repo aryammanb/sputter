@@ -1,0 +1,165 @@
+{
+  "assessment": "Positive magnetic-strength screening; not a plasma-operation or balanced-topology certification.",
+  "nominal_geometry": "12 outer D6x20 stacks on PCD58; centerD20x20; exact proposed steel yoke; targetD50.8x2; pole tips2.5mm behind seat,4.5mm behind front face.",
+  "field_results": {
+    "name": "fine_nominal",
+    "sampling_height_above_target_mm": 0.25,
+    "racetrack_Bz_zero": {
+      "angles_with_crossing": 360,
+      "radius_mean_mm": 19.99034012518525,
+      "radius_min_mm": 19.734939776263147,
+      "radius_max_mm": 20.253132617214224,
+      "Bparallel_mean_mT": 95.06391041531468,
+      "Bparallel_min_mT": 89.48845188572645,
+      "Bparallel_max_mT": 99.53811443539573,
+      "peak_to_peak_over_mean_percent": 10.571480287066219,
+      "target_edge_margin_min_mm": 5.146867382785775,
+      "fraction_above_20mT": 1.0
+    },
+    "radial_peak_Bparallel_mean_mT": 192.09955184572834,
+    "height_scan": {
+      "above_target_mm": [
+        0.25,
+        1.0,
+        2.0,
+        3.0,
+        5.0,
+        8.0,
+        10.0,
+        15.0,
+        20.0,
+        30.0,
+        40.0
+      ],
+      "Bparallel_mean_mT": [
+        95.09805526621221,
+        90.29086864508997,
+        83.3832210858041,
+        76.19196709721093,
+        63.16421105299429,
+        46.87025896941496,
+        38.19957502214617,
+        22.66099220605058,
+        12.518920809571283,
+        4.886705459340789,
+        2.578199985882835
+      ],
+      "Bparallel_min_mT": [
+        90.52067461767007,
+        87.2519147636464,
+        80.92108469813289,
+        74.38368189613084,
+        60.9587113987738,
+        45.281059507107074,
+        37.1311914662298,
+        21.837501793072274,
+        11.319818444421239,
+        4.197569957053411,
+        2.2072269079059836
+      ]
+    },
+    "axis_Bz_sign_change_height_mm": [],
+    "flux_at_z2p25": {
+      "25.4": {
+        "positive_Wb": 0.00013010136272740576,
+        "negative_Wb": 1.688271003842014e-05,
+        "negative_to_positive": 0.12976582016126575
+      },
+      "40": {
+        "positive_Wb": 0.00013010352660315508,
+        "negative_Wb": 0.00012579389598344978,
+        "negative_to_positive": 0.9668753743097938
+      }
+    },
+    "yoke": {
+      "B_max_T": 1.4218240827624744,
+      "B_volume_weighted_mean_T": 0.30410787419504176,
+      "B_p99_T": 1.1248640470699545
+    },
+    "electron_gyroradius_mm_at_weakest_track_field": {
+      "5": 0.0842601651896012,
+      "10": 0.11916186837893136,
+      "20": 0.1685203303792024,
+      "100": 0.3768229143186194
+    },
+    "electron_cyclotron_frequency_GHz_min": 2.505004579692064,
+    "balance_classification": "Not certified. Surface racetrack, field strength and near-target magnetization assessed; no universal balance coefficient or pole-face flux claim is made. Axis scan is domain limited."
+  },
+  "numerical_verification": {
+    "nonlinear_residual": 1.6765157549820429e-10,
+    "mesh_mean_change_percent": 0.43808316559329785,
+    "mesh_minimum_change_percent": 0.1696607073161015,
+    "domain_and_remesh_mean_change_percent": 0.10940531737118983,
+    "analytical_free_space_vector_relative_L2_error_percent": 2.3294949476813454,
+    "analytical_free_space_pointwise_p95_error_percent": 3.674937439271215,
+    "steel_H_half_mean_change_percent": 0.004947036294122853,
+    "steel_H_double_mean_change_percent": -0.009868403267732084,
+    "target_ring_continuity_angles": 360,
+    "weakest_ring_Bparallel_mT": 89.48845188572645,
+    "numerical_checks_passed": true
+  },
+  "mesh": {
+    "name": "fine",
+    "near_size_mm": 1.2,
+    "outer_boundary_halfwidth_mm": 80.0,
+    "vertices": 114336,
+    "tetrahedra": 708128,
+    "material_tetrahedra": {
+      "1": 576801,
+      "2": 96538,
+      "3": 14524,
+      "4": 20265
+    },
+    "seconds": 31.041008700150996,
+    "geometry": "Exact proposed yoke STEP;13 contiguous magnet cylinders representing26 stacked discs; nonmagnetic target D50.8x2. CAD Y -> simulation Z. Nonmagnetic copper/water/insulation have mu_r=1 and are magnetostatically part of surrounding domain."
+  },
+  "target_thickness_sensitivity": [
+    {
+      "target_thickness_mm": 1,
+      "pole_tip_to_front_face_mm": 3.5,
+      "track_mean_Bparallel_mT": 104.15664079002134,
+      "track_min_Bparallel_mT": 99.94005271960965,
+      "track_radius_mean_mm": 19.773823128210537
+    },
+    {
+      "target_thickness_mm": 2,
+      "pole_tip_to_front_face_mm": 4.5,
+      "track_mean_Bparallel_mT": 95.06957902542987,
+      "track_min_Bparallel_mT": 89.49462319586286,
+      "track_radius_mean_mm": 19.990432130430722
+    },
+    {
+      "target_thickness_mm": 3,
+      "pole_tip_to_front_face_mm": 5.5,
+      "track_mean_Bparallel_mT": 87.73277797067804,
+      "track_min_Bparallel_mT": 84.22071323860614,
+      "track_radius_mean_mm": 20.16069187062944
+    },
+    {
+      "target_thickness_mm": 5,
+      "pole_tip_to_front_face_mm": 7.5,
+      "track_mean_Bparallel_mT": 71.43976738237428,
+      "track_min_Bparallel_mT": 69.14349860590104,
+      "track_radius_mean_mm": 20.59278301984053
+    }
+  ],
+  "assumptions": {
+    "magnet_Br_T": 1.3,
+    "magnet_recoil_mu_r": 1.05,
+    "temperature_C": 20,
+    "target": "D50.8x2 nonmagnetic, mu_r=1",
+    "steel": "CERN reference AISI1010 curve; not specified actual yoke material",
+    "steel_H_scale": 1.0,
+    "outer_boundary": "scalar potential zero at air-box boundary",
+    "potential_units": "T mm; u=mu0*phi",
+    "equation": "Integral(mu_r grad u dot grad v)=Integral(Br dot grad v)",
+    "coordinate_transform": "simulation(x,y,z)=CAD(x,-z,y)"
+  },
+  "limitations": [
+    "Actual yoke material and N42 magnet curves not supplied.",
+    "No plasma sheath, RF voltage waveform, collision kinetics or space-charge solve.",
+    "No density, confinement time, ignition pressure, erosion rate or coating-uniformity prediction.",
+    "Balanced topology not established by equal magnet areas or by a local closed racetrack.",
+    "No experimental Hall-probe validation."
+  ]
+}

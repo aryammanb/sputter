@@ -1,6 +1,6 @@
 # Sources, attribution and rights
 
-The project builds on a reconstruction and subsequent changes to an Advanced Tinkering magnetron concept. The historical source workspace, design notes, change registers and authoring scripts preserve that lineage. This snapshot does not assert ownership of the original design or assign an open-source license.
+The project builds on a reconstruction and subsequent changes to an Advanced Tinkering magnetron concept. The original reconstruction workspace is not bundled; the external build references and retained current design records document that lineage. This snapshot does not assert ownership of the original design or assign an open-source license.
 
 Supplier CAD, manuals, catalogs and drawings remain third-party reference materials. Their inclusion in this private engineering record does not grant redistribution rights. Review permissions and replace restricted references with links before making the repository public. The original downloaded source video, browser profiles and cached third-party media are not included.
 

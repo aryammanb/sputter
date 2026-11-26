@@ -179,7 +179,7 @@ def frame(i,u):
  if view=='viewport':cam.ParallelProjectionOff();cam.SetPosition(0,-400,20);cam.SetFocalPoint(0,0,136);cam.SetViewAngle(35);r.ResetCameraClippingRange()
  win.Render();capture.Modified();capture.Update();arr=vtk_to_numpy(capture.GetOutput().GetPointData().GetScalars()).reshape(VH,VW,3)
  if ch['title']=='Magnetic circuit and calculated field' and u>.35:
-  field=Image.open(P.parents[2]/'advanced-tinkering-original'/'balanced-twelve-stack-study'/'magnetic-simulation'/'Target field map.png').convert('RGB');field.thumbnail((VW,VH));bg=Image.new('RGB',(VW,VH),'#101a29');bg.paste(field,((VW-field.width)//2,(VH-field.height)//2));arr=np.flipud(np.array(bg))
+  field=Image.open(P.parents[2]/'simulations'/'magnetic-model'/'Target field map.png').convert('RGB');field.thumbnail((VW,VH));bg=Image.new('RGB',(VW,VH),'#101a29');bg.paste(field,((VW-field.width)//2,(VH-field.height)//2));arr=np.flipud(np.array(bg))
  im=Image.new('RGB',(W,H),'#101a29');im.paste(Image.fromarray(np.flipud(arr)),(0,85));d=ImageDraw.Draw(im)
  d.text((25,18),ch['title'],font=TITLE,fill='#eef5fb');d.rectangle((1080,85,1600,775),fill='#152333');d.text((1110,115),'SYSTEM DESIGN',font=LABEL,fill='#7bddc8');y=168
  for fact in ch['facts']:

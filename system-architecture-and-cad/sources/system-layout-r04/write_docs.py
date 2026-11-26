@@ -100,7 +100,7 @@ The delivered STEP assemblies are standalone; scripts require the project tree.
 '''
 (P/'README.txt').write_text(text,encoding='utf-8')
 shutil.copy2(P/'preview-16.png',P/'Viewport sightline checked.png')
-S=P/'Magnetic assessment';S.mkdir(exist_ok=True);B=P.parents[2]/'advanced-tinkering-original'/'balanced-twelve-stack-study'/'magnetic-simulation'
+S=P/'Magnetic assessment';S.mkdir(exist_ok=True);B=P.parents[2]/'simulations'/'magnetic-model'
 for n in ['Simulation assessment.txt','Assessment results.json','fine_nominal_metrics.json','Target field map.png','Field section.png']:shutil.copy2(B/n,S/n)
 with (P/'Purchased component references.csv').open('a',newline='',encoding='utf-8-sig') as f:
  w=csv.writer(f);w.writerow(['Turbo cooler hose','Edwards manual: approximately6mm ID reinforced hose','https://www.idealvac.com/files/manualsII/Edwards_EXT_70_250_Turbo_Pump_Manual.pdf','OD9/ID6 is nominal reference; clips/adapters pending'])

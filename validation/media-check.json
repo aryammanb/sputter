@@ -1,38 +1,32 @@
 {
   "passed": true,
-  "method": "FFmpeg stream inspection, complete video/audio decode, audio volume check; rendered stills visually reviewed. No physical hardware footage claimed.",
+  "method": "FFmpeg stream inspection and complete decode of the three selected corrected silent walkthroughs. No new videos rendered.",
   "videos": [
     {
-      "file": "media/01-current-system.mp4",
-      "sha256": "a435f9fc91d24664d6a0766e68b258a585708d77a54c5945c2de94458de3752f",
-      "duration": "00:02:34.30",
+      "file": "media/assembly-walkthrough/Sputter R06 - silent 4 minute walkthrough v2.mp4",
+      "sha256": "1799df1d3d601db7fc6fa4fb3afdfc8404154c9a39fd13e9b45aa775eba4e1d7",
+      "duration": "00:03:59.62",
       "video": "H.264",
-      "audio": "AAC",
-      "subtitles": "mov_text English",
-      "full_video_audio_decode_exit_code": 0,
-      "mean_audio_volume_dB": -20.1,
+      "audio": false,
+      "full_video_decode_exit_code": 0,
       "decoder_warnings": ""
     },
     {
-      "file": "media/02-current-gun.mp4",
-      "sha256": "9b677de65a15312b781c879dff3fd86a517d7ae85c1882b5d938dab17d5a1aac",
-      "duration": "00:02:40.80",
+      "file": "media/gun-complete-walkthrough/R06 sputter gun - slower compact walkthrough.mp4",
+      "sha256": "e5c415d3834efeeab81a2bca452eea2840a664966d31667ecea4a68bf18c5020",
+      "duration": "00:03:53.40",
       "video": "H.264",
-      "audio": "AAC",
-      "subtitles": "mov_text English",
-      "full_video_audio_decode_exit_code": 0,
-      "mean_audio_volume_dB": -19.8,
+      "audio": false,
+      "full_video_decode_exit_code": 0,
       "decoder_warnings": ""
     },
     {
-      "file": "media/03-current-field-and-evidence.mp4",
-      "sha256": "e00a59e2b925e93d4cc66297cbcd3c9075e8970743a150b475b2402c58496acf",
-      "duration": "00:01:55.55",
+      "file": "media/gun-complete-walkthrough/R06 sputter gun - complete silent walkthrough.mp4",
+      "sha256": "da4b8dd7d4d46d0ee3084f7ba90926fb8b00398c822e5accc06ba48c1e528de8",
+      "duration": "00:17:46.88",
       "video": "H.264",
-      "audio": "AAC",
-      "subtitles": "mov_text English",
-      "full_video_audio_decode_exit_code": 0,
-      "mean_audio_volume_dB": -19.8,
+      "audio": false,
+      "full_video_decode_exit_code": 0,
       "decoder_warnings": ""
     }
   ]

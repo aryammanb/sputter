@@ -3,7 +3,7 @@ import cadquery as cq,numpy as np,vtk,json,math
 from vtk.util.numpy_support import numpy_to_vtk,numpy_to_vtkIdTypeArray,vtk_to_numpy
 from PIL import Image,ImageDraw,ImageFont
 P=Path(__file__).resolve().parent;ROOT=P.parents[2]
-s=cq.importers.importStep(str(P/'Target clamp R05 - 3.175mm target.step')).val();t=cq.importers.importStep(str(P/'Aluminium target D50.8 x3.175.step')).val();c=cq.importers.importStep(str(ROOT/'advanced-tinkering-original/balanced-twelve-stack-study/Proposed cooler.step')).val()
+s=cq.importers.importStep(str(P/'Target clamp R05 - 3.175mm target.step')).val();t=cq.importers.importStep(str(P/'Aluminium target D50.8 x3.175.step')).val();c=cq.importers.importStep(str(ROOT/'system-architecture-and-cad/models/STEP parts/034 Gun 035 cooler.step')).val()
 W,H=1600,1000;im=Image.new('RGB',(W,H),'#101c2b');d=ImageDraw.Draw(im);ft=lambda n,b=False:ImageFont.truetype('C:/Windows/Fonts/'+('segoeuib.ttf' if b else 'segoeui.ttf'),n)
 d.text((36,20),'Target clamp R05 - 3.175 mm aluminium target',font=ft(31,True),fill='#edf4fa')
 win=vtk.vtkRenderWindow();win.SetOffScreenRendering(1);win.SetSize(760,650);win.SetMultiSamples(0);r=vtk.vtkRenderer();r.SetBackground(.055,.09,.14);win.AddRenderer(r)

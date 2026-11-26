@@ -13,7 +13,7 @@ def link(label,path,depth=1):return f'[{label}]('+('../'*depth)+quote(path,safe=
 R06='system-architecture-and-cad/models/'
 R05='system-architecture-and-cad/sources/target-clamp-r05/'
 R04='system-architecture-and-cad/sources/system-layout-r04/'
-SIM='advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/'
+SIM='simulations/magnetic-model/'
 
 def main():
     # Export exact instance metadata; legacy source names are retained as provenance.

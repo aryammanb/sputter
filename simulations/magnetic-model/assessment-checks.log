@@ -1,0 +1,13 @@
+{
+  "nonlinear_residual": 1.6765157549820429e-10,
+  "mesh_mean_change_percent": 0.43808316559329785,
+  "mesh_minimum_change_percent": 0.1696607073161015,
+  "domain_and_remesh_mean_change_percent": 0.10940531737118983,
+  "analytical_free_space_vector_relative_L2_error_percent": 2.3294949476813454,
+  "analytical_free_space_pointwise_p95_error_percent": 3.674937439271215,
+  "steel_H_half_mean_change_percent": 0.004947036294122853,
+  "steel_H_double_mean_change_percent": -0.009868403267732084,
+  "target_ring_continuity_angles": 360,
+  "weakest_ring_Bparallel_mT": 89.48845188572645,
+  "numerical_checks_passed": true
+}

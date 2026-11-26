@@ -39,10 +39,12 @@ def main():
     if len(report['sheets'])!=13:errors.append('Unexpected workbook tab count')
     for r in manifest['files']:
         if any(x in Path(r['path']).parts for x in ['node_modules','browser-profile','browser-check','.env']):errors.append('Unexpected local/private cache '+r['path'])
-    provenance=json.loads((ROOT/'media/provenance.json').read_text())
+    provenance=json.loads((ROOT/'design/current-render-assets.json').read_text())
     if hashlib.sha256((ROOT/provenance['source_step']).read_bytes()).hexdigest()!=provenance['source_sha256']:errors.append('Media source STEP mismatch')
+    for asset in provenance['files']:
+        if hashlib.sha256((ROOT/asset['path']).read_bytes()).hexdigest()!=asset['sha256']:errors.append('Current render hash mismatch '+asset['path'])
     field=json.loads((ROOT/'simulations/current-target-r06/assessment.json').read_text())
-    fieldfile=ROOT/'advanced-tinkering-original/balanced-twelve-stack-study/magnetic-simulation/fine_nominal_field.npz'
+    fieldfile=ROOT/'simulations/magnetic-model/fine_nominal_field.npz'
     if hashlib.sha256(fieldfile.read_bytes()).hexdigest()!=field['field_sha256']:errors.append('Current field source hash mismatch')
     for reportfile in ['media-check.json','cad-check.json']:
         p=ROOT/'validation'/reportfile

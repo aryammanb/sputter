@@ -1,0 +1,69 @@
+{
+  "mesh": "fine",
+  "case": "nominal",
+  "vertices": 114336,
+  "tetrahedra": 708128,
+  "converged": true,
+  "history": [
+    {
+      "iteration": 1,
+      "linear_iterations": 22,
+      "linear_residual": 1.215866631246216e-09,
+      "nonlinear_residual_before": 1.0,
+      "nonlinear_residual_after": 0.12401553716209858,
+      "line_search_alpha": 1.0
+    },
+    {
+      "iteration": 2,
+      "linear_iterations": 21,
+      "linear_residual": 1.0244040733622797e-09,
+      "nonlinear_residual_before": 0.12401553716209858,
+      "nonlinear_residual_after": 0.024836112915103296,
+      "line_search_alpha": 1.0
+    },
+    {
+      "iteration": 3,
+      "linear_iterations": 20,
+      "linear_residual": 1.493257027116896e-09,
+      "nonlinear_residual_before": 0.024836112915103296,
+      "nonlinear_residual_after": 0.0017895506892201915,
+      "line_search_alpha": 1.0
+    },
+    {
+      "iteration": 4,
+      "linear_iterations": 20,
+      "linear_residual": 1.0264231206472323e-09,
+      "nonlinear_residual_before": 0.0017895506892201915,
+      "nonlinear_residual_after": 1.1731557299303607e-05,
+      "line_search_alpha": 1.0
+    },
+    {
+      "iteration": 5,
+      "linear_iterations": 19,
+      "linear_residual": 9.991830088141198e-10,
+      "nonlinear_residual_before": 1.1731557299303607e-05,
+      "nonlinear_residual_after": 1.6765157549820429e-10,
+      "line_search_alpha": 1.0
+    }
+  ],
+  "seconds": 75.79654389992356,
+  "material_volumes_mm3": {
+    "1": 4046844.621633416,
+    "2": 36232.985342080676,
+    "3": 6271.947783601298,
+    "4": 6650.44524090207
+  },
+  "assumptions": {
+    "magnet_Br_T": 1.3,
+    "magnet_recoil_mu_r": 1.05,
+    "temperature_C": 20,
+    "target": "D50.8x2 nonmagnetic, mu_r=1",
+    "steel": "CERN reference AISI1010 curve; not specified actual yoke material",
+    "steel_H_scale": 1.0,
+    "outer_boundary": "scalar potential zero at air-box boundary",
+    "potential_units": "T mm; u=mu0*phi",
+    "equation": "Integral(mu_r grad u dot grad v)=Integral(Br dot grad v)",
+    "coordinate_transform": "simulation(x,y,z)=CAD(x,-z,y)"
+  },
+  "steel_B_volume_percent_above_1p5T": 0.0
+}

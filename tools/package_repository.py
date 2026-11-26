@@ -7,7 +7,7 @@ from pathlib import Path
 import hashlib, json, shutil
 
 ROOT=Path(__file__).resolve().parents[1]
-ROOTS=['system-architecture-and-cad','advanced-tinkering-original','archive']
+ROOTS=['system-architecture-and-cad','archive']
 EXT={'.py','.ps1','.csv','.json','.txt','.md','.step','.sldprt','.sldasm','.slddrw','.stl','.dxf','.npz','.msh','.log','.pdf','.svg','.html','.srt','.ffmeta','.ffmetadata','.bin'}
 SKIP={'node_modules','.git','__pycache__','browser-profile','browser-check','video','tools'}
 ZIP_NAMES={'Coolant fittings R06 - SolidWorks CAD package.zip','CB01 supplier handoff.zip','Stage and shutter - local fabrication.zip'}
@@ -29,16 +29,9 @@ def selected(path):
     return True
 
 def media_payload(path):
-    rel = path.relative_to(ROOT/'media')
-    selected_assets = ROOT/'design/current-render-assets.json'
-    if selected_assets.exists() and path.relative_to(ROOT).as_posix() in json.loads(selected_assets.read_text())['images']:
-        return True
-    if 'render' in rel.parts:
-        return False
-    # Retain finished exports, scripts' metadata and contact sheets, not frame QA.
-    if path.suffix.lower() in {'.jpg', '.png'} and len(rel.parts) > 1:
-        return 'contact-sheet' in path.name or path.name == '8x-qa.jpg'
-    return path.suffix.lower() not in {'.wav', '.tmp'}
+    selection=json.loads((ROOT/'design/current-render-assets.json').read_text())
+    allowed=set(selection['images']+selection['videos']+selection.get('support_files',[])+['media/README.md'])
+    return path.relative_to(ROOT).as_posix() in allowed
 
 
 def main():
